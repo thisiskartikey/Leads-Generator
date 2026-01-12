@@ -222,24 +222,30 @@ class JobRadar:
             job.update(analysis_results)
             
             # Extract job title from analysis if available and title is N/A
-            if job.get('title') == 'N/A' or not job.get('title'):
-                # Try to get from ai_analysis first, then sustainability_analysis
-                extracted_title = (job.get('ai_analysis', {}).get('extracted_title') or 
-                                 job.get('sustainability_analysis', {}).get('extracted_title'))
-                if extracted_title:
-                    job['title'] = extracted_title
-                    logger.info(f"Extracted title from analysis: {extracted_title}")
-                # Fallback to search title from Google search results
-                elif job.get('search_title'):
-                    job['title'] = job['search_title']
-                    logger.info(f"Using search title: {job['search_title']}")
-                # Fallback to search snippet title (first line usually contains title)
+            if job.get('title') == 'N/A' or not job.get('title') or job.get('title').strip() == '':
+                # Priority 1: Use search title from Google search results (most reliable)
+                if job.get('search_title') and job.get('search_title') != 'N/A' and job.get('search_title').strip():
+                    job['title'] = job['search_title'].strip()
+                    logger.info(f"Using search title: {job['title']}")
+                # Priority 2: Try to get from Claude analysis (extracted_title)
+                elif job.get('ai_analysis', {}).get('extracted_title'):
+                    job['title'] = job['ai_analysis']['extracted_title']
+                    logger.info(f"Extracted title from AI analysis: {job['title']}")
+                elif job.get('sustainability_analysis', {}).get('extracted_title'):
+                    job['title'] = job['sustainability_analysis']['extracted_title']
+                    logger.info(f"Extracted title from sustainability analysis: {job['title']}")
+                # Priority 3: Fallback to search snippet title (first line usually contains title)
                 elif job.get('search_snippet'):
                     snippet = job['search_snippet']
                     # Try to extract title from snippet (usually first line before period/dash)
-                    title_part = snippet.split('.')[0].split('—')[0].split('|')[0].strip()
-                    if title_part and len(title_part) < 100:  # Reasonable title length
+                    title_part = snippet.split('.')[0].split('—')[0].split('|')[0].split('\n')[0].strip()
+                    if title_part and len(title_part) < 100 and len(title_part) > 3:  # Reasonable title length
                         job['title'] = title_part
+                        logger.info(f"Extracted title from snippet: {job['title']}")
+                # Final fallback: use 'N/A'
+                if not job.get('title') or job.get('title').strip() == '':
+                    job['title'] = 'N/A'
+                    logger.warning(f"Could not extract title for job at {job.get('url', 'unknown URL')}")
 
             # Generate unique job ID
             job['job_id'] = generate_job_id(job['url'], job['title'], job['company'])

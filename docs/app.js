@@ -71,33 +71,32 @@ async function loadJobData() {
 function processAndDisplayJobs(data) {
     const jobs = data.jobs;
 
-    // Categorize jobs into AI vs Sustainability
-    const aiJobs = [];
-    const sustainabilityJobs = [];
-
-    jobs.forEach(job => {
+    // Categorize jobs and calculate fit scores
+    const allJobs = jobs.map(job => {
         const aiScore = job.ai_analysis?.fit_score || 0;
         const susScore = job.sustainability_analysis?.fit_score || 0;
-
+        
         // Assign to category with higher fit score
-        if (aiScore >= susScore && aiScore > 0) {
-            aiJobs.push({ ...job, primary_path: 'ai', fit_score: aiScore });
-        } else if (susScore > 0) {
-            sustainabilityJobs.push({ ...job, primary_path: 'sustainability', fit_score: susScore });
+        if (susScore > aiScore && susScore > 0) {
+            return { ...job, primary_path: 'sustainability', fit_score: susScore };
+        } else if (aiScore > 0) {
+            return { ...job, primary_path: 'ai', fit_score: aiScore };
+        } else {
+            // If no scores, default to AI
+            return { ...job, primary_path: 'ai', fit_score: 0 };
         }
     });
 
-    // Sort by fit score (highest first)
-    aiJobs.sort((a, b) => b.fit_score - a.fit_score);
-    sustainabilityJobs.sort((a, b) => b.fit_score - a.fit_score);
+    // Sort ALL jobs by fit score (highest first)
+    allJobs.sort((a, b) => b.fit_score - a.fit_score);
 
-    // Combine all jobs for display (sustainability first, then AI)
-    const allJobs = [...sustainabilityJobs, ...aiJobs];
-
+    const aiJobs = allJobs.filter(job => job.primary_path === 'ai');
+    const sustainabilityJobs = allJobs.filter(job => job.primary_path === 'sustainability');
+    
     console.log(`Categorized: ${sustainabilityJobs.length} sustainability, ${aiJobs.length} AI jobs`);
 
     // Update stats
-    updateStats(jobs, sustainabilityJobs, aiJobs);
+    updateStats(allJobs, sustainabilityJobs, aiJobs);
 
     // Update last updated time
     updateLastUpdatedTime(data.metadata?.run_timestamp);
@@ -316,10 +315,10 @@ function renderCombinedJobTable(allJobs, sustainabilityCount) {
     const tbody = document.getElementById('jobsTableBody');
     tbody.innerHTML = '';
 
-    if (allJobs.length === 0) {
+        if (allJobs.length === 0) {
         const row = document.createElement('tr');
         row.innerHTML = `
-            <td colspan="7" class="text-center text-muted py-4">
+            <td colspan="6" class="text-center text-muted py-4">
                 <i class="bi bi-inbox display-6"></i>
                 <p class="mt-2">No jobs found</p>
             </td>
@@ -329,7 +328,7 @@ function renderCombinedJobTable(allJobs, sustainabilityCount) {
     }
 
     allJobs.forEach((job, index) => {
-        const isSustainability = index < sustainabilityCount;
+        const isSustainability = job.primary_path === 'sustainability';
         const analysis = job.primary_path === 'ai' ? job.ai_analysis : job.sustainability_analysis;
         const fitScore = analysis?.fit_score || 0;
         const showAdvice = fitScore > 75;
@@ -352,7 +351,6 @@ function renderCombinedJobTable(allJobs, sustainabilityCount) {
                 </a>
             </td>
             <td data-label="Company">${escapeHtml(job.company || 'N/A')}</td>
-            <td data-label="Location">${escapeHtml(job.location || 'N/A')}</td>
             <td data-label="Fit Score">${renderFitScoreBadge(fitScore)}</td>
             <td data-label="Freshness">${renderFreshnessBadge(job.days_old || 0)}</td>
             <td class="expandable-cell" data-label="Justification">
