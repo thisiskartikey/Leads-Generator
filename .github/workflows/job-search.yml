@@ -43,9 +43,9 @@ jobs:
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
           SERPAPI_KEY: ${{ secrets.SERPAPI_KEY }}
+          PYTHONPATH: ${{ github.workspace }}/src
         run: |
-          cd src
-          python main.py
+          python src/main.py
 
       # Step 5: Commit and push results
       - name: Commit updated job results
