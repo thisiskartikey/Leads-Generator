@@ -40,7 +40,7 @@ Job Radar automatically:
 1. **Clone this repository**
    ```bash
    git clone https://github.com/thisiskartikey/Leads-Generator.git
-   cd Leads Generator
+   cd Leads-Generator
    ```
 
 2. **Install dependencies** (for local testing)
@@ -64,12 +64,12 @@ Job Radar automatically:
 6. **Trigger first run**
    - Go to Actions tab → "Job Radar Search" → "Run workflow"
    - Wait 2-3 minutes
-   - Visit `https://yourusername.github.io/job-radar/`
+   - Visit `https://thisiskartikey.github.io/Leads-Generator/`
 
 ## Usage
 
 ### View Dashboard
-Visit: `https://yourusername.github.io/job-radar/`
+Visit: `https://thisiskartikey.github.io/Leads-Generator/`
 
 ### Manual Search
 1. Go to GitHub repo → Actions tab

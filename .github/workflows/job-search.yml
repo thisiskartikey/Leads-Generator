@@ -118,4 +118,4 @@ jobs:
           fi
 
           echo "" >> $GITHUB_STEP_SUMMARY
-          echo "**Dashboard:** Check [GitHub Pages](https://yourusername.github.io/job-radar/) for updated results" >> $GITHUB_STEP_SUMMARY
+          echo "**Dashboard:** Check [GitHub Pages](https://thisiskartikey.github.io/Leads-Generator/) for updated results" >> $GITHUB_STEP_SUMMARY

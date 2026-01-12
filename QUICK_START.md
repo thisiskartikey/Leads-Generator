@@ -17,13 +17,8 @@ Get your Job Radar running in 10 minutes!
 ```bash
 cd "C:\Users\Kartikey Shukla\Claude\Job Tracker Project"
 
-# Initialize and push
-git init
-git add .
-git commit -m "Initial commit"
-git branch -M main
-git remote add origin https://github.com/YOUR_USERNAME/job-radar.git
-git push -u origin main
+# Already completed! ✅
+# Your code is at: https://github.com/thisiskartikey/Leads-Generator
 ```
 
 ### 2. Add API Keys
@@ -50,7 +45,7 @@ git push -u origin main
 
 ### 5. View Results
 
-Open: `https://YOUR_USERNAME.github.io/job-radar/`
+Open: `https://thisiskartikey.github.io/Leads-Generator/`
 
 ---
 
@@ -97,7 +92,7 @@ See full [SETUP_GUIDE.md](SETUP_GUIDE.md) for detailed instructions.
 
 ---
 
-**Dashboard URL:** `https://YOUR_USERNAME.github.io/job-radar/`
+**Dashboard URL:** `https://thisiskartikey.github.io/Leads-Generator/`
 
 **Next run:** Every Tuesday & Saturday at 8am UTC
 

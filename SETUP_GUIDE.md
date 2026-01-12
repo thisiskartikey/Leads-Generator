@@ -21,7 +21,7 @@ Before you begin, make sure you have:
 1. Go to [github.com](https://github.com) and log in
 2. Click the "+" icon in top right → "New repository"
 3. Fill in:
-   - **Repository name**: `job-radar`
+   - **Repository name**: `Leads-Generator` ✅ (Already created!)
    - **Description**: "Automated job search assistant powered by AI"
    - **Visibility**: Choose "Public" (for free GitHub Pages) or "Private" (requires paid plan for Pages)
 4. **Do NOT** check "Add README" (we already have one)
@@ -42,12 +42,14 @@ git add .
 # Create first commit
 git commit -m "Initial commit - Job Radar setup"
 
-# Add remote (replace YOUR_USERNAME with your GitHub username)
-git remote add origin https://github.com/YOUR_USERNAME/job-radar.git
+# Add remote
+git remote add origin https://github.com/thisiskartikey/Leads-Generator.git
 
 # Push to GitHub
 git branch -M main
 git push -u origin main
+
+# ✅ Already completed! Your code is pushed to GitHub
 ```
 
 ---
@@ -96,7 +98,7 @@ git push -u origin main
 
 Your dashboard will be available at:
 ```
-https://YOUR_USERNAME.github.io/job-radar/
+https://thisiskartikey.github.io/Leads-Generator/
 ```
 
 ---
@@ -119,7 +121,7 @@ https://YOUR_USERNAME.github.io/job-radar/
 
 ### Check Results
 
-1. Go to your dashboard: `https://YOUR_USERNAME.github.io/job-radar/`
+1. Go to your dashboard: `https://thisiskartikey.github.io/Leads-Generator/`
 2. Refresh the page after workflow completes
 3. You should see job tables populated!
 
@@ -262,8 +264,8 @@ To test Job Radar on your local computer before deploying:
 
 ```bash
 # Clone repository
-git clone https://github.com/YOUR_USERNAME/job-radar.git
-cd job-radar
+git clone https://github.com/thisiskartikey/Leads-Generator.git
+cd Leads-Generator
 
 # Create virtual environment
 python -m venv venv
@@ -353,7 +355,7 @@ Would require adding email sending logic after job analysis.
 ### Resources
 - 📖 [Main README](README.md)
 - 📋 [Implementation Plan](.claude/plans/lovely-mixing-kernighan.md)
-- 🐛 [Report Issues](https://github.com/YOUR_USERNAME/job-radar/issues)
+- 🐛 [Report Issues](https://github.com/thisiskartikey/Leads-Generator/issues)
 
 ### Common Questions
 
