@@ -201,9 +201,15 @@ class JobRadar:
         for i, job in enumerate(scraped_jobs, 1):
             logger.info(f"[{i}/{len(scraped_jobs)}] Analyzing: {job['title']} at {job['company']}")
 
+            # Use description if available, otherwise fallback to search snippet
+            description = job.get('description', '').strip()
+            if not description and job.get('search_snippet'):
+                description = job['search_snippet']
+                logger.debug(f"Using search snippet as description for {job.get('title', 'N/A')}")
+            
             # Analyze with both resumes
             analysis_results = self.analyzer.analyze_job_dual(
-                job['description'],
+                description or job.get('title', 'Job'),
                 job['title']
             )
 

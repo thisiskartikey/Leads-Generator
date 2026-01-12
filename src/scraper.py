@@ -191,10 +191,17 @@ class JobScraper:
             return None
 
         try:
-            # Title
-            title = self._extract_text(soup, 'h1.app-title')
+            # Title - try multiple selectors for Greenhouse
+            title = self._extract_text(soup, 'h1')
+            if title == 'N/A':
+                title = self._extract_text(soup, 'h1.app-title')
             if title == 'N/A':
                 title = self._extract_text(soup, '.job-title')
+            if title == 'N/A':
+                # Try finding h1 with text
+                h1 = soup.find('h1')
+                if h1:
+                    title = h1.get_text(strip=True)
 
             # Company
             company = self._extract_text(soup, '.company-name')
@@ -206,13 +213,36 @@ class JobScraper:
             # Location
             location = self._extract_text(soup, '.location')
 
-            # Description - try multiple selectors
+            # Description - try multiple selectors for Greenhouse
             description = ''
-            for selector in ['#content', '.job-description', '.content']:
+            # Try common Greenhouse selectors
+            for selector in [
+                '#content', 
+                '.job-description', 
+                '.content',
+                '[id*="content"]',
+                '[class*="description"]',
+                'main',
+                'article'
+            ]:
                 desc_elem = soup.select_one(selector)
                 if desc_elem:
-                    description = desc_elem.get_text(separator='\n', strip=True)
-                    break
+                    text = desc_elem.get_text(separator='\n', strip=True)
+                    # Only use if we got substantial content (at least 100 chars)
+                    if len(text) > 100:
+                        description = text
+                        break
+            
+            # If still no description, try to get body text
+            if not description:
+                body = soup.find('body')
+                if body:
+                    # Remove script and style tags
+                    for script in body(["script", "style", "nav", "header", "footer"]):
+                        script.decompose()
+                    text = body.get_text(separator='\n', strip=True)
+                    if len(text) > 100:
+                        description = text
 
             # Posted date - Greenhouse doesn't always show this
             posted_date = datetime.now().isoformat()
@@ -250,10 +280,17 @@ class JobScraper:
             return None
 
         try:
-            # Title
+            # Title - try multiple selectors for Ashby
             title = self._extract_text(soup, 'h1')
             if title == 'N/A':
                 title = self._extract_text(soup, '.job-title')
+            if title == 'N/A':
+                title = self._extract_text(soup, '[data-testid="job-title"]')
+            if title == 'N/A':
+                # Try finding h1 with text
+                h1 = soup.find('h1')
+                if h1:
+                    title = h1.get_text(strip=True)
 
             # Company - extract from URL
             match = re.search(r'jobs\.ashbyhq\.com/([^/]+)', url)
@@ -264,16 +301,35 @@ class JobScraper:
             if location == 'N/A':
                 location = self._extract_text(soup, '[class*="location"]')
 
-            # Description
+            # Description - try multiple selectors for Ashby
             description = ''
-            desc_elem = soup.find('div', class_=lambda x: x and 'description' in x.lower()) if soup else None
-            if desc_elem:
-                description = desc_elem.get_text(separator='\n', strip=True)
-            else:
-                # Fallback: get all text from main content
-                main = soup.find('main') if soup else None
+            # Try to find description elements
+            for selector in [
+                '[class*="description"]',
+                'main',
+                'article',
+                '[data-testid*="description"]',
+                '.job-details',
+                '.job-content'
+            ]:
+                desc_elem = soup.select_one(selector)
+                if desc_elem:
+                    text = desc_elem.get_text(separator='\n', strip=True)
+                    # Only use if we got substantial content (at least 100 chars)
+                    if len(text) > 100:
+                        description = text
+                        break
+            
+            # Fallback: get all text from main content
+            if not description:
+                main = soup.find('main')
                 if main:
-                    description = main.get_text(separator='\n', strip=True)
+                    # Remove script and style tags
+                    for script in main(["script", "style", "nav", "header", "footer"]):
+                        script.decompose()
+                    text = main.get_text(separator='\n', strip=True)
+                    if len(text) > 100:
+                        description = text
 
             # Posted date
             posted_date = datetime.now().isoformat()
