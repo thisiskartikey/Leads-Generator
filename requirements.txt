@@ -1,7 +1,7 @@
 # Job Radar - Python Dependencies
 
 # Claude API for job analysis
-anthropic==0.18.1
+anthropic>=0.40.0
 
 # Web scraping
 beautifulsoup4==4.12.3
