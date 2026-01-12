@@ -55,5 +55,5 @@ locations:
   - remote
 
 # Limits
-max_results_per_search: 50  # Don't analyze more than this (cost control)
+max_results_per_search: 10  # Don't analyze more than this (cost control)
 min_fit_score_to_show: 0    # TEMPORARILY SET TO 0 to debug - show ALL jobs
