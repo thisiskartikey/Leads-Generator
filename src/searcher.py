@@ -48,16 +48,33 @@ class JobSearcher:
             Complete Google search query string
 
         Example output:
-            (sustainable OR sustainability) AND (consultant OR analyst)
+            (AI OR "artificial intelligence" OR sustainable) AND (consultant OR analyst)
             (site:greenhouse.io OR site:ashby.com) ("United States" OR remote)
         """
         keywords = self.search_config['keywords']
         boards = self.search_config['job_boards']
         locations = self.search_config['locations']
 
-        # Build keyword part (must_have OR must_have OR ...)
         keyword_parts = []
-        if 'must_have' in keywords:
+
+        # Build AI + Sustainability combined focus (primary keywords)
+        # AI OR sustainability - at least one must be present
+        focus_terms = []
+
+        if 'ai_focus' in keywords:
+            focus_terms.extend([f'"{kw}"' if ' ' in kw else kw
+                              for kw in keywords['ai_focus']])
+
+        if 'sustainability_focus' in keywords:
+            focus_terms.extend([f'"{kw}"' if ' ' in kw else kw
+                              for kw in keywords['sustainability_focus']])
+
+        if focus_terms:
+            focus_query = ' OR '.join(focus_terms)
+            keyword_parts.append(f"({focus_query})")
+
+        # Backward compatibility for old 'must_have' format
+        elif 'must_have' in keywords:
             must_have = ' OR '.join([f'"{kw}"' if ' ' in kw else kw
                                      for kw in keywords['must_have']])
             keyword_parts.append(f"({must_have})")

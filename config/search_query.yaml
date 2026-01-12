@@ -5,14 +5,32 @@ search_timeframe_days: 7  # How many days back to search
 
 # Keywords that must appear in job postings
 keywords:
-  must_have:  # Job must include at least one of these
+  # PRIMARY FOCUS: AI-related terms (MUST include one of these)
+  ai_focus:
+    - AI
+    - "artificial intelligence"
+    - "generative AI"
+    - "machine learning"
+    - "GenAI"
+    - "agentic"
+    - "LLM"
+    - "large language model"
+    - "ML"
+    - "data science"
+    - "AI strategy"
+    - "AI transformation"
+
+  # SECONDARY: Sustainability terms (for cross-domain matches)
+  sustainability_focus:
     - sustainable
     - sustainability
     - ESG
     - climate
     - impact
 
-  roles:  # Job title must include one of these
+  # ROLE TYPES: Must include one of these in job title
+  # Will be combined with AI focus terms above
+  roles:
     - consultant
     - strategy
     - analyst
@@ -20,6 +38,7 @@ keywords:
     - specialist
     - "program manager"
     - director
+    - "product manager"
 
 # Which job boards to search (uses Google site: operator)
 job_boards:
