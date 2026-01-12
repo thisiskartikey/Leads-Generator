@@ -1,10 +1,586 @@
 {
-  "jobs": [],
+  "jobs": [
+    {
+      "title": "N/A",
+      "company": "Oscar",
+      "location": "N/A",
+      "description": "",
+      "url": "https://boards.greenhouse.io/oscar/jobs/7527512",
+      "source": "greenhouse",
+      "posted_date": "2026-01-12T03:10:04.501697",
+      "scraped_at": "2026-01-12T03:10:04.501709",
+      "search_snippet": "Director, Medical Economics — Corporate. New York ... Artificial Intelligence (AI): Our AI Guidelines outline the acceptable use of artificial intelligence ...",
+      "ai_analysis": {
+        "fit_score": 0,
+        "category": "Hybrid",
+        "justification": "No job posting provided in the input to analyze against candidate resume.",
+        "positioning_advice": "Please provide the job posting details to receive a comprehensive fit analysis. Include job title, requirements, responsibilities, and qualifications for accurate assessment."
+      },
+      "sustainability_analysis": {
+        "fit_score": 0,
+        "category": "Hybrid",
+        "justification": "No job posting provided in the input to analyze against candidate qualifications.",
+        "positioning_advice": "Please provide the job posting content to receive a detailed fit analysis. The candidate has strong sustainability program management experience with AI/automation skills that could apply to various roles in climate tech, ESG consulting, or corporate sustainability positions."
+      },
+      "job_id": "cc48afa2c0be738a",
+      "days_old": 0
+    },
+    {
+      "title": "N/A",
+      "company": "Databricks",
+      "location": "N/A",
+      "description": "",
+      "url": "https://boards.greenhouse.io/databricks/jobs/8359995002",
+      "source": "greenhouse",
+      "posted_date": "2026-01-12T03:10:07.343551",
+      "scraped_at": "2026-01-12T03:10:07.343571",
+      "search_snippet": "SLSQ426R949. We are reimagining GTM at Databricks and are seeking an AI Operations Program Manager to own the full lifecycle of AI agent deployments.",
+      "ai_analysis": {
+        "fit_score": 0,
+        "category": "Hybrid",
+        "justification": "No job posting provided to analyze against candidate resume.",
+        "positioning_advice": "Please provide the job posting content for analysis. Once received, I can assess skills match, experience alignment, domain relevance, and provide specific positioning recommendations for how to highlight relevant AI strategy, program management, and technical deployment experience."
+      },
+      "sustainability_analysis": {
+        "fit_score": 0,
+        "category": "Hybrid",
+        "justification": "No job posting provided for analysis.",
+        "positioning_advice": "Please provide the job posting content to receive a detailed fit assessment and positioning recommendations tailored to your sustainability and program management background."
+      },
+      "job_id": "5d270f6081c556c0",
+      "days_old": 0
+    },
+    {
+      "title": "N/A",
+      "company": "Hive.Co",
+      "location": "N/A",
+      "description": "",
+      "url": "https://jobs.ashbyhq.com/hive.co/3758c78b-dc3b-48a2-aff6-a517a258c09a",
+      "source": "ashby",
+      "posted_date": "2026-01-12T03:10:09.682167",
+      "scraped_at": "2026-01-12T03:10:09.682181",
+      "search_snippet": "We are looking to add a Senior AI Product Manager work alongside our Engineering and Design team to develop cutting-edge agentic AI solutions that transform how ...",
+      "ai_analysis": {
+        "fit_score": 0,
+        "category": "Hybrid",
+        "justification": "No job posting provided in the input to analyze against candidate resume.",
+        "positioning_advice": "Please provide the job posting details to receive a comprehensive fit analysis. Include job title, responsibilities, required qualifications, and preferred skills for accurate assessment."
+      },
+      "sustainability_analysis": {
+        "fit_score": 0,
+        "category": "Hybrid",
+        "justification": "No job posting provided to analyze against candidate's sustainability and program management background.",
+        "positioning_advice": "Please provide the job posting content so I can evaluate fit against the candidate's 7+ years of sustainability program management experience, decarbonization expertise, and technical skills in data systems and AI-enabled analytics."
+      },
+      "job_id": "a55fe3f97b93cd95",
+      "days_old": 0
+    },
+    {
+      "title": "N/A",
+      "company": "Heypinnacle",
+      "location": "N/A",
+      "description": "",
+      "url": "https://jobs.ashbyhq.com/heypinnacle/2fac331e-5a84-47d6-b3fc-fa6e7726a308",
+      "source": "ashby",
+      "posted_date": "2026-01-12T03:10:11.997771",
+      "scraped_at": "2026-01-12T03:10:11.997783",
+      "search_snippet": "The AI Learning Specialist sits at the intersection of leadership coaching and applied AI. You'll design AI agents, coach executives, and work with our ...",
+      "ai_analysis": {
+        "fit_score": 0,
+        "category": "Hybrid",
+        "justification": "No job posting provided in the input to analyze against candidate resume.",
+        "positioning_advice": "Please provide the job posting details to receive a comprehensive fit analysis. Once provided, I can assess alignment between the candidate's AI program management experience, technical skills, and the role requirements."
+      },
+      "sustainability_analysis": {
+        "fit_score": 0,
+        "category": "Hybrid",
+        "justification": "No job posting provided for analysis.",
+        "positioning_advice": "Please provide the job posting text so I can analyze fit against the candidate's sustainability and program management background. Include job title, responsibilities, and requirements for accurate assessment."
+      },
+      "job_id": "3beae4aeabb71789",
+      "days_old": 0
+    },
+    {
+      "title": "N/A",
+      "company": "Navigate Ai",
+      "location": "N/A",
+      "description": "",
+      "url": "https://jobs.ashbyhq.com/navigate-ai/889f3a95-5945-45e2-9fad-61e12faf5c45",
+      "source": "ashby",
+      "posted_date": "2026-01-12T03:10:14.261309",
+      "scraped_at": "2026-01-12T03:10:14.261323",
+      "search_snippet": "As our first AI Accuracy Product Manager, you'll ensure our models perform with consistency, precision, and trust at scale. You'll work closely with Product, ...",
+      "ai_analysis": {
+        "fit_score": 0,
+        "category": "Hybrid",
+        "justification": "No job posting provided in the input to analyze against candidate resume.",
+        "positioning_advice": "Please provide the job posting details to receive a comprehensive fit analysis. Include job title, requirements, responsibilities, and qualifications for accurate assessment."
+      },
+      "sustainability_analysis": {
+        "fit_score": 0,
+        "category": "Hybrid",
+        "justification": "No job posting provided for analysis.",
+        "positioning_advice": "Please provide the job posting content to receive a detailed fit assessment and positioning recommendations tailored to your sustainability and program management background."
+      },
+      "job_id": "2bd69f81eda8373a",
+      "days_old": 0
+    },
+    {
+      "title": "N/A",
+      "company": "Sorcero",
+      "location": "N/A",
+      "description": "",
+      "url": "https://boards.greenhouse.io/sorcero/jobs/5544668004",
+      "source": "greenhouse",
+      "posted_date": "2026-01-12T03:10:16.691383",
+      "scraped_at": "2026-01-12T03:10:16.691399",
+      "search_snippet": "Job Details. Discover exciting career opportunities in engineering, design, marketing and more.",
+      "ai_analysis": {
+        "fit_score": 0,
+        "category": "Hybrid",
+        "justification": "No job posting provided in the input to analyze against candidate resume.",
+        "positioning_advice": "Please provide the job posting details to receive a comprehensive fit analysis and tailored positioning recommendations for this candidate's strong AI strategy and operations background."
+      },
+      "sustainability_analysis": {
+        "fit_score": 0,
+        "category": "Hybrid",
+        "justification": "No job posting provided to analyze against candidate's sustainability and program management background.",
+        "positioning_advice": "Please provide the job posting content so I can evaluate fit against the candidate's 7+ years of sustainability program management experience, decarbonization expertise, and technical skills in data systems and AI-enabled analytics."
+      },
+      "job_id": "a20828f59e501d72",
+      "days_old": 0
+    },
+    {
+      "title": "N/A",
+      "company": "Coram Ai",
+      "location": "N/A",
+      "description": "",
+      "url": "https://jobs.ashbyhq.com/coram-ai/97977fc8-b4d0-4537-8fa1-6887973bc828",
+      "source": "ashby",
+      "posted_date": "2026-01-12T03:10:19.029568",
+      "scraped_at": "2026-01-12T03:10:19.029580",
+      "search_snippet": "We're seeking a Product Manager (PM) to drive the development and success of Coram's video security product line, our flagship offering. You will: Work directly ...",
+      "ai_analysis": {
+        "fit_score": 0,
+        "category": "Hybrid",
+        "justification": "No job posting provided in the input to analyze against candidate resume.",
+        "positioning_advice": "Please provide the job posting details to receive a comprehensive fit analysis. Include job title, requirements, responsibilities, and qualifications for accurate assessment."
+      },
+      "sustainability_analysis": {
+        "fit_score": 0,
+        "category": "Hybrid",
+        "justification": "No job posting provided for analysis.",
+        "positioning_advice": "Please provide the job posting content to receive a detailed fit assessment and positioning recommendations tailored to your sustainability and program management expertise."
+      },
+      "job_id": "63560cf7a70a778d",
+      "days_old": 0
+    },
+    {
+      "title": "N/A",
+      "company": "Vanta",
+      "location": "N/A",
+      "description": "",
+      "url": "https://jobs.ashbyhq.com/vanta/50761522-d82f-488d-98cc-0ec6ea34909b",
+      "source": "ashby",
+      "posted_date": "2026-01-12T03:10:21.542061",
+      "scraped_at": "2026-01-12T03:10:21.542073",
+      "search_snippet": "What you'll do as a Program Manager, AI Transformation at Vanta: Partner with Customer Success leadership and functional stakeholders to understand evolving ...",
+      "ai_analysis": {
+        "fit_score": 0,
+        "category": "Hybrid",
+        "justification": "No job posting provided in the input to analyze against candidate resume.",
+        "positioning_advice": "Please provide the job posting details to receive a comprehensive fit analysis. Include job title, requirements, responsibilities, and qualifications for accurate assessment."
+      },
+      "sustainability_analysis": {
+        "fit_score": 0,
+        "category": "Hybrid",
+        "justification": "No job posting provided for analysis.",
+        "positioning_advice": "Please provide the job posting text so I can analyze the fit between the candidate's sustainability expertise and the role requirements. I'm ready to evaluate skills match, seniority alignment, domain relevance, and career growth potential once the job description is available."
+      },
+      "job_id": "a6b1221c7c39ad9d",
+      "days_old": 0
+    },
+    {
+      "title": "N/A",
+      "company": "Aurorainnovation",
+      "location": "N/A",
+      "description": "",
+      "url": "https://boards.greenhouse.io/aurorainnovation/jobs/8365621002",
+      "source": "greenhouse",
+      "posted_date": "2026-01-12T03:10:24.568545",
+      "scraped_at": "2026-01-12T03:10:24.568557",
+      "search_snippet": "In this role, you will report to the Director of Talent Operations and join a team with two Senior Program Managers. Each Program Manager on the team has ...",
+      "ai_analysis": {
+        "fit_score": 0,
+        "category": "Hybrid",
+        "justification": "No job posting provided in the input to evaluate against candidate's qualifications.",
+        "positioning_advice": "Please provide the job posting details to receive a comprehensive fit analysis. Once provided, I can assess alignment with your AI strategy, program management, and technical deployment experience across Fortune 500 environments."
+      },
+      "sustainability_analysis": {
+        "fit_score": 0,
+        "category": "Hybrid",
+        "justification": "No job posting provided in the input to analyze against candidate qualifications.",
+        "positioning_advice": "Please provide the job posting details to receive a comprehensive fit analysis. Include job title, requirements, responsibilities, and qualifications for accurate assessment against this strong sustainability program management background."
+      },
+      "job_id": "2292d0e3429e6ed4",
+      "days_old": 0
+    },
+    {
+      "title": "N/A",
+      "company": "Sciemo",
+      "location": "N/A",
+      "description": "",
+      "url": "https://jobs.ashbyhq.com/sciemo/53d55b13-f085-427f-9c4c-1ca2aa2e3b2e",
+      "source": "ashby",
+      "posted_date": "2026-01-12T03:10:26.900702",
+      "scraped_at": "2026-01-12T03:10:26.900714",
+      "search_snippet": "Our solutions leverage machine learning, generative AI ... Strong ability to translate complex technical systems (GenAI, ML, agents, graphs) into coherent product ...",
+      "ai_analysis": {
+        "fit_score": 0,
+        "category": "Hybrid",
+        "justification": "No job posting provided to analyze against candidate resume.",
+        "positioning_advice": "Please provide the job posting content so I can assess fit between the candidate's AI/sustainability program management experience and the role requirements. I'll then evaluate skills alignment, seniority match, and provide tailored positioning recommendations."
+      },
+      "sustainability_analysis": {
+        "fit_score": 0,
+        "category": "Hybrid",
+        "justification": "No job posting provided for analysis.",
+        "positioning_advice": "Please provide the job posting text so I can analyze the fit between the candidate's sustainability expertise and the role requirements. I'm ready to evaluate skills match, seniority alignment, domain relevance, and career growth potential once the job description is shared."
+      },
+      "job_id": "899d7a6677643400",
+      "days_old": 0
+    },
+    {
+      "title": "N/A",
+      "company": "Tonicai",
+      "location": "N/A",
+      "description": "",
+      "url": "https://jobs.ashbyhq.com/TonicAI/ce690252-7666-4563-91e4-9f26350831bc",
+      "source": "ashby",
+      "posted_date": "2026-01-12T03:10:29.225160",
+      "scraped_at": "2026-01-12T03:10:29.225172",
+      "search_snippet": "AI has an unstructured data problem. We have the solution! Join Tonic.ai as a Sr. Product Manager to own the roadmap for Textual and define the future of AI",
+      "ai_analysis": {
+        "fit_score": 0,
+        "category": "Hybrid",
+        "justification": "No job posting provided in the input to analyze against candidate resume.",
+        "positioning_advice": "Please provide the job posting details to receive a comprehensive fit analysis. Include job title, responsibilities, required qualifications, and preferred skills for accurate assessment."
+      },
+      "sustainability_analysis": {
+        "fit_score": 0,
+        "category": "Hybrid",
+        "justification": "No job posting provided for analysis.",
+        "positioning_advice": "Please provide the job posting content to receive a detailed fit assessment and positioning recommendations tailored to your sustainability and program management background."
+      },
+      "job_id": "89e28bd41bd36159",
+      "days_old": 0
+    },
+    {
+      "title": "N/A",
+      "company": "Block",
+      "location": "N/A",
+      "description": "",
+      "url": "https://boards.greenhouse.io/block/jobs/5025895008",
+      "source": "greenhouse",
+      "posted_date": "2026-01-12T03:10:31.733068",
+      "scraped_at": "2026-01-12T03:10:31.733082",
+      "search_snippet": "Develop growth strategy: Create and implement an overarching plan and strategy ... You are being connected to our automated chatbot which utilizes generative AI.",
+      "ai_analysis": {
+        "fit_score": 0,
+        "category": "Hybrid",
+        "justification": "No job posting provided in the input to analyze against candidate resume.",
+        "positioning_advice": "Please provide the job posting details to receive a comprehensive fit analysis. Include job title, responsibilities, required qualifications, and preferred skills for accurate assessment."
+      },
+      "sustainability_analysis": {
+        "fit_score": 0,
+        "category": "Hybrid",
+        "justification": "No job posting provided for analysis.",
+        "positioning_advice": "Please provide the job posting text so I can analyze the fit between the candidate's sustainability expertise and the role requirements. I'm ready to evaluate skills match, seniority alignment, domain relevance, and provide specific positioning recommendations once the job description is available."
+      },
+      "job_id": "deb6ad7f5ef31562",
+      "days_old": 0
+    },
+    {
+      "title": "N/A",
+      "company": "Lilt Production",
+      "location": "N/A",
+      "description": "",
+      "url": "https://jobs.ashbyhq.com/lilt-production/4cab6791-9f3f-40ce-a981-6f94bef28db1",
+      "source": "ashby",
+      "posted_date": "2026-01-12T03:10:34.054546",
+      "scraped_at": "2026-01-12T03:10:34.054560",
+      "search_snippet": "As part of our recruitment efforts, we may use artificial intelligence (AI) and automated tools to assist in the evaluation of applications, including résumé ...",
+      "ai_analysis": {
+        "fit_score": 0,
+        "category": "Hybrid",
+        "justification": "No job posting provided in the input to analyze against candidate resume.",
+        "positioning_advice": "Please provide the job posting details to receive a comprehensive fit analysis. Include job title, responsibilities, required qualifications, and preferred skills for accurate assessment."
+      },
+      "sustainability_analysis": {
+        "fit_score": 0,
+        "category": "Hybrid",
+        "justification": "No job posting provided for analysis.",
+        "positioning_advice": "Please provide the job posting content to receive a detailed fit assessment and positioning recommendations tailored to your sustainability and program management background."
+      },
+      "job_id": "a27ce7bdd7a78692",
+      "days_old": 0
+    },
+    {
+      "title": "N/A",
+      "company": "Super.Com",
+      "location": "N/A",
+      "description": "",
+      "url": "https://jobs.ashbyhq.com/super.com/69551696-d46b-4887-8d4e-ba889a3a1f3e",
+      "source": "ashby",
+      "posted_date": "2026-01-12T03:10:36.357407",
+      "scraped_at": "2026-01-12T03:10:36.357419",
+      "search_snippet": "The Director of Analytics & Data Science leads our Analytics and Data Science organization through its next phase of scale. Operating within our mission-aligned ...",
+      "ai_analysis": {
+        "fit_score": 0,
+        "category": "Hybrid",
+        "justification": "No job posting provided in the input to analyze against candidate resume.",
+        "positioning_advice": "Please provide the job posting content so I can analyze the candidate's fit for the specific role, evaluate required skills alignment, and provide tailored positioning recommendations."
+      },
+      "sustainability_analysis": {
+        "fit_score": 0,
+        "category": "Hybrid",
+        "justification": "No job posting provided for analysis.",
+        "positioning_advice": "Please provide the job posting content to receive a detailed fit assessment and positioning recommendations tailored to your sustainability and program management background."
+      },
+      "job_id": "b0d00807d70517ad",
+      "days_old": 0
+    },
+    {
+      "title": "N/A",
+      "company": "Alexai",
+      "location": "N/A",
+      "description": "",
+      "url": "https://jobs.ashbyhq.com/alexai/426e3f19-01c4-4390-8777-5057384c0004",
+      "source": "ashby",
+      "posted_date": "2026-01-12T03:10:38.637416",
+      "scraped_at": "2026-01-12T03:10:38.637427",
+      "search_snippet": "We're hiring our first Product Manager to act as an operator, not a process PM. This role is for someone who thrives in ambiguity, moves fast, and takes real ...",
+      "ai_analysis": {
+        "fit_score": 0,
+        "category": "Hybrid",
+        "justification": "No job posting provided in the input to analyze against candidate resume.",
+        "positioning_advice": "Please provide the job posting content so I can analyze the candidate's fit for the specific role, evaluate skills alignment, and provide tailored positioning recommendations."
+      },
+      "sustainability_analysis": {
+        "fit_score": 0,
+        "category": "Hybrid",
+        "justification": "No job posting provided for analysis.",
+        "positioning_advice": "Please provide the job posting content to receive a detailed fit assessment and positioning recommendations tailored to your sustainability and program management expertise."
+      },
+      "job_id": "91eb353b4f031d1e",
+      "days_old": 0
+    },
+    {
+      "title": "N/A",
+      "company": "Theydo",
+      "location": "N/A",
+      "description": "",
+      "url": "https://jobs.ashbyhq.com/theydo/2e84c036-a870-46d5-ae59-73208c7944a2",
+      "source": "ashby",
+      "posted_date": "2026-01-12T03:10:41.006649",
+      "scraped_at": "2026-01-12T03:10:41.006660",
+      "search_snippet": "We're looking for a Principal Product Manager to lead and scale our AI product area, turning early breakthroughs like JourneyAI & Ask TheyDo into loved products ...",
+      "ai_analysis": {
+        "fit_score": 0,
+        "category": "Hybrid",
+        "justification": "No job posting provided for analysis.",
+        "positioning_advice": "Please provide the job posting content so I can analyze the fit between the candidate's qualifications and the role requirements. I need details about the position title, responsibilities, required qualifications, and preferred skills to conduct a meaningful assessment."
+      },
+      "sustainability_analysis": {
+        "fit_score": 0,
+        "category": "Hybrid",
+        "justification": "No job posting provided to analyze against candidate's sustainability and program management expertise.",
+        "positioning_advice": "Unable to provide positioning advice without a job posting. Please provide the job description to receive a detailed fit assessment comparing the role requirements against this candidate's strong background in sustainability program management, decarbonization strategy, and data systems implementation."
+      },
+      "job_id": "3b232c77e7399cf8",
+      "days_old": 0
+    },
+    {
+      "title": "N/A",
+      "company": "Broccoli",
+      "location": "N/A",
+      "description": "",
+      "url": "https://jobs.ashbyhq.com/broccoli/c8fff54a-0f65-4182-9328-d224ce2c7dd5",
+      "source": "ashby",
+      "posted_date": "2026-01-12T03:10:43.294023",
+      "scraped_at": "2026-01-12T03:10:43.294035",
+      "search_snippet": "We deploy intelligent AI agents at the front lines of HVAC, roofing, and other trades businesses to answer calls, engage customers, book jobs, and ensure every ...",
+      "ai_analysis": {
+        "fit_score": 0,
+        "category": "Hybrid",
+        "justification": "No job posting provided in the input to analyze against candidate resume.",
+        "positioning_advice": "Please provide the job posting text so I can analyze the candidate's fit for the specific role, assess required skills alignment, and provide tailored positioning recommendations."
+      },
+      "sustainability_analysis": {
+        "fit_score": 0,
+        "category": "Hybrid",
+        "justification": "No job posting provided for analysis.",
+        "positioning_advice": "Please provide the job posting content to receive a detailed fit assessment and positioning recommendations tailored to your sustainability and program management expertise."
+      },
+      "job_id": "7278ef888aca55ba",
+      "days_old": 0
+    },
+    {
+      "title": "N/A",
+      "company": "Joist Ai",
+      "location": "N/A",
+      "description": "",
+      "url": "https://jobs.ashbyhq.com/joist-ai/f38fb2c6-2d4d-4d90-848c-e52b2664ff62/application?utm_source=pWWZQZmNLJ",
+      "source": "ashby",
+      "posted_date": "2026-01-12T03:10:45.557956",
+      "scraped_at": "2026-01-12T03:10:45.557972",
+      "search_snippet": "Joist AI. Sr. Product Manager - Agentic AI Applications. Location. Remote - India. Employment Type. Full time. Location Type. Remote. Department. Product.",
+      "ai_analysis": {
+        "fit_score": 0,
+        "category": "Hybrid",
+        "justification": "No job posting provided in the input to analyze against candidate resume.",
+        "positioning_advice": "Please provide the job posting details to receive a comprehensive fit analysis. Once provided, I can assess skills match, experience alignment, domain relevance, and provide tailored positioning recommendations for this candidate's strong AI strategy and operations background."
+      },
+      "sustainability_analysis": {
+        "fit_score": 0,
+        "category": "Hybrid",
+        "justification": "No job posting provided in the input to analyze against candidate qualifications.",
+        "positioning_advice": "Please provide the job posting content to receive a comprehensive fit analysis. Once provided, I can assess alignment with the candidate's sustainability program management experience, technical skills, and decarbonization expertise."
+      },
+      "job_id": "26f557b81f6ff3b4",
+      "days_old": 0
+    },
+    {
+      "title": "N/A",
+      "company": "Stripe",
+      "location": "N/A",
+      "description": "",
+      "url": "https://boards.greenhouse.io/stripe/jobs/7249436",
+      "source": "greenhouse",
+      "posted_date": "2026-01-12T03:10:49.282756",
+      "scraped_at": "2026-01-12T03:10:49.282774",
+      "search_snippet": "Strategic Program Manager - Support. Who we are. 8+ years of experience in ... AI companies · Creator economy · Hospitality, travel, and leisure · Insurance ...",
+      "ai_analysis": {
+        "fit_score": 0,
+        "category": "Hybrid",
+        "justification": "No job posting provided in the input to analyze against candidate resume.",
+        "positioning_advice": "Please provide the job posting details to receive a comprehensive fit analysis. Include job title, requirements, responsibilities, and qualifications for accurate assessment."
+      },
+      "sustainability_analysis": {
+        "fit_score": 0,
+        "category": "Hybrid",
+        "justification": "No job posting provided for analysis.",
+        "positioning_advice": "Please provide the job posting content to receive a detailed fit assessment and positioning recommendations tailored to your sustainability and program management expertise."
+      },
+      "job_id": "8aed2ac5de51edf3",
+      "days_old": 0
+    },
+    {
+      "title": "N/A",
+      "company": "Ramp",
+      "location": "N/A",
+      "description": "",
+      "url": "https://jobs.ashbyhq.com/ramp/63df0ffc-bdc6-40ba-906f-fe03378536b0/application?utm_source_platform=workoutsideoffice.com",
+      "source": "ashby",
+      "posted_date": "2026-01-12T03:10:58.665901",
+      "scraped_at": "2026-01-12T03:10:58.665912",
+      "search_snippet": "AI Operations Specialist | Enablement. Location. New York, NY (HQ). Employment Type. Full time. Location Type. Hybrid. Department. Product. Compensation.",
+      "ai_analysis": {
+        "fit_score": 0,
+        "category": "Hybrid",
+        "justification": "No job posting provided in the input to analyze against candidate resume.",
+        "positioning_advice": "Please provide the job posting details to receive a comprehensive fit analysis. Include job title, requirements, responsibilities, and qualifications for accurate assessment."
+      },
+      "sustainability_analysis": {
+        "fit_score": 0,
+        "category": "Hybrid",
+        "justification": "No job posting provided to analyze against candidate's sustainability and program management experience.",
+        "positioning_advice": "Please provide the job posting content for analysis. Once available, I can assess alignment with the candidate's strong background in sustainability program management, decarbonization strategy, ESG reporting frameworks, and AI-enabled sustainability data systems across Fortune 500 environments."
+      },
+      "job_id": "8d557f32aa8baf07",
+      "days_old": 0
+    },
+    {
+      "title": "N/A",
+      "company": "Sardine",
+      "location": "N/A",
+      "description": "",
+      "url": "https://jobs.ashbyhq.com/sardine/adc5f3ee-2ace-4675-8551-d8748162a299",
+      "source": "ashby",
+      "posted_date": "2026-01-12T03:11:01.011808",
+      "scraped_at": "2026-01-12T03:11:01.011819",
+      "search_snippet": "Must have worked as a Data Scientist/ML Engineer for 3 years. Has 3-4 years of experience as a Product Manager. Experience in building AI applications.",
+      "ai_analysis": {
+        "fit_score": 0,
+        "category": "Hybrid",
+        "justification": "No job posting provided in the input to analyze against candidate resume.",
+        "positioning_advice": "Please provide the job posting details to receive a comprehensive fit analysis and tailored positioning recommendations for this candidate."
+      },
+      "sustainability_analysis": {
+        "fit_score": 0,
+        "category": "Hybrid",
+        "justification": "No job posting provided in the request for analysis.",
+        "positioning_advice": "Please provide the job posting content to receive a detailed fit assessment. Once provided, I can analyze alignment between the candidate's sustainability program management experience and the role requirements."
+      },
+      "job_id": "cb21f16344889c1c",
+      "days_old": 0
+    },
+    {
+      "title": "N/A",
+      "company": "Handshake",
+      "location": "N/A",
+      "description": "",
+      "url": "https://jobs.ashbyhq.com/handshake/c5753428-968f-4142-9dbc-49d419f0a020",
+      "source": "ashby",
+      "posted_date": "2026-01-12T03:11:03.391298",
+      "scraped_at": "2026-01-12T03:11:03.391311",
+      "search_snippet": "Partner directly with frontier AI labs and senior stakeholders to shape scope, resolve issues, and expand programs through execution. You Have. 4+ years of ...",
+      "ai_analysis": {
+        "fit_score": 0,
+        "category": "Hybrid",
+        "justification": "No job posting provided in the input to analyze against candidate resume.",
+        "positioning_advice": "Please provide the job posting content so I can analyze the candidate's fit for the specific role, including required skills, experience level, and domain alignment."
+      },
+      "sustainability_analysis": {
+        "fit_score": 0,
+        "category": "Hybrid",
+        "justification": "No job posting provided in the request for analysis.",
+        "positioning_advice": "Please provide the job posting content to receive a detailed fit assessment. Once provided, I can evaluate alignment with your sustainability program management experience, technical skills in data systems, and proven track record in decarbonization initiatives."
+      },
+      "job_id": "38bbc86578da02e6",
+      "days_old": 0
+    },
+    {
+      "title": "N/A",
+      "company": "Traba",
+      "location": "N/A",
+      "description": "",
+      "url": "https://jobs.ashbyhq.com/traba/d49bfa49-96c5-4dd6-8a16-05cd7987f4a0",
+      "source": "ashby",
+      "posted_date": "2026-01-12T03:11:11.552197",
+      "scraped_at": "2026-01-12T03:11:11.552207",
+      "search_snippet": "Experience: 4+ years in analytics, data science, business intelligence, or similar roles. Education: BS/MS degree in data science, statistics, mathematics, ...",
+      "ai_analysis": {
+        "fit_score": 0,
+        "category": "Hybrid",
+        "justification": "No job posting provided to analyze against candidate resume.",
+        "positioning_advice": "Please provide the job posting you would like me to evaluate. I'm ready to analyze how well this candidate's AI program management experience, technical skills, and sustainability background align with your target role."
+      },
+      "sustainability_analysis": {
+        "fit_score": 0,
+        "category": "Hybrid",
+        "justification": "No job posting provided for analysis.",
+        "positioning_advice": "Please provide the job posting content to receive a detailed fit assessment and positioning recommendations tailored to your sustainability and program management background."
+      },
+      "job_id": "21d32522e0aef3c5",
+      "days_old": 0
+    }
+  ],
   "metadata": {
-    "run_timestamp": "2026-01-12T02:31:42.863643",
-    "total_searched": 50,
-    "new_jobs_found": 50,
-    "jobs_analyzed": 49,
+    "run_timestamp": "2026-01-12T03:09:56.748748",
+    "total_searched": 25,
+    "new_jobs_found": 25,
+    "jobs_analyzed": 23,
     "jobs_skipped": 0
   }
 }
