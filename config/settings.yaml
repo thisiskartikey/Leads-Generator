@@ -15,7 +15,7 @@ scraping:
   delay_between_requests: 2  # Seconds to wait between scraping jobs (be polite)
   timeout: 10                 # Give up after this many seconds
   max_retries: 3              # Try this many times if a scrape fails
-  user_agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+  user_agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
 
 # History tracking
 history:

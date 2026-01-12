@@ -33,6 +33,25 @@ class JobScraper:
         self.timeout = self.scraping_config['timeout']
         self.max_retries = self.scraping_config['max_retries']
         self.delay = self.scraping_config['delay_between_requests']
+        
+        # Create a session for cookie handling and connection reuse
+        self.session = requests.Session()
+        
+        # Set default headers to mimic a real browser
+        self.session.headers.update({
+            'User-Agent': self.user_agent,
+            'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+            'Accept-Language': 'en-US,en;q=0.9',
+            'Accept-Encoding': 'gzip, deflate, br',
+            'DNT': '1',
+            'Connection': 'keep-alive',
+            'Upgrade-Insecure-Requests': '1',
+            'Sec-Fetch-Dest': 'document',
+            'Sec-Fetch-Mode': 'navigate',
+            'Sec-Fetch-Site': 'none',
+            'Sec-Fetch-User': '?1',
+            'Cache-Control': 'max-age=0'
+        })
 
     def scrape_job(self, url: str, source: str) -> Optional[Dict[str, Any]]:
         """
@@ -60,27 +79,57 @@ class JobScraper:
             logger.warning(f"Unknown source: {source}")
             return None
 
-    def _fetch_page(self, url: str) -> Optional[BeautifulSoup]:
+    def _fetch_page(self, url: str, allow_redirects: bool = True) -> Optional[BeautifulSoup]:
         """
         Fetch webpage with retries
 
         Args:
             url: URL to fetch
+            allow_redirects: Whether to follow redirects (default: True)
 
         Returns:
             BeautifulSoup object or None if failed
         """
         for attempt in range(self.max_retries):
             try:
-                headers = {'User-Agent': self.user_agent}
-                response = requests.get(url, headers=headers, timeout=self.timeout)
+                # Add Referer header if this is a retry (helps with some bot protection)
+                if attempt > 0:
+                    self.session.headers['Referer'] = url
+                
+                response = self.session.get(url, timeout=self.timeout, allow_redirects=allow_redirects)
                 response.raise_for_status()
 
                 return BeautifulSoup(response.content, 'lxml')
 
+            except requests.exceptions.HTTPError as e:
+                # Handle 403 errors specifically
+                if e.response.status_code == 403:
+                    logger.warning(f"Attempt {attempt + 1} failed: 403 Forbidden - {url}")
+                    # For 403 errors, try with different approach on last attempt
+                    if attempt == self.max_retries - 1:
+                        # Try one more time with minimal headers (sometimes works)
+                        try:
+                            minimal_headers = {'User-Agent': self.user_agent}
+                            response = requests.get(url, headers=minimal_headers, timeout=self.timeout, allow_redirects=allow_redirects)
+                            response.raise_for_status()
+                            logger.info(f"Successfully fetched with minimal headers: {url}")
+                            return BeautifulSoup(response.content, 'lxml')
+                        except Exception:
+                            pass
+                else:
+                    logger.warning(f"Attempt {attempt + 1} failed: {e}")
+                
+                # Wait before retry if not last attempt
+                if attempt < self.max_retries - 1:
+                    wait_time = 2 ** attempt  # Exponential backoff
+                    time.sleep(wait_time)
+                else:
+                    logger.error(f"Failed to fetch {url} after {self.max_retries} attempts")
+                    return None
+                    
             except requests.RequestException as e:
                 logger.warning(f"Attempt {attempt + 1} failed: {e}")
-
+                # Wait before retry if not last attempt
                 if attempt < self.max_retries - 1:
                     wait_time = 2 ** attempt  # Exponential backoff
                     time.sleep(wait_time)
