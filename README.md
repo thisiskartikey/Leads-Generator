@@ -39,8 +39,8 @@ Job Radar automatically:
 
 1. **Clone this repository**
    ```bash
-   git clone https://github.com/yourusername/job-radar.git
-   cd job-radar
+   git clone https://github.com/thisiskartikey/Leads-Generator.git
+   cd Leads Generator
    ```
 
 2. **Install dependencies** (for local testing)
