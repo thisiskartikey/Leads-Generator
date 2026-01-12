@@ -87,6 +87,9 @@ function processAndDisplayJobs(data) {
     aiJobs.sort((a, b) => b.fit_score - a.fit_score);
     sustainabilityJobs.sort((a, b) => b.fit_score - a.fit_score);
 
+    // Combine all jobs for display (sustainability first, then AI)
+    const allJobs = [...sustainabilityJobs, ...aiJobs];
+
     console.log(`Categorized: ${sustainabilityJobs.length} sustainability, ${aiJobs.length} AI jobs`);
 
     // Update stats
@@ -95,13 +98,8 @@ function processAndDisplayJobs(data) {
     // Update last updated time
     updateLastUpdatedTime(data.metadata?.run_timestamp);
 
-    // Render tables
-    renderJobTable('sustainabilityTableBody', sustainabilityJobs, 'sustainability');
-    renderJobTable('aiTableBody', aiJobs, 'ai');
-
-    // Update counts
-    document.getElementById('sustainabilityCount').textContent = sustainabilityJobs.length;
-    document.getElementById('aiCount').textContent = aiJobs.length;
+    // Render combined table
+    renderCombinedJobTable(allJobs, sustainabilityJobs.length);
 }
 
 /**
@@ -135,53 +133,78 @@ function updateLastUpdatedTime(timestamp) {
         return;
     }
 
-    const date = new Date(timestamp);
-    const options = {
-        month: 'short',
-        day: 'numeric',
-        hour: '2-digit',
-        minute: '2-digit'
-    };
+    try {
+        const date = new Date(timestamp);
+        if (isNaN(date.getTime())) {
+            document.getElementById('lastUpdated').textContent = 'Invalid date';
+            return;
+        }
+        
+        const options = {
+            month: 'short',
+            day: 'numeric',
+            hour: '2-digit',
+            minute: '2-digit',
+            hour12: true
+        };
 
-    document.getElementById('lastUpdated').textContent = date.toLocaleString('en-US', options);
+        document.getElementById('lastUpdated').textContent = date.toLocaleString('en-US', options);
+    } catch (e) {
+        document.getElementById('lastUpdated').textContent = 'Error';
+        console.error('Error parsing timestamp:', e);
+    }
 }
 
 /**
- * Render job table
+ * Trigger GitHub Actions workflow (opens GitHub Actions page)
  */
-function renderJobTable(tableBodyId, jobs, pathType) {
-    const tbody = document.getElementById(tableBodyId);
+function triggerWorkflow() {
+    window.open('https://github.com/thisiskartikey/Leads-Generator/actions/workflows/job-search.yml', '_blank');
+}
+
+/**
+ * Render combined job table
+ */
+function renderCombinedJobTable(allJobs, sustainabilityCount) {
+    const tbody = document.getElementById('jobsTableBody');
     tbody.innerHTML = '';
 
-    if (jobs.length === 0) {
+    if (allJobs.length === 0) {
         const row = document.createElement('tr');
         row.innerHTML = `
             <td colspan="7" class="text-center text-muted py-4">
                 <i class="bi bi-inbox display-6"></i>
-                <p class="mt-2">No jobs found in this category</p>
+                <p class="mt-2">No jobs found</p>
             </td>
         `;
         tbody.appendChild(row);
         return;
     }
 
-    jobs.forEach(job => {
-        const analysis = pathType === 'ai' ? job.ai_analysis : job.sustainability_analysis;
+    allJobs.forEach((job, index) => {
+        const isSustainability = index < sustainabilityCount;
+        const analysis = job.primary_path === 'ai' ? job.ai_analysis : job.sustainability_analysis;
+        const fitScore = analysis?.fit_score || 0;
+        const showAdvice = fitScore > 75;
 
         const row = document.createElement('tr');
+        if (isSustainability) {
+            row.classList.add('sustainability-row');
+        }
+
         row.innerHTML = `
             <td>
                 <a href="${escapeHtml(job.url)}" target="_blank" class="job-title-link">
-                    ${escapeHtml(job.title)}
+                    ${escapeHtml(job.title || 'N/A')}
                     <i class="bi bi-box-arrow-up-right"></i>
                 </a>
             </td>
-            <td>${escapeHtml(job.company)}</td>
-            <td>${escapeHtml(job.location)}</td>
-            <td>${renderFitScoreBadge(analysis?.fit_score || 0)}</td>
+            <td>${escapeHtml(job.company || 'N/A')}</td>
+            <td>${escapeHtml(job.location || 'N/A')}</td>
+            <td>${renderFitScoreBadge(fitScore)}</td>
             <td>${renderFreshnessBadge(job.days_old || 0)}</td>
-            <td><span class="justification-text">${escapeHtml(analysis?.justification || 'N/A')}</span></td>
-            <td><span class="advice-text">${escapeHtml(analysis?.positioning_advice || 'N/A')}</span></td>
+            <td><span class="justification-text">${showAdvice ? escapeHtml(analysis?.justification || 'N/A') : '—'}</span></td>
+            <td><span class="advice-text">${showAdvice ? escapeHtml(analysis?.positioning_advice || 'N/A') : '—'}</span></td>
         `;
 
         tbody.appendChild(row);

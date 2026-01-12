@@ -210,8 +210,12 @@ class JobScraper:
                 match = re.search(r'boards\.greenhouse\.io/([^/]+)', url)
                 company = match.group(1).replace('-', ' ').title() if match else 'N/A'
 
-            # Location
+            # Location - try multiple selectors for Greenhouse
             location = self._extract_text(soup, '.location')
+            if location == 'N/A':
+                location = self._extract_text(soup, '[class*="location"]')
+            if location == 'N/A':
+                location = self._extract_text(soup, '.job-location')
 
             # Description - try multiple selectors for Greenhouse
             description = ''

@@ -172,9 +172,14 @@ class JobRadar:
             job_data = self.scraper.scrape_job(job['url'], job['source'])
 
             if job_data:
+                # Preserve title from search if scraped title is N/A
+                if (job_data.get('title') == 'N/A' or not job_data.get('title')) and job.get('title'):
+                    job_data['title'] = job['title']
+                
                 # Merge search result data with scraped data
                 job_data.update({
-                    'search_snippet': job.get('snippet', '')
+                    'search_snippet': job.get('snippet', ''),
+                    'search_title': job.get('title', '')  # Preserve original search title
                 })
                 scraped_jobs.append(job_data)
             else:
@@ -215,6 +220,26 @@ class JobRadar:
 
             # Merge analysis into job data
             job.update(analysis_results)
+            
+            # Extract job title from analysis if available and title is N/A
+            if job.get('title') == 'N/A' or not job.get('title'):
+                # Try to get from ai_analysis first, then sustainability_analysis
+                extracted_title = (job.get('ai_analysis', {}).get('extracted_title') or 
+                                 job.get('sustainability_analysis', {}).get('extracted_title'))
+                if extracted_title:
+                    job['title'] = extracted_title
+                    logger.info(f"Extracted title from analysis: {extracted_title}")
+                # Fallback to search title from Google search results
+                elif job.get('search_title'):
+                    job['title'] = job['search_title']
+                    logger.info(f"Using search title: {job['search_title']}")
+                # Fallback to search snippet title (first line usually contains title)
+                elif job.get('search_snippet'):
+                    snippet = job['search_snippet']
+                    # Try to extract title from snippet (usually first line before period/dash)
+                    title_part = snippet.split('.')[0].split('—')[0].split('|')[0].strip()
+                    if title_part and len(title_part) < 100:  # Reasonable title length
+                        job['title'] = title_part
 
             # Generate unique job ID
             job['job_id'] = generate_job_id(job['url'], job['title'], job['company'])

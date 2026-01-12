@@ -185,10 +185,23 @@ section h2 i {
     height: 3rem;
 }
 
+/* Sustainability row styling */
+.sustainability-row {
+    background-color: #f0fdf4 !important; /* Light green background */
+}
+
+.sustainability-row:hover {
+    background-color: #dcfce7 !important; /* Slightly darker green on hover */
+}
+
 /* Responsive */
 @media (max-width: 768px) {
     header h1 {
-        font-size: 2rem;
+        font-size: 1.75rem;
+    }
+    
+    header .col-auto {
+        margin-top: 1rem;
     }
 
     .stats-card {
@@ -196,27 +209,60 @@ section h2 i {
     }
 
     .table {
-        font-size: 0.85rem;
+        font-size: 0.8rem;
+        display: block;
+        overflow-x: auto;
+        -webkit-overflow-scrolling: touch;
     }
 
-    .table thead th {
-        padding: 0.5rem;
+    .table thead {
+        display: none; /* Hide headers on mobile, use data attributes instead */
+    }
+
+    .table tbody {
+        display: block;
+    }
+
+    .table tbody tr {
+        display: block;
+        margin-bottom: 1rem;
+        border: 1px solid #dee2e6;
+        border-radius: 8px;
+        padding: 0.75rem;
     }
 
     .table tbody td {
-        padding: 0.5rem;
+        display: block;
+        padding: 0.5rem 0;
+        text-align: left !important;
+        border: none;
+    }
+
+    .table tbody td:before {
+        content: attr(data-label);
+        font-weight: 600;
+        display: inline-block;
+        width: 120px;
+        margin-right: 0.5rem;
     }
 
     .fit-badge {
-        font-size: 0.9rem;
-        padding: 0.4rem 0.8rem;
-        min-width: 60px;
+        font-size: 0.85rem;
+        padding: 0.35rem 0.7rem;
+        min-width: 55px;
     }
 
     .justification-text,
     .advice-text {
         max-width: 100%;
-        font-size: 0.85rem;
+        font-size: 0.8rem;
+        display: block;
+    }
+    
+    /* Hide some columns on mobile */
+    .table tbody td:nth-child(6),
+    .table tbody td:nth-child(7) {
+        font-size: 0.75rem;
     }
 }
 

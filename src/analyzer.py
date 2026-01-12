@@ -169,7 +169,8 @@ Respond ONLY with valid JSON in this exact format:
   "fit_score": <integer 0-100>,
   "category": "<AI/Tech OR Sustainability OR Hybrid>",
   "justification": "<one concise sentence explaining the score, max 20 words>",
-  "positioning_advice": "<2-3 sentences on how to position experience for this role>"
+  "positioning_advice": "<1 concise sentence (max 15 words) on how to position experience for this role>",
+  "job_title": "<extract the job title from the job posting if clearly stated>"
 }}
 
 Scoring guide:
@@ -224,6 +225,10 @@ JSON response:"""
                 if field not in data:
                     logger.error(f"Missing required field: {field}")
                     return None
+            
+            # Extract job_title if provided (optional field from Claude)
+            if 'job_title' in data and data['job_title']:
+                data['extracted_title'] = data['job_title']
 
             # Validate fit_score is integer 0-100
             if not isinstance(data['fit_score'], int) or not (0 <= data['fit_score'] <= 100):
