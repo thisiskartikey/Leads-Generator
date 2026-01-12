@@ -1,0 +1,19 @@
+# Job Radar - Python Dependencies
+
+# Claude API for job analysis
+anthropic==0.18.1
+
+# Web scraping
+beautifulsoup4==4.12.3
+requests==2.31.0
+lxml==5.1.0
+
+# Configuration management
+pyyaml==6.0.1
+python-dotenv==1.0.0
+
+# Google search
+google-search-results==2.4.2
+
+# Date/time utilities
+python-dateutil==2.8.2

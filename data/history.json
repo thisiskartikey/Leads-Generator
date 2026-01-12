@@ -1,0 +1,8 @@
+{
+  "jobs": {},
+  "last_updated": null,
+  "metadata": {
+    "version": "1.0",
+    "description": "Tracks jobs that have been analyzed to avoid duplicates"
+  }
+}

@@ -1,0 +1,44 @@
+EXECUTIVE SUMMARY
+MBA & AI Program Manager with 8+ years leading cross-functional initiatives across operations and data systems for Fortune 500 firms. Proven track of identifying high-value AI use cases & owning end-to-end AI deployment, driving revenue, cost reduction, and decision-cycle compression. I thrive in ambiguity, translating complexities into structured roadmaps, repeatable mechanisms, and KPI driven executions. Skilled in stakeholder management, Python, SQL, AI enablement (AWS Certified AI Practitioner), and business excellence (Six Sigma Green Belt).
+
+AI STRATEGY & OPERATIONS EXPERIENCE
+Amazon.com Inc    Seattle, WA
+Program Manager, AI Strategy & Operations | Climate Pledge Friendly (CPF)                         Oct 2024 – Present
+•    Deployed AI-driven analytics (natural-language-to-SQL dashboards), surpassing 80% activation rate in 90 days, cut insights latency from days to <2 minutes, and released ~30 BIE hours/week (Projected savings: ~$175K/yr).
+•    Resolved advisory bottlenecks by deploying a governed GenAI recommender, establishing usage guardrails and adoption KPIs; achieved 80% activation, deflected 35% SME tickets, and freed 0.7 FTE capacity.
+•    Replaced manual catalog audits with an agentic AI auditing system, reducing audit costs by 76% while scaling product reviews from 100/week to 500/day at ~85% precision, improving regulatory compliance and customer trust.
+•    Lowered audit escalations by 33% by improving product and operational data integrity across 2.2M+ SKUs, reducing friction in order eligibility, downstream processing, and marketplace execution across 60+ stakeholders.
+•    Unlocked $218M in incremental sales by identifying & resolving legacy data gaps via direct engagement with external data providers, expanding cross-marketplace eligibility and improving consumer-facing availability.
+•    Delivered 7.3% incremental sales lift and 4.8% CTR by translating voice of customer into a sustainability-focused "People Also Bought" panel, validated via a 20M-user A/B test while maintaining core conversion.
+
+WSP Global Inc (Global engineering and consulting firm)    Chicago, IL
+Consultant – AI Enablement & Emissions Analytics (project based role)                                      Aug 2024 – Oct 2024
+•    Deployed Agentic AI validation system for BoA's GHG inventory across ~400 facilities, governing 200+ emission factors, cutting late-stage reconciliation ~35%, and accelerating close cycles from 3 months to ~6 weeks.
+•    Advised Microsoft Copilot leadership on AI decarbonization strategy, analyzing 10+ deployment levers and influencing product emissions modeling assumptions to unlock ~10% GHG-per-token reduction potential.
+
+Crowley Maritime Corporation (Global logistics, marine, and energy solutions company)         Anchorage, AK
+Program Lead – AI Strategy, Investment Diligence & Decarbonization                                May 2023 – Aug 2024
+•    Led 2 AI-enabled pilots: (1) battery-swapping EV fleet with predictive maintenance reducing downtime 18% and emissions 99%, and (2) net metered solar with AI-optimized energy distribution ($135K projected savings).
+•    Enabled $40K annual savings per vehicle by piloting the battery-swapping trucking fleet (projected ROI 29%), leading logistics analysis, business case development, and securing leadership approval for operational scaling.
+
+Center for Sustainable Business at University of Pittsburgh    Pittsburgh, PA
+Research Fellow – AI Driven Manufacturing & Energy Operations                                       Sep 2022 – Aug 2024
+•    Increased production throughput by 12% at Mosebach by analyzing end-to-end manufacturing flows with  AI‑supported process mapping and root cause analysis to resolve key bottlenecks.
+•    Unlocked 8% reductions in projected energy spend for Trakett via AI‑informed energy optimization.
+
+Frost & Sullivan - TechVision (Technology consulting firm)    Maharashtra, India
+Senior Research Analyst – Strategy & Technology Consulting                                            Dec 2019 – Aug 2022
+- Delivered $150k/yr in annual subscriptions by developing an interactive tech innovations benchmarking platform.
+•    Generated $200K/yr via client-facing consulting projects: AI automation, market segmentation, supply chain transparency, business case modelling, and scenario analysis, for global firms including Shell, BP, and Chevron.
+
+EDUCATION
+University of Pittsburgh, Joseph M. Katz Graduate School of Business    Pittsburgh, PA
+MBA & Masters in Management Information Systems (STEM Designation)
+Merit Based Scholar, Sustainability Fellow, and President of Katz Corporate Club of Sustainability (ESG)    Apr 2024
+
+Rajiv Gandhi Institute of Petroleum Technology    Uttar Pradesh, India
+Bachelor of Technology in Chemical Engineering (First Class Honors)
+Electives: Alternative Energy Sources and Economics    May 2017
+
+CONSULTING SKILLS & ANALYTICAL TOOLS
+AWS Certified AI Practitioner, Claude Code, Cursor, GenAI, RAG, Agentic workflows, AI deployment strategy, Stakeholder Management, Workshop Facilitation, Change Management, Customer engagement delivery, design thinking, system thinking, Data modeling / forecasting, SQL, Python, Power BI, AI/Machine Learning (ML), Financial Modeling (NPV/ROI), Operations Optimization, Salesforce.

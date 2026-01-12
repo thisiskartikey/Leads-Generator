@@ -1,0 +1,40 @@
+# Job Radar - System Settings
+
+# Claude API settings
+claude:
+  model: "claude-sonnet-4-5-20250929"
+  max_tokens: 1000
+  temperature: 0.3  # Lower = more consistent scoring
+
+# Search API settings
+serpapi:
+  results_per_page: 10
+
+# Scraping behavior
+scraping:
+  delay_between_requests: 2  # Seconds to wait between scraping jobs (be polite)
+  timeout: 10                 # Give up after this many seconds
+  max_retries: 3              # Try this many times if a scrape fails
+  user_agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+
+# History tracking
+history:
+  keep_days: 90  # Remove jobs older than this from history
+
+# Display settings
+display:
+  freshness_thresholds:
+    - days: 2
+      label: "New"
+      color: "#10B981"  # Green
+    - days: 5
+      label: "Recent"
+      color: "#3B82F6"  # Blue
+    - days: 7
+      label: "Older"
+      color: "#F59E0B"  # Amber
+
+  fit_score_labels:
+    90: "Exceptional"
+    75: "Strong"
+    60: "Moderate"

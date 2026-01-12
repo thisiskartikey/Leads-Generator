@@ -1,0 +1,40 @@
+# Job Radar - Search Configuration
+# Edit this to change what jobs you search for
+
+search_timeframe_days: 7  # How many days back to search
+
+# Keywords that must appear in job postings
+keywords:
+  must_have:  # Job must include at least one of these
+    - sustainable
+    - sustainability
+    - ESG
+    - climate
+    - impact
+
+  roles:  # Job title must include one of these
+    - consultant
+    - strategy
+    - analyst
+    - advisor
+    - specialist
+    - "program manager"
+    - director
+
+# Which job boards to search (uses Google site: operator)
+job_boards:
+  - boards.greenhouse.io
+  - jobs.ashbyhq.com
+  - lever.co
+  - workable.com
+
+# Location filters
+locations:
+  - "United States"
+  - USA
+  - US
+  - remote
+
+# Limits
+max_results_per_search: 50  # Don't analyze more than this (cost control)
+min_fit_score_to_show: 60   # Hide jobs scoring below this

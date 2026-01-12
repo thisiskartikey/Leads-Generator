@@ -1,0 +1,45 @@
+EXECUTIVE SUMMARY
+MBA and program manager with 7+ years leading decarbonization programs, sustainability data systems, and cross-functional delivery for Fortune 500 firms. Proven expertise in building project frameworks, embedding sustainability into operations, driving global reporting compliance, and standardizing KPIs and data pipelines. Delivers audit-ready reporting through AI-enabled analytics and integrated management systems.
+
+TECHNOLOGY & PROGRAM MANAGEMENT EXPERIENCE
+Amazon.com Inc    Seattle, WA
+Sustainability Program Manager with Climate Pledge Friendly (CPF)                                      Oct 2024 – Present
+•    Lowered audit escalations by 33% by improving sustainability data integrity across 2.2M+ SKUs, by developing sustainability management system standardizing validations, SOPs, and audit controls across 60+ stakeholders
+•    Increased detail page impressions by 28% by automating cross-marketplace eligibility and aligning global regulatory requirements into the data and sales-coverage logic, ensuring scalable and compliant product visibility.
+•    Closed catalog coverage gaps by 18% by driving portfolio-level prioritization and resource allocation across 6+ sustainability initiatives, aligning science and marketing teams to accelerate high-impact assessments.
+•    Deployed enterprise-trained AI tool for sustainability data procurement and analysis, cutting production time by 90%; integrated UX-focused user feedback into 3 releases, conducted training sessions, driving org-wide adoption.
+•    Reduced product detail page auditing cost by 76% by deploying agentic AI-based image-detection to identify catalog defects, improving data integrity and driving measurable gains in audit-quality KPIs.
+•    Reduced escalation incidents by 20% by standardizing meeting prep, action logs, follow-ups, and reporting mechanisms across global partner teams and 15+ cross-regional workflows
+•    Achieved 15% YoY catalog growth by simplifying workflows across 50+ certifiers and marketing teams.
+
+WSP Global Inc (Global engineering and consulting firm)    Chicago, IL
+Project Consultant – Sustainability Data & Decarbonization Programs (project based role)    Aug 2024 – Oct 2024
+•    Developed research scope and methodology for Microsoft Copilot's decarbonization study, defining emission framework and evaluating 10+ AI compute levers across ~80% of model pathways for GHG reduction potential.
+•    Led BoA GHG validation for TCFD disclosures, verifying 200+ emission factors, improving accuracy by 10%.
+
+Crowley Maritime Corporation (Global logistics, marine, and energy solutions company)         Anchorage, AK
+Program Manager – Decarbonization Strategy & Technical Analysis                                 May 2023 – Aug 2024
+•    Analyzed Emissions profile, benchmarked company's electricity supply, developed decarbonization roadmap to reduce Science Based Target of 42% of scope 1 & 2 emissions, and presented roadmap to senior stakeholders.
+•    Conducted financial analysis of pilot projects, secured leadership buy-ins for 2 pilots: 99% emission reduction in trucking via battery-swapping EVs, and 51% utility-bill reduction via utility-scale solar (projected savings: $135K).
+
+Center for Sustainable Business at University of Pittsburgh    Pittsburgh, PA
+Sustainability Research Fellow – Circular Design and Renewable Strategy                        Sep 2022 – Aug 2024
+•    Led Life Cycle Assessment (LCA) and Materiality assessments, mapping emissions by material and process.
+•    Identified & Benchmarked 15 wholesale energy suppliers, augmenting energy portfolio of select Tarkett's facilities.
+
+Frost & Sullivan - TechVision (Technology consulting firm)    Maharashtra, India
+Consulting Analyst – Technology & Strategy Projects                                                         Dec 2019 – Aug 2022
+- Augmented company's offering by developing a subscription-based platform benchmarking tech innovations.
+•    Contributed $200K via client-facing consulting projects: climate action plans, market segmentation, supply chain transparency, business case modelling, and project coordination, for global firms including Shell, BP, and Chevron.
+
+EDUCATION
+University of Pittsburgh, Joseph M. Katz Graduate School of Business    Pittsburgh, PA
+MBA & Masters in Management Information Systems (STEM Designation)
+Merit Based Scholar, Sustainability Fellow, and President of Katz Corporate Club of Sustainability (ESG)    Apr 2024
+
+Rajiv Gandhi Institute of Petroleum Technology    Uttar Pradesh, India
+Bachelor of Technology in Chemical Engineering (First Class Honors)
+Electives: Alternative Energy Sources and Economics    May 2017
+
+PROGRAM MANAGEMENT & TECHNICAL SKILLS
+SBTi, CSRD, SASB/ISSB, GRI, TCFD, Data Dashboards, Power BI, Tableau, SQL, Python, SimaPro, OKR/KPI, activation readiness, consumer-facing experiences, solution design sessions.
