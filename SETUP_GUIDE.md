@@ -91,7 +91,7 @@ git push -u origin main
    - Select **Deploy from a branch**
 3. Under "Branch":
    - Branch: **main**
-   - Folder: **/web**
+   - Folder: **/docs**
 4. Click **Save**
 
 ⏳ Wait 1-2 minutes for GitHub Pages to deploy
@@ -299,7 +299,7 @@ python main.py
 
 ```bash
 # Start local web server
-cd web
+cd docs
 python -m http.server 8000
 
 # Open browser to: http://localhost:8000

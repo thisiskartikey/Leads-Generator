@@ -59,7 +59,7 @@ Job Radar automatically:
 
 5. **Enable GitHub Actions & Pages**
    - Go to Actions tab → Enable workflows
-   - Go to Settings → Pages → Deploy from branch `main`, folder `/web`
+   - Go to Settings → Pages → Deploy from branch `main`, folder `/docs`
 
 6. **Trigger first run**
    - Go to Actions tab → "Job Radar Search" → "Run workflow"
@@ -116,13 +116,14 @@ scraping:
 ## File Structure
 
 ```
-job-radar/
+Leads-Generator/
 ├── .github/workflows/     # GitHub Actions automation
 ├── config/                # Search & system configuration
 ├── resumes/               # Your resume files
 ├── src/                   # Python source code
 ├── data/                  # Results and history (generated)
-├── web/                   # Dashboard (HTML/CSS/JS)
+├── docs/                  # Dashboard (HTML/CSS/JS) - GitHub Pages
+├── web/                   # Dashboard source (copied to docs/)
 └── requirements.txt       # Python dependencies
 ```
 
@@ -170,7 +171,7 @@ export SERPAPI_KEY="your-key"
 python src/main.py
 
 # Start local web server
-python -m http.server 8000 --directory web
+python -m http.server 8000 --directory docs
 # Visit http://localhost:8000
 ```
 

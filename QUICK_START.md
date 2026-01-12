@@ -33,7 +33,7 @@ cd "C:\Users\Kartikey Shukla\Claude\Job Tracker Project"
 
 1. **Settings** → **Pages**
 2. Source: **Deploy from a branch**
-3. Branch: **main**, Folder: **/web**
+3. Branch: **main**, Folder: **/docs**
 4. Click **Save**
 
 ### 4. Run First Search
@@ -82,7 +82,7 @@ Edit `.github/workflows/job-search.yml` cron line:
 | Workflow fails | Check API keys in Secrets |
 | Dashboard blank | Wait for first workflow to complete |
 | No jobs found | Broaden search keywords |
-| Can't access dashboard | Verify Pages enabled with `/web` folder |
+| Can't access dashboard | Verify Pages enabled with `/docs` folder |
 
 ---
 
