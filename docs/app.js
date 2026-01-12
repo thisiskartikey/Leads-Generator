@@ -192,22 +192,37 @@ function renderCombinedJobTable(allJobs, sustainabilityCount) {
             row.classList.add('sustainability-row');
         }
 
+        const justification = showAdvice ? (analysis?.justification || 'N/A') : '—';
+        const advice = showAdvice ? (analysis?.positioning_advice || 'N/A') : '—';
+        const rowId = `job-row-${index}`;
+        
+        row.setAttribute('id', rowId);
         row.innerHTML = `
-            <td>
+            <td data-label="Job Title">
                 <a href="${escapeHtml(job.url)}" target="_blank" class="job-title-link">
                     ${escapeHtml(job.title || 'N/A')}
                     <i class="bi bi-box-arrow-up-right"></i>
                 </a>
             </td>
-            <td>${escapeHtml(job.company || 'N/A')}</td>
-            <td>${escapeHtml(job.location || 'N/A')}</td>
-            <td>${renderFitScoreBadge(fitScore)}</td>
-            <td>${renderFreshnessBadge(job.days_old || 0)}</td>
-            <td><span class="justification-text">${showAdvice ? escapeHtml(analysis?.justification || 'N/A') : '—'}</span></td>
-            <td><span class="advice-text">${showAdvice ? escapeHtml(analysis?.positioning_advice || 'N/A') : '—'}</span></td>
+            <td data-label="Company">${escapeHtml(job.company || 'N/A')}</td>
+            <td data-label="Location">${escapeHtml(job.location || 'N/A')}</td>
+            <td data-label="Fit Score">${renderFitScoreBadge(fitScore)}</td>
+            <td data-label="Freshness">${renderFreshnessBadge(job.days_old || 0)}</td>
+            <td class="expandable-cell" data-label="Justification">
+                ${renderExpandableText(justification, `${rowId}-justification`, 'justification')}
+            </td>
+            <td class="expandable-cell" data-label="Positioning Advice">
+                ${renderExpandableText(advice, `${rowId}-advice`, 'advice')}
+            </td>
         `;
 
         tbody.appendChild(row);
+        
+        // Attach event listeners after DOM insertion (with small delay to ensure DOM is ready)
+        setTimeout(() => {
+            attachExpandListeners(`${rowId}-justification`);
+            attachExpandListeners(`${rowId}-advice`);
+        }, 0);
     });
 }
 
@@ -251,6 +266,68 @@ function renderFreshnessBadge(daysOld) {
     }
 
     return `<span class="freshness-badge ${badgeClass}">${icon} ${label}</span>`;
+}
+
+/**
+ * Render expandable text with button
+ */
+function renderExpandableText(text, id, type) {
+    if (text === '—' || !text || text === 'N/A') {
+        return '<span class="text-muted">—</span>';
+    }
+    
+    const escapedText = escapeHtml(text);
+    const previewLength = 60; // Characters to show in preview
+    const isLong = escapedText.length > previewLength;
+    const preview = isLong ? escapedText.substring(0, previewLength) + '...' : escapedText;
+    const fullText = escapedText;
+    
+    if (!isLong) {
+        return `<span class="expandable-content ${type}-text">${fullText}</span>`;
+    }
+    
+    return `
+        <div class="expandable-text-container">
+            <span class="expandable-content ${type}-text" id="${id}-content">${preview}</span>
+            <button type="button" class="btn-expand-text" data-target="${id}" aria-label="Expand ${type}">
+                <i class="bi bi-chevron-down"></i> Show more
+            </button>
+            <span class="expandable-full ${type}-text" id="${id}-full" style="display: none;">${fullText}</span>
+            <button type="button" class="btn-collapse-text" data-target="${id}" style="display: none;" aria-label="Collapse ${type}">
+                <i class="bi bi-chevron-up"></i> Show less
+            </button>
+        </div>
+    `;
+}
+
+/**
+ * Attach expand/collapse event listeners
+ */
+function attachExpandListeners(id) {
+    const expandBtn = document.querySelector(`button[data-target="${id}"].btn-expand-text`);
+    const collapseBtn = document.querySelector(`button[data-target="${id}"].btn-collapse-text`);
+    const content = document.getElementById(`${id}-content`);
+    const full = document.getElementById(`${id}-full`);
+    
+    if (expandBtn && collapseBtn && content && full) {
+        expandBtn.addEventListener('click', (e) => {
+            e.preventDefault();
+            e.stopPropagation();
+            content.style.display = 'none';
+            full.style.display = 'inline';
+            expandBtn.style.display = 'none';
+            collapseBtn.style.display = 'inline-block';
+        });
+        
+        collapseBtn.addEventListener('click', (e) => {
+            e.preventDefault();
+            e.stopPropagation();
+            content.style.display = 'inline';
+            full.style.display = 'none';
+            expandBtn.style.display = 'inline-block';
+            collapseBtn.style.display = 'none';
+        });
+    }
 }
 
 /**
