@@ -1,11 +1,10 @@
 {
   "jobs": [],
   "metadata": {
-    "run_timestamp": "2026-01-11T00:00:00.000000",
-    "total_searched": 0,
-    "new_jobs_found": 0,
-    "jobs_analyzed": 0,
-    "jobs_skipped": 0,
-    "message": "No jobs yet. Run the Job Radar workflow to populate this dashboard!"
+    "run_timestamp": "2026-01-12T02:31:42.863643",
+    "total_searched": 50,
+    "new_jobs_found": 50,
+    "jobs_analyzed": 49,
+    "jobs_skipped": 0
   }
 }
