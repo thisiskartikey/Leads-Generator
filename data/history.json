@@ -524,7 +524,7 @@
       "url": "https://boards.greenhouse.io/oscar/jobs/7527512",
       "title": "Site Not Loading?",
       "company": "Oscar",
-      "first_seen": "2026-01-12T03:44:25.138655",
+      "first_seen": "2026-01-12T04:24:13.068517",
       "ai_fit_score": 0,
       "sustainability_fit_score": 0
     },
@@ -532,20 +532,164 @@
       "url": "https://boards.greenhouse.io/block/jobs/5025895008",
       "title": "Partner Development Lead, Commerce: Afterpay & Cash App",
       "company": "Block",
-      "first_seen": "2026-01-12T03:46:19.567376",
+      "first_seen": "2026-01-12T04:25:10.364382",
       "ai_fit_score": 42,
-      "sustainability_fit_score": 42
+      "sustainability_fit_score": 35
     },
     "a18e9d420e2a40f1": {
       "url": "https://boards.greenhouse.io/stripe/jobs/7249436",
       "title": "Stripe logoJobs",
       "company": "Stripe",
-      "first_seen": "2026-01-12T03:47:35.038896",
-      "ai_fit_score": 25,
+      "first_seen": "2026-01-12T04:26:20.653735",
+      "ai_fit_score": 35,
       "sustainability_fit_score": 15
+    },
+    "ebabafcd7e883834": {
+      "url": "https://boards.greenhouse.io/databricks/jobs/8359995002",
+      "title": "Program Manager, AI Operations",
+      "company": "Databricks",
+      "first_seen": "2026-01-12T04:24:19.549123",
+      "ai_fit_score": 95,
+      "sustainability_fit_score": 82
+    },
+    "c54b4f81e376f11e": {
+      "url": "https://boards.greenhouse.io/sorcero/jobs/5544668004",
+      "title": "Job Details Page",
+      "company": "Sorcero",
+      "first_seen": "2026-01-12T04:24:25.996401",
+      "ai_fit_score": 15,
+      "sustainability_fit_score": 15
+    },
+    "f1cdd6a6ae421a45": {
+      "url": "https://boards.greenhouse.io/aurorainnovation/jobs/8365621002",
+      "title": "Recruiting Operations Program Manager (Data & ...",
+      "company": "Aurorainnovation",
+      "first_seen": "2026-01-12T04:24:32.040419",
+      "ai_fit_score": 35,
+      "sustainability_fit_score": 45
+    },
+    "f92371aab2aa2b9e": {
+      "url": "https://jobs.ashbyhq.com/coram-ai/97977fc8-b4d0-4537-8fa1-6887973bc828",
+      "title": "Coram AI - Product Manager",
+      "company": "Coram Ai",
+      "first_seen": "2026-01-12T04:24:37.973915",
+      "ai_fit_score": 68,
+      "sustainability_fit_score": 25
+    },
+    "e42e8e99052c3621": {
+      "url": "https://jobs.ashbyhq.com/navigate-ai/889f3a95-5945-45e2-9fad-61e12faf5c45",
+      "title": "AI Product Manager @ Navigate AI",
+      "company": "Navigate Ai",
+      "first_seen": "2026-01-12T04:24:44.454182",
+      "ai_fit_score": 92,
+      "sustainability_fit_score": 42
+    },
+    "3edafe876e2cc390": {
+      "url": "https://jobs.ashbyhq.com/vanta/50761522-d82f-488d-98cc-0ec6ea34909b",
+      "title": "Program Manager, AI Transformation (Customer Success)",
+      "company": "Vanta",
+      "first_seen": "2026-01-12T04:24:50.538485",
+      "ai_fit_score": 92,
+      "sustainability_fit_score": 45
+    },
+    "7d3f555c67faddfc": {
+      "url": "https://jobs.ashbyhq.com/sciemo/53d55b13-f085-427f-9c4c-1ca2aa2e3b2e",
+      "title": "Founding Head of Product @ Sciemo",
+      "company": "Sciemo",
+      "first_seen": "2026-01-12T04:25:17.051388",
+      "ai_fit_score": 92,
+      "sustainability_fit_score": 68
+    },
+    "4526f68b773bd1e1": {
+      "url": "https://jobs.ashbyhq.com/heypinnacle/2fac331e-5a84-47d6-b3fc-fa6e7726a308",
+      "title": "AI Learning Specialist @ Pinnacle Global",
+      "company": "Heypinnacle",
+      "first_seen": "2026-01-12T04:25:03.695159",
+      "ai_fit_score": 72,
+      "sustainability_fit_score": 45
+    },
+    "33b3dbd772e35690": {
+      "url": "https://jobs.ashbyhq.com/TonicAI/ce690252-7666-4563-91e4-9f26350831bc",
+      "title": "Senior Product Manager, AI @ Tonic AI",
+      "company": "Tonicai",
+      "first_seen": "2026-01-12T04:25:22.688264",
+      "ai_fit_score": 72,
+      "sustainability_fit_score": 42
+    },
+    "f30e16318c67dcaf": {
+      "url": "https://jobs.ashbyhq.com/super.com/69551696-d46b-4887-8d4e-ba889a3a1f3e",
+      "title": "Director of Analytics & Data Science @ Super.com",
+      "company": "Super.Com",
+      "first_seen": "2026-01-12T04:25:29.410403",
+      "ai_fit_score": 65,
+      "sustainability_fit_score": 35
+    },
+    "b0679c9df8ef0f4c": {
+      "url": "https://jobs.ashbyhq.com/theydo/2e84c036-a870-46d5-ae59-73208c7944a2",
+      "title": "Principal Product Manager (AI) @ TheyDo",
+      "company": "Theydo",
+      "first_seen": "2026-01-12T04:25:42.961465",
+      "ai_fit_score": 45,
+      "sustainability_fit_score": 35
+    },
+    "2bad3ed6123e103c": {
+      "url": "https://jobs.ashbyhq.com/lilt-production/4cab6791-9f3f-40ce-a981-6f94bef28db1",
+      "title": "AI Research SME Specialist - AI Training @ LILT (Production)",
+      "company": "Lilt Production",
+      "first_seen": "2026-01-12T04:25:48.676675",
+      "ai_fit_score": 15,
+      "sustainability_fit_score": 15
+    },
+    "0b8141da5e4743ee": {
+      "url": "https://jobs.ashbyhq.com/mirelo/1002d2ce-ddf5-4595-bb16-63ef5bb675e8",
+      "title": "Principal Product Manager @ Mirelo AI",
+      "company": "Mirelo",
+      "first_seen": "2026-01-12T04:25:55.245750",
+      "ai_fit_score": 45,
+      "sustainability_fit_score": 35
+    },
+    "1eab4a01b2c4088a": {
+      "url": "https://jobs.ashbyhq.com/broccoli/c8fff54a-0f65-4182-9328-d224ce2c7dd5",
+      "title": "Strategy & Operations Lead @ Broccoli AI",
+      "company": "Broccoli",
+      "first_seen": "2026-01-12T04:26:01.460022",
+      "ai_fit_score": 72,
+      "sustainability_fit_score": 25
+    },
+    "cbae6521950482b7": {
+      "url": "https://jobs.ashbyhq.com/alexai/426e3f19-01c4-4390-8777-5057384c0004",
+      "title": "Founding Product Manager @ Alex AI",
+      "company": "Alexai",
+      "first_seen": "2026-01-12T04:26:07.425586",
+      "ai_fit_score": 92,
+      "sustainability_fit_score": 45
+    },
+    "103bba518c005878": {
+      "url": "https://jobs.ashbyhq.com/ramp/63df0ffc-bdc6-40ba-906f-fe03378536b0/application?utm_source_platform=workoutsideoffice.com",
+      "title": "AI Operations Specialist | Enablement @ Ramp",
+      "company": "Ramp",
+      "first_seen": "2026-01-12T04:26:13.448236",
+      "ai_fit_score": 92,
+      "sustainability_fit_score": 45
+    },
+    "b7500d7265652234": {
+      "url": "https://jobs.ashbyhq.com/traba/d49bfa49-96c5-4dd6-8a16-05cd7987f4a0",
+      "title": "Senior Data Analyst - Founding Team @ Traba",
+      "company": "Traba",
+      "first_seen": "2026-01-12T04:26:27.212501",
+      "ai_fit_score": 85,
+      "sustainability_fit_score": 68
+    },
+    "91e7c0790f7f2650": {
+      "url": "https://jobs.ashbyhq.com/sardine/adc5f3ee-2ace-4675-8551-d8748162a299",
+      "title": "Product Manager - AI @ Sardine",
+      "company": "Sardine",
+      "first_seen": "2026-01-12T04:26:33.088441",
+      "ai_fit_score": 45,
+      "sustainability_fit_score": 35
     }
   },
-  "last_updated": "2026-01-12T03:48:17.604967",
+  "last_updated": "2026-01-12T04:26:33.090047",
   "metadata": {
     "version": "1.0",
     "description": "Tracks jobs that have been analyzed to avoid duplicates"
