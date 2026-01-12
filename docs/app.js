@@ -12,6 +12,10 @@ const REFRESH_INTERVAL = 300000; // 5 minutes
 
 // State
 let jobsData = null;
+let workflowRunning = false;
+let workflowStartTime = null;
+let workflowCheckInterval = null;
+let progressUpdateInterval = null;
 
 /**
  * Initialize dashboard
@@ -140,6 +144,8 @@ function updateLastUpdatedTime(timestamp) {
             return;
         }
         
+        // Use browser's local timezone (automatically converts UTC to user's timezone)
+        // For Boston (EST/EDT), this will automatically display in the correct timezone
         const options = {
             month: 'short',
             day: 'numeric',
@@ -159,7 +165,148 @@ function updateLastUpdatedTime(timestamp) {
  * Trigger GitHub Actions workflow (opens GitHub Actions page)
  */
 function triggerWorkflow() {
+    // Open GitHub Actions page
     window.open('https://github.com/thisiskartikey/Leads-Generator/actions/workflows/job-search.yml', '_blank');
+    
+    // Show progress indicator
+    startWorkflowProgress();
+}
+
+/**
+ * Start workflow progress tracking
+ */
+function startWorkflowProgress() {
+    workflowRunning = true;
+    workflowStartTime = Date.now();
+    
+    // Store current timestamp for comparison
+    if (jobsData && jobsData.metadata && jobsData.metadata.run_timestamp) {
+        localStorage.setItem('lastKnownTimestamp', new Date(jobsData.metadata.run_timestamp).getTime().toString());
+    }
+    
+    // Show progress bar
+    showWorkflowProgress();
+    
+    // Update progress immediately
+    updateWorkflowProgress();
+    
+    // Update progress every second for smooth animation
+    if (progressUpdateInterval) {
+        clearInterval(progressUpdateInterval);
+    }
+    
+    progressUpdateInterval = setInterval(() => {
+        if (!workflowRunning) {
+            clearInterval(progressUpdateInterval);
+            return;
+        }
+        updateWorkflowProgress();
+    }, 1000);
+    
+    // Check for updates more frequently (every 30 seconds) while workflow is running
+    if (workflowCheckInterval) {
+        clearInterval(workflowCheckInterval);
+    }
+    
+    workflowCheckInterval = setInterval(async () => {
+        if (!workflowRunning) {
+            clearInterval(workflowCheckInterval);
+            if (progressUpdateInterval) clearInterval(progressUpdateInterval);
+            return;
+        }
+        
+        // Try to reload data to see if workflow completed
+        try {
+            await loadJobData();
+            // Check if we got new data (timestamp changed)
+            if (jobsData && jobsData.metadata && jobsData.metadata.run_timestamp) {
+                const newTimestamp = new Date(jobsData.metadata.run_timestamp).getTime();
+                const lastKnownTimestamp = localStorage.getItem('lastKnownTimestamp');
+                
+                if (!lastKnownTimestamp || newTimestamp > parseInt(lastKnownTimestamp)) {
+                    // Workflow completed!
+                    if (progressUpdateInterval) clearInterval(progressUpdateInterval);
+                    stopWorkflowProgress();
+                    localStorage.setItem('lastKnownTimestamp', newTimestamp.toString());
+                }
+            }
+        } catch (err) {
+            console.log('Workflow still running...');
+        }
+    }, 30000); // Check every 30 seconds
+    
+    // Stop after 20 minutes (safety timeout)
+    setTimeout(() => {
+        if (workflowRunning) {
+            if (progressUpdateInterval) clearInterval(progressUpdateInterval);
+            stopWorkflowProgress();
+            console.log('Workflow progress timeout');
+        }
+    }, 1200000); // 20 minutes
+}
+
+/**
+ * Show workflow progress indicator
+ */
+function showWorkflowProgress() {
+    const progressContainer = document.getElementById('workflowProgress');
+    if (progressContainer) {
+        progressContainer.classList.remove('d-none');
+        updateWorkflowProgress();
+    }
+}
+
+/**
+ * Update workflow progress display
+ */
+function updateWorkflowProgress() {
+    if (!workflowRunning || !workflowStartTime) return;
+    
+    const elapsedSeconds = Math.floor((Date.now() - workflowStartTime) / 1000);
+    const elapsedMinutes = Math.floor(elapsedSeconds / 60);
+    const elapsedSecondsRemainder = elapsedSeconds % 60;
+    
+    const progressText = document.getElementById('workflowProgressText');
+    const progressBar = document.getElementById('workflowProgressBar');
+    
+    if (progressText) {
+        // Estimated time: 5-10 minutes, so we'll show progress based on that
+        const estimatedMinutes = 7.5; // Average
+        const progressPercent = Math.min((elapsedMinutes / estimatedMinutes) * 100, 95);
+        
+        progressText.textContent = `Running search... (${elapsedMinutes}m ${elapsedSecondsRemainder}s elapsed, ~${Math.max(0, Math.ceil(estimatedMinutes - elapsedMinutes))}m remaining)`;
+        
+        if (progressBar) {
+            progressBar.style.width = `${progressPercent}%`;
+            progressBar.setAttribute('aria-valuenow', progressPercent);
+        }
+    }
+}
+
+/**
+ * Stop workflow progress tracking
+ */
+function stopWorkflowProgress() {
+    workflowRunning = false;
+    workflowStartTime = null;
+    
+    const progressContainer = document.getElementById('workflowProgress');
+    if (progressContainer) {
+        progressContainer.classList.add('d-none');
+    }
+    
+    if (workflowCheckInterval) {
+        clearInterval(workflowCheckInterval);
+        workflowCheckInterval = null;
+    }
+    
+    if (progressUpdateInterval) {
+        clearInterval(progressUpdateInterval);
+        progressUpdateInterval = null;
+    }
+    
+    // Reload data to show latest results
+    loadJobData();
 }
 
 /**

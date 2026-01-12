@@ -34,6 +34,20 @@
                         <button id="triggerWorkflowBtn" class="btn btn-primary btn-sm mt-2" onclick="triggerWorkflow()">
                             <i class="bi bi-arrow-clockwise"></i> Run Search
                         </button>
+                        
+                        <!-- Workflow Progress Indicator -->
+                        <div id="workflowProgress" class="d-none mt-3">
+                            <div class="workflow-progress-container">
+                                <div class="d-flex align-items-center justify-content-between mb-2">
+                                    <small class="text-muted" id="workflowProgressText">Running search...</small>
+                                    <span class="spinner-border spinner-border-sm text-primary" role="status" aria-hidden="true"></span>
+                                </div>
+                                <div class="progress" style="height: 6px;">
+                                    <div id="workflowProgressBar" class="progress-bar progress-bar-striped progress-bar-animated" 
+                                         role="progressbar" style="width: 0%" aria-valuenow="0" aria-valuemin="0" aria-valuemax="100"></div>
+                                </div>
+                            </div>
+                        </div>
                     </div>
                 </div>
             </div>
