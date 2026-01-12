@@ -7,7 +7,7 @@
 // Use absolute path for GitHub Pages compatibility
 const DATA_URL = window.location.hostname === 'localhost' || window.location.hostname === '127.0.0.1'
     ? '../data/results.json'  // Local development
-    : 'https://raw.githubusercontent.com/thisiskartikey/Leads-Generator/main/data/results.json'; // GitHub Pages
+    : 'https://raw.githubusercontent.com/thisiskartikey/Leads-Generator/main/data/results.json?t=' + Date.now(); // GitHub Pages (with cache busting)
 const REFRESH_INTERVAL = 300000; // 5 minutes
 
 // State

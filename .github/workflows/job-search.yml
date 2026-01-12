@@ -95,12 +95,19 @@ jobs:
               print(f"- Jobs analyzed: {metadata.get('jobs_analyzed', 0)}")
               print(f"- Jobs in results: {len(jobs)}")
 
-              # Count by category
-              ai_jobs = sum(1 for job in jobs if job.get('ai_analysis', {}).get('fit_score', 0) >= job.get('sustainability_analysis', {}).get('fit_score', 0))
-              sus_jobs = len(jobs) - ai_jobs
+              # Count by category (matches dashboard logic: only jobs with score > 0)
+              ai_jobs = []
+              sus_jobs = []
+              for job in jobs:
+                  ai_score = job.get('ai_analysis', {}).get('fit_score', 0)
+                  sus_score = job.get('sustainability_analysis', {}).get('fit_score', 0)
+                  if ai_score >= sus_score and ai_score > 0:
+                      ai_jobs.append(job)
+                  elif sus_score > 0:
+                      sus_jobs.append(job)
 
-              print(f"- AI/Tech jobs: {ai_jobs}")
-              print(f"- Sustainability jobs: {sus_jobs}")
+              print(f"- AI/Tech jobs: {len(ai_jobs)}")
+              print(f"- Sustainability jobs: {len(sus_jobs)}")
 
               # High fit jobs
               high_fit = sum(1 for job in jobs if max(
