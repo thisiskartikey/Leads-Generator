@@ -154,18 +154,24 @@ class JobSearcher:
 
                 # Parse results
                 for result in organic_results:
+                    url = result.get('link', '')
+                    source = self._identify_job_board(url)
+
                     job_data = {
-                        'url': result.get('link', ''),
+                        'url': url,
                         'title': result.get('title', ''),
                         'snippet': result.get('snippet', ''),
-                        'source': self._identify_job_board(result.get('link', ''))
+                        'source': source
                     }
 
                     # Only include if from one of our target job boards
                     if job_data['source']:
                         all_results.append(job_data)
+                    else:
+                        # DEBUG: Log rejected URLs to identify the issue
+                        logger.warning(f"Rejected URL (not from target job boards): {url}")
 
-                logger.info(f"Page {page + 1}: Found {len(organic_results)} results")
+                logger.info(f"Page {page + 1}: Found {len(organic_results)} results, {len([r for r in organic_results if self._identify_job_board(r.get('link', ''))])} matched job boards")
 
                 # Check if we have enough results
                 if len(all_results) >= max_results:
