@@ -84,9 +84,9 @@
       "url": "https://boards.greenhouse.io/databricks/jobs/8359995002",
       "title": "N/A",
       "company": "Databricks",
-      "first_seen": "2026-01-12T03:33:29.426162",
-      "ai_fit_score": 0,
-      "sustainability_fit_score": 0
+      "first_seen": "2026-01-12T03:44:36.077166",
+      "ai_fit_score": 92,
+      "sustainability_fit_score": 82
     },
     "041b607239cf51c3": {
       "url": "https://jobs.lever.co/jobgether/f5ba6f81-945b-4007-bdce-1fd205105d43",
@@ -372,156 +372,180 @@
       "url": "https://jobs.ashbyhq.com/hive.co/3758c78b-dc3b-48a2-aff6-a517a258c09a",
       "title": "N/A",
       "company": "Hive.Co",
-      "first_seen": "2026-01-12T03:33:35.383514",
-      "ai_fit_score": 0,
-      "sustainability_fit_score": 0
+      "first_seen": "2026-01-12T03:44:46.298527",
+      "ai_fit_score": 72,
+      "sustainability_fit_score": 42
     },
     "3beae4aeabb71789": {
       "url": "https://jobs.ashbyhq.com/heypinnacle/2fac331e-5a84-47d6-b3fc-fa6e7726a308",
       "title": "N/A",
       "company": "Heypinnacle",
-      "first_seen": "2026-01-12T03:33:41.691446",
-      "ai_fit_score": 0,
-      "sustainability_fit_score": 0
+      "first_seen": "2026-01-12T03:44:56.687895",
+      "ai_fit_score": 72,
+      "sustainability_fit_score": 45
     },
     "2bd69f81eda8373a": {
       "url": "https://jobs.ashbyhq.com/navigate-ai/889f3a95-5945-45e2-9fad-61e12faf5c45",
       "title": "N/A",
       "company": "Navigate Ai",
-      "first_seen": "2026-01-12T03:33:48.368320",
-      "ai_fit_score": 0,
-      "sustainability_fit_score": 0
+      "first_seen": "2026-01-12T03:45:07.216837",
+      "ai_fit_score": 92,
+      "sustainability_fit_score": 42
     },
     "a20828f59e501d72": {
       "url": "https://boards.greenhouse.io/sorcero/jobs/5544668004",
       "title": "N/A",
       "company": "Sorcero",
-      "first_seen": "2026-01-12T03:33:54.419885",
-      "ai_fit_score": 0,
-      "sustainability_fit_score": 0
+      "first_seen": "2026-01-12T03:45:15.274565",
+      "ai_fit_score": 15,
+      "sustainability_fit_score": 25
     },
     "63560cf7a70a778d": {
       "url": "https://jobs.ashbyhq.com/coram-ai/97977fc8-b4d0-4537-8fa1-6887973bc828",
       "title": "N/A",
       "company": "Coram Ai",
-      "first_seen": "2026-01-12T03:34:01.018163",
-      "ai_fit_score": 0,
-      "sustainability_fit_score": 0
+      "first_seen": "2026-01-12T03:45:25.542720",
+      "ai_fit_score": 72,
+      "sustainability_fit_score": 35
     },
     "a6b1221c7c39ad9d": {
       "url": "https://jobs.ashbyhq.com/vanta/50761522-d82f-488d-98cc-0ec6ea34909b",
       "title": "N/A",
       "company": "Vanta",
-      "first_seen": "2026-01-12T03:34:06.709673",
-      "ai_fit_score": 0,
-      "sustainability_fit_score": 0
+      "first_seen": "2026-01-12T03:45:36.191108",
+      "ai_fit_score": 92,
+      "sustainability_fit_score": 45
     },
     "2292d0e3429e6ed4": {
       "url": "https://boards.greenhouse.io/aurorainnovation/jobs/8365621002",
       "title": "N/A",
       "company": "Aurorainnovation",
-      "first_seen": "2026-01-12T03:34:14.092104",
-      "ai_fit_score": 0,
-      "sustainability_fit_score": 0
+      "first_seen": "2026-01-12T03:45:45.227715",
+      "ai_fit_score": 45,
+      "sustainability_fit_score": 45
     },
     "899d7a6677643400": {
       "url": "https://jobs.ashbyhq.com/sciemo/53d55b13-f085-427f-9c4c-1ca2aa2e3b2e",
       "title": "N/A",
       "company": "Sciemo",
-      "first_seen": "2026-01-12T03:34:21.402379",
-      "ai_fit_score": 0,
-      "sustainability_fit_score": 0
+      "first_seen": "2026-01-12T03:45:55.745145",
+      "ai_fit_score": 92,
+      "sustainability_fit_score": 68
     },
     "89e28bd41bd36159": {
       "url": "https://jobs.ashbyhq.com/TonicAI/ce690252-7666-4563-91e4-9f26350831bc",
       "title": "N/A",
       "company": "Tonicai",
-      "first_seen": "2026-01-12T03:34:28.369798",
-      "ai_fit_score": 0,
-      "sustainability_fit_score": 0
+      "first_seen": "2026-01-12T03:46:06.312968",
+      "ai_fit_score": 45,
+      "sustainability_fit_score": 42
     },
     "a27ce7bdd7a78692": {
       "url": "https://jobs.ashbyhq.com/lilt-production/4cab6791-9f3f-40ce-a981-6f94bef28db1",
       "title": "N/A",
       "company": "Lilt Production",
-      "first_seen": "2026-01-12T03:34:41.224333",
-      "ai_fit_score": 0,
-      "sustainability_fit_score": 0
+      "first_seen": "2026-01-12T03:46:26.885348",
+      "ai_fit_score": 15,
+      "sustainability_fit_score": 15
     },
     "b0d00807d70517ad": {
       "url": "https://jobs.ashbyhq.com/super.com/69551696-d46b-4887-8d4e-ba889a3a1f3e",
       "title": "N/A",
       "company": "Super.Com",
-      "first_seen": "2026-01-12T03:34:47.990129",
-      "ai_fit_score": 0,
-      "sustainability_fit_score": 0
+      "first_seen": "2026-01-12T03:46:38.444687",
+      "ai_fit_score": 72,
+      "sustainability_fit_score": 35
     },
     "91eb353b4f031d1e": {
       "url": "https://jobs.ashbyhq.com/alexai/426e3f19-01c4-4390-8777-5057384c0004",
       "title": "N/A",
       "company": "Alexai",
-      "first_seen": "2026-01-12T03:34:53.876731",
-      "ai_fit_score": 0,
-      "sustainability_fit_score": 0
+      "first_seen": "2026-01-12T03:46:50.064521",
+      "ai_fit_score": 92,
+      "sustainability_fit_score": 45
     },
     "3b232c77e7399cf8": {
       "url": "https://jobs.ashbyhq.com/theydo/2e84c036-a870-46d5-ae59-73208c7944a2",
       "title": "N/A",
       "company": "Theydo",
-      "first_seen": "2026-01-12T03:35:00.235846",
-      "ai_fit_score": 0,
-      "sustainability_fit_score": 0
+      "first_seen": "2026-01-12T03:47:01.233542",
+      "ai_fit_score": 45,
+      "sustainability_fit_score": 35
     },
     "7278ef888aca55ba": {
       "url": "https://jobs.ashbyhq.com/broccoli/c8fff54a-0f65-4182-9328-d224ce2c7dd5",
       "title": "N/A",
       "company": "Broccoli",
-      "first_seen": "2026-01-12T03:35:06.238640",
-      "ai_fit_score": 0,
-      "sustainability_fit_score": 0
+      "first_seen": "2026-01-12T03:47:13.597046",
+      "ai_fit_score": 45,
+      "sustainability_fit_score": 25
     },
     "26f557b81f6ff3b4": {
       "url": "https://jobs.ashbyhq.com/joist-ai/f38fb2c6-2d4d-4d90-848c-e52b2664ff62/application?utm_source=pWWZQZmNLJ",
       "title": "N/A",
       "company": "Joist Ai",
-      "first_seen": "2026-01-12T03:35:13.075915",
-      "ai_fit_score": 0,
-      "sustainability_fit_score": 0
+      "first_seen": "2026-01-12T03:47:24.553295",
+      "ai_fit_score": 72,
+      "sustainability_fit_score": 42
     },
     "8d557f32aa8baf07": {
       "url": "https://jobs.ashbyhq.com/ramp/63df0ffc-bdc6-40ba-906f-fe03378536b0/application?utm_source_platform=workoutsideoffice.com",
       "title": "N/A",
       "company": "Ramp",
-      "first_seen": "2026-01-12T03:35:27.173524",
-      "ai_fit_score": 0,
-      "sustainability_fit_score": 0
+      "first_seen": "2026-01-12T03:47:46.365918",
+      "ai_fit_score": 92,
+      "sustainability_fit_score": 45
     },
     "cb21f16344889c1c": {
       "url": "https://jobs.ashbyhq.com/sardine/adc5f3ee-2ace-4675-8551-d8748162a299",
       "title": "N/A",
       "company": "Sardine",
-      "first_seen": "2026-01-12T03:35:33.566775",
-      "ai_fit_score": 0,
-      "sustainability_fit_score": 0
+      "first_seen": "2026-01-12T03:47:56.539566",
+      "ai_fit_score": 45,
+      "sustainability_fit_score": 25
     },
     "38bbc86578da02e6": {
       "url": "https://jobs.ashbyhq.com/handshake/c5753428-968f-4142-9dbc-49d419f0a020",
       "title": "N/A",
       "company": "Handshake",
-      "first_seen": "2026-01-12T03:35:40.296177",
-      "ai_fit_score": 0,
-      "sustainability_fit_score": 0
+      "first_seen": "2026-01-12T03:48:07.171943",
+      "ai_fit_score": 92,
+      "sustainability_fit_score": 35
     },
     "21d32522e0aef3c5": {
       "url": "https://jobs.ashbyhq.com/traba/d49bfa49-96c5-4dd6-8a16-05cd7987f4a0",
       "title": "N/A",
       "company": "Traba",
-      "first_seen": "2026-01-12T03:35:46.941901",
+      "first_seen": "2026-01-12T03:48:17.603415",
+      "ai_fit_score": 92,
+      "sustainability_fit_score": 68
+    },
+    "0681fc884f49ca0d": {
+      "url": "https://boards.greenhouse.io/oscar/jobs/7527512",
+      "title": "Site Not Loading?",
+      "company": "Oscar",
+      "first_seen": "2026-01-12T03:44:25.138655",
       "ai_fit_score": 0,
       "sustainability_fit_score": 0
+    },
+    "43134c292acf558d": {
+      "url": "https://boards.greenhouse.io/block/jobs/5025895008",
+      "title": "Partner Development Lead, Commerce: Afterpay & Cash App",
+      "company": "Block",
+      "first_seen": "2026-01-12T03:46:19.567376",
+      "ai_fit_score": 42,
+      "sustainability_fit_score": 42
+    },
+    "a18e9d420e2a40f1": {
+      "url": "https://boards.greenhouse.io/stripe/jobs/7249436",
+      "title": "Stripe logoJobs",
+      "company": "Stripe",
+      "first_seen": "2026-01-12T03:47:35.038896",
+      "ai_fit_score": 25,
+      "sustainability_fit_score": 15
     }
   },
-  "last_updated": "2026-01-12T03:35:46.943254",
+  "last_updated": "2026-01-12T03:48:17.604967",
   "metadata": {
     "version": "1.0",
     "description": "Tracks jobs that have been analyzed to avoid duplicates"
