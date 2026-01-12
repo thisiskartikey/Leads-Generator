@@ -1,7 +1,7 @@
 # Job Radar - Search Configuration
 # Edit this to change what jobs you search for
 
-search_timeframe_days: 7  # How many days back to search
+search_timeframe_days: 30  # How many days back to search
 
 # Keywords that must appear in job postings
 keywords:
@@ -20,13 +20,13 @@ keywords:
     - "AI strategy"
     - "AI transformation"
 
-  # SECONDARY: Sustainability terms (for cross-domain matches)
-  sustainability_focus:
-    - sustainable
-    - sustainability
-    - ESG
-    - climate
-    - impact
+  # # SECONDARY: Sustainability terms (for cross-domain matches)
+  # sustainability_focus:
+  #   - sustainable
+  #   - sustainability
+  #   - ESG
+  #   - climate
+  #   - impact
 
   # ROLE TYPES: Must include one of these in job title
   # Will be combined with AI focus terms above
@@ -55,5 +55,5 @@ locations:
   - remote
 
 # Limits
-max_results_per_search: 10  # Don't analyze more than this (cost control)
+max_results_per_search: 25  # Don't analyze more than this (cost control)
 min_fit_score_to_show: 0    # TEMPORARILY SET TO 0 to debug - show ALL jobs
