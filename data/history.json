@@ -548,9 +548,9 @@
       "url": "https://boards.greenhouse.io/databricks/jobs/8359995002",
       "title": "Program Manager, AI Operations",
       "company": "Databricks",
-      "first_seen": "2026-01-13T08:18:22.176398",
-      "ai_fit_score": 95,
-      "sustainability_fit_score": 82
+      "first_seen": "2026-01-16T23:46:22.665081",
+      "ai_fit_score": 0,
+      "sustainability_fit_score": 0
     },
     "c54b4f81e376f11e": {
       "url": "https://boards.greenhouse.io/sorcero/jobs/5544668004",
@@ -588,7 +588,7 @@
       "url": "https://jobs.ashbyhq.com/vanta/50761522-d82f-488d-98cc-0ec6ea34909b",
       "title": "Program Manager, AI Transformation (Customer Success)",
       "company": "Vanta",
-      "first_seen": "2026-01-13T08:18:55.216014",
+      "first_seen": "2026-01-16T23:46:34.546168",
       "ai_fit_score": 92,
       "sustainability_fit_score": 45
     },
@@ -604,7 +604,7 @@
       "url": "https://jobs.ashbyhq.com/heypinnacle/2fac331e-5a84-47d6-b3fc-fa6e7726a308",
       "title": "AI Learning Specialist @ Pinnacle Global",
       "company": "Heypinnacle",
-      "first_seen": "2026-01-13T08:19:42.111611",
+      "first_seen": "2026-01-16T23:47:41.406927",
       "ai_fit_score": 72,
       "sustainability_fit_score": 45
     },
@@ -692,15 +692,15 @@
       "url": "https://jobs.ashbyhq.com/Unwrap/ea416d79-1486-422c-955b-cf368c87490f",
       "title": "AI Product Manager @ Unwrap",
       "company": "Unwrap",
-      "first_seen": "2026-01-13T08:18:29.239581",
+      "first_seen": "2026-01-16T23:46:28.006093",
       "ai_fit_score": 92,
-      "sustainability_fit_score": 45
+      "sustainability_fit_score": 35
     },
     "38bd4eecb5dead78": {
       "url": "https://jobs.ashbyhq.com/hive.co/3758c78b-dc3b-48a2-aff6-a517a258c09a",
       "title": "Senior AI Product Manager @ hive.co",
       "company": "Hive.Co",
-      "first_seen": "2026-01-13T08:18:48.558052",
+      "first_seen": "2026-01-16T23:46:52.338603",
       "ai_fit_score": 72,
       "sustainability_fit_score": 45
     },
@@ -743,9 +743,121 @@
       "first_seen": "2026-01-13T08:20:59.128266",
       "ai_fit_score": 72,
       "sustainability_fit_score": 45
+    },
+    "a58d667c2f9174be": {
+      "url": "https://jobs.ashbyhq.com/siena/89fe7b6e-3740-4eb0-bc42-95d7f3df4c96",
+      "title": "Product Manager, AI Agent Deployment @ Siena AI",
+      "company": "Siena",
+      "first_seen": "2026-01-16T23:46:41.228878",
+      "ai_fit_score": 92,
+      "sustainability_fit_score": 42
+    },
+    "06835d1b4b2872b3": {
+      "url": "https://jobs.ashbyhq.com/raspberry/b2fe39f1-a8bd-4124-af41-281ee0b1decb",
+      "title": "AI Support and Operations Specialist @ Raspberry AI",
+      "company": "Raspberry",
+      "first_seen": "2026-01-16T23:46:46.742620",
+      "ai_fit_score": 45,
+      "sustainability_fit_score": 72
+    },
+    "c790f89ca08011c4": {
+      "url": "https://jobs.ashbyhq.com/tessera-labs/ea05dfd6-92d7-4ccc-aa53-2f31a85928c5",
+      "title": "Product Manager @ Tessera Labs",
+      "company": "Tessera Labs",
+      "first_seen": "2026-01-16T23:46:58.462001",
+      "ai_fit_score": 92,
+      "sustainability_fit_score": 72
+    },
+    "1bd76a23ac291741": {
+      "url": "https://jobs.ashbyhq.com/peec/ec5b4a25-f0b7-4a4f-9c0e-22fcddc5a5f5",
+      "title": "Director Data Science @ Peec AI",
+      "company": "Peec",
+      "first_seen": "2026-01-16T23:47:04.575069",
+      "ai_fit_score": 45,
+      "sustainability_fit_score": 35
+    },
+    "ff283bf4ec0c059f": {
+      "url": "https://jobs.ashbyhq.com/Profound/7a6182d0-efcd-4b5a-9d90-93f8797b7395",
+      "title": "AI Strategist, New Grad @ Profound",
+      "company": "Profound",
+      "first_seen": "2026-01-16T23:47:17.437328",
+      "ai_fit_score": 95,
+      "sustainability_fit_score": 45
+    },
+    "34214aba31cf799e": {
+      "url": "https://jobs.ashbyhq.com/withwisdom/dcc4d55d-a30a-42f2-9588-b2558a2e45c4",
+      "title": "Principal Product Manager @ Wisdom",
+      "company": "Withwisdom",
+      "first_seen": "2026-01-16T23:47:23.528169",
+      "ai_fit_score": 92,
+      "sustainability_fit_score": 35
+    },
+    "84fa70ce7e91bab3": {
+      "url": "https://boards.greenhouse.io/block/jobs/5069412008",
+      "title": "Staff Software Engineer, Finplat, Ledgering",
+      "company": "Block",
+      "first_seen": "2026-01-16T23:47:29.664663",
+      "ai_fit_score": 42,
+      "sustainability_fit_score": 25
+    },
+    "8e42d9b45a5c20bd": {
+      "url": "https://jobs.ashbyhq.com/Distyl/26efee2c-a61a-4e92-90ac-cc7d879a6e67",
+      "title": "Strategic Account Director, CX Solutions @ Distyl AI",
+      "company": "Distyl",
+      "first_seen": "2026-01-16T23:47:36.120662",
+      "ai_fit_score": 25,
+      "sustainability_fit_score": 25
+    },
+    "9dfb7f9b3b37dcff": {
+      "url": "https://boards.greenhouse.io/abnormalsecurity/jobs/7587192003",
+      "title": "Senior Program Manager, Product Marketing",
+      "company": "Abnormalsecurity",
+      "first_seen": "2026-01-16T23:47:47.132202",
+      "ai_fit_score": 45,
+      "sustainability_fit_score": 35
+    },
+    "556484917b22e9fd": {
+      "url": "https://boards.greenhouse.io/hubspotjobs/jobs/7433668",
+      "title": "All Open Positions",
+      "company": "Hubspotjobs",
+      "first_seen": "2026-01-16T23:47:54.575270",
+      "ai_fit_score": 95,
+      "sustainability_fit_score": 85
+    },
+    "4bb6e099a280f3f1": {
+      "url": "https://jobs.ashbyhq.com/evenup",
+      "title": "EvenUp",
+      "company": "Evenup",
+      "first_seen": "2026-01-16T23:48:00.081913",
+      "ai_fit_score": 45,
+      "sustainability_fit_score": 25
+    },
+    "7f8134cf9332236f": {
+      "url": "https://boards.greenhouse.io/cookunity/jobs/7592543003",
+      "title": "Head of AI Creative Growth",
+      "company": "Cookunity",
+      "first_seen": "2026-01-16T23:48:12.789822",
+      "ai_fit_score": 35,
+      "sustainability_fit_score": 35
+    },
+    "c30cff5fccf7cb80": {
+      "url": "https://boards.greenhouse.io/gametimeunited/jobs/5071620008",
+      "title": "Director, Applied Machine Learning",
+      "company": "Gametimeunited",
+      "first_seen": "2026-01-16T23:48:26.760113",
+      "ai_fit_score": 0,
+      "sustainability_fit_score": 25
+    },
+    "a121045738bdd01b": {
+      "url": "https://jobs.ashbyhq.com/junior/d4a14f28-a392-4dd2-9486-6f598f384fc0",
+      "title": "Lead Product Manager @ MyJunior AI",
+      "company": "Junior",
+      "first_seen": "2026-01-16T23:48:33.868086",
+      "ai_fit_score": 72,
+      "sustainability_fit_score": 42
     }
   },
-  "last_updated": "2026-01-13T08:21:05.930682",
+  "last_updated": "2026-01-16T23:48:33.869676",
   "metadata": {
     "version": "1.0",
     "description": "Tracks jobs that have been analyzed to avoid duplicates"
