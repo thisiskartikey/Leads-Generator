@@ -62,6 +62,7 @@ class JobRadar:
                 'jobs_skipped': 0
             }
         }
+        self.analyzed_jobs = []
 
     def _get_profile_display_name(self) -> str:
         profiles = self.search_config.get('profiles', {})
@@ -77,6 +78,9 @@ class JobRadar:
 
     def _search_runs_path(self) -> str:
         return f"data/search_runs_{self.profile_name}.json"
+
+    def _snapshots_path(self) -> str:
+        return f"data/job_snapshots_{self.profile_name}.json"
 
     def run(self) -> Dict[str, Any]:
         """
@@ -126,8 +130,12 @@ class JobRadar:
             logger.info("Step 4: Analyzing jobs with Claude AI...")
             analyzed_jobs = self._analyze_jobs(scraped_jobs)
             self.results['metadata']['jobs_analyzed'] = len(analyzed_jobs)
+            self.analyzed_jobs = analyzed_jobs
 
             logger.info(f"Analyzed {len(analyzed_jobs)} jobs\n")
+
+            if analyzed_jobs:
+                self._log_job_snapshots(analyzed_jobs)
 
             # Step 5: Filter by minimum fit score
             logger.info("Step 5: Filtering by minimum fit score...")
@@ -405,6 +413,53 @@ class JobRadar:
 
         save_json_file(runs_path, runs_data)
         logger.info(f"Logged search run to {runs_path}")
+
+    def _log_job_snapshots(self, jobs: List[Dict[str, Any]]) -> None:
+        """Log latest job snapshot details for keyword search"""
+        snapshots_path = self._snapshots_path()
+        snapshots = load_optional_json(snapshots_path)
+        if not snapshots:
+            snapshots = {
+                'profile': self.profile_name,
+                'jobs': {}
+            }
+
+        jobs_map = snapshots.get('jobs', {})
+        now = datetime.now().isoformat()
+
+        for job in jobs:
+            job_id = job.get('job_id')
+            if not job_id:
+                job_id = generate_job_id(job.get('url', ''), job.get('title', ''), job.get('company', ''))
+
+            description = (job.get('description') or '').strip()
+            if description:
+                description_source = 'scraped'
+            else:
+                description = (job.get('search_snippet') or '').strip()
+                description_source = 'snippet' if description else 'missing'
+
+            entry = jobs_map.get(job_id, {})
+            if not entry:
+                entry['first_seen'] = now
+
+            entry.update({
+                'title': job.get('title', 'N/A'),
+                'company': job.get('company', 'N/A'),
+                'location': job.get('location', 'N/A'),
+                'url': job.get('url', ''),
+                'description': description,
+                'description_source': description_source,
+                'source': job.get('source', 'unknown'),
+                'last_seen': now
+            })
+            jobs_map[job_id] = entry
+
+        snapshots['jobs'] = jobs_map
+        snapshots['last_updated'] = now
+
+        save_json_file(snapshots_path, snapshots)
+        logger.info(f"Logged job snapshots to {snapshots_path}")
 
     def _print_summary(self) -> None:
         """Print execution summary"""

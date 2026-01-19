@@ -16,7 +16,9 @@ Job Radar automatically:
 - 🤖 **AI-Powered Analysis**: Claude API evaluates job fit for two career paths
 - 🔄 **Automated Schedule**: Runs Tuesday & Saturday mornings automatically
 - 🎯 **Manual Trigger**: Run search anytime from GitHub Actions
-- 📊 **Clean Dashboard**: Mobile-friendly web interface
+- 📊 **Clean Dashboard**: Mobile-friendly web interface
+- Archive + Search: Dedicated archive page with full job descriptions
+- Applied Tracking: Applied status syncs across devices (via GitHub)
 - ⚙️ **Easy Config**: Edit search criteria via YAML files
 - 💰 **Cost Effective**: ~$6-10/month with free hosting
 
@@ -71,6 +73,9 @@ Job Radar automatically:
 ### View Dashboard
 Visit: `https://thisiskartikey.github.io/Leads-Generator/`
 
+### Archive & Search
+Visit: `https://thisiskartikey.github.io/Leads-Generator/archive.html`
+
 ### Manual Search
 1. Go to GitHub repo → Actions tab
 2. Select "Job Radar Search" workflow
@@ -86,6 +91,11 @@ Visit: `https://thisiskartikey.github.io/Leads-Generator/`
 1. Edit resume files in `resumes/` folder (including `resumes/anvesha_resume.txt`)
 2. Commit changes
 3. Trigger manual run to re-analyze jobs
+
+### Applied Status Sync
+1. Toggle "Applied" on the dashboard
+2. Your GitHub token (from the keyword editor) is used to commit `data/status_<profile>.json`
+3. Applied counts appear in the Archive page
 
 ## Configuration
 
@@ -142,6 +152,8 @@ Leads-Generator/
 ├── resumes/               # Your resume files
 ├── src/                   # Python source code
 ├── data/                  # Results and history (generated)
+│   ├── job_snapshots_*.json # Archive data with full descriptions
+│   ├── status_*.json        # Applied status (synced across devices)
 ├── docs/                  # Dashboard (HTML/CSS/JS) - GitHub Pages
 ├── web/                   # Dashboard source (copied to docs/)
 └── requirements.txt       # Python dependencies
@@ -257,3 +269,17 @@ Built with:
 ---
 
 Happy job hunting! 🚀
+
+
+
+
+
+
+
+
+
+
+
+
+
+

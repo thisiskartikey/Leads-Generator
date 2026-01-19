@@ -95,6 +95,16 @@ header .bi-radar {
     opacity: 0.6;
 }
 
+.company-name {
+    font-weight: 600;
+}
+
+.job-location {
+    font-size: 0.8rem;
+    color: #6B7280;
+    margin-top: 2px;
+}
+
 /* Fit Score Badge */
 .fit-badge {
     display: inline-block;
@@ -279,10 +289,109 @@ section h2 i {
     opacity: 0.85;
 }
 
+.applied-row {
+    box-shadow: inset 4px 0 0 #10B981;
+}
+
+.job-status {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    flex-wrap: wrap;
+    margin-top: 4px;
+}
+
+.applied-toggle {
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    font-size: 0.8rem;
+    color: #6B7280;
+    cursor: pointer;
+    user-select: none;
+}
+
+.applied-toggle-input {
+    width: 34px;
+    height: 18px;
+    appearance: none;
+    background-color: #E5E7EB;
+    border-radius: 999px;
+    position: relative;
+    outline: none;
+    cursor: pointer;
+    transition: background-color 0.2s;
+}
+
+.applied-toggle-input::after {
+    content: '';
+    position: absolute;
+    top: 2px;
+    left: 2px;
+    width: 14px;
+    height: 14px;
+    border-radius: 50%;
+    background-color: #FFFFFF;
+    box-shadow: 0 1px 2px rgba(0, 0, 0, 0.15);
+    transition: transform 0.2s;
+}
+
+.applied-toggle-input:checked {
+    background-color: #10B981;
+}
+
+.applied-toggle-input:checked::after {
+    transform: translateX(16px);
+}
+
+.applied-toggle--on .applied-toggle-label {
+    color: #047857;
+    font-weight: 600;
+}
+
 .job-meta {
     font-size: 0.8rem;
     color: #6B7280;
     margin-top: 4px;
+}
+
+/* Archive */
+.archive-card {
+    border: none;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+}
+
+.archive-list {
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+}
+
+.archive-entry {
+    border: none;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.08);
+}
+
+.archive-title {
+    font-size: 1.1rem;
+    font-weight: 600;
+    margin: 0;
+}
+
+.archive-meta {
+    color: #6B7280;
+    font-size: 0.85rem;
+    margin-top: 4px;
+}
+
+.archive-description {
+    margin-top: 12px;
+}
+
+.archive-text {
+    color: #374151;
+    font-size: 0.9rem;
+    line-height: 1.6;
 }
 
 /* Responsive - Mobile (iPhone and similar devices) */
@@ -524,6 +633,34 @@ section h2 i {
 
     .job-meta {
         color: #9CA3AF;
+    }
+
+    .job-location {
+        color: #9CA3AF;
+    }
+
+    .applied-toggle {
+        color: #9CA3AF;
+    }
+
+    .applied-toggle-input {
+        background-color: #374151;
+    }
+
+    .applied-toggle-input::after {
+        background-color: #F9FAFB;
+    }
+
+    .applied-toggle-input:checked {
+        background-color: #10B981;
+    }
+
+    .archive-meta {
+        color: #9CA3AF;
+    }
+
+    .archive-text {
+        color: #E5E7EB;
     }
 }
 

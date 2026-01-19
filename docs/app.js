@@ -13,6 +13,8 @@ const REFRESH_INTERVAL = 300000; // 5 minutes
 
 const PROFILE_STORAGE_KEY = 'jobRadar.activeProfile';
 const VIEWED_STORAGE_PREFIX = 'jobRadar.viewed.';
+const APPLIED_STORAGE_PREFIX = 'jobRadar.applied.';
+const STATUS_PREFIX = 'data/status_';
 const TOKEN_STORAGE_KEY = 'jobRadar.githubToken';
 const KEYWORD_MODE_STORAGE_KEY = 'jobRadar.keywordMode';
 
@@ -68,6 +70,18 @@ function getSearchRunsUrl(profile) {
     return `https://raw.githubusercontent.com/${REPO_OWNER}/${REPO_NAME}/${REPO_BRANCH}/${fileName}?t=${Date.now()}`;
 }
 
+function getStatusPath(profile) {
+    return `${STATUS_PREFIX}${profile}.json`;
+}
+
+function getStatusUrl(profile) {
+    const fileName = getStatusPath(profile);
+    if (window.location.hostname === 'localhost' || window.location.hostname === '127.0.0.1') {
+        return `../${fileName}`;
+    }
+    return `https://raw.githubusercontent.com/${REPO_OWNER}/${REPO_NAME}/${REPO_BRANCH}/${fileName}?t=${Date.now()}`;
+}
+
 function getProfileConfigUrl() {
     if (window.location.hostname === 'localhost' || window.location.hostname === '127.0.0.1') {
         return `../${PROFILE_CONFIG_PATH}`;
@@ -98,6 +112,19 @@ async function loadSearchRuns(profile) {
     } catch (error) {
         console.warn('Failed to load search runs.', error);
         return { runs: [] };
+    }
+}
+
+async function loadAppliedStatus(profile) {
+    try {
+        const response = await fetch(getStatusUrl(profile));
+        if (!response.ok) {
+            return { applied: {} };
+        }
+        return await response.json();
+    } catch (error) {
+        console.warn('Failed to load applied status.', error);
+        return { applied: {} };
     }
 }
 
@@ -161,6 +188,7 @@ async function loadJobData(profile) {
         const data = await response.json();
         jobsData = data;
         searchRunsData = await loadSearchRuns(profile);
+        await syncAppliedFromStatus(profile);
 
         if (!data.jobs || data.jobs.length === 0) {
             showNoDataState();
@@ -493,6 +521,7 @@ function renderCombinedJobTable(allJobs, profile) {
         const fitScore = analysis?.fit_score || 0;
         const showAdvice = fitScore > 75;
         const viewed = isJobViewed(profile, job.job_id);
+        const applied = isJobApplied(profile, job.job_id);
 
         const row = document.createElement('tr');
         if (job.primary_path === 'sustainability' && profile === 'kartikey') {
@@ -501,11 +530,15 @@ function renderCombinedJobTable(allJobs, profile) {
         if (viewed) {
             row.classList.add('viewed-row');
         }
+        if (applied) {
+            row.classList.add('applied-row');
+        }
 
         const justification = showAdvice ? (analysis?.justification || 'N/A') : '-';
         const advice = showAdvice ? (analysis?.positioning_advice || 'N/A') : '-';
         const rowId = `job-row-${index}`;
         const viewedBadge = viewed ? '<span class="badge bg-secondary ms-2">Viewed</span>' : '';
+        const appliedToggle = renderAppliedToggle(job.job_id, applied);
         const runMeta = buildSearchRunMeta(job.job_id);
         const runMetaLine = runMeta ? `<div class="job-meta">${escapeHtml(runMeta)}</div>` : '';
 
@@ -516,10 +549,16 @@ function renderCombinedJobTable(allJobs, profile) {
                     ${escapeHtml(job.title || 'N/A')}
                     <i class="bi bi-box-arrow-up-right"></i>
                 </a>
-                ${viewedBadge}
+                <div class="job-status">
+                    ${viewedBadge}
+                    ${appliedToggle}
+                </div>
                 ${runMetaLine}
             </td>
-            <td data-label="Company">${escapeHtml(job.company || 'N/A')}</td>
+            <td data-label="Company">
+                <div class="company-name">${escapeHtml(job.company || 'N/A')}</div>
+                <div class="job-location">${escapeHtml(job.location || 'N/A')}</div>
+            </td>
             <td data-label="Fit Score">${renderFitScoreBadge(fitScore)}</td>
             <td class="expandable-cell" data-label="Justification">
                 ${renderExpandableText(justification, `${rowId}-justification`, 'justification')}
@@ -538,6 +577,7 @@ function renderCombinedJobTable(allJobs, profile) {
     });
 
     attachViewedListeners(profile);
+    attachAppliedListeners(profile);
 }
 
 function renderFitScoreBadge(score) {
@@ -569,6 +609,39 @@ function attachViewedListeners(profile) {
     });
 }
 
+function renderAppliedToggle(jobId, applied) {
+    const checked = applied ? 'checked' : '';
+    const stateClass = applied ? 'applied-toggle--on' : '';
+    return `
+        <label class="applied-toggle ${stateClass}">
+            <input type="checkbox" class="applied-toggle-input" data-job-id="${escapeHtml(jobId)}" ${checked} aria-label="Mark job as applied">
+            <span class="applied-toggle-label">Applied</span>
+        </label>
+    `;
+}
+
+function attachAppliedListeners(profile) {
+    const toggles = document.querySelectorAll('.applied-toggle-input');
+    toggles.forEach(toggle => {
+        toggle.addEventListener('change', async () => {
+            const jobId = toggle.getAttribute('data-job-id');
+            if (!jobId) return;
+            setJobApplied(profile, jobId, toggle.checked);
+
+            const row = toggle.closest('tr');
+            if (row) {
+                row.classList.toggle('applied-row', toggle.checked);
+            }
+            const wrapper = toggle.closest('.applied-toggle');
+            if (wrapper) {
+                wrapper.classList.toggle('applied-toggle--on', toggle.checked);
+            }
+
+            await persistAppliedStatus(profile);
+        });
+    });
+}
+
 function getViewedMap(profile) {
     const raw = localStorage.getItem(`${VIEWED_STORAGE_PREFIX}${profile}`);
     if (!raw) return {};
@@ -595,6 +668,82 @@ function markJobViewed(profile, jobId, link) {
         if (!row.querySelector('.badge.bg-secondary')) {
             link.insertAdjacentHTML('afterend', '<span class="badge bg-secondary ms-2">Viewed</span>');
         }
+    }
+}
+
+function getAppliedMap(profile) {
+    const raw = localStorage.getItem(`${APPLIED_STORAGE_PREFIX}${profile}`);
+    if (!raw) return {};
+    try {
+        return JSON.parse(raw) || {};
+    } catch {
+        return {};
+    }
+}
+
+function isJobApplied(profile, jobId) {
+    const applied = getAppliedMap(profile);
+    return Boolean(applied[jobId]);
+}
+
+function setJobApplied(profile, jobId, isApplied) {
+    const applied = getAppliedMap(profile);
+    if (isApplied) {
+        applied[jobId] = new Date().toISOString();
+    } else {
+        delete applied[jobId];
+    }
+    localStorage.setItem(`${APPLIED_STORAGE_PREFIX}${profile}`, JSON.stringify(applied));
+}
+
+function mergeAppliedMaps(baseMap, nextMap) {
+    const merged = { ...baseMap };
+    Object.entries(nextMap || {}).forEach(([jobId, timestamp]) => {
+        if (!merged[jobId]) {
+            merged[jobId] = timestamp;
+            return;
+        }
+        const existing = new Date(merged[jobId]).getTime();
+        const incoming = new Date(timestamp).getTime();
+        if (Number.isNaN(existing) || incoming > existing) {
+            merged[jobId] = timestamp;
+        }
+    });
+    return merged;
+}
+
+async function syncAppliedFromStatus(profile) {
+    const status = await loadAppliedStatus(profile);
+    const remoteApplied = status?.applied || {};
+    const localApplied = getAppliedMap(profile);
+    const merged = mergeAppliedMaps(remoteApplied, localApplied);
+    localStorage.setItem(`${APPLIED_STORAGE_PREFIX}${profile}`, JSON.stringify(merged));
+}
+
+async function persistAppliedStatus(profile) {
+    const token = localStorage.getItem(TOKEN_STORAGE_KEY);
+    if (!token) return;
+
+    const status = await loadAppliedStatus(profile);
+    const remoteApplied = status?.applied || {};
+    const localApplied = getAppliedMap(profile);
+    const merged = mergeAppliedMaps(remoteApplied, localApplied);
+
+    const payload = {
+        profile,
+        applied: merged,
+        last_updated: new Date().toISOString()
+    };
+
+    try {
+        await updateGitHubFile(
+            getStatusPath(profile),
+            JSON.stringify(payload, null, 2),
+            token,
+            `Update applied status for ${profile}`
+        );
+    } catch (error) {
+        console.warn('Failed to sync applied status.', error);
     }
 }
 
@@ -707,7 +856,12 @@ async function saveKeywordsToGitHub() {
     updated.profiles[activeProfile].keywords.roles = roleKeywords;
 
     try {
-        await updateGitHubFile(PROFILE_CONFIG_PATH, JSON.stringify(updated, null, 2), token);
+        await updateGitHubFile(
+            PROFILE_CONFIG_PATH,
+            JSON.stringify(updated, null, 2),
+            token,
+            `Update keywords for ${activeProfile}`
+        );
         profileKeywords = updated;
         if (successBox) successBox.classList.remove('d-none');
     } catch (error) {
@@ -718,7 +872,7 @@ async function saveKeywordsToGitHub() {
     }
 }
 
-async function updateGitHubFile(path, content, token) {
+async function updateGitHubFile(path, content, token, message) {
     const apiUrl = `https://api.github.com/repos/${REPO_OWNER}/${REPO_NAME}/contents/${path}`;
     const headers = {
         'Authorization': `Bearer ${token}`,
@@ -726,21 +880,28 @@ async function updateGitHubFile(path, content, token) {
     };
 
     const existingResponse = await fetch(`${apiUrl}?ref=${REPO_BRANCH}`, { headers });
-    if (!existingResponse.ok) {
-        throw new Error(`Failed to load config from GitHub (${existingResponse.status})`);
+    let existingData = null;
+    if (existingResponse.status !== 404) {
+        if (!existingResponse.ok) {
+            throw new Error(`Failed to load config from GitHub (${existingResponse.status})`);
+        }
+        existingData = await existingResponse.json();
     }
-    const existingData = await existingResponse.json();
     const encoded = btoa(unescape(encodeURIComponent(content)));
+
+    const requestBody = {
+        message: message || `Update keywords for ${activeProfile}`,
+        content: encoded,
+        branch: REPO_BRANCH
+    };
+    if (existingData?.sha) {
+        requestBody.sha = existingData.sha;
+    }
 
     const updateResponse = await fetch(apiUrl, {
         method: 'PUT',
         headers,
-        body: JSON.stringify({
-            message: `Update keywords for ${activeProfile}`,
-            content: encoded,
-            sha: existingData.sha,
-            branch: REPO_BRANCH
-        })
+        body: JSON.stringify(requestBody)
     });
 
     if (!updateResponse.ok) {
