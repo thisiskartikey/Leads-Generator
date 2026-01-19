@@ -449,7 +449,7 @@ def main():
                 if results['metadata']['jobs_analyzed'] > 0:
                     logger.info(f"✓ Job Radar completed for {profile_name}!")
                 else:
-                    logger.warning("? No new jobs found or analyzed for {0}" -f profile_name)
+                    logger.warning(f"? No new jobs found or analyzed for {profile_name}")
             return 0
 
         profile_name = args.profile or search_config.get('active_profile')
@@ -466,10 +466,11 @@ def main():
         return 0  # Not an error, just no new jobs
 
     except Exception as e:
-        logger.error("? Job Radar failed: {0}" -f e)
+        logger.error(f"? Job Radar failed: {e}")
         return 1
 
 
 if __name__ == "__main__":
     exit(main())
+
 

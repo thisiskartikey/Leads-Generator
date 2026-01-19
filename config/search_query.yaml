@@ -74,25 +74,18 @@ profiles:
     display_name: "Anvesha"
     keywords:
       focus:
-        - "product designer"
         - "product design"
-        - "ux designer"
-        - "ux researcher"
-        - "ui researcher"
-        - "ui/ux"
-        - "interaction designer"
-        - "service designer"
-        - "user researcher"
-        - "experience designer"
-        - "design researcher"
+        - "user experience"
+        - "user research"
+        - "interaction design"
+        - "service design"
+        - "ux design"
       roles:
         - "product designer"
         - "ux designer"
         - "ux researcher"
-        - "ui researcher"
         - "interaction designer"
-        - "product design"
-        - "experience designer"
+        - "service designer"
         - "design researcher"
 
 # Which job boards to search (uses Google site: operator)
