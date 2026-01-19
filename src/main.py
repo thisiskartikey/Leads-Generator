@@ -447,7 +447,7 @@ def main():
                 radar = JobRadar(profile_name)
                 results = radar.run()
                 if results['metadata']['jobs_analyzed'] > 0:
-                    logger.info("✓ Job Radar completed for {0}!" -f profile_name)
+                    logger.info(f"✓ Job Radar completed for {profile_name}!")
                 else:
                     logger.warning("? No new jobs found or analyzed for {0}" -f profile_name)
             return 0

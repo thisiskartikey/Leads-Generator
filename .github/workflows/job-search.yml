@@ -92,11 +92,11 @@ jobs:
                   metadata = data.get('metadata', {})
                   jobs = data.get('jobs', [])
 
-                  print(f\"\\nProfile: {profile}\")
-                  print(f\"- Total searched: {metadata.get('total_searched', 0)}\")
-                  print(f\"- New jobs found: {metadata.get('new_jobs_found', 0)}\")
-                  print(f\"- Jobs analyzed: {metadata.get('jobs_analyzed', 0)}\")
-                  print(f\"- Jobs in results: {len(jobs)}\")
+                  print(f"\nProfile: {profile}")
+                  print(f"- Total searched: {metadata.get('total_searched', 0)}")
+                  print(f"- New jobs found: {metadata.get('new_jobs_found', 0)}")
+                  print(f"- Jobs analyzed: {metadata.get('jobs_analyzed', 0)}")
+                  print(f"- Jobs in results: {len(jobs)}")
 
                   if profile == 'kartikey':
                       ai_jobs = []
@@ -109,17 +109,17 @@ jobs:
                           elif sus_score > 0:
                               sus_jobs.append(job)
 
-                      print(f\"- AI/Tech jobs: {len(ai_jobs)}\")
-                      print(f\"- Sustainability jobs: {len(sus_jobs)}\")
+                      print(f"- AI/Tech jobs: {len(ai_jobs)}")
+                      print(f"- Sustainability jobs: {len(sus_jobs)}")
 
                       high_fit = sum(1 for job in jobs if max(
                           job.get('ai_analysis', {}).get('fit_score', 0),
                           job.get('sustainability_analysis', {}).get('fit_score', 0)
                       ) >= 90)
-                      print(f\"- High fit jobs (90+): {high_fit}\")
+                      print(f"- High fit jobs (90+): {high_fit}")
                   else:
-                      high_fit = sum(1 for job in jobs if job.get(f\"{profile}_analysis\", {}).get('fit_score', 0) >= 90)
-                      print(f\"- High fit jobs (90+): {high_fit}\")
+                      high_fit = sum(1 for job in jobs if job.get(f"{profile}_analysis", {}).get('fit_score', 0) >= 90)
+                      print(f"- High fit jobs (90+): {high_fit}")
 
           except Exception as e:
               print(f"Error reading results: {e}")
