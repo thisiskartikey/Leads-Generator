@@ -1,0 +1,41 @@
+{
+  "profile": "anvesha",
+  "runs": [
+    {
+      "timestamp": "2026-01-19T23:13:14.039516",
+      "trigger": "manual",
+      "job_ids": [
+        "28b2d0726c46746e",
+        "0a83eb1e5e33ecf4",
+        "ecaf3fa2b222d50d",
+        "813c4151d6a1f6a5",
+        "6ce0f9f319712b96",
+        "c42c63dc148565a4",
+        "df0f43d9995db0c1",
+        "9de0297b63953023",
+        "535a9af0cd2c25ab",
+        "acd9171c07c58511",
+        "3cb69bf2df55390a",
+        "c1333483efb1f909",
+        "acd9171c07c58511",
+        "0e6410079f5434bc",
+        "45244bcff3cdbbd0",
+        "4244b33e03d69b3d",
+        "0bdd123bbc916639",
+        "866a8895ed358d33",
+        "c51042dd94b7e081",
+        "d4a9e4e790c3f6a3",
+        "83ba22394a11e1e3",
+        "b5c1a452e0d5a893",
+        "d4504de1a610b331",
+        "9528eda1c6b7554a",
+        "c7c54dc6a67ad2c0"
+      ],
+      "jobs_in_results": 25,
+      "total_searched": 25,
+      "new_jobs_found": 25,
+      "jobs_analyzed": 25
+    }
+  ],
+  "last_updated": "2026-01-19T23:13:14.039516"
+}

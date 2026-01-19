@@ -1,0 +1,41 @@
+{
+  "profile": "kartikey",
+  "runs": [
+    {
+      "timestamp": "2026-01-19T23:09:35.169583",
+      "trigger": "manual",
+      "job_ids": [
+        "1948b8935965b95b",
+        "e42e8e99052c3621",
+        "ff283bf4ec0c059f",
+        "3edafe876e2cc390",
+        "38bd4eecb5dead78",
+        "697f3127419c14e2",
+        "4bb6e099a280f3f1",
+        "34214aba31cf799e",
+        "06835d1b4b2872b3",
+        "4526f68b773bd1e1",
+        "84e461ca59878d80",
+        "c790f89ca08011c4",
+        "9cba1b72f5837923",
+        "f1c6e403ae352080",
+        "8e42d9b45a5c20bd",
+        "ceb11a5c1db7a596",
+        "4bb6e099a280f3f1",
+        "34214aba31cf799e",
+        "4fd9b7c0a297bd31",
+        "e814b0852a72b607",
+        "f10faf2230675061",
+        "84e461ca59878d80",
+        "f30e16318c67dcaf",
+        "ceb11a5c1db7a596",
+        "ebdc4271f45b38d6"
+      ],
+      "jobs_in_results": 25,
+      "total_searched": 25,
+      "new_jobs_found": 25,
+      "jobs_analyzed": 25
+    }
+  ],
+  "last_updated": "2026-01-19T23:09:35.169583"
+}
