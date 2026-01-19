@@ -543,9 +543,185 @@
       "first_seen": "2026-01-12T03:47:35.038896",
       "ai_fit_score": 25,
       "sustainability_fit_score": 15
+    },
+    "1948b8935965b95b": {
+      "url": "https://jobs.ashbyhq.com/Unwrap/ea416d79-1486-422c-955b-cf368c87490f",
+      "title": "AI Product Manager @ Unwrap",
+      "company": "Unwrap",
+      "first_seen": "2026-01-19T16:11:04.663389",
+      "ai_fit_score": 92,
+      "sustainability_fit_score": 45
+    },
+    "e42e8e99052c3621": {
+      "url": "https://jobs.ashbyhq.com/navigate-ai/889f3a95-5945-45e2-9fad-61e12faf5c45",
+      "title": "AI Product Manager @ Navigate AI",
+      "company": "Navigate Ai",
+      "first_seen": "2026-01-19T16:11:11.158494",
+      "ai_fit_score": 92,
+      "sustainability_fit_score": 42
+    },
+    "ff283bf4ec0c059f": {
+      "url": "https://jobs.ashbyhq.com/Profound/7a6182d0-efcd-4b5a-9d90-93f8797b7395",
+      "title": "AI Strategist, New Grad @ Profound",
+      "company": "Profound",
+      "first_seen": "2026-01-19T16:11:17.760058",
+      "ai_fit_score": 95,
+      "sustainability_fit_score": 45
+    },
+    "3edafe876e2cc390": {
+      "url": "https://jobs.ashbyhq.com/vanta/50761522-d82f-488d-98cc-0ec6ea34909b",
+      "title": "Program Manager, AI Transformation (Customer Success)",
+      "company": "Vanta",
+      "first_seen": "2026-01-19T16:11:23.843672",
+      "ai_fit_score": 92,
+      "sustainability_fit_score": 45
+    },
+    "38bd4eecb5dead78": {
+      "url": "https://jobs.ashbyhq.com/hive.co/3758c78b-dc3b-48a2-aff6-a517a258c09a",
+      "title": "Senior AI Product Manager @ hive.co",
+      "company": "Hive.Co",
+      "first_seen": "2026-01-19T16:11:30.565940",
+      "ai_fit_score": 72,
+      "sustainability_fit_score": 45
+    },
+    "4bb6e099a280f3f1": {
+      "url": "https://jobs.ashbyhq.com/evenup",
+      "title": "EvenUp",
+      "company": "Evenup",
+      "first_seen": "2026-01-19T16:12:24.699496",
+      "ai_fit_score": 45,
+      "sustainability_fit_score": 15
+    },
+    "06835d1b4b2872b3": {
+      "url": "https://jobs.ashbyhq.com/raspberry/b2fe39f1-a8bd-4124-af41-281ee0b1decb",
+      "title": "AI Support and Operations Specialist @ Raspberry AI",
+      "company": "Raspberry",
+      "first_seen": "2026-01-19T16:12:07.691425",
+      "ai_fit_score": 45,
+      "sustainability_fit_score": 72
+    },
+    "4526f68b773bd1e1": {
+      "url": "https://jobs.ashbyhq.com/heypinnacle/2fac331e-5a84-47d6-b3fc-fa6e7726a308",
+      "title": "AI Learning Specialist @ Pinnacle Global",
+      "company": "Heypinnacle",
+      "first_seen": "2026-01-19T16:11:48.731107",
+      "ai_fit_score": 72,
+      "sustainability_fit_score": 45
+    },
+    "34214aba31cf799e": {
+      "url": "https://jobs.ashbyhq.com/withwisdom/dcc4d55d-a30a-42f2-9588-b2558a2e45c4",
+      "title": "Principal Product Manager @ Wisdom",
+      "company": "Withwisdom",
+      "first_seen": "2026-01-19T16:11:55.153397",
+      "ai_fit_score": 92,
+      "sustainability_fit_score": 35
+    },
+    "1bd76a23ac291741": {
+      "url": "https://jobs.ashbyhq.com/peec/ec5b4a25-f0b7-4a4f-9c0e-22fcddc5a5f5",
+      "title": "Director Data Science @ Peec AI",
+      "company": "Peec",
+      "first_seen": "2026-01-19T16:12:01.413857",
+      "ai_fit_score": 45,
+      "sustainability_fit_score": 35
+    },
+    "a58d667c2f9174be": {
+      "url": "https://jobs.ashbyhq.com/siena/89fe7b6e-3740-4eb0-bc42-95d7f3df4c96",
+      "title": "Product Manager, AI Agent Deployment @ Siena AI",
+      "company": "Siena",
+      "first_seen": "2026-01-19T16:12:13.297032",
+      "ai_fit_score": 92,
+      "sustainability_fit_score": 45
+    },
+    "c790f89ca08011c4": {
+      "url": "https://jobs.ashbyhq.com/tessera-labs/ea05dfd6-92d7-4ccc-aa53-2f31a85928c5",
+      "title": "Product Manager @ Tessera Labs",
+      "company": "Tessera Labs",
+      "first_seen": "2026-01-19T16:12:19.355634",
+      "ai_fit_score": 92,
+      "sustainability_fit_score": 72
+    },
+    "b0679c9df8ef0f4c": {
+      "url": "https://jobs.ashbyhq.com/theydo/2e84c036-a870-46d5-ae59-73208c7944a2",
+      "title": "Principal Product Manager (AI) @ TheyDo",
+      "company": "Theydo",
+      "first_seen": "2026-01-19T16:12:30.722757",
+      "ai_fit_score": 72,
+      "sustainability_fit_score": 35
+    },
+    "7f8134cf9332236f": {
+      "url": "https://boards.greenhouse.io/cookunity/jobs/7592543003",
+      "title": "Head of AI Creative Growth",
+      "company": "Cookunity",
+      "first_seen": "2026-01-19T16:12:37.976266",
+      "ai_fit_score": 35,
+      "sustainability_fit_score": 35
+    },
+    "e48d60ae0c1fe909": {
+      "url": "https://boards.greenhouse.io/pathward/jobs/5750241004",
+      "title": "Director, Head of AI Services",
+      "company": "Pathward",
+      "first_seen": "2026-01-19T16:12:43.416604",
+      "ai_fit_score": 25,
+      "sustainability_fit_score": 25
+    },
+    "34e7c21be95a7136": {
+      "url": "https://jobs.ashbyhq.com/bayesianhealth/ab5cfb5a-26ad-4f68-864e-f9c4da4f487b",
+      "title": "Director of AI/ML @ Bayesian Health, Inc.",
+      "company": "Bayesianhealth",
+      "first_seen": "2026-01-19T16:12:49.443116",
+      "ai_fit_score": 45,
+      "sustainability_fit_score": 15
+    },
+    "4d6518604e7020ef": {
+      "url": "https://jobs.ashbyhq.com/sana-roles/05167c0a-38b0-4b00-9854-d2b8cd15e047?utm_source=careers.nea.com",
+      "title": "Product Manager (Agents) @ Sana",
+      "company": "Sana Roles",
+      "first_seen": "2026-01-19T16:12:56.011152",
+      "ai_fit_score": 72,
+      "sustainability_fit_score": 42
+    },
+    "f1c6e403ae352080": {
+      "url": "https://jobs.ashbyhq.com/0g/8b9bf21d-4ddf-4105-aed1-6a68471cc9ed",
+      "title": "Senior Product Manager @ 0g Labs",
+      "company": "0G",
+      "first_seen": "2026-01-19T16:13:02.207381",
+      "ai_fit_score": 45,
+      "sustainability_fit_score": 25
+    },
+    "9cba1b72f5837923": {
+      "url": "https://jobs.ashbyhq.com/raspberry/9f34354e-b3eb-45e8-8e0c-a062423a04f0",
+      "title": "AI Implementation Specialist @ Raspberry AI",
+      "company": "Raspberry",
+      "first_seen": "2026-01-19T16:13:08.570193",
+      "ai_fit_score": 15,
+      "sustainability_fit_score": 15
+    },
+    "f30e16318c67dcaf": {
+      "url": "https://jobs.ashbyhq.com/super.com/69551696-d46b-4887-8d4e-ba889a3a1f3e",
+      "title": "Director of Analytics & Data Science @ Super.com",
+      "company": "Super.Com",
+      "first_seen": "2026-01-19T16:13:14.733214",
+      "ai_fit_score": 65,
+      "sustainability_fit_score": 45
+    },
+    "793079c387ead4ba": {
+      "url": "https://jobs.ashbyhq.com/handshake/1e743630-c151-4076-bf59-a7c33fcb595c",
+      "title": "Chief of Staff, Handshake AI CBO",
+      "company": "Handshake",
+      "first_seen": "2026-01-19T16:13:21.276686",
+      "ai_fit_score": 95,
+      "sustainability_fit_score": 68
+    },
+    "bca8e0f345d6f4bf": {
+      "url": "https://jobs.ashbyhq.com/brightwheel/a674c100-43da-4798-9cbd-242522aa699a",
+      "title": "Principal Product Manager @ brightwheel",
+      "company": "Brightwheel",
+      "first_seen": "2026-01-19T16:13:26.843904",
+      "ai_fit_score": 45,
+      "sustainability_fit_score": 35
     }
   },
-  "last_updated": "2026-01-12T03:48:17.604967",
+  "last_updated": "2026-01-19T16:13:26.845369",
   "metadata": {
     "version": "1.0",
     "description": "Tracks jobs that have been analyzed to avoid duplicates"
