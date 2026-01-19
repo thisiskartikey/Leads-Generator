@@ -1,0 +1,59 @@
+{
+  "profiles": {
+    "kartikey": {
+      "keywords": {
+        "ai_focus": [
+          "AI",
+          "artificial intelligence",
+          "generative AI",
+          "machine learning",
+          "GenAI",
+          "agentic",
+          "LLM",
+          "large language model",
+          "ML",
+          "data science",
+          "AI strategy",
+          "AI transformation"
+        ],
+        "roles": [
+          "consultant",
+          "strategy",
+          "analyst",
+          "advisor",
+          "specialist",
+          "program manager",
+          "director",
+          "product manager"
+        ]
+      }
+    },
+    "anvesha": {
+      "keywords": {
+        "focus": [
+          "product designer",
+          "product design",
+          "ux designer",
+          "ux researcher",
+          "ui researcher",
+          "ui/ux",
+          "interaction designer",
+          "service designer",
+          "user researcher",
+          "experience designer",
+          "design researcher"
+        ],
+        "roles": [
+          "product designer",
+          "ux designer",
+          "ux researcher",
+          "ui researcher",
+          "interaction designer",
+          "product design",
+          "experience designer",
+          "design researcher"
+        ]
+      }
+    }
+  }
+}

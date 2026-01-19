@@ -78,12 +78,12 @@ Visit: `https://thisiskartikey.github.io/Leads-Generator/`
 4. Refresh dashboard after 2-3 minutes
 
 ### Update Search Criteria
-1. Edit `config/search_query.yaml` in GitHub
-2. Commit changes
-3. Next run will use new criteria
+1. Use the dashboard "Edit Keywords" button (updates `config/profile_keywords.json`)
+2. Or edit `config/profile_keywords.json` directly in GitHub
+3. Next run will use new criteria per profile
 
 ### Update Resumes
-1. Edit resume files in `resumes/` folder
+1. Edit resume files in `resumes/` folder (including `resumes/anvesha_resume.txt`)
 2. Commit changes
 3. Trigger manual run to re-analyze jobs
 
@@ -100,6 +100,26 @@ keywords:
     - consultant
     - analyst
     - "program manager"
+```
+
+### Profile Keywords (`config/profile_keywords.json`)
+```json
+{
+  "profiles": {
+    "kartikey": {
+      "keywords": {
+        "ai_focus": ["AI", "machine learning"],
+        "roles": ["consultant", "product manager"]
+      }
+    },
+    "anvesha": {
+      "keywords": {
+        "focus": ["product designer", "ux researcher"],
+        "roles": ["product designer", "ux designer"]
+      }
+    }
+  }
+}
 ```
 
 ### Settings (`config/settings.yaml`)

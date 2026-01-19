@@ -14,7 +14,8 @@ from utils import (
     get_date_n_days_ago,
     format_date_for_search,
     get_api_key,
-    setup_logging
+    setup_logging,
+    load_optional_json
 )
 
 
@@ -25,7 +26,8 @@ class JobSearcher:
     """Handles Google search for job postings via SerpAPI"""
 
     def __init__(self, config_path: str = "config/search_query.yaml",
-                 settings_path: str = "config/settings.yaml"):
+                 settings_path: str = "config/settings.yaml",
+                 profile_name: Optional[str] = None):
         """
         Initialize job searcher
 
@@ -35,10 +37,34 @@ class JobSearcher:
         """
         self.search_config = load_yaml_config(config_path)
         self.settings = load_yaml_config(settings_path)
+        self.profile_keywords = load_optional_json("config/profile_keywords.json")
         self.api_key = get_api_key("SERPAPI_KEY")
 
         if not self.api_key:
             raise ValueError("SERPAPI_KEY environment variable not set")
+
+        self.profile_name = profile_name or self.search_config.get('active_profile')
+        if not self.profile_name:
+            raise ValueError("No profile specified and no active_profile set")
+
+    def _get_keywords_config(self) -> Dict[str, Any]:
+        """
+        Get keyword configuration for the active profile.
+
+        Order of precedence:
+        1) config/profile_keywords.json
+        2) config/search_query.yaml (profiles.<name>.keywords)
+        3) config/search_query.yaml (keywords) for backward compatibility
+        """
+        profiles = self.profile_keywords.get('profiles', {})
+        if self.profile_name in profiles:
+            return profiles[self.profile_name].get('keywords', {})
+
+        yaml_profiles = self.search_config.get('profiles', {})
+        if self.profile_name in yaml_profiles:
+            return yaml_profiles[self.profile_name].get('keywords', {})
+
+        return self.search_config.get('keywords', {})
 
     def build_search_query(self) -> str:
         """
@@ -51,7 +77,7 @@ class JobSearcher:
             (AI OR "artificial intelligence" OR sustainable) AND (consultant OR analyst)
             (site:greenhouse.io OR site:ashby.com) ("United States" OR remote)
         """
-        keywords = self.search_config['keywords']
+        keywords = self._get_keywords_config()
         boards = self.search_config['job_boards']
         locations = self.search_config['locations']
 
@@ -71,6 +97,12 @@ class JobSearcher:
 
         if focus_terms:
             focus_query = ' OR '.join(focus_terms)
+            keyword_parts.append(f"({focus_query})")
+
+        # Generic focus bucket (e.g., design roles)
+        elif 'focus' in keywords:
+            focus_query = ' OR '.join([f'"{kw}"' if ' ' in kw else kw
+                                      for kw in keywords['focus']])
             keyword_parts.append(f"({focus_query})")
 
         # Backward compatibility for old 'must_have' format

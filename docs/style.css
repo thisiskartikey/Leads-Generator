@@ -31,11 +31,16 @@ header .bi-radar {
     border: none;
     box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
     transition: transform 0.2s, box-shadow 0.2s;
+    cursor: pointer;
 }
 
 .stats-card:hover {
     transform: translateY(-2px);
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.15);
+}
+
+.stats-card--active {
+    box-shadow: 0 0 0 2px rgba(59, 130, 246, 0.35);
 }
 
 .stats-icon {
@@ -119,32 +124,6 @@ header .bi-radar {
 .fit-weak {
     background-color: #EF4444;
     color: white;
-}
-
-/* Freshness Badge */
-.freshness-badge {
-    display: inline-flex;
-    align-items: center;
-    gap: 6px;
-    padding: 0.35rem 0.75rem;
-    border-radius: 16px;
-    font-weight: 500;
-    font-size: 0.875rem;
-}
-
-.freshness-new {
-    background-color: #D1FAE5;
-    color: #065F46;
-}
-
-.freshness-recent {
-    background-color: #DBEAFE;
-    color: #1E40AF;
-}
-
-.freshness-older {
-    background-color: #FEF3C7;
-    color: #92400E;
 }
 
 /* Justification and Advice */
@@ -269,6 +248,17 @@ section h2 i {
 
 .progress-bar {
     background-color: var(--primary-color);
+}
+
+.profile-controls {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-end;
+    gap: 8px;
+}
+
+.viewed-row {
+    opacity: 0.85;
 }
 
 /* Responsive - Mobile (iPhone and similar devices) */

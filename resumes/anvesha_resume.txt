@@ -1,0 +1,56 @@
+ANVESHA SRIVASTAVA
+Boston, MA | +1 617 953 1504 | asrivastava@massart.edu | LinkedIn | Portfolio
+
+SUMMARY
+Product/UX Designer with 3+ years designing and shipping consumer-facing solutions at scale.
+Experienced in research-driven UX, interaction flows, prototyping, and production-ready UI.
+Collaborates with PMs and engineers to iterate quickly and ship data-driven product designs.
+
+EDUCATION
+Massachusetts Institute of Technology (MIT) - Cambridge, MA
+Information Design & Visualization, Cross-Registration | Feb 2025 - May 2026
+
+Massachusetts College of Art & Design (MassArt) - Boston, MA
+Master of Design in Design Innovation (STEM OPT), Eligible for 2026 New Grad roles
+Merit Based Scholar, Teaching Assistant in Communication Design & Visual Language
+Sep 2024 - May 2026
+
+National Institute of Fashion Technology (NIFT) - Uttar Pradesh, India
+Bachelor of Design in Fashion & Lifestyle Accessory Design | May 2012 - May 2016
+
+EXPERIENCE
+Sonatus - Product Designer (UX) Intern | Sunnyvale, CA | Jun 2025 - Aug 2025
+- Redesigned system navigation and interaction flows for critical alert handling, reducing resolution steps.
+- Built and tested low- to high-fidelity prototypes in Figma to validate interaction models.
+- Conducted usability testing and research synthesis to drive iterative design decisions.
+- Built and documented reusable UI components within a centralized design system.
+
+Sonatus - UX Design Intern | Sunnyvale, CA | Jun 2025 - Aug 2025
+- Led end-to-end research for redesign of Sonatus Command Center (SaaS platform).
+- Performed stakeholder interviews, workflow discovery, problem framing, and heuristic evaluation.
+- Redesigned alert-handling workflows to simplify navigation and reduce critical actions.
+- Performed card sorting and IA mapping to reorganize information hierarchy.
+
+Amazon - Visual Designer (Brand & CX) | Bengaluru, India | Feb 2022 - Jul 2024
+- Built scalable brand and visual experience guidelines across private labels.
+- Standardized visual systems for lifestyle and infographic imagery to improve CTR.
+- Partnered with category managers, CX teams, and studios to translate requirements into design standards.
+- Led CX Weekly Business Reviews, tracking metrics to refine visual strategies.
+
+Amazon - Visual Designer | Bengaluru, India | Feb 2022 - Jul 2024
+- Developed comprehensive brand design guidelines for private labels.
+- Improved design consistency across subcategories and increased homepage CTR.
+- Led structured design reviews and cross-functional alignment.
+
+Amazon - Designer & Merchandiser | Bengaluru, India
+- Collaborated with local and international furniture manufacturers to launch new designs.
+- Designed and launched Amazon India's first ACD project for private brands.
+
+Manglam Arts - Sr. Furniture Designer, Design & Development | Jaipur, India | Jul 2016 - Feb 2022
+- Led design development for international trade shows and secured annual orders.
+- Managed a team of designers, developed trend-aligned collections, and oversaw prototypes.
+
+SKILLS
+Product design, UX design, interaction design, IA, user flows, navigation design, usability testing,
+research synthesis, design systems, component libraries, Figma, prototyping, accessibility,
+metrics-driven iteration, cross-functional collaboration, enterprise UX.

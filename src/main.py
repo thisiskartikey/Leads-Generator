@@ -4,6 +4,7 @@ Coordinates job search, scraping, and analysis pipeline
 """
 
 import time
+import argparse
 from datetime import datetime
 from typing import List, Dict, Any
 import logging
@@ -13,7 +14,8 @@ from utils import (
     load_json_file,
     save_json_file,
     generate_job_id,
-    load_yaml_config
+    load_yaml_config,
+    load_optional_json
 )
 from searcher import JobSearcher
 from scraper import JobScraper
@@ -26,26 +28,31 @@ logger = logging.getLogger('job_radar.main')
 class JobRadar:
     """Main orchestrator for job search and analysis"""
 
-    def __init__(self):
+    def __init__(self, profile_name: str):
         """Initialize Job Radar system"""
         logger.info("Initializing Job Radar...")
 
         # Load configuration
         self.search_config = load_yaml_config("config/search_query.yaml")
         self.settings = load_yaml_config("config/settings.yaml")
+        self.profile_keywords = load_optional_json("config/profile_keywords.json")
+        self.profile_name = profile_name
+        self.profile_display_name = self._get_profile_display_name()
 
         # Initialize components
-        self.searcher = JobSearcher()
+        self.searcher = JobSearcher(profile_name=self.profile_name)
         self.scraper = JobScraper()
         self.analyzer = JobAnalyzer()
 
         # Load history
-        self.history = load_json_file("data/history.json")
+        self.history = load_json_file(self._history_path())
 
         # Results
         self.results = {
             'jobs': [],
             'metadata': {
+                'profile': self.profile_name,
+                'profile_display_name': self.profile_display_name,
                 'run_timestamp': datetime.now().isoformat(),
                 'total_searched': 0,
                 'new_jobs_found': 0,
@@ -53,6 +60,18 @@ class JobRadar:
                 'jobs_skipped': 0
             }
         }
+
+    def _get_profile_display_name(self) -> str:
+        profiles = self.search_config.get('profiles', {})
+        if self.profile_name in profiles:
+            return profiles[self.profile_name].get('display_name', self.profile_name.title())
+        return self.profile_name.title()
+
+    def _history_path(self) -> str:
+        return f"data/history_{self.profile_name}.json"
+
+    def _results_path(self) -> str:
+        return f"data/results_{self.profile_name}.json"
 
     def run(self) -> Dict[str, Any]:
         """
@@ -212,14 +231,28 @@ class JobRadar:
                 description = job['search_snippet']
                 logger.debug(f"Using search snippet as description for {job.get('title', 'N/A')}")
             
-            # Analyze with both resumes
-            analysis_results = self.analyzer.analyze_job_dual(
-                description or job.get('title', 'Job'),
-                job['title']
-            )
-
-            # Merge analysis into job data
-            job.update(analysis_results)
+            if self.profile_name == 'kartikey':
+                # Analyze with both resumes
+                analysis_results = self.analyzer.analyze_job_dual(
+                    description or job.get('title', 'Job'),
+                    job['title']
+                )
+                # Merge analysis into job data
+                job.update(analysis_results)
+            else:
+                analysis = self.analyzer.analyze_job(
+                    description or job.get('title', 'Job'),
+                    self.profile_name
+                )
+                if analysis:
+                    job[f'{self.profile_name}_analysis'] = analysis
+                else:
+                    job[f'{self.profile_name}_analysis'] = {
+                        'fit_score': 0,
+                        'category': 'Unknown',
+                        'justification': 'Analysis failed',
+                        'positioning_advice': 'Could not analyze this job'
+                    }
             
             # Extract job title from analysis if available and title is N/A
             if job.get('title') == 'N/A' or not job.get('title') or job.get('title').strip() == '':
@@ -234,6 +267,9 @@ class JobRadar:
                 elif job.get('sustainability_analysis', {}).get('extracted_title'):
                     job['title'] = job['sustainability_analysis']['extracted_title']
                     logger.info(f"Extracted title from sustainability analysis: {job['title']}")
+                elif job.get(f'{self.profile_name}_analysis', {}).get('extracted_title'):
+                    job['title'] = job[f'{self.profile_name}_analysis']['extracted_title']
+                    logger.info(f"Extracted title from {self.profile_name} analysis: {job['title']}")
                 # Priority 3: Fallback to search snippet title (first line usually contains title)
                 elif job.get('search_snippet'):
                     snippet = job['search_snippet']
@@ -274,10 +310,13 @@ class JobRadar:
 
         filtered = []
         for job in jobs:
-            # Get the higher of the two fit scores
-            ai_score = job.get('ai_analysis', {}).get('fit_score', 0)
-            sus_score = job.get('sustainability_analysis', {}).get('fit_score', 0)
-            max_score = max(ai_score, sus_score)
+            if self.profile_name == 'kartikey':
+                # Get the higher of the two fit scores
+                ai_score = job.get('ai_analysis', {}).get('fit_score', 0)
+                sus_score = job.get('sustainability_analysis', {}).get('fit_score', 0)
+                max_score = max(ai_score, sus_score)
+            else:
+                max_score = job.get(f'{self.profile_name}_analysis', {}).get('fit_score', 0)
 
             if max_score >= min_score:
                 filtered.append(job)
@@ -297,25 +336,33 @@ class JobRadar:
         if 'jobs' not in self.history:
             self.history['jobs'] = {}
 
-        self.history['jobs'][job['job_id']] = {
+        history_entry = {
             'url': job['url'],
             'title': job['title'],
             'company': job['company'],
-            'first_seen': datetime.now().isoformat(),
-            'ai_fit_score': job.get('ai_analysis', {}).get('fit_score', 0),
-            'sustainability_fit_score': job.get('sustainability_analysis', {}).get('fit_score', 0)
+            'first_seen': datetime.now().isoformat()
         }
+
+        if self.profile_name == 'kartikey':
+            history_entry['ai_fit_score'] = job.get('ai_analysis', {}).get('fit_score', 0)
+            history_entry['sustainability_fit_score'] = job.get('sustainability_analysis', {}).get('fit_score', 0)
+        else:
+            history_entry['fit_score'] = job.get(f'{self.profile_name}_analysis', {}).get('fit_score', 0)
+
+        self.history['jobs'][job['job_id']] = history_entry
 
     def _save_results(self) -> None:
         """Save results and history to files"""
         # Save results
-        save_json_file("data/results.json", self.results)
-        logger.info("✓ Saved results to data/results.json")
+        results_path = self._results_path()
+        save_json_file(results_path, self.results)
+        logger.info(f"✓ Saved results to {results_path}")
 
         # Update and save history
         self.history['last_updated'] = datetime.now().isoformat()
-        save_json_file("data/history.json", self.history)
-        logger.info("✓ Saved history to data/history.json")
+        history_path = self._history_path()
+        save_json_file(history_path, self.history)
+        logger.info(f"✓ Saved history to {history_path}")
 
     def _print_summary(self) -> None:
         """Print execution summary"""
@@ -340,22 +387,34 @@ class JobRadar:
             logger.info(f"{'-'*60}")
 
             # Sort by highest fit score
-            sorted_jobs = sorted(
-                self.results['jobs'],
-                key=lambda j: max(
-                    j.get('ai_analysis', {}).get('fit_score', 0),
-                    j.get('sustainability_analysis', {}).get('fit_score', 0)
-                ),
-                reverse=True
-            )
+            if self.profile_name == 'kartikey':
+                sorted_jobs = sorted(
+                    self.results['jobs'],
+                    key=lambda j: max(
+                        j.get('ai_analysis', {}).get('fit_score', 0),
+                        j.get('sustainability_analysis', {}).get('fit_score', 0)
+                    ),
+                    reverse=True
+                )
+            else:
+                sorted_jobs = sorted(
+                    self.results['jobs'],
+                    key=lambda j: j.get(f'{self.profile_name}_analysis', {}).get('fit_score', 0),
+                    reverse=True
+                )
 
             for i, job in enumerate(sorted_jobs[:5], 1):
-                ai_score = job.get('ai_analysis', {}).get('fit_score', 0)
-                sus_score = job.get('sustainability_analysis', {}).get('fit_score', 0)
-                max_score = max(ai_score, sus_score)
+                if self.profile_name == 'kartikey':
+                    ai_score = job.get('ai_analysis', {}).get('fit_score', 0)
+                    sus_score = job.get('sustainability_analysis', {}).get('fit_score', 0)
+                    max_score = max(ai_score, sus_score)
+                    score_note = f" (AI: {ai_score}%, Sus: {sus_score}%)"
+                else:
+                    max_score = job.get(f'{self.profile_name}_analysis', {}).get('fit_score', 0)
+                    score_note = ""
 
                 logger.info(f"{i}. {job['title']} at {job['company']}")
-                logger.info(f"   Fit Score: {max_score}% (AI: {ai_score}%, Sus: {sus_score}%)")
+                logger.info(f"   Fit Score: {max_score}%{score_note}")
                 logger.info(f"   URL: {job['url']}")
                 logger.info("")
 
@@ -368,22 +427,49 @@ def main():
     setup_logging("INFO")
 
     try:
-        # Create and run Job Radar
-        radar = JobRadar()
+        parser = argparse.ArgumentParser(description="Job Radar runner")
+        parser.add_argument("--profile", help="Profile name to run")
+        parser.add_argument("--all-profiles", action="store_true", help="Run all profiles")
+        args = parser.parse_args()
+
+        search_config = load_yaml_config("config/search_query.yaml")
+        profile_keywords = load_optional_json("config/profile_keywords.json")
+
+        profiles_from_keywords = list(profile_keywords.get('profiles', {}).keys())
+        profiles_from_config = list(search_config.get('profiles', {}).keys())
+
+        if args.all_profiles:
+            profiles = profiles_from_keywords or profiles_from_config
+            if not profiles:
+                raise ValueError("No profiles found to run")
+
+            for profile_name in profiles:
+                radar = JobRadar(profile_name)
+                results = radar.run()
+                if results['metadata']['jobs_analyzed'] > 0:
+                    logger.info("✓ Job Radar completed for {0}!" -f profile_name)
+                else:
+                    logger.warning("? No new jobs found or analyzed for {0}" -f profile_name)
+            return 0
+
+        profile_name = args.profile or search_config.get('active_profile')
+        if not profile_name:
+            raise ValueError("No profile specified and no active_profile set")
+
+        radar = JobRadar(profile_name)
         results = radar.run()
 
-        # Exit code based on results
         if results['metadata']['jobs_analyzed'] > 0:
             logger.info("✓ Job Radar completed successfully!")
             return 0
-        else:
-            logger.warning("⚠ No new jobs found or analyzed")
-            return 0  # Not an error, just no new jobs
+        logger.warning("? No new jobs found or analyzed")
+        return 0  # Not an error, just no new jobs
 
     except Exception as e:
-        logger.error(f"✗ Job Radar failed: {e}")
+        logger.error("? Job Radar failed: {0}" -f e)
         return 1
 
 
 if __name__ == "__main__":
     exit(main())
+

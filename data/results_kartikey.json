@@ -1,0 +1,586 @@
+{
+  "jobs": [
+    {
+      "title": "Site Not Loading?",
+      "company": "Oscar",
+      "location": "N/A",
+      "description": "Site Not Loading? It looks like JavaScript is disabled in your browser. Unfortunately, you won’t be able to use hioscar.com without JavaScript enabled. Your browser’s support site can show you how to enable JavaScript .",
+      "url": "https://boards.greenhouse.io/oscar/jobs/7527512",
+      "source": "greenhouse",
+      "posted_date": "2026-01-12T03:43:14.335593",
+      "scraped_at": "2026-01-12T03:43:14.335631",
+      "search_snippet": "Director, Medical Economics — Corporate. New York ... Artificial Intelligence (AI): Our AI Guidelines outline the acceptable use of artificial intelligence ...",
+      "ai_analysis": {
+        "fit_score": 0,
+        "category": "Hybrid",
+        "justification": "Job posting failed to load - only JavaScript error message visible, no role details available.",
+        "positioning_advice": "Cannot provide positioning advice without access to the actual job description. Please share the complete job posting content or URL to receive a meaningful assessment of fit and tailored application strategy."
+      },
+      "sustainability_analysis": {
+        "fit_score": 0,
+        "category": "Hybrid",
+        "justification": "Job posting failed to load - no content available to assess fit.",
+        "positioning_advice": "Unable to provide positioning advice without job posting content. Please provide a valid job description with actual role requirements, responsibilities, and qualifications to enable accurate assessment of candidate fit."
+      },
+      "job_id": "0681fc884f49ca0d",
+      "days_old": 0
+    },
+    {
+      "title": "N/A",
+      "company": "Databricks",
+      "location": "N/A",
+      "description": "",
+      "url": "https://boards.greenhouse.io/databricks/jobs/8359995002",
+      "source": "greenhouse",
+      "posted_date": "2026-01-12T03:43:17.445049",
+      "scraped_at": "2026-01-12T03:43:17.445061",
+      "search_snippet": "SLSQ426R949. We are reimagining GTM at Databricks and are seeking an AI Operations Program Manager to own the full lifecycle of AI agent deployments.",
+      "ai_analysis": {
+        "fit_score": 92,
+        "category": "AI/Tech",
+        "justification": "Exceptional alignment: proven AI agent deployment experience, GTM operations background, and exact technical skill match.",
+        "positioning_advice": "Lead with your Amazon AI deployment achievements (80% activation rates, agentic auditing system, GenAI recommender) as direct proof of owning full AI agent lifecycles. Emphasize your cross-functional stakeholder management across 60+ teams and ability to drive GTM impact through AI operations. Frame your CPF work as B2B GTM enablement—you've already reimagined go-to-market through AI at scale for a major tech company."
+      },
+      "sustainability_analysis": {
+        "fit_score": 82,
+        "category": "Hybrid",
+        "justification": "Strong program management and AI deployment experience aligns well with AI operations role requirements.",
+        "positioning_advice": "Emphasize your AI agent deployment experience at Amazon (image-detection AI, enterprise AI tool rollout) and cross-functional stakeholder management across 60+ partners. Highlight your technical program management skills in scaling AI solutions, data pipeline standardization, and driving adoption metrics. Frame your sustainability work as complex technical program delivery with measurable KPIs, demonstrating transferable skills in managing full lifecycle deployments, audit controls, and enterprise-scale implementations that directly parallel AI operations management."
+      },
+      "job_id": "5d270f6081c556c0",
+      "days_old": 0
+    },
+    {
+      "title": "N/A",
+      "company": "Hive.Co",
+      "location": "N/A",
+      "description": "",
+      "url": "https://jobs.ashbyhq.com/hive.co/3758c78b-dc3b-48a2-aff6-a517a258c09a",
+      "source": "ashby",
+      "posted_date": "2026-01-12T03:43:19.678147",
+      "scraped_at": "2026-01-12T03:43:19.678158",
+      "search_snippet": "We are looking to add a Senior AI Product Manager work alongside our Engineering and Design team to develop cutting-edge agentic AI solutions that transform how ...",
+      "ai_analysis": {
+        "fit_score": 72,
+        "category": "AI/Tech",
+        "justification": "Strong AI deployment experience but lacks traditional product management and customer-facing product development background.",
+        "positioning_advice": "Emphasize your end-to-end AI solution deployment (agentic auditing system, GenAI recommender) as product launches with clear user adoption metrics. Frame your stakeholder management across 60+ teams as analogous to product-market fit validation. Highlight your ability to translate technical AI capabilities into business value, but acknowledge you're transitioning from program management to product management and emphasize transferable skills like roadmap development, KPI-driven execution, and cross-functional leadership."
+      },
+      "sustainability_analysis": {
+        "fit_score": 42,
+        "category": "AI/Tech",
+        "justification": "Sustainability PM with limited AI product management experience; lacks core product development and engineering collaboration skills.",
+        "positioning_advice": "Emphasize your AI deployment experience at Amazon (agentic AI for image detection, enterprise AI tool adoption) and technical background in data systems. Frame sustainability program management as product management—stakeholder alignment, user feedback integration, and cross-functional delivery. However, acknowledge this is a significant pivot requiring you to demonstrate product thinking beyond sustainability use cases. Consider targeting hybrid AI+Sustainability product roles first to build credibility."
+      },
+      "job_id": "a55fe3f97b93cd95",
+      "days_old": 0
+    },
+    {
+      "title": "N/A",
+      "company": "Heypinnacle",
+      "location": "N/A",
+      "description": "",
+      "url": "https://jobs.ashbyhq.com/heypinnacle/2fac331e-5a84-47d6-b3fc-fa6e7726a308",
+      "source": "ashby",
+      "posted_date": "2026-01-12T03:43:21.832643",
+      "scraped_at": "2026-01-12T03:43:21.832653",
+      "search_snippet": "The AI Learning Specialist sits at the intersection of leadership coaching and applied AI. You'll design AI agents, coach executives, and work with our ...",
+      "ai_analysis": {
+        "fit_score": 72,
+        "category": "AI/Tech",
+        "justification": "Strong AI deployment skills match, but lacks executive coaching experience critical for this hybrid role.",
+        "positioning_advice": "Emphasize your stakeholder management and change management experience as transferable coaching skills. Highlight how you've guided executives at Amazon and consulted with Microsoft Copilot leadership, framing these as advisory/coaching interactions. Focus on your ability to translate technical AI concepts for non-technical leaders and your workshop facilitation skills as evidence of teaching capability."
+      },
+      "sustainability_analysis": {
+        "fit_score": 45,
+        "category": "AI/Tech",
+        "justification": "Role focuses on AI agent design and executive coaching; candidate has sustainability program management, not AI/coaching expertise.",
+        "positioning_advice": "Highlight AI deployment experience at Amazon (agentic AI for image detection, enterprise AI tools) and cross-functional stakeholder management with executives. Emphasize technical problem-solving and your ability to translate complex concepts into actionable frameworks. However, recognize this role requires deep AI technical skills and coaching capabilities that aren't evident in your background—consider whether you're genuinely interested in pivoting away from sustainability focus into pure AI/leadership development work."
+      },
+      "job_id": "3beae4aeabb71789",
+      "days_old": 0
+    },
+    {
+      "title": "N/A",
+      "company": "Navigate Ai",
+      "location": "N/A",
+      "description": "",
+      "url": "https://jobs.ashbyhq.com/navigate-ai/889f3a95-5945-45e2-9fad-61e12faf5c45",
+      "source": "ashby",
+      "posted_date": "2026-01-12T03:43:24.058368",
+      "scraped_at": "2026-01-12T03:43:24.058378",
+      "search_snippet": "As our first AI Accuracy Product Manager, you'll ensure our models perform with consistency, precision, and trust at scale. You'll work closely with Product, ...",
+      "ai_analysis": {
+        "fit_score": 92,
+        "category": "AI/Tech",
+        "justification": "Exceptional alignment: deployed multiple AI accuracy systems, proven PM skills, and direct model precision/trust experience.",
+        "positioning_advice": "Lead with the agentic AI auditing system (85% precision, 76% cost reduction) and GenAI recommender deployment as direct proof of ensuring AI model accuracy at scale. Emphasize your experience establishing guardrails, precision metrics, and trust frameworks across multiple AI deployments. Frame your cross-functional stakeholder management (60+ stakeholders) and ambiguity navigation as core PM competencies for a first-in-role position."
+      },
+      "sustainability_analysis": {
+        "fit_score": 42,
+        "category": "AI/Tech",
+        "justification": "Limited AI product management experience; background is sustainability operations, not model accuracy or technical AI.",
+        "positioning_advice": "Emphasize AI deployment experience (image detection, enterprise AI tool) and data integrity work across 2.2M SKUs. Frame sustainability data validation as analogous to model accuracy monitoring—both require precision, consistency, and trust at scale. However, acknowledge this is a significant pivot from sustainability domain expertise to core AI product management, requiring steep technical learning curve in ML model performance, evaluation metrics, and AI system reliability."
+      },
+      "job_id": "2bd69f81eda8373a",
+      "days_old": 0
+    },
+    {
+      "title": "N/A",
+      "company": "Sorcero",
+      "location": "N/A",
+      "description": "",
+      "url": "https://boards.greenhouse.io/sorcero/jobs/5544668004",
+      "source": "greenhouse",
+      "posted_date": "2026-01-12T03:43:26.324160",
+      "scraped_at": "2026-01-12T03:43:26.324168",
+      "search_snippet": "Job Details. Discover exciting career opportunities in engineering, design, marketing and more.",
+      "ai_analysis": {
+        "fit_score": 15,
+        "category": "AI/Tech",
+        "justification": "Job posting contains no specific requirements, responsibilities, or qualifications to evaluate fit against.",
+        "positioning_advice": "Cannot provide meaningful positioning advice without actual job requirements. This appears to be a generic careers page header rather than a specific job posting. Request the complete job description including required qualifications, responsibilities, and role details before applying."
+      },
+      "sustainability_analysis": {
+        "fit_score": 25,
+        "category": "Sustainability",
+        "justification": "Job posting lacks specific requirements, responsibilities, and qualifications needed to assess candidate alignment.",
+        "positioning_advice": "This posting is too vague to evaluate properly. Request detailed job description including responsibilities, required qualifications, and team structure before investing application effort. If this is for engineering, design, or marketing roles as mentioned, your sustainability program management background may not align unless the role specifically focuses on sustainable engineering or green marketing initiatives."
+      },
+      "job_id": "a20828f59e501d72",
+      "days_old": 0
+    },
+    {
+      "title": "N/A",
+      "company": "Coram Ai",
+      "location": "N/A",
+      "description": "",
+      "url": "https://jobs.ashbyhq.com/coram-ai/97977fc8-b4d0-4537-8fa1-6887973bc828",
+      "source": "ashby",
+      "posted_date": "2026-01-12T03:43:28.586354",
+      "scraped_at": "2026-01-12T03:43:28.586364",
+      "search_snippet": "We're seeking a Product Manager (PM) to drive the development and success of Coram's video security product line, our flagship offering. You will: Work directly ...",
+      "ai_analysis": {
+        "fit_score": 72,
+        "category": "AI/Tech",
+        "justification": "Strong PM fundamentals and AI deployment experience, but lacks video/security domain expertise and traditional product management role.",
+        "positioning_advice": "Emphasize your end-to-end product ownership at Amazon (CPF features, A/B testing, user adoption metrics) and cross-functional stakeholder management across 60+ teams. Frame your AI deployment experience as product launches with clear user outcomes, activation rates, and business impact. Address the domain gap by highlighting transferable skills in technical product strategy, data-driven decision making, and customer-centric feature development rather than claiming video security expertise."
+      },
+      "sustainability_analysis": {
+        "fit_score": 35,
+        "category": "AI/Tech",
+        "justification": "Video security product management requires hardware/software PM experience; candidate has sustainability program management, not product development.",
+        "positioning_advice": "This role is a poor fit as it requires consumer electronics/IoT product management expertise, not sustainability programs. The candidate's AI deployment experience is internal tooling, not customer-facing product development. Video security PM roles need technical product strategy, hardware-software integration, and consumer product lifecycle management—skills not demonstrated in this sustainability-focused background. Recommend targeting sustainability tech products or program management roles instead."
+      },
+      "job_id": "63560cf7a70a778d",
+      "days_old": 0
+    },
+    {
+      "title": "N/A",
+      "company": "Vanta",
+      "location": "N/A",
+      "description": "",
+      "url": "https://jobs.ashbyhq.com/vanta/50761522-d82f-488d-98cc-0ec6ea34909b",
+      "source": "ashby",
+      "posted_date": "2026-01-12T03:43:30.886571",
+      "scraped_at": "2026-01-12T03:43:30.886581",
+      "search_snippet": "What you'll do as a Program Manager, AI Transformation at Vanta: Partner with Customer Success leadership and functional stakeholders to understand evolving ...",
+      "ai_analysis": {
+        "fit_score": 92,
+        "category": "AI/Tech",
+        "justification": "Exceptional alignment: AI Program Manager with proven AI transformation, stakeholder management, and cross-functional delivery experience.",
+        "positioning_advice": "Lead with your Amazon AI deployment achievements (80% activation rates, measurable cost savings, stakeholder engagement across 60+ teams). Emphasize your ability to translate ambiguous AI opportunities into structured roadmaps with KPI-driven execution. Frame your Customer Success-adjacent work: the GenAI recommender that deflected 35% of SME tickets demonstrates direct experience improving customer-facing operations through AI, which directly parallels partnering with CS leadership on AI transformation initiatives."
+      },
+      "sustainability_analysis": {
+        "fit_score": 45,
+        "category": "AI/Tech",
+        "justification": "Program management skills align, but role focuses on AI transformation for customer success, not sustainability applications.",
+        "positioning_advice": "Emphasize your AI deployment experience at Amazon (90% efficiency gains, agentic AI for auditing) and cross-functional stakeholder management with 60+ partners. Frame your sustainability program management as transferable skills in data integrity, system standardization, and enterprise tool adoption. However, recognize this role likely requires deep customer success operations knowledge and AI product transformation experience beyond sustainability use cases, which represents a significant pivot from your core expertise."
+      },
+      "job_id": "a6b1221c7c39ad9d",
+      "days_old": 0
+    },
+    {
+      "title": "N/A",
+      "company": "Aurorainnovation",
+      "location": "N/A",
+      "description": "",
+      "url": "https://boards.greenhouse.io/aurorainnovation/jobs/8365621002",
+      "source": "greenhouse",
+      "posted_date": "2026-01-12T03:43:33.365696",
+      "scraped_at": "2026-01-12T03:43:33.365706",
+      "search_snippet": "In this role, you will report to the Director of Talent Operations and join a team with two Senior Program Managers. Each Program Manager on the team has ...",
+      "ai_analysis": {
+        "fit_score": 45,
+        "category": "AI/Tech",
+        "justification": "Incomplete job posting prevents proper assessment of required skills, responsibilities, and strategic focus areas.",
+        "positioning_advice": "Unable to provide specific positioning advice without complete job description. The posting cuts off after mentioning team structure (Director of Talent Operations, Senior Program Managers) but provides no information about actual responsibilities, required qualifications, technical skills, domain focus, or strategic objectives that would allow meaningful comparison to your AI program management background."
+      },
+      "sustainability_analysis": {
+        "fit_score": 45,
+        "category": "AI/Tech",
+        "justification": "Job posting incomplete; appears to be talent operations/HR role, not sustainability program management.",
+        "positioning_advice": "Cannot provide accurate positioning without full job description. The visible text suggests a talent operations team structure, which doesn't align with your sustainability program management expertise. Request complete job posting before applying, as this may be an internal HR/recruiting role rather than a sustainability-focused program management position."
+      },
+      "job_id": "2292d0e3429e6ed4",
+      "days_old": 0
+    },
+    {
+      "title": "N/A",
+      "company": "Sciemo",
+      "location": "N/A",
+      "description": "",
+      "url": "https://jobs.ashbyhq.com/sciemo/53d55b13-f085-427f-9c4c-1ca2aa2e3b2e",
+      "source": "ashby",
+      "posted_date": "2026-01-12T03:43:35.544182",
+      "scraped_at": "2026-01-12T03:43:35.544191",
+      "search_snippet": "Our solutions leverage machine learning, generative AI ... Strong ability to translate complex technical systems (GenAI, ML, agents, graphs) into coherent product ...",
+      "ai_analysis": {
+        "fit_score": 92,
+        "category": "AI/Tech",
+        "justification": "Exceptional alignment: proven GenAI/ML/agentic AI deployment experience with strong technical translation and product impact.",
+        "positioning_advice": "Lead with your agentic AI auditing system and GenAI recommender deployments at Amazon, emphasizing the 80%+ activation rates and measurable business impact. Highlight your ability to translate complex AI systems (agents, NLP-to-SQL, RAG) into governed, production-ready solutions with clear KPIs. Frame your cross-functional stakeholder management across 60+ teams as evidence of translating technical complexity into coherent product outcomes."
+      },
+      "sustainability_analysis": {
+        "fit_score": 68,
+        "category": "AI/Tech",
+        "justification": "Strong AI deployment experience but lacks deep technical ML/GenAI development skills required for product translation.",
+        "positioning_advice": "Emphasize your hands-on experience deploying enterprise AI and agentic AI tools at Amazon, showcasing how you translated technical capabilities into business outcomes with measurable KPIs. Frame your sustainability domain expertise as a differentiator for understanding complex technical systems in specialized verticals. Highlight your ability to bridge technical teams and business stakeholders, demonstrated through managing 60+ stakeholders and standardizing data systems across global workflows."
+      },
+      "job_id": "899d7a6677643400",
+      "days_old": 0
+    },
+    {
+      "title": "N/A",
+      "company": "Tonicai",
+      "location": "N/A",
+      "description": "",
+      "url": "https://jobs.ashbyhq.com/TonicAI/ce690252-7666-4563-91e4-9f26350831bc",
+      "source": "ashby",
+      "posted_date": "2026-01-12T03:43:37.743737",
+      "scraped_at": "2026-01-12T03:43:37.743747",
+      "search_snippet": "AI has an unstructured data problem. We have the solution! Join Tonic.ai as a Sr. Product Manager to own the roadmap for Textual and define the future of AI",
+      "ai_analysis": {
+        "fit_score": 45,
+        "category": "AI/Tech",
+        "justification": "Program management background lacks core product management skills required for senior PM role.",
+        "positioning_advice": "This role requires product management expertise (roadmap ownership, feature prioritization, go-to-market strategy) which differs significantly from your program/project management experience. While your AI deployment experience is relevant, you lack demonstrated experience in product strategy, user research, competitive analysis, and working with engineering teams on product development. Consider targeting AI Program Manager or AI Solutions Architect roles that better align with your implementation-focused background, or gain product management experience through associate/mid-level PM roles first before pursuing senior PM positions."
+      },
+      "sustainability_analysis": {
+        "fit_score": 42,
+        "category": "AI/Tech",
+        "justification": "Product management skills exist but lacks core AI/unstructured data expertise and product development experience.",
+        "positioning_advice": "Emphasize AI deployment experience at Amazon (enterprise AI tool, agentic AI for image detection) and data pipeline work across 2.2M+ SKUs. Frame sustainability data challenges as unstructured data problems you solved. However, recognize this role requires deep AI product expertise you haven't demonstrated—consider targeting hybrid sustainability-tech PM roles instead where your domain knowledge adds differentiated value."
+      },
+      "job_id": "89e28bd41bd36159",
+      "days_old": 0
+    },
+    {
+      "title": "Partner Development Lead, Commerce: Afterpay & Cash App",
+      "company": "Block",
+      "location": "N/A",
+      "description": "Since we opened our doors in 2009, the world of commerce has evolved immensely, and so has Square. After enabling anyone to take payments and never miss a sale, we saw sellers stymied by disparate, outmoded products and tools that wouldn't work together. So we expanded into software and started building integrated, omnichannel solutions – to help sellers sell online, manage inventory, offer buy now, pay later functionality, book appointments, engage loyal buyers, and hire and pay staff. Across it all, we've embedded financial services tools at the point of sale, so merchants can access a business loan and manage their cash flow in one place. Afterpay furthers our goal to provide omnichannel tools that unlock meaningful value and growth, enabling sellers to capture the next generation shopper, increase order sizes, and compete at a larger scale. Today, we are a partner to sellers of all sizes – large, enterprise-scale businesses with complex operations, sellers just starting, as well as merchants who began selling with Square and have grown larger over time. As our sellers grow, so do our solutions. There is a massive opportunity in front of us. We're building a significant, meaningful, and lasting business, and we are helping sellers worldwide do the same. The Role The Global Payments Partnerships team leads commercialization and business development for Cash App and Afterpay's payments products. Our ambitious team develops go-to-market strategy for our commercial products, builds effective relationships with the largest players in the payments, finance, and technology industries, and drives critical results across the business. We are looking for an experienced partnerships practitioner to source and own relationships with a select list of our biggest and most strategically important partners. This Partner Development Lead will work closely with our executive leadership team to manage and grow existing partnerships that represent the biggest upside opportunities for our business globally. You'll partner directly with leaders at both Afterpay and Cash App across Product, Engineering, Sales, Account Management, Marketing, Finance, Compliance, and Legal. You'll drive a global strategy for your partners and execute on that strategy in conjunction with cross-functional colleagues. You will source and own primary responsibility for the performance of your partners, innovate at the cutting edge of payments, and deliver revenue that will drive growth for our core business. The ideal candidate will have an understanding of the economics of the payments space and deep knowledge of the payments ecosystem. This individual should also have an understanding of what will be needed to properly resource a partner strategy, and work with internal stakeholders to develop a plan for ensuring the success of a partner. A deep sense of ownership, drive, and entrepreneurship is essential. You will: Develop growth strategy: Create and implement an overarching plan and strategy for maximizing the effectiveness of a partnership, in terms of driving profitable business impact and product distribution at scale. Build relationships : Establish strong rapport with partners at every level (executive to working groups, across functions) to influence their decision-making and advance our goals. Design scalable programs : Build and project manager a partnership program that both achieves our goals and meets our partners' objectives, scaling across internal and external teams and across global regions. Commercialize payment products : Lead commercialization of new products by refining and executing our growth partner distribution strategy. Lead end-to-end partner negotiations to deliver maximum distribution of our payments products, including upsell and cross-sell of new products and features. Lead cross-functional initiatives: Establish yourself as the go-to commercial voice for our partnership strategy and most strategic partners. Provide critical market feedback to improve our product. Drive efficiencies and improvements that accelerate business impact. You Have: 9+ years of business development or partner management experience, preferably at an innovative payments company. A demonstrated track record of success managing growth partnership programs, ideally in payments or fintech. Proven ability to build C-suite relationships and navigate external organizations both to identify internal champions and to influence decision makers. You are an expert negotiator with a strong understanding of commercial contracts and complex negotiating dynamics that may be simultaneously cooperative and competitive. A hunger to tackle complicated and impactful business problems. Sharp problem solving and communication skills. You're a killer sales person and strategic thinker who comes armed to internal and external conversations with the right data and analysis to make a convincing argument. Deep comfort operating in the ambiguity of an ever-evolving product that operates at scale globally. A scrappy and humble mindset to work autonomously. You roll up your sleeves to get things done. Willingness to travel (primarily domestically but sometimes internationally) for both internal and external meetings. BS/BA required; MBA or Masters degree a plus We're working to build a more inclusive economy where our customers have equal access to opportunity, and we strive to live by these same values in building our workplace. Block is an equal opportunity employer evaluating all employees and job applicants without regard to identity or any legally protected class. We will consider qualified applicants with arrest or conviction records for employment in accordance with state and local laws and “fair chance” ordinances. We believe in being fair, and are committed to an inclusive interview experience, including providing reasonable accommodations to disabled applicants throughout the recruitment process. We encourage applicants to share any needed accommodations with their recruiter, who will treat these requests as confidentially as possible. Want to learn more about what we're doing to build a workplace that is fair and square? Check out our I+D page . Block takes a market-based approach to pay, and pay may vary depending on your location. U.S. locations are categorized into one of four zones based on a cost of labor index for that geographic area. The successful candidate’s starting pay will be determined based on job-related skills, experience, qualifications, work location, and market conditions. These ranges may be modified in the future. To find a location’s zone designation, please refer to this resource . If a location of interest is not listed, please speak with a recruiter for additional information. Zone A: $198,000 — $297,000 USD Zone B: $184,200 — $276,200 USD Zone C: $174,200 — $261,400 USD Zone D: $164,300 — $246,500 USD Use of AI in Our Hiring Process We may use automated AI tools to evaluate job applications for efficiency and consistency. These tools comply with local regulations, including bias audits, and we handle all personal data in accordance with state and local privacy laws. Contact us here with hiring practice or data usage questions. Every benefit we offer is designed with one goal: empowering you to do the best work of your career while building the life you want. Remote work, medical insurance, flexible time off, retirement savings plans, and modern family planning are just some of our offering. Check out our other benefits at Block. Block, Inc. (NYSE: XYZ) builds technology to increase access to the global economy. Each of our brands unlocks different aspects of the economy for more people. Square makes commerce and financial services accessible to sellers. Cash App is the easy way to spend, send, and store money. Afterpay is transforming the way customers manage their spending over time. TIDAL is a music platform that empowers artists to thrive as entrepreneurs. Bitkey is a simple self-custody wallet built for bitcoin. Proto is a suite of bitcoin mining products and services. Together, we’re helping build a financial system that is open to everyone. Privacy Policy Apply See all jobs",
+      "url": "https://boards.greenhouse.io/block/jobs/5025895008",
+      "source": "greenhouse",
+      "posted_date": "2026-01-12T03:43:40.314800",
+      "scraped_at": "2026-01-12T03:43:40.315323",
+      "search_snippet": "Develop growth strategy: Create and implement an overarching plan and strategy ... You are being connected to our automated chatbot which utilizes generative AI.",
+      "ai_analysis": {
+        "fit_score": 42,
+        "category": "AI/Tech",
+        "justification": "Significant experience gap: role requires 9+ years in payments/fintech business development, candidate has technical AI implementation background.",
+        "positioning_advice": "This role is fundamentally a senior business development and partnership management position in payments, not an AI implementation role. The candidate's 8 years are in program management and AI deployment, not in partner negotiations, commercial contracts, or payments ecosystem relationships. The required skills—C-suite relationship building in payments, commercial deal structuring, partner revenue management, and deep payments industry knowledge—are not demonstrated in the resume. While the candidate shows strong analytical and stakeholder management skills, they lack the core payments BD experience, partner management track record, and commercial negotiation expertise this role demands. This would represent a significant lateral pivot rather than a natural progression."
+      },
+      "sustainability_analysis": {
+        "fit_score": 42,
+        "category": "AI/Tech",
+        "justification": "Payments partnerships role requires 9+ years BD/partner management experience; candidate has 7 years in sustainability programs.",
+        "positioning_advice": "This role is a significant pivot from sustainability to fintech partnerships with minimal transferable experience. The position requires deep payments ecosystem knowledge, C-suite relationship management in financial services, and complex commercial negotiations—none of which appear in your background. While you have strong program management and stakeholder coordination skills, you lack the core payments/fintech partnership experience and would be competing against candidates with direct industry expertise. The 9+ years requirement and need for established payment industry relationships make this a poor fit. Focus instead on sustainability program roles at fintech companies or partnership roles specifically in climate tech/ESG where your domain expertise provides competitive advantage."
+      },
+      "job_id": "43134c292acf558d",
+      "days_old": 0
+    },
+    {
+      "title": "N/A",
+      "company": "Lilt Production",
+      "location": "N/A",
+      "description": "",
+      "url": "https://jobs.ashbyhq.com/lilt-production/4cab6791-9f3f-40ce-a981-6f94bef28db1",
+      "source": "ashby",
+      "posted_date": "2026-01-12T03:43:42.545577",
+      "scraped_at": "2026-01-12T03:43:42.545588",
+      "search_snippet": "As part of our recruitment efforts, we may use artificial intelligence (AI) and automated tools to assist in the evaluation of applications, including résumé ...",
+      "ai_analysis": {
+        "fit_score": 15,
+        "category": "AI/Tech",
+        "justification": "Incomplete job posting - only shows AI screening disclaimer, not actual role requirements.",
+        "positioning_advice": "Unable to provide meaningful assessment as the job posting appears truncated and contains only the AI screening notice rather than actual job description, responsibilities, or requirements. Please provide the complete job posting including role title, responsibilities, required qualifications, and preferred skills to enable accurate fit analysis."
+      },
+      "sustainability_analysis": {
+        "fit_score": 15,
+        "category": "AI/Tech",
+        "justification": "Incomplete job posting provides no role details, requirements, or responsibilities to assess fit.",
+        "positioning_advice": "Cannot provide meaningful positioning advice without actual job description. The snippet only mentions AI-assisted recruitment processes, not the role itself. Request complete job posting before investing time in application."
+      },
+      "job_id": "a27ce7bdd7a78692",
+      "days_old": 0
+    },
+    {
+      "title": "N/A",
+      "company": "Super.Com",
+      "location": "N/A",
+      "description": "",
+      "url": "https://jobs.ashbyhq.com/super.com/69551696-d46b-4887-8d4e-ba889a3a1f3e",
+      "source": "ashby",
+      "posted_date": "2026-01-12T03:43:44.793301",
+      "scraped_at": "2026-01-12T03:43:44.793311",
+      "search_snippet": "The Director of Analytics & Data Science leads our Analytics and Data Science organization through its next phase of scale. Operating within our mission-aligned ...",
+      "ai_analysis": {
+        "fit_score": 72,
+        "category": "AI/Tech",
+        "justification": "Strong AI/analytics execution experience but lacks people leadership and traditional data science depth for Director role.",
+        "positioning_advice": "Emphasize your AI deployment track record with quantified business impact ($218M sales, 76% cost reduction) and cross-functional stakeholder management across 60+ partners. Frame your program management as strategic leadership that scaled analytics capabilities. Address the leadership gap by highlighting your change management experience and ability to build adoption mechanisms (80% activation rates). Position this as a growth opportunity to transition from individual contributor/program lead to formal people management."
+      },
+      "sustainability_analysis": {
+        "fit_score": 35,
+        "category": "AI/Tech",
+        "justification": "Role requires leading analytics/data science organization; candidate has program management experience, not data science leadership.",
+        "positioning_advice": "This Director role requires deep data science expertise and team leadership experience that isn't evident in your background. Your experience is in sustainability program management with some analytics tools usage (Power BI, SQL), not leading data scientists or building ML models. You would need to pivot significantly and gain several years of data science team leadership before being competitive for this level. Consider data-focused sustainability roles or analytics manager positions instead to build the technical leadership credentials needed for future Director of Data Science opportunities."
+      },
+      "job_id": "b0d00807d70517ad",
+      "days_old": 0
+    },
+    {
+      "title": "N/A",
+      "company": "Alexai",
+      "location": "N/A",
+      "description": "",
+      "url": "https://jobs.ashbyhq.com/alexai/426e3f19-01c4-4390-8777-5057384c0004",
+      "source": "ashby",
+      "posted_date": "2026-01-12T03:43:47.025652",
+      "scraped_at": "2026-01-12T03:43:47.025662",
+      "search_snippet": "We're hiring our first Product Manager to act as an operator, not a process PM. This role is for someone who thrives in ambiguity, moves fast, and takes real ...",
+      "ai_analysis": {
+        "fit_score": 92,
+        "category": "AI/Tech",
+        "justification": "Exceptional match: proven operator who deploys AI solutions fast, thrives in ambiguity, drives measurable impact.",
+        "positioning_advice": "Lead with your Amazon AI deployment wins (80% activation in 90 days, agentic systems) to demonstrate you're an execution-focused operator, not a process PM. Emphasize your ability to move from ambiguity to structured outcomes quickly—cite the GenAI recommender and NL-to-SQL dashboard as examples of shipping fast with measurable KPIs. Frame your cross-functional stakeholder management (60+ at Amazon) as evidence you can operate without established processes."
+      },
+      "sustainability_analysis": {
+        "fit_score": 45,
+        "category": "AI/Tech",
+        "justification": "Limited product management experience; sustainability expertise doesn't align with unspecified product domain.",
+        "positioning_advice": "Emphasize your operator mindset from Amazon CPF role where you moved fast in ambiguity, built systems from scratch, and drove cross-functional delivery without formal PM processes. Highlight AI tool deployment, stakeholder management across 60+ partners, and data-driven decision making. Frame sustainability program management as product operations experience—you've shipped features, improved metrics, and owned end-to-end outcomes. However, be prepared to explain interest in non-sustainability product domain and acknowledge you're transitioning from program to product management."
+      },
+      "job_id": "91eb353b4f031d1e",
+      "days_old": 0
+    },
+    {
+      "title": "N/A",
+      "company": "Theydo",
+      "location": "N/A",
+      "description": "",
+      "url": "https://jobs.ashbyhq.com/theydo/2e84c036-a870-46d5-ae59-73208c7944a2",
+      "source": "ashby",
+      "posted_date": "2026-01-12T03:43:49.269264",
+      "scraped_at": "2026-01-12T03:43:49.269275",
+      "search_snippet": "We're looking for a Principal Product Manager to lead and scale our AI product area, turning early breakthroughs like JourneyAI & Ask TheyDo into loved products ...",
+      "ai_analysis": {
+        "fit_score": 45,
+        "category": "AI/Tech",
+        "justification": "Strong AI deployment experience but lacks core product management, user research, and B2B SaaS product expertise.",
+        "positioning_advice": "Emphasize your AI product deployment at Amazon (GenAI recommender, agentic auditing system) as mini-product launches with user adoption metrics. Highlight cross-functional stakeholder management across 60+ partners as proxy for product leadership. Address the PM experience gap directly by framing program management as product thinking—translating customer pain points into solutions, running experiments (A/B tests), and driving adoption KPIs. Consider this a stretch role requiring you to pivot from technical program management into true product ownership."
+      },
+      "sustainability_analysis": {
+        "fit_score": 35,
+        "category": "AI/Tech",
+        "justification": "Candidate lacks core product management experience; background is sustainability program management, not AI product leadership.",
+        "positioning_advice": "This role requires deep product management expertise (roadmaps, user research, product-market fit) that isn't demonstrated in your resume. Your AI deployment experience at Amazon is implementation-focused, not product strategy. To transition into product management, you'd need to first gain PM experience in a junior/associate PM role, emphasizing your stakeholder management, data-driven decision making, and user feedback integration skills as transferable foundations."
+      },
+      "job_id": "3b232c77e7399cf8",
+      "days_old": 0
+    },
+    {
+      "title": "N/A",
+      "company": "Broccoli",
+      "location": "N/A",
+      "description": "",
+      "url": "https://jobs.ashbyhq.com/broccoli/c8fff54a-0f65-4182-9328-d224ce2c7dd5",
+      "source": "ashby",
+      "posted_date": "2026-01-12T03:43:51.453300",
+      "scraped_at": "2026-01-12T03:43:51.453311",
+      "search_snippet": "We deploy intelligent AI agents at the front lines of HVAC, roofing, and other trades businesses to answer calls, engage customers, book jobs, and ensure every ...",
+      "ai_analysis": {
+        "fit_score": 45,
+        "category": "AI/Tech",
+        "justification": "Strong AI deployment skills but zero HVAC/trades experience; role likely needs domain expertise and sales focus.",
+        "positioning_advice": "Emphasize your proven track record deploying customer-facing AI agents (GenAI recommender, agentic auditing system) that achieved 80%+ activation rates and measurable business impact. Highlight your ability to translate complex AI into operational workflows for non-technical stakeholders, which mirrors helping trades businesses adopt AI phone systems. However, acknowledge this represents a significant industry pivot from Fortune 500/enterprise to small business/trades, and be prepared to explain why you're interested in this specific vertical and how your change management skills transfer to helping contractors adopt new technology."
+      },
+      "sustainability_analysis": {
+        "fit_score": 25,
+        "category": "AI/Tech",
+        "justification": "Role focuses on AI agents for HVAC/trades customer service, not sustainability programs or decarbonization expertise.",
+        "positioning_advice": "This role is a poor match for your sustainability-focused career trajectory. It's a pure AI/customer service technology play in trades businesses with no environmental mission or sustainability component. Your AI deployment experience at Amazon is relevant, but this would be a significant pivot away from your core expertise in decarbonization, ESG reporting, and climate programs. Only consider if you're intentionally pivoting to pure AI/SaaS operations roles and willing to abandon sustainability focus."
+      },
+      "job_id": "7278ef888aca55ba",
+      "days_old": 0
+    },
+    {
+      "title": "N/A",
+      "company": "Joist Ai",
+      "location": "N/A",
+      "description": "",
+      "url": "https://jobs.ashbyhq.com/joist-ai/f38fb2c6-2d4d-4d90-848c-e52b2664ff62/application?utm_source=pWWZQZmNLJ",
+      "source": "ashby",
+      "posted_date": "2026-01-12T03:43:53.640437",
+      "scraped_at": "2026-01-12T03:43:53.640447",
+      "search_snippet": "Joist AI. Sr. Product Manager - Agentic AI Applications. Location. Remote - India. Employment Type. Full time. Location Type. Remote. Department. Product.",
+      "ai_analysis": {
+        "fit_score": 72,
+        "category": "AI/Tech",
+        "justification": "Strong agentic AI deployment experience but lacks traditional product management depth and customer-facing product ownership.",
+        "positioning_advice": "Emphasize your agentic AI system deployments at Amazon (auditing system) and WSP (validation system), highlighting end-to-end ownership from use case identification through production deployment. Frame your program management experience as product management by focusing on roadmap creation, stakeholder alignment, KPI definition, and iterative feature releases. Address the product management gap by showcasing how you translated customer pain points into technical solutions, managed backlogs, and drove adoption metrics—essentially PM work under a different title."
+      },
+      "sustainability_analysis": {
+        "fit_score": 42,
+        "category": "AI/Tech",
+        "justification": "Sustainability PM lacks core product management and technical AI/ML expertise required for senior agentic AI role.",
+        "positioning_advice": "Highlight AI deployment experience at Amazon (agentic AI for image detection, enterprise AI tool adoption) and technical STEM background. Emphasize cross-functional stakeholder management, data systems work, and product lifecycle experience with CPF. However, recognize this is a significant pivot from sustainability-focused PM to pure AI product management requiring deeper technical AI knowledge and product strategy experience you may need to develop."
+      },
+      "job_id": "26f557b81f6ff3b4",
+      "days_old": 0
+    },
+    {
+      "title": "Stripe logoJobs",
+      "company": "Stripe",
+      "location": "N/A",
+      "description": "Bridge open roles Privy open roles Opens the multi-select filter menu Teams Opens the multi-select filter menu Office Locations Opens the multi-select filter menu Remote Locations Opens the multi-select filter menu Tags Showing roles across across all locations and all teams. Clear all filters Role Team Location Account Executive - Enterprise Sales Mexico City Account Executive - Enterprise Germany Sales Remote in Germany Account Executive - Enterprise Germany Sales Berlin Account Executive - Enterprise Hunter (UK) Sales London Account Executive - Enterprise Switzerland Sales Remote in Germany Account Executive -Mexico (SSMB) Sales Mexico City Account Executive (Grower) , UK Enterprise Retail Sales London Account Executive (SMB) Sales Singapore Account Executive, AI Sales Sales South San Francisco HQ Account Executive, Benelux - Startups (Dutch Speaking) Sales Amsterdam Account Executive, Benelux & Nordics - Existing Business Sales Dublin HQ Account Executive, CEE Sales Dublin HQ Account Executive, Commercial - DACH Sales Remote in Germany Account Executive, Commercial - DACH Sales Berlin Account Executive, Commercial - German Speaking Sales Dublin HQ Account Executive, Commercial - New Business Sales Dublin HQ Account Executive, Commercial (Existing Business) Sales Chicago Account Executive, Commercial (New Business) Sales Chicago Account Executive, Enterprise Sales Toronto Account Executive, Enterprise - Public Sector (New Business) Sales Washington DC Account Executive, Enterprise - Public Sector (New Business) Sales South San Francisco HQ Account Executive, Enterprise - Public Sector (New Business) Sales Remote in United States Account Executive, Enterprise - Public Sector (New Business) Sales Chicago Account Executive, Enterprise - Public Sector (New Business) Sales New York Account Executive, Enterprise (Existing Business) Sales Chicago Account Executive, Enterprise (Existing Business) Sales Remote in United States Account Executive, Enterprise (Existing Business) Sales New York Account Executive, Enterprise (Existing Business) Sales South San Francisco HQ Account Executive, Enterprise (Hunter) Sales Paris Account Executive, Enterprise (New Business) Sales New York Account Executive, Enterprise (New Business) Sales Seattle Account Executive, Enterprise (New Business) Sales Remote in United States Account Executive, Enterprise (New Business) Sales Chicago Account Executive, Enterprise AUNZ Sales Melbourne Account Executive, Enterprise Lifecycle (Northern Europe) Sales Amsterdam Account Executive, Enterprise Lifecycle (Northern Europe) Sales Stockholm Account Executive, Enterprise Lifecycle (Northern Europe) Sales Dublin HQ Account Executive, Enterprise Platforms, Hunter Sales Remote in United States Account Executive, Enterprise, Japan Sales Tokyo Account Executive, Existing Business - Startups Sales Sydney Account Executive, Existing Business - Startups Sales Melbourne Account Executive, Funded Startups Sales Dublin HQ Account Executive, Funded Startups (Existing Business) Sales New York Account Executive, Funded Startups (Existing Business) Sales South San Francisco HQ Account Executive, Iberia Sales Madrid Account Executive, Italy Sales Italy Account Executive, New Business - Nordics Sales Dublin HQ Account Executive, Nordics - Startups Sales Dublin HQ Account Executive, Platforms (German-speaking) Sales Berlin Account Executive, Platforms (Existing Business) Sales South San Francisco HQ Account Executive, Platforms (Existing Business) Sales New York Account Executive, Platforms (French Speaking) Sales Dublin HQ Account Executive, Platforms (Grower) Sales South San Francisco HQ Account Executive, Platforms (Grower) Sales Paris Account Executive, Platforms (Spanish - Speaking) Sales Dublin HQ Account Executive, Platforms, New Zealand Sales Remote in New Zealand Account Executive, Product - Disputes Sales Remote in United States Account Executive, Product (Billing- Grower), French - Speaking Sales London Account Executive, Product (Billing- Grower), French - Speaking Sales Paris Account Executive, Product (Billing- Grower), French - Speaking Sales Dublin HQ Account Executive, Product (Billing- Grower), French - Speaking Sales Berlin Account Executive, Product (Crypto Sales) Sales New York Account Executive, Product (Crypto Sales) Sales Remote in United States Account Executive, Product Sales Sales Singapore Account Executive, Product Sales (BaaS) Sales Remote in United States Account Executive, Product Sales (Radar) Sales South San Francisco HQ Account Executive, Product Sales (Radar) Sales New York Account Executive, Product Sales (Radar) Sales Remote in United States Account Executive, Product Sales (Radar) Sales Chicago Account Executive, Product Sales, Billing Sales Remote in United States Account Executive, Product Sales, Optimized Checkout Sales Remote in United States Account Executive, Product Sales, Optimized Checkout Sales New York Account Executive, Product Sales, Radar (NYC) Sales New York Account Executive, Product Sales, Radar (NYC) Sales Remote in United States Account Executive, Product Sales, Radar (NYC) Sales Chicago Account Executive, Product Sales, Radar (NYC) Sales South San Francisco HQ Account Executive, SMB - New Business Sales Dublin HQ Account Executive, SMB (French Speaking) Sales Dublin HQ Account Executive, SMB (New Business) Sales Chicago Account Executive, SMB Platforms (New Business) Sales Chicago Account Executive, Startup Platforms (Existing Business) Sales South San Francisco HQ Account Executive, Startups (Greater China) Sales Singapore Account Executive, Startups/ SMB, Grower, New Zealand Sales Remote in New Zealand Account Executive, Velocity Grower (Japanese-speaking) Sales Tokyo Accounting - Legal Entity Controller Controllership Bengaluru Administrative Coordinator Administrative Dublin HQ Administrative Coordinator Administrative Mexico City Advertising Operations Associate Marketing Bengaluru AEO & GEO Marketing Manager Marketing Remote in United States AI Solutions Architect Solutions Architect South San Francisco HQ AI Solutions Architect Solutions Architect New York AI Solutions Architect Solutions Architect Remote in United States Alliances & Channels Sales Strategy & Operations Analytical Lead Revenue Operations Remote in United States Alliances & Channels Sales Strategy & Operations Analytical Lead Revenue Operations Chicago Analytics Lead, Privy Privy New York Android Engineer, Link Link Toronto APAC Partner Marketing Lead Marketing Singapore APAC Partner Marketing Lead Marketing Sydney APAC People Consultant People Functions Singapore APAC Product Marketing Lead Marketing Singapore",
+      "url": "https://boards.greenhouse.io/stripe/jobs/7249436",
+      "source": "greenhouse",
+      "posted_date": "2026-01-12T03:43:56.699755",
+      "scraped_at": "2026-01-12T03:43:56.700115",
+      "search_snippet": "Strategic Program Manager - Support. Who we are. 8+ years of experience in ... AI companies · Creator economy · Hospitality, travel, and leisure · Insurance ...",
+      "ai_analysis": {
+        "fit_score": 25,
+        "category": "AI/Tech",
+        "justification": "Sales-focused roles requiring quota attainment and direct selling experience; candidate has technical/program management background.",
+        "positioning_advice": "This is a poor fit. These are Account Executive (sales) positions requiring B2B selling, pipeline management, and quota achievement. Your background is in AI program management, operations, and technical consulting—not revenue-generating sales. If interested in sales, you'd need to pivot into Solutions Engineering, Technical Account Management, or Sales Engineering roles that leverage technical expertise rather than pure quota-carrying positions. Consider roles like 'AI Solutions Architect' listed in this same posting instead."
+      },
+      "sustainability_analysis": {
+        "fit_score": 15,
+        "category": "AI/Tech",
+        "justification": "Sales-focused roles with no sustainability component; candidate has program management experience, not sales expertise.",
+        "positioning_advice": "This job board appears to be for a payment/fintech company (likely Stripe) with exclusively sales positions. None align with your sustainability program management background. These roles require B2B sales experience, quota attainment, and customer acquisition skills—not technical program management or sustainability expertise. Recommend searching for Sustainability Program Manager, ESG Data Manager, or Climate Strategy roles instead."
+      },
+      "job_id": "a18e9d420e2a40f1",
+      "days_old": 0
+    },
+    {
+      "title": "N/A",
+      "company": "Ramp",
+      "location": "N/A",
+      "description": "",
+      "url": "https://jobs.ashbyhq.com/ramp/63df0ffc-bdc6-40ba-906f-fe03378536b0/application?utm_source_platform=workoutsideoffice.com",
+      "source": "ashby",
+      "posted_date": "2026-01-12T03:44:05.401345",
+      "scraped_at": "2026-01-12T03:44:05.401355",
+      "search_snippet": "AI Operations Specialist | Enablement. Location. New York, NY (HQ). Employment Type. Full time. Location Type. Hybrid. Department. Product. Compensation.",
+      "ai_analysis": {
+        "fit_score": 92,
+        "category": "AI/Tech",
+        "justification": "Exceptional match: current Amazon AI Ops role, proven AI deployment expertise, enablement focus aligns perfectly.",
+        "positioning_advice": "Lead with your Amazon AI Operations experience deploying GenAI systems with 80% activation rates and measurable business impact. Emphasize your AI enablement expertise—translating technical complexity into adoption, establishing governance guardrails, and driving stakeholder engagement across 60+ teams. Highlight your AWS AI Practitioner certification and hands-on experience with agentic workflows, RAG systems, and change management that directly parallel an AI Operations Specialist role focused on enablement."
+      },
+      "sustainability_analysis": {
+        "fit_score": 45,
+        "category": "AI/Tech",
+        "justification": "Limited AI operations experience; role requires technical AI/ML infrastructure skills, not sustainability program management.",
+        "positioning_advice": "Emphasize your AI deployment experience at Amazon (enterprise AI tool, agentic AI for image detection) and technical skills in data systems. However, this role likely requires deeper technical AI operations expertise (model deployment, MLOps, infrastructure) than your sustainability-focused program management background provides. The 'Enablement' focus suggests internal tooling and technical support rather than sustainability applications. Consider roles that explicitly combine AI with sustainability impact rather than pure AI operations positions."
+      },
+      "job_id": "8d557f32aa8baf07",
+      "days_old": 0
+    },
+    {
+      "title": "N/A",
+      "company": "Sardine",
+      "location": "N/A",
+      "description": "",
+      "url": "https://jobs.ashbyhq.com/sardine/adc5f3ee-2ace-4675-8551-d8748162a299",
+      "source": "ashby",
+      "posted_date": "2026-01-12T03:44:07.669941",
+      "scraped_at": "2026-01-12T03:44:07.669952",
+      "search_snippet": "Must have worked as a Data Scientist/ML Engineer for 3 years. Has 3-4 years of experience as a Product Manager. Experience in building AI applications.",
+      "ai_analysis": {
+        "fit_score": 45,
+        "category": "AI/Tech",
+        "justification": "Lacks required 3 years Data Scientist/ML Engineer experience and 3-4 years Product Manager title.",
+        "positioning_advice": "This role requires hands-on ML engineering and formal Product Manager experience that your resume doesn't demonstrate. Your Program Manager experience at Amazon shows AI deployment and product thinking, but you lack the technical depth (model building, algorithm development) and PM title history required. Consider roles titled 'AI Program Manager' or 'Technical Program Manager - AI' instead, which better match your strategic implementation strengths versus hands-on ML engineering and traditional product management."
+      },
+      "sustainability_analysis": {
+        "fit_score": 25,
+        "category": "AI/Tech",
+        "justification": "Candidate lacks required 3+ years as Data Scientist/ML Engineer and 3-4 years as Product Manager.",
+        "positioning_advice": "This role requires deep technical ML engineering and product management experience that your profile doesn't demonstrate. While you've deployed AI tools as a program manager, you haven't built ML models or served as a dedicated Product Manager. Your AI experience is implementation-focused, not development-focused. Consider roles that seek 'AI Program Manager' or 'Sustainability Product Manager' where your domain expertise and AI deployment experience would be valued, rather than pure ML engineering positions."
+      },
+      "job_id": "cb21f16344889c1c",
+      "days_old": 0
+    },
+    {
+      "title": "N/A",
+      "company": "Handshake",
+      "location": "N/A",
+      "description": "",
+      "url": "https://jobs.ashbyhq.com/handshake/c5753428-968f-4142-9dbc-49d419f0a020",
+      "source": "ashby",
+      "posted_date": "2026-01-12T03:44:09.878489",
+      "scraped_at": "2026-01-12T03:44:09.878499",
+      "search_snippet": "Partner directly with frontier AI labs and senior stakeholders to shape scope, resolve issues, and expand programs through execution. You Have. 4+ years of ...",
+      "ai_analysis": {
+        "fit_score": 92,
+        "category": "AI/Tech",
+        "justification": "Exceptional match: 8+ years exceeds 4+ requirement, direct frontier AI lab partnership experience at Amazon, proven stakeholder management.",
+        "positioning_advice": "Lead with Amazon AI Strategy & Operations role emphasizing cross-functional program execution with 60+ stakeholders and GenAI deployment. Highlight experience translating ambiguous AI initiatives into structured roadmaps with measurable KPIs (80% activation rates, $175K savings). Frame consulting work as direct engagement with frontier AI applications (Microsoft Copilot strategy, agentic AI systems) demonstrating ability to partner with senior stakeholders and scale programs."
+      },
+      "sustainability_analysis": {
+        "fit_score": 35,
+        "category": "AI/Tech",
+        "justification": "Role focuses on frontier AI labs requiring deep AI/ML expertise; candidate has sustainability focus with limited AI technical depth.",
+        "positioning_advice": "This role requires partnering with AI research labs and likely demands technical AI/ML knowledge beyond your current scope. While you've deployed AI tools for sustainability applications, this appears to be a core AI product/program management role. Your strongest angle would be emphasizing your AI deployment experience at Amazon and Microsoft Copilot research, but significant gaps remain in frontier AI domain knowledge. Consider roles that bridge sustainability and AI applications rather than pure AI lab partnerships."
+      },
+      "job_id": "38bbc86578da02e6",
+      "days_old": 0
+    },
+    {
+      "title": "N/A",
+      "company": "Traba",
+      "location": "N/A",
+      "description": "",
+      "url": "https://jobs.ashbyhq.com/traba/d49bfa49-96c5-4dd6-8a16-05cd7987f4a0",
+      "source": "ashby",
+      "posted_date": "2026-01-12T03:44:18.554431",
+      "scraped_at": "2026-01-12T03:44:18.554440",
+      "search_snippet": "Experience: 4+ years in analytics, data science, business intelligence, or similar roles. Education: BS/MS degree in data science, statistics, mathematics, ...",
+      "ai_analysis": {
+        "fit_score": 92,
+        "category": "AI/Tech",
+        "justification": "Exceptional match: 8+ years exceeds 4+ requirement, strong analytics/data science background, relevant education.",
+        "positioning_advice": "Lead with your AI-driven analytics deployment at Amazon (80% activation, <2min latency) and agentic AI systems experience. Emphasize your SQL/Python proficiency and quantified business impact ($175K savings, 76% cost reduction). Frame your MBA+MIS as equivalent to BS/MS in quantitative fields, highlighting your data modeling, forecasting, and statistical analysis capabilities across Fortune 500 environments."
+      },
+      "sustainability_analysis": {
+        "fit_score": 68,
+        "category": "AI/Tech",
+        "justification": "Relevant analytics experience with sustainability data, but lacks formal data science education and statistical modeling depth.",
+        "positioning_advice": "Emphasize quantitative achievements: 2.2M+ SKU data integrity work, AI tool deployment (90% efficiency gain), SQL/Python/Power BI skills, and dashboard experience. Frame sustainability data work as complex analytics requiring statistical rigor, data pipeline management, and business intelligence. Address education gap by highlighting STEM-designated MIS degree and self-taught technical skills with measurable business impact."
+      },
+      "job_id": "21d32522e0aef3c5",
+      "days_old": 0
+    }
+  ],
+  "metadata": {
+    "run_timestamp": "2026-01-12T03:43:11.204078",
+    "total_searched": 25,
+    "new_jobs_found": 25,
+    "jobs_analyzed": 23,
+    "jobs_skipped": 0
+  }
+}

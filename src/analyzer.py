@@ -42,7 +42,8 @@ class JobAnalyzer:
         # Load resumes
         self.resumes = {
             'ai': load_text_file("resumes/ai_resume.txt"),
-            'sustainability': load_text_file("resumes/sustainability_resume.txt")
+            'sustainability': load_text_file("resumes/sustainability_resume.txt"),
+            'anvesha': load_text_file("resumes/anvesha_resume.txt")
         }
 
         # Stats tracking

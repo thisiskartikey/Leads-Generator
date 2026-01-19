@@ -3,7 +3,10 @@
 
 search_timeframe_days: 30  # How many days back to search
 
-# Keywords that must appear in job postings
+# Active profile for local runs (workflow runs all profiles)
+active_profile: kartikey
+
+# Keywords that must appear in job postings (legacy fallback)
 keywords:
   # PRIMARY FOCUS: AI-related terms (MUST include one of these)
   ai_focus:
@@ -39,6 +42,58 @@ keywords:
     - "program manager"
     - director
     - "product manager"
+
+# Profile definitions (used by the dashboard + fallback keywords)
+profiles:
+  kartikey:
+    display_name: "Kartikey"
+    keywords:
+      ai_focus:
+        - AI
+        - "artificial intelligence"
+        - "generative AI"
+        - "machine learning"
+        - "GenAI"
+        - "agentic"
+        - "LLM"
+        - "large language model"
+        - "ML"
+        - "data science"
+        - "AI strategy"
+        - "AI transformation"
+      roles:
+        - consultant
+        - strategy
+        - analyst
+        - advisor
+        - specialist
+        - "program manager"
+        - director
+        - "product manager"
+  anvesha:
+    display_name: "Anvesha"
+    keywords:
+      focus:
+        - "product designer"
+        - "product design"
+        - "ux designer"
+        - "ux researcher"
+        - "ui researcher"
+        - "ui/ux"
+        - "interaction designer"
+        - "service designer"
+        - "user researcher"
+        - "experience designer"
+        - "design researcher"
+      roles:
+        - "product designer"
+        - "ux designer"
+        - "ux researcher"
+        - "ui researcher"
+        - "interaction designer"
+        - "product design"
+        - "experience designer"
+        - "design researcher"
 
 # Which job boards to search (uses Google site: operator)
 job_boards:

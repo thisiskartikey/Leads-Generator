@@ -10,6 +10,7 @@ import logging
 from datetime import datetime, timedelta
 from typing import Dict, Any, Optional
 import hashlib
+from pathlib import Path
 
 
 def setup_logging(log_level: str = "INFO") -> logging.Logger:
@@ -89,6 +90,21 @@ def load_json_file(file_path: str) -> Dict[str, Any]:
         return {"jobs": {}, "last_updated": None}
     except json.JSONDecodeError as e:
         raise json.JSONDecodeError(f"Invalid JSON in {file_path}: {e}")
+
+
+def load_optional_json(file_path: str) -> Dict[str, Any]:
+    """
+    Load JSON file if it exists, otherwise return empty dict
+
+    Args:
+        file_path: Path to JSON file
+
+    Returns:
+        Dictionary containing JSON data or empty dict
+    """
+    if not Path(file_path).exists():
+        return {}
+    return load_json_file(file_path)
 
 
 def save_json_file(file_path: str, data: Dict[str, Any]) -> None:

@@ -31,6 +31,34 @@
                     <div class="text-end">
                         <small class="text-muted d-block">Last Updated</small>
                         <strong id="lastUpdated" class="d-block">Loading...</strong>
+                        <small class="text-muted d-block mt-2">Active Profile</small>
+                        <strong id="activeProfile" class="d-block">Loading...</strong>
+                        <div class="profile-controls mt-2">
+                            <div class="btn-group" role="group" id="profileToggle">
+                                <button type="button" class="btn btn-outline-primary btn-sm" data-profile="kartikey">Kartikey</button>
+                                <button type="button" class="btn btn-outline-primary btn-sm" data-profile="anvesha">Anvesha</button>
+                            </div>
+                            <button id="editKeywordsBtn" class="btn btn-outline-secondary btn-sm ms-2">
+                                <i class="bi bi-sliders"></i> Edit Keywords
+                            </button>
+                        </div>
+                        <button id="triggerWorkflowBtn" class="btn btn-primary btn-sm mt-2" onclick="triggerWorkflow()">
+                            <i class="bi bi-arrow-clockwise"></i> Run Search
+                        </button>
+                        
+                        <!-- Workflow Progress Indicator -->
+                        <div id="workflowProgress" class="d-none mt-3">
+                            <div class="workflow-progress-container">
+                                <div class="d-flex align-items-center justify-content-between mb-2">
+                                    <small class="text-muted" id="workflowProgressText">Running search...</small>
+                                    <span class="spinner-border spinner-border-sm text-primary" role="status" aria-hidden="true"></span>
+                                </div>
+                                <div class="progress" style="height: 6px;">
+                                    <div id="workflowProgressBar" class="progress-bar progress-bar-striped progress-bar-animated" 
+                                         role="progressbar" style="width: 0%" aria-valuenow="0" aria-valuemin="0" aria-valuemax="100"></div>
+                                </div>
+                            </div>
+                        </div>
                     </div>
                 </div>
             </div>
@@ -58,7 +86,7 @@
                     <div class="card-body">
                         <div class="d-flex align-items-center">
                             <div class="flex-grow-1">
-                                <p class="text-muted mb-1">AI/Tech Jobs</p>
+                                <p class="text-muted mb-1" id="aiJobsLabel">AI/Tech Jobs</p>
                                 <h3 class="mb-0" id="aiJobs">0</h3>
                             </div>
                             <div class="stats-icon bg-info">
@@ -73,7 +101,7 @@
                     <div class="card-body">
                         <div class="d-flex align-items-center">
                             <div class="flex-grow-1">
-                                <p class="text-muted mb-1">Sustainability Jobs</p>
+                                <p class="text-muted mb-1" id="sustainabilityJobsLabel">Sustainability Jobs</p>
                                 <h3 class="mb-0" id="sustainabilityJobs">0</h3>
                             </div>
                             <div class="stats-icon bg-success">
@@ -120,50 +148,14 @@
             <p class="mt-3 text-muted">No jobs found. Run the Job Radar search to find opportunities!</p>
         </div>
 
-        <!-- Job Tables -->
+        <!-- Job Table -->
         <div id="jobTables" class="d-none">
-            <!-- Sustainability Jobs -->
-            <section class="mb-5">
-                <div class="d-flex align-items-center mb-3">
-                    <h2 class="mb-0">
-                        <i class="bi bi-tree text-success"></i>
-                        Sustainability Jobs
-                    </h2>
-                    <span class="badge bg-success ms-3" id="sustainabilityCount">0</span>
-                </div>
-
-                <div class="card">
-                    <div class="card-body p-0">
-                        <div class="table-responsive">
-                            <table class="table table-hover mb-0">
-                                <thead>
-                                    <tr>
-                                        <th>Job Title</th>
-                                        <th>Company</th>
-                                        <th>Location</th>
-                                        <th>Fit Score</th>
-                                        <th>Freshness</th>
-                                        <th>Justification</th>
-                                        <th>Positioning Advice</th>
-                                    </tr>
-                                </thead>
-                                <tbody id="sustainabilityTableBody">
-                                    <!-- Data loaded via JavaScript -->
-                                </tbody>
-                            </table>
-                        </div>
-                    </div>
-                </div>
-            </section>
-
-            <!-- AI/Tech Jobs -->
             <section>
                 <div class="d-flex align-items-center mb-3">
                     <h2 class="mb-0">
-                        <i class="bi bi-cpu text-info"></i>
-                        AI & Tech Jobs
+                        <i class="bi bi-briefcase-fill text-primary"></i>
+                        Job Opportunities
                     </h2>
-                    <span class="badge bg-info ms-3" id="aiCount">0</span>
                 </div>
 
                 <div class="card">
@@ -174,14 +166,12 @@
                                     <tr>
                                         <th>Job Title</th>
                                         <th>Company</th>
-                                        <th>Location</th>
                                         <th>Fit Score</th>
-                                        <th>Freshness</th>
                                         <th>Justification</th>
                                         <th>Positioning Advice</th>
                                     </tr>
                                 </thead>
-                                <tbody id="aiTableBody">
+                                <tbody id="jobsTableBody">
                                     <!-- Data loaded via JavaScript -->
                                 </tbody>
                             </table>
@@ -203,6 +193,41 @@
                 </a>
             </p>
         </footer>
+    </div>
+
+    <!-- Keywords Editor Modal -->
+    <div class="modal fade" id="keywordsModal" tabindex="-1" aria-labelledby="keywordsModalLabel" aria-hidden="true">
+        <div class="modal-dialog modal-lg">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title" id="keywordsModalLabel">Edit Keywords</h5>
+                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                </div>
+                <div class="modal-body">
+                    <div class="mb-3">
+                        <label for="keywordsFocus" class="form-label">Focus Keywords (one per line)</label>
+                        <textarea class="form-control" id="keywordsFocus" rows="6"></textarea>
+                    </div>
+                    <div class="mb-3">
+                        <label for="keywordsRoles" class="form-label">Role Keywords (one per line)</label>
+                        <textarea class="form-control" id="keywordsRoles" rows="6"></textarea>
+                    </div>
+                    <div class="mb-3">
+                        <label for="githubToken" class="form-label">GitHub Token (stored on this device)</label>
+                        <input type="password" class="form-control" id="githubToken" placeholder="ghp_..." autocomplete="off">
+                        <div class="form-text">Required to update config in the repo.</div>
+                    </div>
+                    <div class="alert alert-warning d-none" id="keywordsError"></div>
+                    <div class="alert alert-success d-none" id="keywordsSuccess">Keywords updated in GitHub.</div>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-outline-secondary" data-bs-dismiss="modal">Cancel</button>
+                    <button type="button" class="btn btn-primary" id="saveKeywordsBtn">
+                        <i class="bi bi-check2"></i> Save to GitHub
+                    </button>
+                </div>
+            </div>
+        </div>
     </div>
 
     <!-- Bootstrap JS -->
