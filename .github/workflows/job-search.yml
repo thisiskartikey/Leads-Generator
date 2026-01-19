@@ -45,7 +45,7 @@ jobs:
           SERPAPI_KEY: ${{ secrets.SERPAPI_KEY }}
           PYTHONPATH: ${{ github.workspace }}/src
         run: |
-          python src/main.py --all-profiles
+          python src/main.py --all-profiles --trigger ${{ github.event_name }}
 
       # Step 5: Commit and push results
       - name: Commit updated job results
@@ -54,7 +54,7 @@ jobs:
           git config user.email "actions@github.com"
 
           # Add data files
-          git add data/results_*.json data/history_*.json
+          git add data/results_*.json data/history_*.json data/search_runs_*.json
 
           # Check if there are changes to commit
           if git diff --staged --quiet; then

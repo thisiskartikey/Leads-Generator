@@ -257,8 +257,32 @@ section h2 i {
     gap: 8px;
 }
 
+.keywords-hint {
+    background-color: #F8FAFC;
+    border: 1px solid #E5E7EB;
+    border-radius: 10px;
+    padding: 10px 12px;
+}
+
+.keywords-logic {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+}
+
+.keyword-mode .btn-group {
+    flex-wrap: wrap;
+    gap: 6px;
+}
+
 .viewed-row {
     opacity: 0.85;
+}
+
+.job-meta {
+    font-size: 0.8rem;
+    color: #6B7280;
+    margin-top: 4px;
 }
 
 /* Responsive - Mobile (iPhone and similar devices) */
@@ -491,6 +515,15 @@ section h2 i {
 
     .text-muted {
         color: #9CA3AF !important;
+    }
+
+    .keywords-hint {
+        background-color: #111827;
+        border-color: #374151;
+    }
+
+    .job-meta {
+        color: #9CA3AF;
     }
 }
 

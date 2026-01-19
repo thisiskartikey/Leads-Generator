@@ -28,7 +28,7 @@ logger = logging.getLogger('job_radar.main')
 class JobRadar:
     """Main orchestrator for job search and analysis"""
 
-    def __init__(self, profile_name: str):
+    def __init__(self, profile_name: str, trigger_type: str = "manual"):
         """Initialize Job Radar system"""
         logger.info("Initializing Job Radar...")
 
@@ -38,6 +38,7 @@ class JobRadar:
         self.profile_keywords = load_optional_json("config/profile_keywords.json")
         self.profile_name = profile_name
         self.profile_display_name = self._get_profile_display_name()
+        self.trigger_type = trigger_type
 
         # Initialize components
         self.searcher = JobSearcher(profile_name=self.profile_name)
@@ -54,6 +55,7 @@ class JobRadar:
                 'profile': self.profile_name,
                 'profile_display_name': self.profile_display_name,
                 'run_timestamp': datetime.now().isoformat(),
+                'trigger_type': self.trigger_type,
                 'total_searched': 0,
                 'new_jobs_found': 0,
                 'jobs_analyzed': 0,
@@ -72,6 +74,9 @@ class JobRadar:
 
     def _results_path(self) -> str:
         return f"data/results_{self.profile_name}.json"
+
+    def _search_runs_path(self) -> str:
+        return f"data/search_runs_{self.profile_name}.json"
 
     def run(self) -> Dict[str, Any]:
         """
@@ -356,13 +361,50 @@ class JobRadar:
         # Save results
         results_path = self._results_path()
         save_json_file(results_path, self.results)
-        logger.info(f"✓ Saved results to {results_path}")
+        logger.info(f"Saved results to {results_path}")
 
         # Update and save history
         self.history['last_updated'] = datetime.now().isoformat()
         history_path = self._history_path()
         save_json_file(history_path, self.history)
-        logger.info(f"✓ Saved history to {history_path}")
+        logger.info(f"Saved history to {history_path}")
+
+        # Log this run for UI history display
+        self._log_search_run()
+
+    def _log_search_run(self) -> None:
+        """Append the current run to the search runs log"""
+        runs_path = self._search_runs_path()
+        runs_data = load_optional_json(runs_path)
+
+        if not runs_data:
+            runs_data = {
+                'profile': self.profile_name,
+                'runs': []
+            }
+
+        runs = runs_data.get('runs', [])
+        job_ids = [job.get('job_id') for job in self.results.get('jobs', []) if job.get('job_id')]
+
+        runs.append({
+            'timestamp': self.results['metadata']['run_timestamp'],
+            'trigger': self.trigger_type,
+            'job_ids': job_ids,
+            'jobs_in_results': len(self.results.get('jobs', [])),
+            'total_searched': self.results['metadata'].get('total_searched', 0),
+            'new_jobs_found': self.results['metadata'].get('new_jobs_found', 0),
+            'jobs_analyzed': self.results['metadata'].get('jobs_analyzed', 0)
+        })
+
+        max_runs = 30
+        if len(runs) > max_runs:
+            runs = runs[-max_runs:]
+
+        runs_data['runs'] = runs
+        runs_data['last_updated'] = self.results['metadata']['run_timestamp']
+
+        save_json_file(runs_path, runs_data)
+        logger.info(f"Logged search run to {runs_path}")
 
     def _print_summary(self) -> None:
         """Print execution summary"""
@@ -430,10 +472,17 @@ def main():
         parser = argparse.ArgumentParser(description="Job Radar runner")
         parser.add_argument("--profile", help="Profile name to run")
         parser.add_argument("--all-profiles", action="store_true", help="Run all profiles")
+        parser.add_argument("--trigger", default="manual", help="Trigger type (manual or schedule)")
         args = parser.parse_args()
 
         search_config = load_yaml_config("config/search_query.yaml")
         profile_keywords = load_optional_json("config/profile_keywords.json")
+
+        trigger_type = (args.trigger or "manual").lower()
+        if trigger_type == "workflow_dispatch":
+            trigger_type = "manual"
+        elif trigger_type not in ("manual", "schedule"):
+            trigger_type = "manual"
 
         profiles_from_keywords = list(profile_keywords.get('profiles', {}).keys())
         profiles_from_config = list(search_config.get('profiles', {}).keys())
@@ -444,7 +493,7 @@ def main():
                 raise ValueError("No profiles found to run")
 
             for profile_name in profiles:
-                radar = JobRadar(profile_name)
+                radar = JobRadar(profile_name, trigger_type=trigger_type)
                 results = radar.run()
                 if results['metadata']['jobs_analyzed'] > 0:
                     logger.info(f"✓ Job Radar completed for {profile_name}!")
@@ -456,7 +505,7 @@ def main():
         if not profile_name:
             raise ValueError("No profile specified and no active_profile set")
 
-        radar = JobRadar(profile_name)
+        radar = JobRadar(profile_name, trigger_type=trigger_type)
         results = radar.run()
 
         if results['metadata']['jobs_analyzed'] > 0:
@@ -472,5 +521,13 @@ def main():
 
 if __name__ == "__main__":
     exit(main())
+
+
+
+
+
+
+
+
 
 

@@ -8,14 +8,17 @@ const REPO_OWNER = 'thisiskartikey';
 const REPO_NAME = 'Leads-Generator';
 const REPO_BRANCH = 'main';
 const PROFILE_CONFIG_PATH = 'config/profile_keywords.json';
+const SEARCH_RUNS_PREFIX = 'data/search_runs_';
 const REFRESH_INTERVAL = 300000; // 5 minutes
 
 const PROFILE_STORAGE_KEY = 'jobRadar.activeProfile';
 const VIEWED_STORAGE_PREFIX = 'jobRadar.viewed.';
 const TOKEN_STORAGE_KEY = 'jobRadar.githubToken';
+const KEYWORD_MODE_STORAGE_KEY = 'jobRadar.keywordMode';
 
 // State
 let jobsData = null;
+let searchRunsData = null;
 let profileKeywords = null;
 let activeProfile = null;
 let activeFilter = 'all';
@@ -57,6 +60,14 @@ function getDataUrl(profile) {
     return `https://raw.githubusercontent.com/${REPO_OWNER}/${REPO_NAME}/${REPO_BRANCH}/data/${fileName}?t=${Date.now()}`;
 }
 
+function getSearchRunsUrl(profile) {
+    const fileName = `${SEARCH_RUNS_PREFIX}${profile}.json`;
+    if (window.location.hostname === 'localhost' || window.location.hostname === '127.0.0.1') {
+        return `../${fileName}`;
+    }
+    return `https://raw.githubusercontent.com/${REPO_OWNER}/${REPO_NAME}/${REPO_BRANCH}/${fileName}?t=${Date.now()}`;
+}
+
 function getProfileConfigUrl() {
     if (window.location.hostname === 'localhost' || window.location.hostname === '127.0.0.1') {
         return `../${PROFILE_CONFIG_PATH}`;
@@ -74,6 +85,19 @@ async function loadProfileKeywords() {
     } catch (error) {
         console.warn('Failed to load profile keywords, using defaults.', error);
         return { profiles: { kartikey: {}, anvesha: {} } };
+    }
+}
+
+async function loadSearchRuns(profile) {
+    try {
+        const response = await fetch(getSearchRunsUrl(profile));
+        if (!response.ok) {
+            return { runs: [] };
+        }
+        return await response.json();
+    } catch (error) {
+        console.warn('Failed to load search runs.', error);
+        return { runs: [] };
     }
 }
 
@@ -136,6 +160,7 @@ async function loadJobData(profile) {
 
         const data = await response.json();
         jobsData = data;
+        searchRunsData = await loadSearchRuns(profile);
 
         if (!data.jobs || data.jobs.length === 0) {
             showNoDataState();
@@ -395,6 +420,56 @@ function stopWorkflowProgress() {
     loadJobData(activeProfile);
 }
 
+function formatShortDate(timestamp) {
+    if (!timestamp) return '';
+    const date = new Date(timestamp);
+    if (isNaN(date.getTime())) return '';
+    return date.toLocaleDateString('en-US', { month: 'short', day: 'numeric' });
+}
+
+function formatTriggerLabel(trigger) {
+    if (!trigger) return 'manual';
+    if (trigger === 'schedule') return 'scheduled';
+    return 'manual';
+}
+
+function getSearchRunStats(jobId) {
+    const runs = searchRunsData?.runs || [];
+    let appearances = 0;
+    let lastRun = null;
+
+    runs.forEach(run => {
+        if (!run?.job_ids || !jobId) return;
+        if (run.job_ids.includes(jobId)) {
+            appearances += 1;
+            if (!lastRun || new Date(run.timestamp) > new Date(lastRun.timestamp)) {
+                lastRun = run;
+            }
+        }
+    });
+
+    return { appearances, lastRun };
+}
+
+function buildSearchRunMeta(jobId) {
+    const stats = getSearchRunStats(jobId);
+    if (!stats.appearances) return '';
+
+    const timesLabel = stats.appearances === 1 ? 'search' : 'searches';
+    let meta = `Appeared in ${stats.appearances} ${timesLabel}`;
+
+    if (stats.lastRun) {
+        const triggerLabel = formatTriggerLabel(stats.lastRun.trigger);
+        const dateLabel = formatShortDate(stats.lastRun.timestamp);
+        const details = [triggerLabel, dateLabel].filter(Boolean).join(' · ');
+        if (details) {
+            meta += ` · Last: ${details}`;
+        }
+    }
+
+    return meta;
+}
+
 function renderCombinedJobTable(allJobs, profile) {
     const tbody = document.getElementById('jobsTableBody');
     tbody.innerHTML = '';
@@ -431,6 +506,8 @@ function renderCombinedJobTable(allJobs, profile) {
         const advice = showAdvice ? (analysis?.positioning_advice || 'N/A') : '-';
         const rowId = `job-row-${index}`;
         const viewedBadge = viewed ? '<span class="badge bg-secondary ms-2">Viewed</span>' : '';
+        const runMeta = buildSearchRunMeta(job.job_id);
+        const runMetaLine = runMeta ? `<div class="job-meta">${escapeHtml(runMeta)}</div>` : '';
 
         row.setAttribute('id', rowId);
         row.innerHTML = `
@@ -440,6 +517,7 @@ function renderCombinedJobTable(allJobs, profile) {
                     <i class="bi bi-box-arrow-up-right"></i>
                 </a>
                 ${viewedBadge}
+                ${runMetaLine}
             </td>
             <td data-label="Company">${escapeHtml(job.company || 'N/A')}</td>
             <td data-label="Fit Score">${renderFitScoreBadge(fitScore)}</td>
@@ -520,6 +598,10 @@ function markJobViewed(profile, jobId, link) {
     }
 }
 
+function normalizeKeywordList(list) {
+    return Array.from(new Set(list.map(item => item.trim()).filter(Boolean)));
+}
+
 function setupKeywordEditor() {
     const editBtn = document.getElementById('editKeywordsBtn');
     if (!editBtn) return;
@@ -559,6 +641,14 @@ function openKeywordsModal() {
     const storedToken = localStorage.getItem(TOKEN_STORAGE_KEY) || '';
     if (tokenInput && storedToken) tokenInput.value = storedToken;
 
+    const replaceToggle = document.getElementById('keywordModeReplace');
+    const appendToggle = document.getElementById('keywordModeAppend');
+    const storedMode = localStorage.getItem(KEYWORD_MODE_STORAGE_KEY) || 'replace';
+    if (replaceToggle && appendToggle) {
+        replaceToggle.checked = storedMode !== 'append';
+        appendToggle.checked = storedMode === 'append';
+    }
+
     const modal = new bootstrap.Modal(modalElement);
     modal.show();
 }
@@ -573,9 +663,11 @@ async function saveKeywordsToGitHub() {
     if (errorBox) errorBox.classList.add('d-none');
     if (successBox) successBox.classList.add('d-none');
 
-    const focusKeywords = focusInput?.value.split('\n').map(line => line.trim()).filter(Boolean) || [];
-    const roleKeywords = rolesInput?.value.split('\n').map(line => line.trim()).filter(Boolean) || [];
+    const rawFocusKeywords = focusInput?.value.split('\n').map(line => line.trim()).filter(Boolean) || [];
+    const rawRoleKeywords = rolesInput?.value.split('\n').map(line => line.trim()).filter(Boolean) || [];
     const token = tokenInput?.value.trim() || localStorage.getItem(TOKEN_STORAGE_KEY);
+    const appendToggle = document.getElementById('keywordModeAppend');
+    const keywordMode = appendToggle?.checked ? 'append' : 'replace';
 
     if (!token) {
         if (errorBox) {
@@ -586,10 +678,25 @@ async function saveKeywordsToGitHub() {
     }
 
     localStorage.setItem(TOKEN_STORAGE_KEY, token);
+    localStorage.setItem(KEYWORD_MODE_STORAGE_KEY, keywordMode);
 
     const updated = JSON.parse(JSON.stringify(profileKeywords || { profiles: {} }));
     if (!updated.profiles[activeProfile]) {
         updated.profiles[activeProfile] = { keywords: {} };
+    }
+
+    const current = profileKeywords?.profiles?.[activeProfile]?.keywords || {};
+    const existingFocus = activeProfile === 'kartikey'
+        ? (current.ai_focus || [])
+        : (current.focus || []);
+    const existingRoles = current.roles || [];
+
+    let focusKeywords = normalizeKeywordList(rawFocusKeywords);
+    let roleKeywords = normalizeKeywordList(rawRoleKeywords);
+
+    if (keywordMode === 'append') {
+        focusKeywords = normalizeKeywordList([...existingFocus, ...focusKeywords]);
+        roleKeywords = normalizeKeywordList([...existingRoles, ...roleKeywords]);
     }
 
     if (activeProfile === 'kartikey') {

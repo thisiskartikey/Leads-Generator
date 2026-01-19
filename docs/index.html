@@ -204,6 +204,23 @@
                     <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
                 </div>
                 <div class="modal-body">
+                    <div class="keywords-hint mb-3">
+                        <div class="keywords-logic">
+                            <span class="badge bg-light text-dark border">Within a box = OR</span>
+                            <span class="badge bg-light text-dark border">Between boxes = AND</span>
+                        </div>
+                        <div class="text-muted small mt-1">Example: (product design OR ux) AND (designer OR researcher)</div>
+                    </div>
+                    <div class="keyword-mode mb-3">
+                        <label class="form-label">Update Mode</label>
+                        <div class="btn-group" role="group" id="keywordMode">
+                            <input type="radio" class="btn-check" name="keywordMode" id="keywordModeReplace" autocomplete="off" checked>
+                            <label class="btn btn-outline-primary btn-sm" for="keywordModeReplace">Replace (recommended)</label>
+                            <input type="radio" class="btn-check" name="keywordMode" id="keywordModeAppend" autocomplete="off">
+                            <label class="btn btn-outline-primary btn-sm" for="keywordModeAppend">Add to existing</label>
+                        </div>
+                        <div class="form-text">Replace overwrites existing keywords. Add to existing merges and deduplicates.</div>
+                    </div>
                     <div class="mb-3">
                         <label for="keywordsFocus" class="form-label">Focus Keywords (one per line)</label>
                         <textarea class="form-control" id="keywordsFocus" rows="6"></textarea>
