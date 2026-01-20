@@ -21,6 +21,12 @@ scraping:
 history:
   keep_days: 90  # Remove jobs older than this from history
 
+# Location filtering (LLM-based)
+location_filter:
+  enabled: true
+  exclude_non_us: true
+  min_confidence: 0.7
+
 # Display settings
 display:
   freshness_thresholds:

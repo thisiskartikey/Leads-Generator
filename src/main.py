@@ -59,7 +59,8 @@ class JobRadar:
                 'total_searched': 0,
                 'new_jobs_found': 0,
                 'jobs_analyzed': 0,
-                'jobs_skipped': 0
+                'jobs_skipped': 0,
+                'jobs_location_filtered': 0
             }
         }
         self.analyzed_jobs = []
@@ -137,14 +138,18 @@ class JobRadar:
             if analyzed_jobs:
                 self._log_job_snapshots(analyzed_jobs)
 
-            # Step 5: Filter by minimum fit score
-            logger.info("Step 5: Filtering by minimum fit score...")
-            filtered_jobs = self._filter_by_fit_score(analyzed_jobs)
+            # Step 5: Filter by location
+            logger.info("Step 5: Filtering by location...")
+            location_filtered_jobs = self._filter_by_location(analyzed_jobs)
+
+            # Step 6: Filter by minimum fit score
+            logger.info("Step 6: Filtering by minimum fit score...")
+            filtered_jobs = self._filter_by_fit_score(location_filtered_jobs)
 
             logger.info(f"Found {len(filtered_jobs)} jobs meeting minimum fit score\n")
 
-            # Step 6: Save results
-            logger.info("Step 6: Saving results...")
+            # Step 7: Save results
+            logger.info("Step 7: Saving results...")
             self.results['jobs'] = filtered_jobs
             self._save_results()
 
@@ -243,6 +248,18 @@ class JobRadar:
             if not description and job.get('search_snippet'):
                 description = job['search_snippet']
                 logger.debug(f"Using search snippet as description for {job.get('title', 'N/A')}")
+
+            location_analysis = self.analyzer.analyze_location(
+                description or job.get('title', 'Job'),
+                job_title=job.get('title', 'Job'),
+                scraped_location=job.get('location', ''),
+                search_snippet=job.get('search_snippet', '')
+            )
+            if location_analysis:
+                job['location_analysis'] = location_analysis
+                location_text = location_analysis.get('location_text')
+                if location_text:
+                    job['location'] = location_text
             
             if self.profile_name == 'kartikey':
                 # Analyze with both resumes
@@ -308,6 +325,43 @@ class JobRadar:
             self._add_to_history(job)
 
         return analyzed_jobs
+
+    def _filter_by_location(self, jobs: List[Dict[str, Any]]) -> List[Dict[str, Any]]:
+        """
+        Filter out non-US jobs when confidence is high.
+
+        Args:
+            jobs: List of analyzed jobs
+
+        Returns:
+            Filtered list of jobs
+        """
+        location_config = self.settings.get('location_filter', {})
+        if not location_config.get('enabled', True):
+            return jobs
+
+        min_confidence = location_config.get('min_confidence', 0.7)
+        exclude_non_us = location_config.get('exclude_non_us', True)
+        if not exclude_non_us:
+            return jobs
+
+        filtered = []
+        for job in jobs:
+            loc = job.get('location_analysis') or {}
+            is_us = loc.get('is_us', "unknown")
+            confidence = loc.get('confidence', 0.0)
+
+            if is_us is False and confidence >= min_confidence:
+                self.results['metadata']['jobs_location_filtered'] += 1
+                logger.info(
+                    f"Filtered non-US job: {job.get('title', 'N/A')} "
+                    f"(conf={confidence}, location={loc.get('location_text', 'N/A')})"
+                )
+                continue
+
+            filtered.append(job)
+
+        return filtered
 
     def _filter_by_fit_score(self, jobs: List[Dict[str, Any]]) -> List[Dict[str, Any]]:
         """

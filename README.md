@@ -16,9 +16,10 @@ Job Radar automatically:
 - 🤖 **AI-Powered Analysis**: Claude API evaluates job fit for two career paths
 - 🔄 **Automated Schedule**: Runs Tuesday & Saturday mornings automatically
 - 🎯 **Manual Trigger**: Run search anytime from GitHub Actions
-- 📊 **Clean Dashboard**: Mobile-friendly web interface
+- 📊 **Clean Dashboard**: Mobile-friendly web interface
 - Archive + Search: Dedicated archive page with full job descriptions
 - Applied Tracking: Applied status syncs across devices (via GitHub)
+- US-Only Filtering: Claude classifies location and filters high-confidence non-US roles
 - ⚙️ **Easy Config**: Edit search criteria via YAML files
 - 💰 **Cost Effective**: ~$6-10/month with free hosting
 
@@ -143,20 +144,28 @@ scraping:
   max_retries: 3
 ```
 
+### Location Filtering (`config/settings.yaml`)
+```yaml
+location_filter:
+  enabled: true
+  exclude_non_us: true
+  min_confidence: 0.7
+```
+
 ## File Structure
 
 ```
 Leads-Generator/
-├── .github/workflows/     # GitHub Actions automation
-├── config/                # Search & system configuration
-├── resumes/               # Your resume files
-├── src/                   # Python source code
-├── data/                  # Results and history (generated)
-│   ├── job_snapshots_*.json # Archive data with full descriptions
-│   ├── status_*.json        # Applied status (synced across devices)
-├── docs/                  # Dashboard (HTML/CSS/JS) - GitHub Pages
-├── web/                   # Dashboard source (copied to docs/)
-└── requirements.txt       # Python dependencies
+|-- .github/workflows/     # GitHub Actions automation
+|-- config/                # Search & system configuration
+|-- resumes/               # Your resume files
+|-- src/                   # Python source code
+|-- data/                  # Results and history (generated)
+|   |-- job_snapshots_*.json # Archive data with full descriptions
+|   `-- status_*.json        # Applied status (synced across devices)
+|-- docs/                  # Dashboard (HTML/CSS/JS) - GitHub Pages
+|-- web/                   # Dashboard source (copied to docs/)
+`-- requirements.txt       # Python dependencies
 ```
 
 ## Cost Estimate
@@ -269,6 +278,10 @@ Built with:
 ---
 
 Happy job hunting! 🚀
+
+
+
+
 
 
 

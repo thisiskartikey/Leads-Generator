@@ -136,6 +136,55 @@ class JobAnalyzer:
 
         return results
 
+    def analyze_location(
+        self,
+        job_description: str,
+        job_title: str = "Job",
+        scraped_location: str = "",
+        search_snippet: str = ""
+    ) -> Optional[Dict[str, Any]]:
+        """
+        Analyze job location and determine if it is US-based.
+
+        Args:
+            job_description: Full job description text
+            job_title: Job title
+            scraped_location: Location from scraper (if available)
+            search_snippet: Search snippet (if available)
+
+        Returns:
+            Dict with location_text, country, region, is_us, confidence, evidence
+        """
+        prompt = self._build_location_prompt(job_description, job_title, scraped_location, search_snippet)
+
+        try:
+            response = self.client.messages.create(
+                model=self.claude_config['model'],
+                max_tokens=min(self.claude_config.get('max_tokens', 1000), 500),
+                temperature=0.1,
+                messages=[{"role": "user", "content": prompt}]
+            )
+
+            self.stats['total_analyses'] += 1
+            self.stats['total_input_tokens'] += response.usage.input_tokens
+            self.stats['total_output_tokens'] += response.usage.output_tokens
+
+            cost = (response.usage.input_tokens / 1_000_000 * 3.0) + \
+                   (response.usage.output_tokens / 1_000_000 * 15.0)
+            self.stats['total_cost_usd'] += cost
+
+            analysis = self._parse_location_response(response.content[0].text)
+            if analysis:
+                logger.info(
+                    f"û Location classified: {analysis.get('location_text', 'N/A')} "
+                    f"(US={analysis.get('is_us')}, conf={analysis.get('confidence')})"
+                )
+            return analysis
+
+        except Exception as e:
+            logger.error(f"Error calling Claude API for location: {e}")
+            return None
+
     def _build_prompt(self, job_description: str, resume_text: str, resume_type: str) -> str:
         """
         Build analysis prompt for Claude
@@ -187,6 +236,51 @@ Category definitions:
 - "Hybrid": Jobs that equally balance both AI/Tech and Sustainability domains
 
 Be honest and specific. Don't inflate scores.
+
+JSON response:"""
+
+        return prompt
+
+    def _build_location_prompt(
+        self,
+        job_description: str,
+        job_title: str,
+        scraped_location: str,
+        search_snippet: str
+    ) -> str:
+        """
+        Build location classification prompt for Claude.
+
+        Returns:
+            Formatted prompt string
+        """
+        prompt = f"""You are a location classifier. Determine where this role is located.
+
+Use any explicit location info in the job description, title, or snippet. If it is remote,
+specify whether it is US-only, global, or unknown. If multiple locations are listed, choose
+the primary or most likely.
+
+JOB TITLE:
+{job_title}
+
+SCRAPED LOCATION:
+{scraped_location or 'N/A'}
+
+SEARCH SNIPPET:
+{search_snippet[:1000]}
+
+JOB DESCRIPTION:
+{job_description[:8000]}
+
+Respond ONLY with valid JSON in this exact format:
+{{
+  "location_text": "<concise location string, e.g., 'United States (Remote)' or 'San Francisco, CA'>",
+  "country": "<country name or 'Unknown'>",
+  "region": "<state/province or 'Unknown'>",
+  "is_us": <true|false|\"unknown\">,
+  "confidence": <number between 0 and 1>,
+  "evidence": "<short phrase citing the signal>"
+}}
 
 JSON response:"""
 
@@ -250,6 +344,67 @@ JSON response:"""
             return None
         except Exception as e:
             logger.error(f"Error parsing response: {e}")
+            return None
+
+    def _parse_location_response(self, response_text: str) -> Optional[Dict[str, Any]]:
+        """
+        Parse Claude's location JSON response.
+
+        Args:
+            response_text: Raw response from Claude
+
+        Returns:
+            Parsed location dict or None if invalid
+        """
+        try:
+            cleaned = response_text.strip()
+
+            if cleaned.startswith('```json'):
+                cleaned = cleaned[7:]
+            elif cleaned.startswith('```'):
+                cleaned = cleaned[3:]
+
+            if cleaned.endswith('```'):
+                cleaned = cleaned[:-3]
+
+            cleaned = cleaned.strip()
+            data = json.loads(cleaned)
+
+            required_fields = ['location_text', 'country', 'region', 'is_us', 'confidence']
+            for field in required_fields:
+                if field not in data:
+                    logger.error(f"Missing required field in location response: {field}")
+                    return None
+
+            is_us = data.get('is_us')
+            if isinstance(is_us, str):
+                normalized = is_us.strip().lower()
+                if normalized in ('true', 'yes', 'us', 'usa'):
+                    is_us = True
+                elif normalized in ('false', 'no', 'non-us', 'non us'):
+                    is_us = False
+                else:
+                    is_us = "unknown"
+            elif isinstance(is_us, bool):
+                pass
+            else:
+                is_us = "unknown"
+            data['is_us'] = is_us
+
+            confidence = data.get('confidence')
+            if not isinstance(confidence, (int, float)):
+                confidence = 0.0
+            confidence = max(0.0, min(float(confidence), 1.0))
+            data['confidence'] = confidence
+
+            return data
+
+        except json.JSONDecodeError as e:
+            logger.error(f"Location JSON parse error: {e}")
+            logger.error(f"Response text: {response_text[:500]}")
+            return None
+        except Exception as e:
+            logger.error(f"Error parsing location response: {e}")
             return None
 
     def get_stats(self) -> Dict[str, Any]:
