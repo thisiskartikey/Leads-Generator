@@ -7,6 +7,7 @@ const REPO_OWNER = 'thisiskartikey';
 const REPO_NAME = 'Leads-Generator';
 const REPO_BRANCH = 'main';
 const SNAPSHOT_PREFIX = 'data/job_snapshots_';
+const HISTORY_PREFIX = 'data/history_';
 const STATUS_PREFIX = 'data/status_';
 
 const PROFILE_STORAGE_KEY = 'jobRadar.activeProfile';
@@ -73,6 +74,14 @@ function getSnapshotUrl(profile) {
     return `https://raw.githubusercontent.com/${REPO_OWNER}/${REPO_NAME}/${REPO_BRANCH}/${fileName}?t=${Date.now()}`;
 }
 
+function getHistoryUrl(profile) {
+    const fileName = `${HISTORY_PREFIX}${profile}.json`;
+    if (window.location.hostname === 'localhost' || window.location.hostname === '127.0.0.1') {
+        return `../${fileName}`;
+    }
+    return `https://raw.githubusercontent.com/${REPO_OWNER}/${REPO_NAME}/${REPO_BRANCH}/${fileName}?t=${Date.now()}`;
+}
+
 function getStatusUrl(profile) {
     const fileName = `${STATUS_PREFIX}${profile}.json`;
     if (window.location.hostname === 'localhost' || window.location.hostname === '127.0.0.1') {
@@ -107,10 +116,33 @@ async function loadArchiveData(profile) {
 
 async function loadSnapshots(profile) {
     const response = await fetch(getSnapshotUrl(profile));
-    if (!response.ok) {
+    if (response.ok) {
+        return await response.json();
+    }
+    const historyResponse = await fetch(getHistoryUrl(profile));
+    if (!historyResponse.ok) {
         throw new Error('Archive data not found yet. Run the workflow to generate it.');
     }
-    return await response.json();
+    const history = await historyResponse.json();
+    return normalizeHistoryToSnapshots(history);
+}
+
+function normalizeHistoryToSnapshots(history) {
+    const jobs = history?.jobs || {};
+    const normalizedJobs = {};
+
+    Object.entries(jobs).forEach(([jobId, job]) => {
+        normalizedJobs[jobId] = {
+            url: job.url || '',
+            title: job.title || '',
+            company: job.company || '',
+            location: job.location || '',
+            description: job.description || '',
+            last_seen: job.last_seen || job.first_seen || history?.last_updated || ''
+        };
+    });
+
+    return { jobs: normalizedJobs, last_updated: history?.last_updated || null };
 }
 
 async function loadStatus(profile) {

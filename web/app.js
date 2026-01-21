@@ -17,6 +17,7 @@ const APPLIED_STORAGE_PREFIX = 'jobRadar.applied.';
 const STATUS_PREFIX = 'data/status_';
 const TOKEN_STORAGE_KEY = 'jobRadar.githubToken';
 const KEYWORD_MODE_STORAGE_KEY = 'jobRadar.keywordMode';
+const NEW_ONLY_STORAGE_KEY = 'jobRadar.newOnly';
 
 // State
 let jobsData = null;
@@ -28,6 +29,7 @@ let workflowRunning = false;
 let workflowStartTime = null;
 let workflowCheckInterval = null;
 let progressUpdateInterval = null;
+let showNewOnly = false;
 
 /**
  * Initialize dashboard
@@ -43,6 +45,7 @@ async function initDashboard() {
     profileKeywords = await loadProfileKeywords();
     setupProfileToggle();
     setupKeywordEditor();
+    setupNewRolesToggle();
 
     const storedProfile = localStorage.getItem(PROFILE_STORAGE_KEY);
     activeProfile = storedProfile || getDefaultProfile();
@@ -171,6 +174,22 @@ function updateProfileUI(profile) {
     }
 }
 
+function setupNewRolesToggle() {
+    const toggle = document.getElementById('newRolesToggle');
+    if (!toggle) return;
+
+    showNewOnly = localStorage.getItem(NEW_ONLY_STORAGE_KEY) === 'true';
+    toggle.checked = showNewOnly;
+
+    toggle.addEventListener('change', () => {
+        showNewOnly = toggle.checked;
+        localStorage.setItem(NEW_ONLY_STORAGE_KEY, showNewOnly.toString());
+        if (jobsData) {
+            processAndDisplayJobs(jobsData, activeProfile);
+        }
+    });
+}
+
 /**
  * Load job data for profile
  */
@@ -246,21 +265,30 @@ function classifyAnveshaJob(job) {
 }
 
 function applyFilter(allJobs, profile) {
+    let filtered = allJobs;
     if (activeFilter === 'high_fit') {
-        return allJobs.filter(job => job.fit_score >= 90);
+        filtered = allJobs.filter(job => job.fit_score >= 90);
     }
 
     if (profile === 'anvesha') {
         if (activeFilter === 'design' || activeFilter === 'research') {
-            return allJobs.filter(job => job.primary_path === activeFilter);
+            filtered = allJobs.filter(job => job.primary_path === activeFilter);
         }
-        return allJobs;
+        if (showNewOnly && searchRunsData?.runs?.length) {
+            const latestRunTimestamp = getLatestRunTimestamp();
+            filtered = filtered.filter(job => isNewRole(job.job_id, latestRunTimestamp));
+        }
+        return filtered;
     }
 
     if (activeFilter === 'ai' || activeFilter === 'sustainability') {
-        return allJobs.filter(job => job.primary_path === activeFilter);
+        filtered = allJobs.filter(job => job.primary_path === activeFilter);
     }
-    return allJobs;
+    if (showNewOnly && searchRunsData?.runs?.length) {
+        const latestRunTimestamp = getLatestRunTimestamp();
+        filtered = filtered.filter(job => isNewRole(job.job_id, latestRunTimestamp));
+    }
+    return filtered;
 }
 
 function updateStats(allJobs, sustainabilityJobs, aiJobs, designJobs, researchJobs, profile) {
@@ -479,9 +507,26 @@ function getSearchRunStats(jobId) {
     return { appearances, lastRun };
 }
 
-function buildSearchRunMeta(jobId) {
+function getLatestRunTimestamp() {
+    const runs = searchRunsData?.runs || [];
+    if (!runs.length) return null;
+    const latest = runs.reduce((current, run) => {
+        if (!current) return run;
+        return new Date(run.timestamp) > new Date(current.timestamp) ? run : current;
+    }, null);
+    return latest?.timestamp || null;
+}
+
+function isNewRole(jobId, latestRunTimestamp) {
+    if (!latestRunTimestamp) return false;
     const stats = getSearchRunStats(jobId);
-    if (!stats.appearances) return '';
+    if (!stats.appearances || !stats.lastRun?.timestamp) return false;
+    return stats.appearances === 1 && stats.lastRun.timestamp === latestRunTimestamp;
+}
+
+function buildSearchRunMeta(jobId, latestRunTimestamp) {
+    const stats = getSearchRunStats(jobId);
+    if (!stats.appearances) return { meta: '', isNew: false };
 
     const timesLabel = stats.appearances === 1 ? 'search' : 'searches';
     let meta = `Appeared in ${stats.appearances} ${timesLabel}`;
@@ -495,12 +540,13 @@ function buildSearchRunMeta(jobId) {
         }
     }
 
-    return meta;
+    return { meta, isNew: isNewRole(jobId, latestRunTimestamp) };
 }
 
 function renderCombinedJobTable(allJobs, profile) {
     const tbody = document.getElementById('jobsTableBody');
     tbody.innerHTML = '';
+    const latestRunTimestamp = getLatestRunTimestamp();
 
     if (allJobs.length === 0) {
         const row = document.createElement('tr');
@@ -539,8 +585,13 @@ function renderCombinedJobTable(allJobs, profile) {
         const rowId = `job-row-${index}`;
         const viewedBadge = viewed ? '<span class="badge bg-secondary ms-2">Viewed</span>' : '';
         const appliedToggle = renderAppliedToggle(job.job_id, applied);
-        const runMeta = buildSearchRunMeta(job.job_id);
-        const runMetaLine = runMeta ? `<div class="job-meta">${escapeHtml(runMeta)}</div>` : '';
+        const runMeta = buildSearchRunMeta(job.job_id, latestRunTimestamp);
+        const newRoleIcon = runMeta.isNew
+            ? '<span class="new-role-icon" title="New in latest search"><i class="bi bi-leaf-fill"></i></span>'
+            : '';
+        const runMetaLine = runMeta.meta
+            ? `<div class="job-meta">${newRoleIcon}${escapeHtml(runMeta.meta)}</div>`
+            : '';
 
         row.setAttribute('id', rowId);
         row.innerHTML = `
