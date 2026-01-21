@@ -396,6 +396,17 @@ section h2 i {
     box-shadow: 0 1px 3px rgba(0, 0, 0, 0.08);
 }
 
+.archive-card--metric .card-body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.archive-metric-value {
+    font-size: 1.75rem;
+    font-weight: 700;
+}
+
 .archive-title {
     font-size: 1.1rem;
     font-weight: 600;
@@ -416,6 +427,28 @@ section h2 i {
     color: #374151;
     font-size: 0.9rem;
     line-height: 1.6;
+}
+
+.archive-desc-toggle {
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    margin-top: 4px;
+}
+
+.archive-desc-panel {
+    margin-top: 10px;
+    padding: 12px 14px;
+    background-color: #F8FAFC;
+    border: 1px solid #E5E7EB;
+    border-radius: 10px;
+}
+
+.archive-desc-text {
+    color: #374151;
+    font-size: 0.9rem;
+    line-height: 1.6;
+    white-space: pre-wrap;
 }
 
 /* Responsive - Mobile (iPhone and similar devices) */
@@ -688,6 +721,15 @@ section h2 i {
     }
 
     .archive-text {
+        color: #E5E7EB;
+    }
+
+    .archive-desc-panel {
+        background-color: #0F172A;
+        border-color: #334155;
+    }
+
+    .archive-desc-text {
         color: #E5E7EB;
     }
 }

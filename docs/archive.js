@@ -8,6 +8,7 @@ const REPO_NAME = 'Leads-Generator';
 const REPO_BRANCH = 'main';
 const SNAPSHOT_PREFIX = 'data/job_snapshots_';
 const HISTORY_PREFIX = 'data/history_';
+const DESCRIPTION_PREFIX = 'data/job_descriptions_';
 const STATUS_PREFIX = 'data/status_';
 
 const PROFILE_STORAGE_KEY = 'jobRadar.activeProfile';
@@ -30,6 +31,15 @@ function initArchive() {
     if (searchInput) {
         searchInput.addEventListener('input', () => {
             applyArchiveSearch(searchInput.value);
+        });
+    }
+
+    const archiveList = document.getElementById('archiveList');
+    if (archiveList) {
+        archiveList.addEventListener('click', (event) => {
+            const button = event.target.closest('.archive-desc-toggle');
+            if (!button) return;
+            toggleArchiveDescription(button);
         });
     }
 }
@@ -68,6 +78,14 @@ function updateProfileUI(profile) {
 
 function getSnapshotUrl(profile) {
     const fileName = `${SNAPSHOT_PREFIX}${profile}.json`;
+    if (window.location.hostname === 'localhost' || window.location.hostname === '127.0.0.1') {
+        return `../${fileName}`;
+    }
+    return `https://raw.githubusercontent.com/${REPO_OWNER}/${REPO_NAME}/${REPO_BRANCH}/${fileName}?t=${Date.now()}`;
+}
+
+function getDescriptionUrl(profile, jobId) {
+    const fileName = `${DESCRIPTION_PREFIX}${profile}/${jobId}.txt`;
     if (window.location.hostname === 'localhost' || window.location.hostname === '127.0.0.1') {
         return `../${fileName}`;
     }
@@ -199,11 +217,16 @@ function renderArchiveList(items) {
     }
 
     items.forEach((item, index) => {
-        const description = item.description || 'No description captured.';
         const applied = Boolean(appliedMap?.[item.job_id]);
         const appliedBadge = applied ? '<span class="badge bg-success">Applied</span>' : '';
         const lastSeen = formatShortDate(item.last_seen);
         const metaLine = [item.company, item.location, lastSeen].filter(Boolean).join(' · ');
+        const descId = `archive-desc-${index}`;
+        const hasInlineDescription = Boolean(item.description && item.description.trim());
+        const toggleLabel = hasInlineDescription ? 'View job description' : 'Load job description';
+        const inlineDescription = hasInlineDescription
+            ? `<div class="archive-desc-text">${escapeHtml(item.description)}</div>`
+            : `<div class="archive-desc-text text-muted">Description will load on demand.</div>`;
 
         const card = document.createElement('div');
         card.className = 'card archive-entry';
@@ -222,16 +245,62 @@ function renderArchiveList(items) {
                     ${appliedBadge}
                 </div>
                 <div class="archive-description">
-                    ${renderExpandableText(description, `archive-desc-${index}`)}
+                    <button type="button"
+                            class="btn btn-sm btn-outline-secondary archive-desc-toggle"
+                            data-target="${descId}"
+                            data-job-id="${escapeHtml(item.job_id || '')}"
+                            aria-expanded="false">
+                        <i class="bi bi-file-text"></i> ${toggleLabel}
+                    </button>
+                    <div class="archive-desc-panel" id="${descId}" data-loaded="${hasInlineDescription}" style="display: none;">
+                        ${inlineDescription}
+                    </div>
                 </div>
             </div>
         `;
         list.appendChild(card);
-
-        setTimeout(() => {
-            attachExpandListeners(`archive-desc-${index}`);
-        }, 0);
     });
+}
+
+async function toggleArchiveDescription(button) {
+    const targetId = button.getAttribute('data-target');
+    const jobId = button.getAttribute('data-job-id');
+    if (!targetId || !jobId) return;
+
+    const panel = document.getElementById(targetId);
+    if (!panel) return;
+
+    const isOpen = panel.style.display !== 'none';
+    if (isOpen) {
+        panel.style.display = 'none';
+        button.setAttribute('aria-expanded', 'false');
+        button.innerHTML = '<i class="bi bi-file-text"></i> View job description';
+        return;
+    }
+
+    if (panel.dataset.loaded !== 'true') {
+        const descriptionText = await loadJobDescription(activeProfile, jobId);
+        if (descriptionText) {
+            panel.innerHTML = `<div class="archive-desc-text">${escapeHtml(descriptionText)}</div>`;
+        } else {
+            panel.innerHTML = '<div class="archive-desc-text text-muted">No description captured.</div>';
+        }
+        panel.dataset.loaded = 'true';
+    }
+
+    panel.style.display = 'block';
+    button.setAttribute('aria-expanded', 'true');
+    button.innerHTML = '<i class="bi bi-chevron-up"></i> Hide description';
+}
+
+async function loadJobDescription(profile, jobId) {
+    try {
+        const response = await fetch(getDescriptionUrl(profile, jobId));
+        if (!response.ok) return '';
+        return await response.text();
+    } catch (error) {
+        return '';
+    }
 }
 
 function renderExpandableText(text, id) {

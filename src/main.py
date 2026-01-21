@@ -8,6 +8,7 @@ import argparse
 from datetime import datetime
 from typing import List, Dict, Any
 import logging
+import os
 
 from utils import (
     setup_logging,
@@ -82,6 +83,9 @@ class JobRadar:
 
     def _snapshots_path(self) -> str:
         return f"data/job_snapshots_{self.profile_name}.json"
+
+    def _descriptions_dir(self) -> str:
+        return f"data/job_descriptions_{self.profile_name}"
 
     def run(self) -> Dict[str, Any]:
         """
@@ -249,6 +253,8 @@ class JobRadar:
                 description = job['search_snippet']
                 logger.debug(f"Using search snippet as description for {job.get('title', 'N/A')}")
 
+            analysis_description = description
+
             location_analysis = self.analyzer.analyze_location(
                 description or job.get('title', 'Job'),
                 job_title=job.get('title', 'Job'),
@@ -315,6 +321,8 @@ class JobRadar:
 
             # Generate unique job ID
             job['job_id'] = generate_job_id(job['url'], job['title'], job['company'])
+
+            self._save_job_description(job['job_id'], analysis_description)
 
             # Calculate days old (always 0 since we just found it)
             job['days_old'] = 0
@@ -433,6 +441,19 @@ class JobRadar:
 
         # Log this run for UI history display
         self._log_search_run()
+
+    def _save_job_description(self, job_id: str, description: str) -> None:
+        if not description:
+            return
+
+        directory = self._descriptions_dir()
+        try:
+            os.makedirs(directory, exist_ok=True)
+            path = os.path.join(directory, f"{job_id}.txt")
+            with open(path, "w", encoding="utf-8") as file:
+                file.write(description)
+        except OSError as exc:
+            logger.warning(f"Failed to write job description for {job_id}: {exc}")
 
     def _log_search_run(self) -> None:
         """Append the current run to the search runs log"""
