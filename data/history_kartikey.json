@@ -564,9 +564,9 @@
       "url": "https://jobs.ashbyhq.com/Profound/7a6182d0-efcd-4b5a-9d90-93f8797b7395",
       "title": "AI Strategist, New Grad @ Profound",
       "company": "Profound",
-      "first_seen": "2026-01-21T04:04:08.418497",
+      "first_seen": "2026-01-24T08:15:48.737177",
       "ai_fit_score": 95,
-      "sustainability_fit_score": 45
+      "sustainability_fit_score": 68
     },
     "3edafe876e2cc390": {
       "url": "https://jobs.ashbyhq.com/vanta/50761522-d82f-488d-98cc-0ec6ea34909b",
@@ -676,7 +676,7 @@
       "url": "https://jobs.ashbyhq.com/sana-roles/05167c0a-38b0-4b00-9854-d2b8cd15e047?utm_source=careers.nea.com",
       "title": "Product Manager (Agents) @ Sana",
       "company": "Sana Roles",
-      "first_seen": "2026-01-21T04:05:02.161165",
+      "first_seen": "2026-01-24T08:16:51.607974",
       "ai_fit_score": 72,
       "sustainability_fit_score": 42
     },
@@ -692,7 +692,7 @@
       "url": "https://jobs.ashbyhq.com/raspberry/9f34354e-b3eb-45e8-8e0c-a062423a04f0",
       "title": "AI Implementation Specialist @ Raspberry AI",
       "company": "Raspberry",
-      "first_seen": "2026-01-21T04:05:37.451419",
+      "first_seen": "2026-01-24T08:16:20.447872",
       "ai_fit_score": 25,
       "sustainability_fit_score": 25
     },
@@ -780,7 +780,7 @@
       "url": "https://boards.greenhouse.io/slingshotaerospace/jobs/5706791004",
       "title": "Shape the Future of Space",
       "company": "Slingshotaerospace",
-      "first_seen": "2026-01-20T08:21:40.580708",
+      "first_seen": "2026-01-24T08:17:22.734646",
       "ai_fit_score": 0,
       "sustainability_fit_score": 5
     },
@@ -836,7 +836,7 @@
       "url": "https://jobs.ashbyhq.com/evenup/79b4f026-2bdc-4134-a076-84b0c024113b/application",
       "title": "Director of Machine Learning @ EvenUp",
       "company": "Evenup",
-      "first_seen": "2026-01-21T04:05:19.939372",
+      "first_seen": "2026-01-24T08:17:59.712352",
       "ai_fit_score": 45,
       "sustainability_fit_score": 25
     },
@@ -895,9 +895,137 @@
       "first_seen": "2026-01-21T04:06:59.706278",
       "ai_fit_score": 35,
       "sustainability_fit_score": 12
+    },
+    "fd958408198f8d71": {
+      "url": "https://jobs.ashbyhq.com/buspatrol/f3fbe1b5-7cf7-4462-8f32-261008b2739b",
+      "title": "Sr. Product Manager (HW/AI) @ BusPatrol",
+      "company": "Buspatrol",
+      "first_seen": "2026-01-24T08:15:55.741931",
+      "ai_fit_score": 72,
+      "sustainability_fit_score": 45
+    },
+    "4051cf240f9f8915": {
+      "url": "https://jobs.ashbyhq.com/mecka.ai/c9eea598-dbd6-4c06-bcb5-b99ff604a942",
+      "title": "Director of Enterprise Sales (AI Labs & Robotics) @ Mecka",
+      "company": "Mecka.Ai",
+      "first_seen": "2026-01-24T08:16:12.137912",
+      "ai_fit_score": 35,
+      "sustainability_fit_score": 25
+    },
+    "8e860d32f80a8184": {
+      "url": "https://jobs.ashbyhq.com/decagon/62fc49c0-fd54-4e4f-b113-d2abba5f1bc6?trk=public_post_comment-text",
+      "title": "Senior Agent Product Manager, Strategic @ Decagon",
+      "company": "Decagon",
+      "first_seen": "2026-01-24T08:16:27.733744",
+      "ai_fit_score": 45,
+      "sustainability_fit_score": 25
+    },
+    "64538ad9fb163fa6": {
+      "url": "https://jobs.ashbyhq.com/tem/a0a2f37d-19ab-4357-817b-cefdeffc9375",
+      "title": "AI First Growth Specialist @ tem",
+      "company": "Tem",
+      "first_seen": "2026-01-24T08:16:36.121689",
+      "ai_fit_score": 92,
+      "sustainability_fit_score": 45
+    },
+    "4e26ed7d0b80187e": {
+      "url": "https://jobs.ashbyhq.com/protege/f303d5f3-15cb-46ae-999a-b6ab34198aa5",
+      "title": "Product Manager, Data Lab @ Protege",
+      "company": "Protege",
+      "first_seen": "2026-01-24T08:16:43.681331",
+      "ai_fit_score": 55,
+      "sustainability_fit_score": 35
+    },
+    "216d9d1b5fa7fd72": {
+      "url": "https://jobs.ashbyhq.com/prokeep/4e6d27a1-1285-4c97-b1f9-adea29f32c6d",
+      "title": "Senior AI Engineer @ Prokeep",
+      "company": "Prokeep",
+      "first_seen": "2026-01-24T08:16:59.583254",
+      "ai_fit_score": 85,
+      "sustainability_fit_score": 45
+    },
+    "e18e16091cdfb876": {
+      "url": "https://jobs.ashbyhq.com/ema/74540ab2-9782-476f-ad0d-78cc2e7717ed",
+      "title": "Product Manager @ Ema",
+      "company": "Ema",
+      "first_seen": "2026-01-24T08:17:07.189918",
+      "ai_fit_score": 88,
+      "sustainability_fit_score": 45
+    },
+    "a7cffe7f33d6a459": {
+      "url": "https://boards.greenhouse.io/monks/jobs/5779439004",
+      "title": "Director, Digital Strategy (Remote), B2C - Monks",
+      "company": "Monks",
+      "first_seen": "2026-01-24T08:17:15.537115",
+      "ai_fit_score": 35,
+      "sustainability_fit_score": 15
+    },
+    "6c3ce768a15e929d": {
+      "url": "https://boards.greenhouse.io/airbnb/jobs/7453190",
+      "title": "Senior iOS Automation Engineer, Quality Engineering",
+      "company": "Airbnb",
+      "first_seen": "2026-01-24T08:17:31.321674",
+      "ai_fit_score": 45,
+      "sustainability_fit_score": 25
+    },
+    "c26188d0eca72dc6": {
+      "url": "https://jobs.ashbyhq.com/vanta/09db98db-7eb3-480a-9cee-100520856ab9",
+      "title": "Senior Software Engineer, AI Developer Experience @ Vanta",
+      "company": "Vanta",
+      "first_seen": "2026-01-24T08:17:39.472988",
+      "ai_fit_score": 45,
+      "sustainability_fit_score": 25
+    },
+    "2ce77be6c1813b92": {
+      "url": "https://boards.greenhouse.io/purestorage/jobs/7379232?gh_jid=7379232",
+      "title": "Join Us at Pure",
+      "company": "Purestorage",
+      "first_seen": "2026-01-24T08:17:51.447400",
+      "ai_fit_score": 0,
+      "sustainability_fit_score": 0
+    },
+    "620ed380d6104beb": {
+      "url": "https://boards.greenhouse.io/toast/jobs/7551084",
+      "title": "Collections Specialist - Remote, United States",
+      "company": "Toast",
+      "first_seen": "2026-01-24T08:18:07.444041",
+      "ai_fit_score": 45,
+      "sustainability_fit_score": 35
+    },
+    "9160af99fadc0216": {
+      "url": "https://jobs.ashbyhq.com/abridge/a7365ce0-34cb-4345-a597-06cfa9a47454",
+      "title": "Staff Product Manager, Data Platform @ Abridge",
+      "company": "Abridge",
+      "first_seen": "2026-01-24T08:18:22.368310",
+      "ai_fit_score": 72,
+      "sustainability_fit_score": 45
+    },
+    "5dfd8a0bf28f1e71": {
+      "url": "https://boards.greenhouse.io/esri/jobs/5030140007",
+      "title": "Sr. Computer Vision Software Development Engineer",
+      "company": "Esri",
+      "first_seen": "2026-01-24T08:18:28.905449",
+      "ai_fit_score": 15,
+      "sustainability_fit_score": 35
+    },
+    "68ea25d6153b0ec8": {
+      "url": "https://jobs.ashbyhq.com/Distyl/26efee2c-a61a-4e92-90ac-cc7d879a6e67/application",
+      "title": "Strategic Account Director, CX Solutions @ Distyl AI",
+      "company": "Distyl",
+      "first_seen": "2026-01-24T08:18:36.345587",
+      "ai_fit_score": 35,
+      "sustainability_fit_score": 25
+    },
+    "8406f968b7746943": {
+      "url": "https://jobs.ashbyhq.com/traba/88b22868-3f80-4384-b210-aa0de94985b3",
+      "title": "Senior Data Analyst - Founding Team @ Traba",
+      "company": "Traba",
+      "first_seen": "2026-01-24T08:18:44.996426",
+      "ai_fit_score": 45,
+      "sustainability_fit_score": 85
     }
   },
-  "last_updated": "2026-01-21T04:06:59.708589",
+  "last_updated": "2026-01-24T08:18:44.998647",
   "metadata": {
     "version": "1.0",
     "description": "Tracks jobs that have been analyzed to avoid duplicates"

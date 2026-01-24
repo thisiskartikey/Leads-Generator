@@ -1,320 +1,92 @@
 {
   "jobs": [
     {
-      "title": "Product Manager @ Tessera Labs",
-      "company": "Tessera Labs",
-      "location": "Unknown",
-      "description": "",
-      "url": "https://jobs.ashbyhq.com/tessera-labs/ea05dfd6-92d7-4ccc-aa53-2f31a85928c5",
-      "source": "ashby",
-      "posted_date": "2026-01-21T04:02:25.714067",
-      "scraped_at": "2026-01-21T04:02:25.714080",
-      "search_snippet": "... data science, engineering, and customer outcomes, and is responsible for turning AI capabilities—LLMs, ML models, knowledge systems, and agentic workflows ...",
-      "search_title": "Product Manager @ Tessera Labs",
-      "location_analysis": {
-        "location_text": "Unknown",
-        "country": "Unknown",
-        "region": "Unknown",
-        "is_us": "unknown",
-        "confidence": 0.0,
-        "evidence": "No location information provided in title, snippet, or description"
-      },
-      "ai_analysis": {
-        "fit_score": 92,
-        "category": "AI/Tech",
-        "justification": "Exceptional alignment: direct experience deploying LLMs, agentic workflows, and ML systems with measurable business outcomes.",
-        "positioning_advice": "Lead with CPF agentic AI system and GenAI recommender deployments showing end-to-end ownership.",
-        "job_title": "Not explicitly stated in provided excerpt",
-        "extracted_title": "Not explicitly stated in provided excerpt"
-      },
-      "sustainability_analysis": {
-        "fit_score": 72,
-        "category": "AI/Tech",
-        "justification": "Strong AI deployment experience but lacks core data science/engineering skills for building AI capabilities.",
-        "positioning_advice": "Emphasize AI tool deployment, user adoption, and translating technical capabilities into business outcomes.",
-        "job_title": "Not clearly stated in excerpt",
-        "extracted_title": "Not clearly stated in excerpt"
-      },
-      "job_id": "c790f89ca08011c4",
-      "days_old": 0
-    },
-    {
-      "title": "AI Support and Operations Specialist @ Raspberry AI",
-      "company": "Raspberry",
-      "location": "Remote (Unknown)",
-      "description": "",
-      "url": "https://jobs.ashbyhq.com/raspberry/b2fe39f1-a8bd-4124-af41-281ee0b1decb",
-      "source": "ashby",
-      "posted_date": "2026-01-21T04:02:27.857760",
-      "scraped_at": "2026-01-21T04:02:27.857771",
-      "search_snippet": "... agentic support, reporting). Job Description. Raspberry AI is seeking a full-time, remote AI Implementation Specialist (Support) to own customer support and ...",
-      "search_title": "AI Support and Operations Specialist @ Raspberry AI",
-      "location_analysis": {
-        "location_text": "Remote (Unknown)",
-        "country": "Unknown",
-        "region": "Unknown",
-        "is_us": "unknown",
-        "confidence": 0.4,
-        "evidence": "Job description states 'full-time, remote' but no geographic restrictions specified"
-      },
-      "ai_analysis": {
-        "fit_score": 45,
-        "category": "AI/Tech",
-        "justification": "Technical AI skills align, but role is customer support-focused versus candidate's strategic program management background.",
-        "positioning_advice": "Emphasize GenAI deployment, troubleshooting experience, and stakeholder support from Amazon CPF role.",
-        "job_title": "AI Implementation Specialist (Support)",
-        "extracted_title": "AI Implementation Specialist (Support)"
-      },
-      "sustainability_analysis": {
-        "fit_score": 72,
-        "category": "AI/Tech",
-        "justification": "Strong AI deployment experience but role focuses on tech support, not sustainability program management.",
-        "positioning_advice": "Emphasize AI tool deployment, user training, stakeholder support, and technical troubleshooting experience.",
-        "job_title": "AI Implementation Specialist (Support)",
-        "extracted_title": "AI Implementation Specialist (Support)"
-      },
-      "job_id": "06835d1b4b2872b3",
-      "days_old": 0
-    },
-    {
-      "title": "AI Product Manager @ Unwrap",
-      "company": "Unwrap",
-      "location": "Unknown",
-      "description": "",
-      "url": "https://jobs.ashbyhq.com/Unwrap/ea416d79-1486-422c-955b-cf368c87490f",
-      "source": "ashby",
-      "posted_date": "2026-01-21T04:02:29.894510",
-      "scraped_at": "2026-01-21T04:02:29.894520",
-      "search_snippet": "We are seeking an AI Product Manager who has a specific interest in building ... Strong understanding of modern AI/ML concepts (LLMs, embeddings ...",
-      "search_title": "AI Product Manager @ Unwrap",
-      "location_analysis": {
-        "location_text": "Unknown",
-        "country": "Unknown",
-        "region": "Unknown",
-        "is_us": "unknown",
-        "confidence": 0.1,
-        "evidence": "No location information provided in any field"
-      },
-      "ai_analysis": {
-        "fit_score": 92,
-        "category": "AI/Tech",
-        "justification": "Exceptional match: 8+ years AI/ML deployment, LLM/embeddings experience, AWS AI certified, proven product impact.",
-        "positioning_advice": "Lead with GenAI deployment metrics and cross-functional stakeholder management at Amazon scale.",
-        "job_title": "AI Product Manager",
-        "extracted_title": "AI Product Manager"
-      },
-      "sustainability_analysis": {
-        "fit_score": 42,
-        "category": "AI/Tech",
-        "justification": "Candidate has AI deployment experience but lacks core product management and ML/LLM technical depth required.",
-        "positioning_advice": "Emphasize AI tool deployment at Amazon and technical STEM background with data systems.",
-        "job_title": "AI Product Manager",
-        "extracted_title": "AI Product Manager"
-      },
-      "job_id": "1948b8935965b95b",
-      "days_old": 0
-    },
-    {
-      "title": "Senior AI Product Manager @ hive.co",
-      "company": "Hive.Co",
-      "location": "Unknown",
-      "description": "",
-      "url": "https://jobs.ashbyhq.com/hive.co/3758c78b-dc3b-48a2-aff6-a517a258c09a",
-      "source": "ashby",
-      "posted_date": "2026-01-21T04:02:32.106781",
-      "scraped_at": "2026-01-21T04:02:32.106791",
-      "search_snippet": "We are looking to add a Senior AI Product Manager work alongside our Engineering and Design team to develop cutting-edge agentic AI solutions that transform how ...",
-      "search_title": "Senior AI Product Manager @ hive.co",
-      "location_analysis": {
-        "location_text": "Unknown",
-        "country": "Unknown",
-        "region": "Unknown",
-        "is_us": "unknown",
-        "confidence": 0.1,
-        "evidence": "No location information provided in job title, snippet, or description"
-      },
-      "ai_analysis": {
-        "fit_score": 72,
-        "category": "AI/Tech",
-        "justification": "Strong AI deployment experience but lacks traditional product management and customer-facing product development background.",
-        "positioning_advice": "Emphasize agentic AI system deployments, stakeholder management, and translating technical complexity into roadmaps.",
-        "job_title": "Senior AI Product Manager",
-        "extracted_title": "Senior AI Product Manager"
-      },
-      "sustainability_analysis": {
-        "fit_score": 42,
-        "category": "AI/Tech",
-        "justification": "Sustainability PM with AI deployment experience lacks core product management and technical AI development skills required.",
-        "positioning_advice": "Emphasize AI tool deployment, cross-functional leadership, and data-driven product optimization achievements.",
-        "job_title": "Senior AI Product Manager",
-        "extracted_title": "Senior AI Product Manager"
-      },
-      "job_id": "38bd4eecb5dead78",
-      "days_old": 0
-    },
-    {
       "title": "AI Strategist, New Grad @ Profound",
       "company": "Profound",
-      "location": "Unknown",
+      "location": "New York City, NY",
       "description": "",
       "url": "https://jobs.ashbyhq.com/Profound/7a6182d0-efcd-4b5a-9d90-93f8797b7395",
       "source": "ashby",
-      "posted_date": "2026-01-21T04:02:34.283712",
-      "scraped_at": "2026-01-21T04:02:34.283722",
-      "search_snippet": "WHAT YOU'LL ACTUALLY DO - Partner with Fortune 500 brands as their strategic guide through the AI discovery landscape - Perform original research on LLM ...",
+      "posted_date": "2026-01-24T08:14:35.657818",
+      "scraped_at": "2026-01-24T08:14:35.657831",
+      "search_snippet": "Location. New York City ; Employment Type. Full time ; Location Type. On-site ; Department. AI Strategy & Research ; Compensation. $100K – $120K.",
       "search_title": "AI Strategist, New Grad @ Profound",
       "location_analysis": {
-        "location_text": "Unknown",
-        "country": "Unknown",
-        "region": "Unknown",
-        "is_us": "unknown",
-        "confidence": 0.1,
-        "evidence": "No location information provided in title, snippet, or description"
+        "location_text": "New York City, NY",
+        "country": "United States",
+        "region": "New York",
+        "is_us": true,
+        "confidence": 1.0,
+        "evidence": "Location explicitly stated as 'New York City' with 'On-site' location type"
       },
       "ai_analysis": {
         "fit_score": 95,
         "category": "AI/Tech",
-        "justification": "Exceptional alignment: Fortune 500 AI strategy experience, LLM deployment expertise, and proven stakeholder partnership skills.",
-        "positioning_advice": "Lead with Amazon AI deployment metrics and Fortune 500 consulting experience immediately.",
-        "job_title": "AI Strategy Partner / Consultant",
-        "extracted_title": "AI Strategy Partner / Consultant"
+        "justification": "Exceptional alignment: current Amazon AI Strategy role, proven AI deployment track record, matching technical skills.",
+        "positioning_advice": "Lead with Amazon AI Strategy role and quantified deployment outcomes across Fortune 500.",
+        "job_title": "AI Strategy & Research",
+        "extracted_title": "AI Strategy & Research"
       },
       "sustainability_analysis": {
-        "fit_score": 45,
+        "fit_score": 68,
         "category": "AI/Tech",
-        "justification": "Role requires AI/LLM research expertise; candidate has AI deployment experience but lacks core research skills.",
-        "positioning_advice": "Emphasize AI tool deployment at Amazon and Microsoft Copilot research methodology experience.",
-        "job_title": "Not clearly stated in posting",
-        "extracted_title": "Not clearly stated in posting"
+        "justification": "Sustainability expert with AI deployment experience, but lacks core AI strategy research credentials for dedicated AI department.",
+        "positioning_advice": "Emphasize AI tool deployment, data systems, and analytics experience from Amazon sustainability work.",
+        "job_title": "Not specified in posting",
+        "extracted_title": "Not specified in posting"
       },
       "job_id": "ff283bf4ec0c059f",
       "days_old": 0
     },
     {
-      "title": "Product Manager, AI Agent Deployment @ Siena AI",
-      "company": "Siena",
-      "location": "Remote (Unknown)",
+      "title": "Sr. Product Manager (HW/AI) @ BusPatrol",
+      "company": "Buspatrol",
+      "location": "Unknown",
       "description": "",
-      "url": "https://jobs.ashbyhq.com/siena/89fe7b6e-3740-4eb0-bc42-95d7f3df4c96",
+      "url": "https://jobs.ashbyhq.com/buspatrol/f3fbe1b5-7cf7-4462-8f32-261008b2739b",
       "source": "ashby",
-      "posted_date": "2026-01-21T04:02:36.472120",
-      "scraped_at": "2026-01-21T04:02:36.472129",
-      "search_snippet": "As a Product Manager, AI Agent Deployment you're embedded with strategic accounts, owning their deployment outcomes while building platform capabilities.",
-      "search_title": "Product Manager, AI Agent Deployment @ Siena AI",
+      "posted_date": "2026-01-24T08:14:37.948890",
+      "scraped_at": "2026-01-24T08:14:37.948901",
+      "search_snippet": "leader in AI-powered safety solutions, we bring cutting-edge technology—AI, machine learning ... We are seeking an experienced Senior Product Manager to lead our ...",
+      "search_title": "Sr. Product Manager (HW/AI) @ BusPatrol",
       "location_analysis": {
-        "location_text": "Remote (Unknown)",
+        "location_text": "Unknown",
         "country": "Unknown",
         "region": "Unknown",
         "is_us": "unknown",
-        "confidence": 0.3,
+        "confidence": 0.1,
         "evidence": "No location information provided in job title, snippet, or description"
       },
       "ai_analysis": {
-        "fit_score": 92,
-        "category": "AI/Tech",
-        "justification": "Exceptional match: proven AI deployment experience with strategic accounts, platform building, and measurable outcomes.",
-        "positioning_advice": "Emphasize Amazon CPF AI deployments, stakeholder management across 60+ partners, and platform-building experience.",
-        "job_title": "Product Manager, AI Agent Deployment",
-        "extracted_title": "Product Manager, AI Agent Deployment"
-      },
-      "sustainability_analysis": {
-        "fit_score": 45,
-        "category": "AI/Tech",
-        "justification": "Program management skills align, but lacks core product management, technical AI deployment, and customer-facing account ownership experience.",
-        "positioning_advice": "Emphasize AI tool deployment at Amazon, cross-functional stakeholder management, and technical systems implementation.",
-        "job_title": "Product Manager, AI Agent Deployment",
-        "extracted_title": "Product Manager, AI Agent Deployment"
-      },
-      "job_id": "a58d667c2f9174be",
-      "days_old": 0
-    },
-    {
-      "title": "All Open Positions",
-      "company": "Hubspotjobs",
-      "location": "Unknown",
-      "description": "",
-      "url": "https://boards.greenhouse.io/hubspotjobs/jobs/5527175",
-      "source": "greenhouse",
-      "posted_date": "2026-01-21T04:02:39.682613",
-      "scraped_at": "2026-01-21T04:02:39.682638",
-      "search_snippet": "Exposure to AI or advanced analytics in business strategy or performance measurement. Pay & Benefits. The cash compensation below includes base salary, on ...",
-      "search_title": "All Open Positions",
-      "location_analysis": {
-        "location_text": "Unknown",
-        "country": "Unknown",
-        "region": "Unknown",
-        "is_us": "unknown",
-        "confidence": 0.1,
-        "evidence": "No location information provided in title, snippet, or description"
-      },
-      "ai_analysis": {
-        "fit_score": 45,
-        "category": "AI/Tech",
-        "justification": "Incomplete job posting lacks critical details on role, responsibilities, and requirements for proper assessment.",
-        "positioning_advice": "Cannot provide targeted advice without complete job description and specific requirements.",
-        "job_title": "Unknown - insufficient job posting information",
-        "extracted_title": "Unknown - insufficient job posting information"
-      },
-      "sustainability_analysis": {
-        "fit_score": 45,
-        "category": "AI/Tech",
-        "justification": "Job posting incomplete; appears AI/analytics-focused but lacks detail to assess sustainability integration or full requirements.",
-        "positioning_advice": "Emphasize AI deployment experience (90% efficiency gains) and advanced analytics in sustainability programs.",
-        "job_title": "Unknown - Incomplete Job Posting",
-        "extracted_title": "Unknown - Incomplete Job Posting"
-      },
-      "job_id": "b6e1724041372145",
-      "days_old": 0
-    },
-    {
-      "title": "AI Learning Specialist @ Pinnacle Global",
-      "company": "Heypinnacle",
-      "location": "Unknown",
-      "description": "",
-      "url": "https://jobs.ashbyhq.com/heypinnacle/2fac331e-5a84-47d6-b3fc-fa6e7726a308",
-      "source": "ashby",
-      "posted_date": "2026-01-21T04:02:41.835321",
-      "scraped_at": "2026-01-21T04:02:41.835331",
-      "search_snippet": "The AI Learning Specialist sits at the intersection of leadership coaching and applied AI. You'll design AI agents, coach executives, and work with our ...",
-      "search_title": "AI Learning Specialist @ Pinnacle Global",
-      "location_analysis": {
-        "location_text": "Unknown",
-        "country": "Unknown",
-        "region": "Unknown",
-        "is_us": "unknown",
-        "confidence": 0.1,
-        "evidence": "No location information provided in title, snippet, or description"
-      },
-      "ai_analysis": {
         "fit_score": 72,
         "category": "AI/Tech",
-        "justification": "Strong AI deployment skills match, but lacks executive coaching experience critical for this hybrid role.",
-        "positioning_advice": "Emphasize stakeholder coaching in AI adoption and translating technical complexity for executives.",
-        "job_title": "AI Learning Specialist",
-        "extracted_title": "AI Learning Specialist"
+        "justification": "Strong AI deployment experience but lacks traditional product management role experience and safety domain expertise.",
+        "positioning_advice": "Emphasize AI product lifecycle ownership, stakeholder management, and cross-functional program leadership achievements.",
+        "job_title": "Senior Product Manager",
+        "extracted_title": "Senior Product Manager"
       },
       "sustainability_analysis": {
         "fit_score": 45,
         "category": "AI/Tech",
-        "justification": "Role centers on AI agent design and executive coaching, not sustainability; limited coaching experience evident.",
-        "positioning_advice": "Emphasize AI deployment experience at Amazon and technical program management with executives.",
-        "job_title": "AI Learning Specialist",
-        "extracted_title": "AI Learning Specialist"
+        "justification": "AI safety product role lacks sustainability focus; candidate has PM skills but limited pure tech product experience.",
+        "positioning_advice": "Emphasize AI deployment experience at Amazon and technical program management over sustainability expertise.",
+        "job_title": "Senior Product Manager",
+        "extracted_title": "Senior Product Manager"
       },
-      "job_id": "4526f68b773bd1e1",
+      "job_id": "fd958408198f8d71",
       "days_old": 0
     },
     {
-      "title": "Program Manager, AI Transformation (Customer Success)",
-      "company": "Vanta",
+      "title": "Director of Enterprise Sales (AI Labs & Robotics) @ Mecka",
+      "company": "Mecka.Ai",
       "location": "Unknown",
       "description": "",
-      "url": "https://jobs.ashbyhq.com/vanta/50761522-d82f-488d-98cc-0ec6ea34909b",
+      "url": "https://jobs.ashbyhq.com/mecka.ai/c9eea598-dbd6-4c06-bcb5-b99ff604a942",
       "source": "ashby",
-      "posted_date": "2026-01-21T04:02:44.204418",
-      "scraped_at": "2026-01-21T04:02:44.204428",
-      "search_snippet": "... Program Manager, AI Transformation at Vanta, you will design, operationalize, and scale AI-powered workflows across the customer lifecycle. Your work ...",
-      "search_title": "Program Manager, AI Transformation (Customer Success)",
+      "posted_date": "2026-01-24T08:14:42.561906",
+      "scraped_at": "2026-01-24T08:14:42.561915",
+      "search_snippet": "We're looking for a Director of Enterprise Sales to lead revenue across AI ... Background in AI, ML, robotics, or technical products (formal or informal) ...",
+      "search_title": "Director of Enterprise Sales (AI Labs & Robotics) @ Mecka",
       "location_analysis": {
         "location_text": "Unknown",
         "country": "Unknown",
@@ -324,136 +96,22 @@
         "evidence": "No location information provided in title, snippet, or description"
       },
       "ai_analysis": {
-        "fit_score": 92,
-        "category": "AI/Tech",
-        "justification": "Exceptional match: proven AI deployment, cross-functional program management, and scaling AI workflows at Fortune 500.",
-        "positioning_advice": "Lead with Amazon AI deployment metrics and agentic workflow experience matching transformation scope.",
-        "job_title": "Program Manager, AI Transformation",
-        "extracted_title": "Program Manager, AI Transformation"
-      },
-      "sustainability_analysis": {
-        "fit_score": 72,
-        "category": "AI/Tech",
-        "justification": "Strong program management skills and AI deployment experience, but lacks core AI/ML technical depth for transformation role.",
-        "positioning_advice": "Emphasize AI tool deployment, workflow automation, and cross-functional program scaling at Amazon.",
-        "job_title": "Program Manager, AI Transformation",
-        "extracted_title": "Program Manager, AI Transformation"
-      },
-      "job_id": "3edafe876e2cc390",
-      "days_old": 0
-    },
-    {
-      "title": "Principal Product Manager @ Wisdom",
-      "company": "Withwisdom",
-      "location": "Unknown",
-      "description": "",
-      "url": "https://jobs.ashbyhq.com/withwisdom/dcc4d55d-a30a-42f2-9588-b2558a2e45c4",
-      "source": "ashby",
-      "posted_date": "2026-01-21T04:02:46.384430",
-      "scraped_at": "2026-01-21T04:02:46.384439",
-      "search_snippet": "Hands-on AI product experience: You've shipped products using LLMs / agentic frameworks, or ML models (not just “AI strategy”). Technical fluency: You can ...",
-      "search_title": "Principal Product Manager @ Wisdom",
-      "location_analysis": {
-        "location_text": "Unknown",
-        "country": "Unknown",
-        "region": "Unknown",
-        "is_us": "unknown",
-        "confidence": 0.1,
-        "evidence": "No location information provided in title, snippet, or description"
-      },
-      "ai_analysis": {
-        "fit_score": 92,
-        "category": "AI/Tech",
-        "justification": "Exceptional match: candidate has shipped multiple LLM/agentic AI products with measurable impact and technical fluency.",
-        "positioning_advice": "Lead with agentic AI auditing system and GenAI recommender deployments at Amazon.",
-        "job_title": "Not specified in posting excerpt",
-        "extracted_title": "Not specified in posting excerpt"
-      },
-      "sustainability_analysis": {
         "fit_score": 35,
         "category": "AI/Tech",
-        "justification": "Role requires hands-on AI/ML product development experience; candidate has AI deployment/usage experience, not product building.",
-        "positioning_advice": "Emphasize AI tool deployment and technical fluency, but acknowledge limited product development experience.",
-        "job_title": "AI Product Manager/Engineer (title not fully specified in excerpt)",
-        "extracted_title": "AI Product Manager/Engineer (title not fully specified in excerpt)"
-      },
-      "job_id": "34214aba31cf799e",
-      "days_old": 0
-    },
-    {
-      "title": "Product Manager (Agents) @ Sana",
-      "company": "Sana Roles",
-      "location": "Unknown",
-      "description": "",
-      "url": "https://jobs.ashbyhq.com/sana-roles/05167c0a-38b0-4b00-9854-d2b8cd15e047?utm_source=careers.nea.com",
-      "source": "ashby",
-      "posted_date": "2026-01-21T04:02:48.557024",
-      "scraped_at": "2026-01-21T04:02:48.557034",
-      "search_snippet": "Product Manager (Agents) ... Sana is a lean product organization, and your job as a PM is to team up with world-class designers and engineers to build agentic AI ...",
-      "search_title": "Product Manager (Agents) @ Sana",
-      "location_analysis": {
-        "location_text": "Unknown",
-        "country": "Unknown",
-        "region": "Unknown",
-        "is_us": "unknown",
-        "confidence": 0.1,
-        "evidence": "No location information provided in title, snippet, or description"
-      },
-      "ai_analysis": {
-        "fit_score": 72,
-        "category": "AI/Tech",
-        "justification": "Strong agentic AI deployment experience but lacks traditional product management and B2B SaaS background.",
-        "positioning_advice": "Emphasize agentic AI systems built at Amazon/WSP and program-to-product translation skills.",
-        "job_title": "Product Manager (Agents)",
-        "extracted_title": "Product Manager (Agents)"
+        "justification": "Strong AI technical background but zero enterprise sales experience for revenue-focused director role.",
+        "positioning_advice": "Highlight AI deployment stakeholder management; acknowledge pivoting from technical program management to sales.",
+        "job_title": "Director of Enterprise Sales",
+        "extracted_title": "Director of Enterprise Sales"
       },
       "sustainability_analysis": {
-        "fit_score": 42,
+        "fit_score": 25,
         "category": "AI/Tech",
-        "justification": "Product management experience limited; role requires deep AI product expertise, not sustainability program management.",
-        "positioning_advice": "Emphasize AI deployment experience and cross-functional stakeholder management at Amazon.",
-        "job_title": "Product Manager (Agents)",
-        "extracted_title": "Product Manager (Agents)"
+        "justification": "Enterprise sales role requires sales leadership and revenue generation experience; candidate has program management, not sales background.",
+        "positioning_advice": "Not recommended - fundamentally different role requiring sales expertise, not technical program management.",
+        "job_title": "Director of Enterprise Sales",
+        "extracted_title": "Director of Enterprise Sales"
       },
-      "job_id": "4d6518604e7020ef",
-      "days_old": 0
-    },
-    {
-      "title": "Neuroscale AI",
-      "company": "Neuroscale",
-      "location": "Unknown",
-      "description": "",
-      "url": "https://jobs.ashbyhq.com/neuroscale/",
-      "source": "ashby",
-      "posted_date": "2026-01-21T04:02:50.664510",
-      "scraped_at": "2026-01-21T04:02:50.664520",
-      "search_snippet": "Open Positions (3) ; Customer Success. Technical Customer Success Manager ; Engineering. Founding Software Engineer • Typescript ; Marketing. Director of Strategic ...",
-      "search_title": "Neuroscale AI",
-      "location_analysis": {
-        "location_text": "Unknown",
-        "country": "Unknown",
-        "region": "Unknown",
-        "is_us": "unknown",
-        "confidence": 0.0,
-        "evidence": "No location information provided in job title, snippet, or description"
-      },
-      "ai_analysis": {
-        "fit_score": 45,
-        "category": "AI/Tech",
-        "justification": "Insufficient information in posting to assess fit; appears early-stage startup with engineering/sales roles.",
-        "positioning_advice": "Cannot provide targeted advice without clear job requirements or role descriptions.",
-        "job_title": "Multiple roles: Technical Customer Success Manager, Founding Software Engineer (Typescript), Director of Strategic Marketing",
-        "extracted_title": "Multiple roles: Technical Customer Success Manager, Founding Software Engineer (Typescript), Director of Strategic Marketing"
-      },
-      "sustainability_analysis": {
-        "fit_score": 35,
-        "category": "AI/Tech",
-        "justification": "Roles require software engineering or technical customer success expertise; candidate has sustainability program management background.",
-        "positioning_advice": "Highlight AI deployment, data systems, and technical stakeholder management from Amazon role.",
-        "job_title": "Multiple roles: Technical Customer Success Manager, Founding Software Engineer, Director of Strategic Marketing",
-        "extracted_title": "Multiple roles: Technical Customer Success Manager, Founding Software Engineer, Director of Strategic Marketing"
-      },
-      "job_id": "ec72cbffaedf72ff",
+      "job_id": "4051cf240f9f8915",
       "days_old": 0
     },
     {
@@ -463,8 +121,8 @@
       "description": "",
       "url": "https://jobs.ashbyhq.com/raspberry/9f34354e-b3eb-45e8-8e0c-a062423a04f0",
       "source": "ashby",
-      "posted_date": "2026-01-21T04:02:57.343427",
-      "scraped_at": "2026-01-21T04:02:57.343437",
+      "posted_date": "2026-01-24T08:14:44.814471",
+      "scraped_at": "2026-01-24T08:14:44.814480",
       "search_snippet": "Raspberry AI is seeking a full-time, remote AI Training & Implementation Specialist with a fashion design background to onboard, train, and support ...",
       "search_title": "AI Implementation Specialist @ Raspberry AI",
       "location_analysis": {
@@ -479,15 +137,15 @@
         "fit_score": 25,
         "category": "AI/Tech",
         "justification": "Requires fashion design background which candidate completely lacks; AI skills alone insufficient.",
-        "positioning_advice": "Not recommended - missing core fashion design requirement for this specialized role.",
-        "job_title": "AI Training & Implementation Specialist (Fashion Design Background)",
-        "extracted_title": "AI Training & Implementation Specialist (Fashion Design Background)"
+        "positioning_advice": "Not recommended - missing critical fashion design prerequisite for this role.",
+        "job_title": "AI Training & Implementation Specialist",
+        "extracted_title": "AI Training & Implementation Specialist"
       },
       "sustainability_analysis": {
         "fit_score": 25,
         "category": "AI/Tech",
-        "justification": "Role requires fashion design background for AI training; candidate has sustainability expertise but no fashion experience.",
-        "positioning_advice": "Not recommended - core fashion design requirement creates insurmountable qualification gap.",
+        "justification": "Role requires fashion design background and AI training expertise; candidate has sustainability focus with no fashion experience.",
+        "positioning_advice": "Not recommended - fundamental fashion design requirement creates insurmountable mismatch despite AI experience.",
         "job_title": "AI Training & Implementation Specialist",
         "extracted_title": "AI Training & Implementation Specialist"
       },
@@ -495,130 +153,130 @@
       "days_old": 0
     },
     {
-      "title": "Founding Senior Product Manager @ Retell AI",
-      "company": "Retell Ai",
+      "title": "Senior Agent Product Manager, Strategic @ Decagon",
+      "company": "Decagon",
       "location": "Unknown",
       "description": "",
-      "url": "https://jobs.ashbyhq.com/retell-ai/a79c6d26-f531-4919-9d26-db784bd5b456",
+      "url": "https://jobs.ashbyhq.com/decagon/62fc49c0-fd54-4e4f-b113-d2abba5f1bc6?trk=public_post_comment-text",
       "source": "ashby",
-      "posted_date": "2026-01-21T04:02:59.534960",
-      "scraped_at": "2026-01-21T04:02:59.534971",
-      "search_snippet": "As our Founding Senior Product Manager, you'll take end-to-end ownership of core product areas that power millions of AI-driven conversations. You'll work ...",
-      "search_title": "Founding Senior Product Manager @ Retell AI",
+      "posted_date": "2026-01-24T08:14:47.017348",
+      "scraped_at": "2026-01-24T08:14:47.017358",
+      "search_snippet": "Partner at an investing firm. Senior product leader or group product manager. Deep technical acumen — able to understand and shape AI agent designs.",
+      "search_title": "Senior Agent Product Manager, Strategic @ Decagon",
       "location_analysis": {
         "location_text": "Unknown",
         "country": "Unknown",
         "region": "Unknown",
         "is_us": "unknown",
         "confidence": 0.1,
-        "evidence": "No location information provided in job title, snippet, or description"
+        "evidence": "No location information provided in job description, title, or snippet"
       },
       "ai_analysis": {
         "fit_score": 45,
         "category": "AI/Tech",
-        "justification": "Program Manager background lacks core product management skills: user research, roadmapping, feature prioritization, shipping.",
-        "positioning_advice": "Reframe AI deployments as product launches with user adoption metrics and iterative releases.",
-        "job_title": "Founding Senior Product Manager",
-        "extracted_title": "Founding Senior Product Manager"
-      },
-      "sustainability_analysis": {
-        "fit_score": 35,
-        "category": "AI/Tech",
-        "justification": "Role requires core product management in AI/tech; candidate has sustainability domain expertise, not product development.",
-        "positioning_advice": "Highlight AI tool deployment, data systems, and cross-functional stakeholder management at Amazon.",
-        "job_title": "Founding Senior Product Manager",
-        "extracted_title": "Founding Senior Product Manager"
-      },
-      "job_id": "4536335cb9fe4482",
-      "days_old": 0
-    },
-    {
-      "title": "Team Lead Engineering - AI Platform (Remote) @ SoSafe",
-      "company": "Sosafe",
-      "location": "Remote (Unknown Region)",
-      "description": "",
-      "url": "https://jobs.ashbyhq.com/sosafe/87b983b5-69d1-46e7-baac-9caae70f7fd2",
-      "source": "ashby",
-      "posted_date": "2026-01-21T04:03:01.753987",
-      "scraped_at": "2026-01-21T04:03:01.753997",
-      "search_snippet": "... Agentic AI Platform, laying the foundation for how AI is built and used across all product teams. - Translate SoSafe's AI strategy into concrete, production ...",
-      "search_title": "Team Lead Engineering - AI Platform (Remote) @ SoSafe",
-      "location_analysis": {
-        "location_text": "Remote (Unknown Region)",
-        "country": "Unknown",
-        "region": "Unknown",
-        "is_us": "unknown",
-        "confidence": 0.3,
-        "evidence": "Title states 'Remote' but no geographic restrictions specified"
-      },
-      "ai_analysis": {
-        "fit_score": 92,
-        "category": "AI/Tech",
-        "justification": "Exceptional match: candidate has deployed agentic AI systems, AI strategy translation, and cross-functional platform experience.",
-        "positioning_advice": "Lead with agentic AI auditing system and GenAI recommender deployment at Amazon.",
-        "job_title": "Agentic AI Platform - AI Strategy Lead",
-        "extracted_title": "Agentic AI Platform - AI Strategy Lead"
-      },
-      "sustainability_analysis": {
-        "fit_score": 45,
-        "category": "AI/Tech",
-        "justification": "Role focuses on AI platform strategy and production implementation, not sustainability applications or domain expertise.",
-        "positioning_advice": "Emphasize AI deployment experience at Amazon and technical program management across enterprise systems.",
-        "job_title": "Agentic AI Platform - Strategy/Product Role",
-        "extracted_title": "Agentic AI Platform - Strategy/Product Role"
-      },
-      "job_id": "837a0edbc454a2c7",
-      "days_old": 0
-    },
-    {
-      "title": "Senior Product Manager - Estimating @ Togal AI",
-      "company": "Togal Ai",
-      "location": "Unknown",
-      "description": "",
-      "url": "https://jobs.ashbyhq.com/togal-ai/1ce02e93-6b0b-4496-8f36-44ddf93b01c1",
-      "source": "ashby",
-      "posted_date": "2026-01-21T04:03:03.939285",
-      "scraped_at": "2026-01-21T04:03:03.939295",
-      "search_snippet": "Our solution uses advanced machine learning to automate traditionally time-consuming takeoff tasks, helping estimators work up to 80% faster while reducing ...",
-      "search_title": "Senior Product Manager - Estimating @ Togal AI",
-      "location_analysis": {
-        "location_text": "Unknown",
-        "country": "Unknown",
-        "region": "Unknown",
-        "is_us": "unknown",
-        "confidence": 0.1,
-        "evidence": "No location information provided in job title, snippet, or description"
-      },
-      "ai_analysis": {
-        "fit_score": 85,
-        "category": "AI/Tech",
-        "justification": "Strong AI deployment experience with proven 80% efficiency gains aligns perfectly with construction-tech automation mission.",
-        "positioning_advice": "Emphasize AI adoption metrics, stakeholder enablement, and translating technical complexity for non-technical users.",
-        "job_title": "Not specified in posting excerpt",
-        "extracted_title": "Not specified in posting excerpt"
+        "justification": "Strong AI technical skills but lacks senior product leadership, investing experience, and agent design expertise.",
+        "positioning_advice": "Emphasize AI deployment architecture decisions and cross-functional product ownership at Amazon.",
+        "job_title": "Partner at an investing firm",
+        "extracted_title": "Partner at an investing firm"
       },
       "sustainability_analysis": {
         "fit_score": 25,
         "category": "AI/Tech",
-        "justification": "Construction estimating software role has no sustainability focus; candidate lacks construction/estimating domain expertise.",
-        "positioning_advice": "Not recommended - core construction industry knowledge required, outside sustainability domain.",
-        "job_title": "Not clearly stated (likely Estimator or Construction Technology role)",
-        "extracted_title": "Not clearly stated (likely Estimator or Construction Technology role)"
+        "justification": "Role requires senior product leadership and deep AI agent design expertise; candidate has program management, not product leadership experience.",
+        "positioning_advice": "Highlight AI deployment experience, but acknowledge this requires significant product management skill development.",
+        "job_title": "Partner at an investing firm / Senior Product Leader / Group Product Manager",
+        "extracted_title": "Partner at an investing firm / Senior Product Leader / Group Product Manager"
       },
-      "job_id": "5cd481422d835a81",
+      "job_id": "8e860d32f80a8184",
       "days_old": 0
     },
     {
-      "title": "All Open Positions",
-      "company": "Hubspotjobs",
+      "title": "AI First Growth Specialist @ tem",
+      "company": "Tem",
       "location": "Unknown",
       "description": "",
-      "url": "https://boards.greenhouse.io/hubspotjobs/jobs/5527175",
-      "source": "greenhouse",
-      "posted_date": "2026-01-21T04:03:06.395826",
-      "scraped_at": "2026-01-21T04:03:06.395837",
-      "search_snippet": "Exposure to AI or advanced analytics in business strategy or performance measurement. Pay & Benefits. The cash compensation below includes base salary, on ...",
-      "search_title": "All Open Positions",
+      "url": "https://jobs.ashbyhq.com/tem/a0a2f37d-19ab-4357-817b-cefdeffc9375",
+      "source": "ashby",
+      "posted_date": "2026-01-24T08:14:49.263380",
+      "scraped_at": "2026-01-24T08:14:49.263389",
+      "search_snippet": "We're hiring an AI-First Growth Specialist. Your job is to identify systematic 10x opportunities across the full funnel and multiply team output without linear ...",
+      "search_title": "AI First Growth Specialist @ tem",
+      "location_analysis": {
+        "location_text": "Unknown",
+        "country": "Unknown",
+        "region": "Unknown",
+        "is_us": "unknown",
+        "confidence": 0.1,
+        "evidence": "No location information provided in job title, snippet, or description"
+      },
+      "ai_analysis": {
+        "fit_score": 92,
+        "category": "AI/Tech",
+        "justification": "Exceptional match: proven AI deployment driving 10x efficiency gains, cross-functional leadership, and systematic funnel optimization.",
+        "positioning_advice": "Lead with CPF AI deployments showing 10x multipliers and full-funnel impact metrics.",
+        "job_title": "AI-First Growth Specialist",
+        "extracted_title": "AI-First Growth Specialist"
+      },
+      "sustainability_analysis": {
+        "fit_score": 45,
+        "category": "AI/Tech",
+        "justification": "Growth marketing role requires funnel optimization and scaling expertise; candidate has sustainability program management, not growth marketing.",
+        "positioning_advice": "Emphasize AI deployment, 90% efficiency gains, and cross-functional scaling at Amazon.",
+        "job_title": "AI-First Growth Specialist",
+        "extracted_title": "AI-First Growth Specialist"
+      },
+      "job_id": "64538ad9fb163fa6",
+      "days_old": 0
+    },
+    {
+      "title": "Product Manager, Data Lab @ Protege",
+      "company": "Protege",
+      "location": "Unknown",
+      "description": "",
+      "url": "https://jobs.ashbyhq.com/protege/f303d5f3-15cb-46ae-999a-b6ab34198aa5",
+      "source": "ashby",
+      "posted_date": "2026-01-24T08:14:51.458355",
+      "scraped_at": "2026-01-24T08:14:51.458363",
+      "search_snippet": "... PRODUCT MANAGER - 5+ years of product management experience, ideally in: - AI ... Background in ML engineering, data science, or applied research before PM ...",
+      "search_title": "Product Manager, Data Lab @ Protege",
+      "location_analysis": {
+        "location_text": "Unknown",
+        "country": "Unknown",
+        "region": "Unknown",
+        "is_us": "unknown",
+        "confidence": 0.1,
+        "evidence": "No location information provided in any field"
+      },
+      "ai_analysis": {
+        "fit_score": 55,
+        "category": "AI/Tech",
+        "justification": "Strong AI deployment experience but lacks traditional product management role and ML engineering background.",
+        "positioning_advice": "Emphasize AI product deployment ownership, stakeholder management, and technical AI implementation experience.",
+        "job_title": "PRODUCT MANAGER",
+        "extracted_title": "PRODUCT MANAGER"
+      },
+      "sustainability_analysis": {
+        "fit_score": 35,
+        "category": "AI/Tech",
+        "justification": "Lacks required ML/data science/applied research background and core product management experience in AI products.",
+        "positioning_advice": "Emphasize AI deployment experience at Amazon, but acknowledge PM transition from program management.",
+        "job_title": "PRODUCT MANAGER",
+        "extracted_title": "PRODUCT MANAGER"
+      },
+      "job_id": "4e26ed7d0b80187e",
+      "days_old": 0
+    },
+    {
+      "title": "Product Manager (Agents) @ Sana",
+      "company": "Sana Roles",
+      "location": "Unknown",
+      "description": "",
+      "url": "https://jobs.ashbyhq.com/sana-roles/05167c0a-38b0-4b00-9854-d2b8cd15e047?utm_source=careers.nea.com",
+      "source": "ashby",
+      "posted_date": "2026-01-24T08:14:53.714483",
+      "scraped_at": "2026-01-24T08:14:53.714494",
+      "search_snippet": "Product Manager (Agents) ... Sana is a lean product organization, and your job as a PM is to team up with world-class designers and engineers to build agentic AI ...",
+      "search_title": "Product Manager (Agents) @ Sana",
       "location_analysis": {
         "location_text": "Unknown",
         "country": "Unknown",
@@ -628,73 +286,301 @@
         "evidence": "No location information provided in title, snippet, or description"
       },
       "ai_analysis": {
-        "fit_score": 45,
+        "fit_score": 72,
         "category": "AI/Tech",
-        "justification": "Job posting fragment lacks critical details on role, responsibilities, and requirements for proper assessment.",
-        "positioning_advice": "Cannot provide targeted advice without complete job description and specific requirements.",
-        "job_title": "Unknown - insufficient job posting information",
-        "extracted_title": "Unknown - insufficient job posting information"
+        "justification": "Strong AI deployment experience but lacks traditional product management and B2B SaaS product development background.",
+        "positioning_advice": "Emphasize agentic AI system deployments, stakeholder management, and translating technical complexity into roadmaps.",
+        "job_title": "Product Manager (Agents)",
+        "extracted_title": "Product Manager (Agents)"
+      },
+      "sustainability_analysis": {
+        "fit_score": 42,
+        "category": "AI/Tech",
+        "justification": "Limited product management experience in consumer tech; AI usage documented but not core product development expertise.",
+        "positioning_advice": "Emphasize AI deployment experience and cross-functional stakeholder management at Amazon scale.",
+        "job_title": "Product Manager (Agents)",
+        "extracted_title": "Product Manager (Agents)"
+      },
+      "job_id": "4d6518604e7020ef",
+      "days_old": 0
+    },
+    {
+      "title": "Senior AI Engineer @ Prokeep",
+      "company": "Prokeep",
+      "location": "Unknown",
+      "description": "",
+      "url": "https://jobs.ashbyhq.com/prokeep/4e6d27a1-1285-4c97-b1f9-adea29f32c6d",
+      "source": "ashby",
+      "posted_date": "2026-01-24T08:14:55.931452",
+      "scraped_at": "2026-01-24T08:14:55.931461",
+      "search_snippet": "This is a high-impact role shaping AI strategy at a growing product company, with the opportunity to build and evolve AI-powered capabilities that are central ...",
+      "search_title": "Senior AI Engineer @ Prokeep",
+      "location_analysis": {
+        "location_text": "Unknown",
+        "country": "Unknown",
+        "region": "Unknown",
+        "is_us": "unknown",
+        "confidence": 0.1,
+        "evidence": "No location information provided in title, snippet, or description"
+      },
+      "ai_analysis": {
+        "fit_score": 85,
+        "category": "AI/Tech",
+        "justification": "Strong AI strategy and deployment experience aligns well with shaping AI-powered product capabilities.",
+        "positioning_advice": "Emphasize end-to-end AI deployment, GenAI implementation, and measurable business impact at scale.",
+        "job_title": "AI Strategy Role (Product Company)",
+        "extracted_title": "AI Strategy Role (Product Company)"
       },
       "sustainability_analysis": {
         "fit_score": 45,
         "category": "AI/Tech",
-        "justification": "Job posting incomplete; appears AI/analytics-focused but lacks detail to assess sustainability integration or role requirements.",
-        "positioning_advice": "Emphasize AI deployment experience (90% efficiency gains) and advanced analytics in sustainability programs.",
-        "job_title": "Unable to extract - job title not provided in posting",
-        "extracted_title": "Unable to extract - job title not provided in posting"
+        "justification": "Limited AI strategy experience; background is sustainability-focused with only tactical AI tool deployment.",
+        "positioning_advice": "Emphasize AI deployment at Amazon and Microsoft Copilot research as product strategy foundation.",
+        "job_title": "AI Strategy Role (Product Company)",
+        "extracted_title": "AI Strategy Role (Product Company)"
       },
-      "job_id": "b6e1724041372145",
+      "job_id": "216d9d1b5fa7fd72",
       "days_old": 0
     },
     {
-      "title": "Sr. Talent Acquisition AI Automation Analyst @ Zapier - Jobs",
-      "company": "Zapier",
-      "location": "Remote (Unknown)",
+      "title": "Product Manager @ Ema",
+      "company": "Ema",
+      "location": "Unknown",
       "description": "",
-      "url": "https://jobs.ashbyhq.com/zapier/acee4cef-022a-48f9-9869-af6b5518974b?jobsphere_src=Job-Sphere",
+      "url": "https://jobs.ashbyhq.com/ema/74540ab2-9782-476f-ad0d-78cc2e7717ed",
       "source": "ashby",
-      "posted_date": "2026-01-21T04:03:08.732807",
-      "scraped_at": "2026-01-21T04:03:08.732817",
-      "search_snippet": "In this role, you'll work hand-in-hand with the TA Talent Strategy & Operations team to drive key sourcing automation projects that modernize how we identify ...",
-      "search_title": "Sr. Talent Acquisition AI Automation Analyst @ Zapier - Jobs",
+      "posted_date": "2026-01-24T08:14:58.166117",
+      "scraped_at": "2026-01-24T08:14:58.166125",
+      "search_snippet": "... Product Manager, you will lead the product strategy and execution for Ema's ... Familiarity with Generative AI, LLMs, and Agentic frameworks, with the ...",
+      "search_title": "Product Manager @ Ema",
       "location_analysis": {
-        "location_text": "Remote (Unknown)",
+        "location_text": "Unknown",
         "country": "Unknown",
         "region": "Unknown",
         "is_us": "unknown",
-        "confidence": 0.4,
-        "evidence": "Zapier is known for remote work, but no explicit location stated in job posting"
+        "confidence": 0.1,
+        "evidence": "No location information provided in job title, snippet, or description"
+      },
+      "ai_analysis": {
+        "fit_score": 88,
+        "category": "AI/Tech",
+        "justification": "Strong PM experience with GenAI, LLMs, and agentic AI deployment; excellent technical depth and stakeholder management.",
+        "positioning_advice": "Emphasize agentic AI systems deployment, product analytics dashboards, and cross-functional AI strategy execution.",
+        "job_title": "Product Manager",
+        "extracted_title": "Product Manager"
+      },
+      "sustainability_analysis": {
+        "fit_score": 45,
+        "category": "AI/Tech",
+        "justification": "Product management role requiring AI/LLM expertise; candidate has sustainability PM experience with limited product strategy background.",
+        "positioning_advice": "Emphasize AI deployment experience and data-driven product improvements from Amazon CPF role.",
+        "job_title": "Product Manager",
+        "extracted_title": "Product Manager"
+      },
+      "job_id": "e18e16091cdfb876",
+      "days_old": 0
+    },
+    {
+      "title": "Director, Digital Strategy (Remote), B2C - Monks",
+      "company": "Monks",
+      "location": "United States (Remote)",
+      "description": "Please note that we will never request payment or bank account information at any stage of the recruitment process. As we continue to grow our teams, we urge you to be cautious of fraudulent job postings or recruitment activities that misuse our company name and information. Please protect your personal information during any recruitment process. While Monks may contact potential candidates via LinkedIn, all applications must be submitted through our official website ( monks.com/careers ). Please note there is a strong preference for EST or CST candidates. About the Role As a Director, Digital Strategy, you will be driving performance, guiding account teams and orchestrating growth for top advertisers. This role is for you if you relish managing client relationships, as well as guiding digital paid media strategy across paid search, social & programmatic (video and display) advertising. While managing client relationships you’ll be an account sponsor for some of our largest accounts while guiding digital paid media strategy with cross-channel integration and strategic activation of channels such as (but not limited to) search, social, display, video, ABM and affiliate. Responsibilities: We are looking for someone with a passion for digital marketing who wants to join a fast-growing, fun digital agency that is hyper-focused on client performance and ROI. You’ll be working at the intersection of online advertising execution and fast start up growth. The ideal candidate is confident in their ability to drive improvements in account performance, but also to manage and develop some of our awesome talent. Support a team of strategists and channel experts for a global enterprise engagement, as the internal go to for day to day process and priorities Build, manage, and maintain the client relationship Revenue & retention responsibilities for your accounts Drive overall account strategy, forecasting, and planning for your accounts Analyze performance data and KPIs Lead expansion into new digital paid media channels to facilitate growth Manage a team to help fulfill and expand client’s marketing programs About You The essentials: 7+ years of paid performance digital marketing experience Deep familiarity working with eComm and lead generation B2C clients Experience forecasting and allocating digital marketing budgets across channels Comfortable digging into the weeds of reporting and ability to present best in class measurement strategies specific to your clients needs (familiarity with MTA, MMA, incrementality testing) Performance marketing specialist but familiar with upper funnel and brand marketing best practices You are a communication guru when presenting digital marketing strategy to C-Suite and executive audiences You frequently find yourself stepping into leadership roles and want those around you to succeed Not afraid to get in the weeds, but still able to see the trees, forest, and ecosystem ‘Driven’ and ‘Innovative’ are attributes commonly associated with you 4-year college degree or equivalent work experience Comfortable optimizing toward back-end metrics from a CRM such as Salesforce At Monks, we believe in fostering an environment where a diversity of perspectives can thrive. We proactively work to design hiring processes that promote equity and inclusion while mitigating bias. We celebrate diversity and are committed to building a team that reflects the communities we serve. We welcome and encourage qualified applicants, from all backgrounds, who are excited to contribute to our mission. What We Offer Benefits Excellent, full coverage medical, dental, and vision insurance - more about our coverage here ! Generous PTO and 15 company-wide holidays 401k with company contribution Paid parental leave Work-life balance with an emphasis on personal well-being Career growth in a disruptor space & entrepreneurial opportunities within the Monks network A globally diverse & inclusive culture with employee resource groups such as S4 Melanin, Pride.Monks, Cultura.Monks, and more! Authentic commitment to DEI efforts and sustainable growth. (Why Sir Martin Sorrell signed The Climate Pledge here !) This role is subject to our Return to Office (RTO) policy. If you reside within a commutable distance of one of our office locations, you will be expected to work from the office a set number of days per week. The specific details, including the number of required office days, will be in accordance with the company’s then-current RTO policy, which is subject to change from time to time. Monks has provided a compensation range that represents its good faith estimate of what Monks may pay for the position at the time of posting. Monks may ultimately pay more or less than the posted compensation range. The salary offered to the selected candidate will be determined based on job-related factors, but not based on a candidate’s sex or any other protected status. Salary Range: $118,000—$139,000 USD About Monks Monks is the global, purely digital, unitary operating brand of S4Capital plc. With a legacy of innovation and specialized expertise, Monks combines an extraordinary range of global marketing and technology services to accelerate business possibilities and redefine how brands and businesses interact with the world. Its integration of systems and workflows delivers unfettered content production, scaled experiences, enterprise-grade technology and data science fueled by AI—managed by the industry’s best and most diverse digital talent—to help the world’s trailblazing companies outmaneuver and outpace their competition. Monks was named a Contender in The Forrester Wave™: Global Marketing Services. It has remained a constant presence on Adweek’s Fastest Growing lists (2019-23), ranks among Cannes Lions' Top 10 Creative Companies (2022-23) and is the only partner to have been placed in AdExchanger’s Programmatic Power Players list every year (2020-24). In addition to being named Adweek’s first AI Agency of the Year (2023), Monks has been recognized by Business Intelligence in its 2024 Excellence in Artificial Intelligence Awards program in three categories: the Individual category, Organizational Winner in AI Strategic Planning and AI Product for its service Monks.Flow. Monks has also garnered the title of Webby Production Company of the Year (2021-24), won a record number of FWAs and has earned a spot on Newsweek’s Top 100 Global Most Loved Workplaces 2023. We are an equal-opportunity employer committed to building a respectful and empowering work environment for all people to freely express themselves amongst colleagues who embrace diversity in all respects. Including fresh voices and unique points of view in all aspects of our business not only creates an environment where we can all grow and thrive but also increases our potential to produce work that better represents—and resonates with—the world around us.",
+      "url": "https://boards.greenhouse.io/monks/jobs/5779439004",
+      "source": "greenhouse",
+      "posted_date": "2026-01-24T08:15:01.153072",
+      "scraped_at": "2026-01-24T08:15:01.153507",
+      "search_snippet": "As a Director, Digital Strategy, you will be driving performance, guiding account teams and orchestrating growth for top advertisers. This role is for you if ...",
+      "search_title": "Director, Digital Strategy (Remote), B2C - Monks",
+      "location_analysis": {
+        "location_text": "United States (Remote)",
+        "country": "United States",
+        "region": "Unknown",
+        "is_us": true,
+        "confidence": 0.95,
+        "evidence": "Strong preference for EST or CST candidates, salary in USD, US benefits (401k, PTO), and RTO policy referencing US office locations"
+      },
+      "ai_analysis": {
+        "fit_score": 35,
+        "category": "AI/Tech",
+        "justification": "Role requires 7+ years paid digital marketing expertise; candidate has AI/operations background, not advertising.",
+        "positioning_advice": "Not recommended - fundamentally different domain requiring paid media and eCommerce specialization.",
+        "job_title": "Director, Digital Strategy",
+        "extracted_title": "Director, Digital Strategy"
+      },
+      "sustainability_analysis": {
+        "fit_score": 15,
+        "category": "AI/Tech",
+        "justification": "Role requires paid digital marketing expertise; candidate has sustainability program management with no advertising experience.",
+        "positioning_advice": "Not recommended - fundamentally different career path requiring digital marketing specialization.",
+        "job_title": "Director, Digital Strategy",
+        "extracted_title": "Director, Digital Strategy"
+      },
+      "job_id": "a7cffe7f33d6a459",
+      "days_old": 0
+    },
+    {
+      "title": "Shape the Future of Space",
+      "company": "Slingshotaerospace",
+      "location": "Unknown",
+      "description": "Quasar bits of moving fluff Sea of Tranquility astonishment laws of physics great turbulent clouds? Permanence of the stars encyclopaedia galactica cosmic fugue brain is the seed of intelligence the ash of stellar alchemy realm of the galaxies.",
+      "url": "https://boards.greenhouse.io/slingshotaerospace/jobs/5706791004",
+      "source": "greenhouse",
+      "posted_date": "2026-01-24T08:15:03.951683",
+      "scraped_at": "2026-01-24T08:15:03.951718",
+      "search_snippet": "Jobs @ Slingshot · AAA - Always Accepting Applications (Evergreen Roles) · AI & Data Science · Astrodynamics & Data Fusion · Data Engineering · Data & Products ...",
+      "search_title": "Careers",
+      "location_analysis": {
+        "location_text": "Unknown",
+        "country": "Unknown",
+        "region": "Unknown",
+        "is_us": "unknown",
+        "confidence": 0.1,
+        "evidence": "No location information provided in job description, title, or snippet"
+      },
+      "ai_analysis": {
+        "fit_score": 0,
+        "category": "AI/Tech",
+        "justification": "Job posting contains no actual job requirements, only placeholder text about astronomy and space.",
+        "positioning_advice": "Cannot provide advice - this appears to be placeholder or test content.",
+        "job_title": "Not specified",
+        "extracted_title": "Not specified"
+      },
+      "sustainability_analysis": {
+        "fit_score": 5,
+        "category": "AI/Tech",
+        "justification": "Job posting contains only placeholder text about astronomy/space with no actual job requirements or description.",
+        "positioning_advice": "Cannot provide guidance - job posting lacks any substantive role information.",
+        "job_title": "Not specified",
+        "extracted_title": "Not specified"
+      },
+      "job_id": "ebdc4271f45b38d6",
+      "days_old": 0
+    },
+    {
+      "title": "Senior iOS Automation Engineer, Quality Engineering",
+      "company": "Airbnb",
+      "location": "Unknown",
+      "description": "",
+      "url": "https://boards.greenhouse.io/airbnb/jobs/7453190",
+      "source": "greenhouse",
+      "posted_date": "2026-01-24T08:15:07.492267",
+      "scraped_at": "2026-01-24T08:15:07.492277",
+      "search_snippet": "We enable Airbnb engineers to build highly testable systems by building and using tools leveraging AI. We own and continuously improve product test cases, ...",
+      "search_title": "Senior iOS Automation Engineer, Quality Engineering",
+      "location_analysis": {
+        "location_text": "Unknown",
+        "country": "Unknown",
+        "region": "Unknown",
+        "is_us": "unknown",
+        "confidence": 0.1,
+        "evidence": "No location information provided in job description or metadata"
       },
       "ai_analysis": {
         "fit_score": 45,
         "category": "AI/Tech",
-        "justification": "Limited job details, but TA sourcing automation differs significantly from candidate's AI strategy/operations focus.",
-        "positioning_advice": "Emphasize AI deployment automation, stakeholder management, and cross-functional program leadership experience.",
-        "job_title": "Unknown - Talent Acquisition Sourcing Automation Role",
-        "extracted_title": "Unknown - Talent Acquisition Sourcing Automation Role"
+        "justification": "Strong AI deployment experience but lacks software engineering, testing infrastructure, and technical tooling development expertise.",
+        "positioning_advice": "Emphasize AI tool deployment, stakeholder enablement, and cross-functional program management at Amazon.",
+        "job_title": "Software Engineer - AI Testing Tools (Airbnb)",
+        "extracted_title": "Software Engineer - AI Testing Tools (Airbnb)"
       },
       "sustainability_analysis": {
         "fit_score": 25,
         "category": "AI/Tech",
-        "justification": "Role focuses on talent acquisition sourcing automation; candidate's expertise is sustainability programs, not TA/recruiting operations.",
-        "positioning_advice": "Not recommended - this is HR tech/recruiting operations, not sustainability or general program management.",
-        "job_title": "TA Sourcing Automation (role title unclear from snippet)",
-        "extracted_title": "TA Sourcing Automation (role title unclear from snippet)"
+        "justification": "Role requires software testing engineering expertise for Airbnb systems; candidate has sustainability program management background.",
+        "positioning_advice": "Not recommended - core software engineering/testing skills missing despite AI tool deployment experience.",
+        "job_title": "Software Test Engineer (AI Tools)",
+        "extracted_title": "Software Test Engineer (AI Tools)"
       },
-      "job_id": "7bcb043c0e9e06a7",
+      "job_id": "6c3ce768a15e929d",
       "days_old": 0
     },
     {
-      "title": "Director of Analytics & Data Science @ Super.com",
-      "company": "Super.Com",
+      "title": "Senior Software Engineer, AI Developer Experience @ Vanta",
+      "company": "Vanta",
       "location": "Unknown",
       "description": "",
-      "url": "https://jobs.ashbyhq.com/super.com/69551696-d46b-4887-8d4e-ba889a3a1f3e",
+      "url": "https://jobs.ashbyhq.com/vanta/09db98db-7eb3-480a-9cee-100520856ab9",
       "source": "ashby",
-      "posted_date": "2026-01-21T04:03:10.984922",
-      "scraped_at": "2026-01-21T04:03:10.984932",
-      "search_snippet": "The Director of Analytics & Data Science leads our Analytics and Data Science organization through its next phase of scale. Operating within our mission-aligned ...",
-      "search_title": "Director of Analytics & Data Science @ Super.com",
+      "posted_date": "2026-01-24T08:15:09.952768",
+      "scraped_at": "2026-01-24T08:15:09.952777",
+      "search_snippet": "Lead Vanta's AI tooling strategy for engineering, evaluating and implementing AI-powered development tools (code generation, AI-assisted code review, ...",
+      "search_title": "Senior Software Engineer, AI Developer Experience @ Vanta",
+      "location_analysis": {
+        "location_text": "Unknown",
+        "country": "Unknown",
+        "region": "Unknown",
+        "is_us": "unknown",
+        "confidence": 0.1,
+        "evidence": "No location information provided in job title, snippet, or description"
+      },
+      "ai_analysis": {
+        "fit_score": 45,
+        "category": "AI/Tech",
+        "justification": "Strong AI strategy experience but lacks hands-on engineering tooling implementation and software development background.",
+        "positioning_advice": "Emphasize AI tool evaluation, deployment governance, and cross-functional engineering stakeholder management experience.",
+        "job_title": "Lead AI Tooling Strategy for Engineering",
+        "extracted_title": "Lead AI Tooling Strategy for Engineering"
+      },
+      "sustainability_analysis": {
+        "fit_score": 25,
+        "category": "AI/Tech",
+        "justification": "Role requires software engineering AI tooling expertise; candidate has sustainability program management with AI usage experience.",
+        "positioning_advice": "Not recommended - core engineering/development background required for this technical leadership role.",
+        "job_title": "Lead, AI Tooling Strategy for Engineering",
+        "extracted_title": "Lead, AI Tooling Strategy for Engineering"
+      },
+      "job_id": "c26188d0eca72dc6",
+      "days_old": 0
+    },
+    {
+      "title": "Collections Specialist - Remote, United States",
+      "company": "Toast",
+      "location": "United States (Remote)",
+      "description": "",
+      "url": "https://boards.greenhouse.io/toast/jobs/7551084",
+      "source": "greenhouse",
+      "posted_date": "2026-01-24T08:15:17.375242",
+      "scraped_at": "2026-01-24T08:15:17.375251",
+      "search_snippet": "We believe learning new AI tools empowers us to build for our customers faster, more independently, and with higher quality. We provide these tools across all ...",
+      "search_title": "Collections Specialist - Remote, United States",
+      "location_analysis": {
+        "location_text": "United States (Remote)",
+        "country": "United States",
+        "region": "Unknown",
+        "is_us": true,
+        "confidence": 1.0,
+        "evidence": "Job title explicitly states 'Remote, United States'"
+      },
+      "ai_analysis": {
+        "fit_score": 45,
+        "category": "AI/Tech",
+        "justification": "Incomplete job posting prevents proper assessment; candidate has strong AI credentials but requirements unclear.",
+        "positioning_advice": "Cannot provide specific positioning without complete job description and requirements.",
+        "job_title": "Not specified in posting",
+        "extracted_title": "Not specified in posting"
+      },
+      "sustainability_analysis": {
+        "fit_score": 35,
+        "category": "AI/Tech",
+        "justification": "Job posting incomplete; appears AI-tooling focused with no sustainability component evident from fragment provided.",
+        "positioning_advice": "Highlight AI deployment experience at Amazon and technical program management skills.",
+        "job_title": "Unable to extract - incomplete job posting",
+        "extracted_title": "Unable to extract - incomplete job posting"
+      },
+      "job_id": "620ed380d6104beb",
+      "days_old": 0
+    },
+    {
+      "title": "Staff Product Manager, Data Platform @ Abridge",
+      "company": "Abridge",
+      "location": "Unknown",
+      "description": "",
+      "url": "https://jobs.ashbyhq.com/abridge/a7365ce0-34cb-4345-a597-06cfa9a47454",
+      "source": "ashby",
+      "posted_date": "2026-01-24T08:15:19.724313",
+      "scraped_at": "2026-01-24T08:15:19.724322",
+      "search_snippet": "... generative AI for healthcare, we are setting the industry standards for the ... Product Manager, Data Platform to own our data platform as a product ...",
+      "search_title": "Staff Product Manager, Data Platform @ Abridge",
       "location_analysis": {
         "location_text": "Unknown",
         "country": "Unknown",
@@ -706,71 +592,33 @@
       "ai_analysis": {
         "fit_score": 72,
         "category": "AI/Tech",
-        "justification": "Strong AI deployment experience but lacks people leadership and traditional data science depth for director role.",
-        "positioning_advice": "Emphasize scaling AI systems, cross-functional leadership, and analytics infrastructure buildout achievements.",
-        "job_title": "Director of Analytics & Data Science",
-        "extracted_title": "Director of Analytics & Data Science"
+        "justification": "Strong AI/data platform experience but lacks dedicated product management title and healthcare domain expertise.",
+        "positioning_advice": "Emphasize data platform ownership at Amazon and AI product deployment lifecycle management.",
+        "job_title": "Product Manager, Data Platform",
+        "extracted_title": "Product Manager, Data Platform"
       },
       "sustainability_analysis": {
-        "fit_score": 35,
+        "fit_score": 42,
         "category": "AI/Tech",
-        "justification": "Director-level analytics role requires deep data science leadership; candidate has program management strength, not analytics leadership.",
-        "positioning_advice": "Emphasize AI deployment experience and data systems work, but role mismatch likely insurmountable.",
-        "job_title": "Director of Analytics & Data Science",
-        "extracted_title": "Director of Analytics & Data Science"
+        "justification": "Healthcare AI data platform role misaligned with sustainability focus; limited product management or healthcare domain experience.",
+        "positioning_advice": "Emphasize data pipeline work, AI tool deployment, and cross-functional stakeholder management experience.",
+        "job_title": "Product Manager, Data Platform",
+        "extracted_title": "Product Manager, Data Platform"
       },
-      "job_id": "f30e16318c67dcaf",
+      "job_id": "9160af99fadc0216",
       "days_old": 0
     },
     {
-      "title": "Tessera Labs - Talent Acquisition Leader - Jobs",
-      "company": "Tessera Labs",
+      "title": "Staff Product Manager, Data Platform @ Abridge",
+      "company": "Abridge",
       "location": "Unknown",
       "description": "",
-      "url": "https://jobs.ashbyhq.com/tessera-labs/aa67e385-fb36-4aea-aea1-6b4feb595215",
+      "url": "https://jobs.ashbyhq.com/abridge/a7365ce0-34cb-4345-a597-06cfa9a47454",
       "source": "ashby",
-      "posted_date": "2026-01-21T04:03:13.526186",
-      "scraped_at": "2026-01-21T04:03:13.526196",
-      "search_snippet": "Own full-cycle recruiting for highly technical roles (AI/ML, engineering, product, data). Design scalable hiring processes, interview frameworks, and ...",
-      "search_title": "Tessera Labs - Talent Acquisition Leader - Jobs",
-      "location_analysis": {
-        "location_text": "Unknown",
-        "country": "Unknown",
-        "region": "Unknown",
-        "is_us": "unknown",
-        "confidence": 0.1,
-        "evidence": "No location information provided in title, snippet, or description"
-      },
-      "ai_analysis": {
-        "fit_score": 25,
-        "category": "AI/Tech",
-        "justification": "Candidate is AI program manager, not recruiter; zero recruiting, talent acquisition, or HR experience shown.",
-        "positioning_advice": "Not recommended - this requires recruiting expertise, not AI technical/program management skills.",
-        "job_title": "Technical Recruiter (AI/ML focus)",
-        "extracted_title": "Technical Recruiter (AI/ML focus)"
-      },
-      "sustainability_analysis": {
-        "fit_score": 15,
-        "category": "AI/Tech",
-        "justification": "Technical recruiting role requires talent acquisition expertise; candidate has zero recruiting or HR experience.",
-        "positioning_advice": "Not recommended - fundamentally different career path from sustainability program management.",
-        "job_title": "Technical Recruiter (AI/ML, Engineering, Product, Data)",
-        "extracted_title": "Technical Recruiter (AI/ML, Engineering, Product, Data)"
-      },
-      "job_id": "6382a32f9ce721c1",
-      "days_old": 0
-    },
-    {
-      "title": "Operations & Program Manager, Implementation",
-      "company": "1Password",
-      "location": "Unknown",
-      "description": "",
-      "url": "https://jobs.ashbyhq.com/1password/4d962f79-8019-4c9d-9ad4-f18f5622d963",
-      "source": "ashby",
-      "posted_date": "2026-01-21T04:03:15.786962",
-      "scraped_at": "2026-01-21T04:03:15.786972",
-      "search_snippet": "1Password uses artificial intelligence (AI) and machine learning (ML) technologies, including natural language processing and predictive analytics, to assist in ...",
-      "search_title": "Operations & Program Manager, Implementation",
+      "posted_date": "2026-01-24T08:15:27.126364",
+      "scraped_at": "2026-01-24T08:15:27.126373",
+      "search_snippet": "... generative AI for healthcare, we are setting the industry standards for the ... Product Manager, Data Platform to own our data platform as a product ...",
+      "search_title": "Staff Product Manager, Data Platform @ Abridge",
       "location_analysis": {
         "location_text": "Unknown",
         "country": "Unknown",
@@ -780,72 +628,148 @@
         "evidence": "No location information provided in job title, snippet, or description"
       },
       "ai_analysis": {
-        "fit_score": 95,
+        "fit_score": 72,
         "category": "AI/Tech",
-        "justification": "Exceptional match: candidate has deployed AI/ML systems, NLP dashboards, and predictive analytics at scale.",
-        "positioning_advice": "Lead with Amazon AI deployment metrics and AWS AI Practitioner certification immediately.",
-        "job_title": "Not specified in truncated posting",
-        "extracted_title": "Not specified in truncated posting"
+        "justification": "Strong AI/data platform experience but lacks dedicated product management title and healthcare domain expertise.",
+        "positioning_advice": "Emphasize data platform ownership at Amazon and AI product deployment lifecycle management.",
+        "job_title": "Product Manager, Data Platform",
+        "extracted_title": "Product Manager, Data Platform"
+      },
+      "sustainability_analysis": {
+        "fit_score": 45,
+        "category": "AI/Tech",
+        "justification": "Healthcare AI data platform role misaligns with sustainability focus; limited healthcare or pure product management experience.",
+        "positioning_advice": "Emphasize data pipeline work, AI deployment experience, and cross-functional stakeholder management at Amazon.",
+        "job_title": "Product Manager, Data Platform",
+        "extracted_title": "Product Manager, Data Platform"
+      },
+      "job_id": "9160af99fadc0216",
+      "days_old": 0
+    },
+    {
+      "title": "Sr. Computer Vision Software Development Engineer",
+      "company": "Esri",
+      "location": "Redlands, CA",
+      "description": "Total Rewards Esri’s competitive total rewards strategy includes industry-leading health and welfare benefits: medical, dental, vision, basic and supplemental life insurance for employees (and their families), 401(k) and profit-sharing programs, minimum accrual of 80 hours of vacation leave, twelve paid holidays throughout the calendar year, and opportunities for personal and professional growth. Base salary is one component of our total rewards strategy. Compensation decisions and the base range for this role take into account many factors including but not limited to skill sets; experience and training; licensure and certifications; and other business and organizational needs.",
+      "url": "https://boards.greenhouse.io/esri/jobs/5030140007",
+      "source": "greenhouse",
+      "posted_date": "2026-01-24T08:15:30.312100",
+      "scraped_at": "2026-01-24T08:15:30.312160",
+      "search_snippet": "Familiarity with LLMs, generative AI, and advanced ML techniques. #LI-DR5. Total Rewards. Esri's competitive total rewards strategy includes industry-leading ...",
+      "search_title": "Sr. Computer Vision Software Development Engineer Job",
+      "location_analysis": {
+        "location_text": "Redlands, CA",
+        "country": "United States",
+        "region": "California",
+        "is_us": true,
+        "confidence": 0.95,
+        "evidence": "Scraped location explicitly states 'Redlands, CA'"
+      },
+      "ai_analysis": {
+        "fit_score": 15,
+        "category": "AI/Tech",
+        "justification": "Job posting only describes benefits package, contains no actual role requirements or responsibilities.",
+        "positioning_advice": "Cannot provide guidance - no job description available to analyze.",
+        "job_title": "Not specified in posting",
+        "extracted_title": "Not specified in posting"
       },
       "sustainability_analysis": {
         "fit_score": 35,
         "category": "AI/Tech",
-        "justification": "Job posting incomplete; appears AI/ML focused at 1Password, misaligned with sustainability career trajectory.",
-        "positioning_advice": "Highlight AI deployment experience from Amazon CPF role if pursuing tech pivot.",
-        "job_title": "Unknown - Job posting truncated",
-        "extracted_title": "Unknown - Job posting truncated"
+        "justification": "Job posting lacks specific role details; appears to be generic benefits description, not actual position requirements.",
+        "positioning_advice": "Cannot provide positioning advice without actual job title or role requirements.",
+        "job_title": "Not specified in posting",
+        "extracted_title": "Not specified in posting"
       },
-      "job_id": "98416b2b595bd4b4",
+      "job_id": "5dfd8a0bf28f1e71",
       "days_old": 0
     },
     {
-      "title": "Sales Director US @ H Company",
-      "company": "Hcompany",
-      "location": "United States",
+      "title": "Strategic Account Director, CX Solutions @ Distyl AI",
+      "company": "Distyl",
+      "location": "Unknown",
       "description": "",
-      "url": "https://jobs.ashbyhq.com/hcompany/d4f68d7e-275f-4df3-b741-4f16e8186131",
+      "url": "https://jobs.ashbyhq.com/Distyl/26efee2c-a61a-4e92-90ac-cc7d879a6e67/application",
       "source": "ashby",
-      "posted_date": "2026-01-21T04:03:24.327661",
-      "scraped_at": "2026-01-21T04:03:24.327670",
-      "search_snippet": "Sales Director US. ... H exists to push the boundaries of superintelligence with agentic AI. By ...",
-      "search_title": "Sales Director US @ H Company",
+      "posted_date": "2026-01-24T08:15:38.210739",
+      "scraped_at": "2026-01-24T08:15:38.210748",
+      "search_snippet": "As an Strategic Account Director, CX Solutions, you will own a small number of strategic enterprise accounts and lead complex, high-value sales cycles ...",
+      "search_title": "Strategic Account Director, CX Solutions @ Distyl AI",
       "location_analysis": {
-        "location_text": "United States",
-        "country": "United States",
+        "location_text": "Unknown",
+        "country": "Unknown",
         "region": "Unknown",
-        "is_us": true,
-        "confidence": 0.95,
-        "evidence": "Job title explicitly states 'Sales Director US'"
+        "is_us": "unknown",
+        "confidence": 0.1,
+        "evidence": "No location information provided in job title, snippet, or description"
       },
       "ai_analysis": {
         "fit_score": 35,
         "category": "AI/Tech",
-        "justification": "Sales Director role requires enterprise sales leadership experience; candidate has strong technical/program management but no sales track record.",
-        "positioning_advice": "Not recommended - fundamentally different role requiring sales quota achievement and team leadership.",
-        "job_title": "Sales Director US",
-        "extracted_title": "Sales Director US"
+        "justification": "Role requires enterprise sales expertise; candidate has strong AI technical/program skills but zero sales experience.",
+        "positioning_advice": "Not recommended - this is a sales role requiring deal-closing experience you lack.",
+        "job_title": "Strategic Account Director, CX Solutions",
+        "extracted_title": "Strategic Account Director, CX Solutions"
       },
       "sustainability_analysis": {
-        "fit_score": 12,
+        "fit_score": 25,
         "category": "AI/Tech",
-        "justification": "Sales Director role requires enterprise sales experience and revenue generation; candidate has program management, not sales background.",
-        "positioning_advice": "Not recommended - fundamentally different role requiring sales expertise candidate doesn't possess.",
-        "job_title": "Sales Director US",
-        "extracted_title": "Sales Director US"
+        "justification": "Enterprise sales role requires B2B selling expertise; candidate has program management experience, not sales.",
+        "positioning_advice": "Not recommended - fundamentally different career track requiring sales/revenue ownership experience.",
+        "job_title": "Strategic Account Director, CX Solutions",
+        "extracted_title": "Strategic Account Director, CX Solutions"
       },
-      "job_id": "8c523e7c1e5f71fe",
+      "job_id": "68ea25d6153b0ec8",
+      "days_old": 0
+    },
+    {
+      "title": "Senior Data Analyst - Founding Team @ Traba",
+      "company": "Traba",
+      "location": "Unknown",
+      "description": "",
+      "url": "https://jobs.ashbyhq.com/traba/88b22868-3f80-4384-b210-aa0de94985b3",
+      "source": "ashby",
+      "posted_date": "2026-01-24T08:15:40.482060",
+      "scraped_at": "2026-01-24T08:15:40.482069",
+      "search_snippet": "Qualifications: Experience: 4+ years in analytics, data science, business intelligence, or similar roles. Education: BS/MS degree ...",
+      "search_title": "Senior Data Analyst - Founding Team @ Traba",
+      "location_analysis": {
+        "location_text": "Unknown",
+        "country": "Unknown",
+        "region": "Unknown",
+        "is_us": "unknown",
+        "confidence": 0.1,
+        "evidence": "No location information provided in job title, snippet, or description"
+      },
+      "ai_analysis": {
+        "fit_score": 45,
+        "category": "AI/Tech",
+        "justification": "Meets experience requirement but job posting incomplete; cannot assess specific role requirements comprehensively.",
+        "positioning_advice": "Emphasize 8+ years analytics experience, AI deployment expertise, and data systems leadership.",
+        "job_title": "Unknown - Job posting truncated",
+        "extracted_title": "Unknown - Job posting truncated"
+      },
+      "sustainability_analysis": {
+        "fit_score": 85,
+        "category": "Hybrid",
+        "justification": "Strong analytics and data systems experience with 7+ years; excellent sustainability domain expertise meets technical requirements.",
+        "positioning_advice": "Emphasize SQL, Python, Power BI, and AI analytics deployment alongside sustainability data integrity achievements.",
+        "job_title": "Analytics/Data Science/Business Intelligence Role (4+ years experience required)",
+        "extracted_title": "Analytics/Data Science/Business Intelligence Role (4+ years experience required)"
+      },
+      "job_id": "8406f968b7746943",
       "days_old": 0
     }
   ],
   "metadata": {
     "profile": "kartikey",
     "profile_display_name": "Kartikey",
-    "run_timestamp": "2026-01-21T04:02:15.763421",
-    "trigger_type": "manual",
+    "run_timestamp": "2026-01-24T08:14:28.680757",
+    "trigger_type": "schedule",
     "total_searched": 25,
     "new_jobs_found": 25,
-    "jobs_analyzed": 24,
+    "jobs_analyzed": 23,
     "jobs_skipped": 0,
-    "jobs_location_filtered": 2
+    "jobs_location_filtered": 3
   }
 }

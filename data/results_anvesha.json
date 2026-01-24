@@ -7,8 +7,8 @@
       "description": "",
       "url": "https://jobs.lever.co/jobgether/56bc1730-04bf-4c96-90f0-c1343270bb8b",
       "source": "lever",
-      "posted_date": "2026-01-21T04:07:11.162636",
-      "scraped_at": "2026-01-21T04:07:11.162654",
+      "posted_date": "2026-01-24T08:18:59.609792",
+      "scraped_at": "2026-01-24T08:18:59.609809",
       "search_snippet": "5+ years of experience in UX/UI or product design. Strong ... If you would like more information about how your data is processed, please contact us.",
       "search_title": "Jobgether - Product Designer - REMOTE",
       "location_analysis": {
@@ -17,77 +17,77 @@
         "region": "Unknown",
         "is_us": true,
         "confidence": 0.95,
-        "evidence": "Title contains 'REMOTE' and scraped location shows 'US'"
+        "evidence": "Title indicates REMOTE and scraped location shows US"
       },
       "anvesha_analysis": {
         "fit_score": 45,
         "category": "AI/Tech",
         "justification": "Candidate has only 3 years UX experience versus required 5+ years; skills align but seniority gap exists.",
-        "positioning_advice": "Emphasize Amazon's scale impact and combine both internship and Amazon roles as continuous UX work.",
-        "job_title": "UX/UI or Product Designer (Senior Level)",
-        "extracted_title": "UX/UI or Product Designer (Senior Level)"
+        "positioning_advice": "Emphasize Amazon's scale impact and Sonatus enterprise UX work to bridge experience gap.",
+        "job_title": "UX/UI or Product Designer",
+        "extracted_title": "UX/UI or Product Designer"
       },
       "job_id": "fac4f9a25777a01d",
       "days_old": 0
     },
     {
-      "title": "Product Designer - UX/UI",
-      "company": "Getlabs",
-      "location": "United States (Remote)",
+      "title": "Product Designer @ hyperexponential",
+      "company": "Hyperexponential",
+      "location": "Unknown",
       "description": "",
-      "url": "https://jobs.lever.co/getlabs/b83888d4-5a0d-4c16-a828-2e1079eab171",
-      "source": "lever",
-      "posted_date": "2026-01-21T04:07:13.688116",
-      "scraped_at": "2026-01-21T04:07:13.688132",
-      "search_snippet": "Must be a resident of the United States and a US citizen. $120,000 - $140,000 a year. **At this time we are not able to provide sponsorship for this role ...",
-      "search_title": "Getlabs - Product Designer - UX/UI",
+      "url": "https://jobs.ashbyhq.com/hyperexponential/ae9f463a-214f-4fd2-a1d4-45a485553cf5",
+      "source": "ashby",
+      "posted_date": "2026-01-24T08:19:02.089501",
+      "scraped_at": "2026-01-24T08:19:02.089512",
+      "search_snippet": "... us in building what comes next. ABOUT THE DESIGN TEAM We've just wrapped up ... Product Design, Brand Design, and Design Engineering, with experience ...",
+      "search_title": "Product Designer @ hyperexponential",
       "location_analysis": {
-        "location_text": "United States (Remote)",
-        "country": "United States",
+        "location_text": "Unknown",
+        "country": "Unknown",
         "region": "Unknown",
-        "is_us": true,
-        "confidence": 1.0,
-        "evidence": "Must be a resident of the United States and a US citizen"
+        "is_us": "unknown",
+        "confidence": 0.0,
+        "evidence": "No location information provided in any field"
       },
       "anvesha_analysis": {
-        "fit_score": 0,
+        "fit_score": 82,
         "category": "AI/Tech",
-        "justification": "Candidate is not a US citizen or resident; ineligible regardless of skills match.",
-        "positioning_advice": "Cannot apply - role requires US citizenship and residency, candidate has neither.",
-        "job_title": "Not specified in posting excerpt",
-        "extracted_title": "Not specified in posting excerpt"
+        "justification": "Strong product/UX design background with enterprise SaaS experience aligns well with design team needs.",
+        "positioning_advice": "Emphasize Sonatus enterprise UX work and Amazon's scalable design systems for cross-functional teams.",
+        "job_title": "Product Designer or Design Team Member",
+        "extracted_title": "Product Designer or Design Team Member"
       },
-      "job_id": "c1333483efb1f909",
+      "job_id": "02a4c039fecc821b",
       "days_old": 0
     },
     {
-      "title": "Product Designer I",
-      "company": "Lessen",
-      "location": "Chicago, IL",
+      "title": "Product Designer @ Anara",
+      "company": "Anara",
+      "location": "Unknown",
       "description": "",
-      "url": "https://jobs.lever.co/lessen/2c9208cd-0da2-481a-956a-2be5c56a4528",
-      "source": "lever",
-      "posted_date": "2026-01-21T04:07:16.305444",
-      "scraped_at": "2026-01-21T04:07:16.305464",
-      "search_snippet": "The Product Designer participates in these areas of Product Design discipline: · User research & testing. · Ideation & brainstorming. · Low-fi wireframing to ...",
-      "search_title": "Product Designer I - Lessen",
+      "url": "https://jobs.ashbyhq.com/anara/4e660933-c8aa-4344-9a33-25968dd28255",
+      "source": "ashby",
+      "posted_date": "2026-01-24T08:19:04.295435",
+      "scraped_at": "2026-01-24T08:19:04.295444",
+      "search_snippet": "... interaction design and UI details. - You have worked in a high ... We're looking for a product designer to join us inventing a new way to do science.",
+      "search_title": "Product Designer @ Anara",
       "location_analysis": {
-        "location_text": "Chicago, IL",
-        "country": "United States",
-        "region": "Illinois",
-        "is_us": true,
-        "confidence": 0.95,
-        "evidence": "Scraped location explicitly states 'Chicago, IL'"
+        "location_text": "Unknown",
+        "country": "Unknown",
+        "region": "Unknown",
+        "is_us": "unknown",
+        "confidence": 0.1,
+        "evidence": "No location information provided in job title, snippet, or description"
       },
       "anvesha_analysis": {
-        "fit_score": 92,
+        "fit_score": 82,
         "category": "AI/Tech",
-        "justification": "Exceptional alignment: candidate demonstrates all core competencies with proven experience in research, wireframing, and prototyping.",
-        "positioning_advice": "Lead with Sonatus research-to-prototype work and Amazon's scalable design systems experience.",
+        "justification": "Strong product design skills match with proven UX, interaction design, and prototyping experience at scale.",
+        "positioning_advice": "Emphasize research-driven design process and enterprise SaaS experience from Sonatus and Amazon.",
         "job_title": "Product Designer",
         "extracted_title": "Product Designer"
       },
-      "job_id": "813c4151d6a1f6a5",
+      "job_id": "df0f43d9995db0c1",
       "days_old": 0
     },
     {
@@ -97,8 +97,8 @@
       "description": "",
       "url": "https://jobs.ashbyhq.com/kognitos/40892aa3-b093-4c9c-aaa0-45c5595ddb37",
       "source": "ashby",
-      "posted_date": "2026-01-21T04:07:18.543733",
-      "scraped_at": "2026-01-21T04:07:18.543742",
+      "posted_date": "2026-01-24T08:19:06.761850",
+      "scraped_at": "2026-01-24T08:19:06.761858",
       "search_snippet": "... us on a 6-month contract and help carry forward critical design ... 4–7+ years of experience as a Product Designer, UX Designer, or Interaction Designer.",
       "search_title": "Senior Product Designer @ Kognitos",
       "location_analysis": {
@@ -110,10 +110,10 @@
         "evidence": "No location information provided in job title, snippet, or description"
       },
       "anvesha_analysis": {
-        "fit_score": 55,
+        "fit_score": 45,
         "category": "AI/Tech",
-        "justification": "Candidate has 3 years experience but posting requires 4-7+ years; skills align well otherwise.",
-        "positioning_advice": "Emphasize Amazon's scale work and Sonatus enterprise UX to bridge experience gap.",
+        "justification": "Candidate has only 3 years experience but role requires 4-7+ years as Product/UX Designer.",
+        "positioning_advice": "Emphasize Amazon's scale impact and Sonatus enterprise UX work to bridge experience gap.",
         "job_title": "Product Designer",
         "extracted_title": "Product Designer"
       },
@@ -121,33 +121,63 @@
       "days_old": 0
     },
     {
-      "title": "Replit - Staff Product Designer, Design System",
-      "company": "Replit",
-      "location": "United States (Remote)",
+      "title": "UX Designer - Aristotle",
+      "company": "Aristotle",
+      "location": "Unknown",
       "description": "",
-      "url": "https://jobs.ashbyhq.com/replit/955b73a9-4aec-456d-876b-38ac98cbdecd",
-      "source": "ashby",
-      "posted_date": "2026-01-21T04:07:20.582484",
-      "scraped_at": "2026-01-21T04:07:20.582493",
-      "search_snippet": "Staff Product Designer, Design System. Location. Remote (United States). Employment Type. Full time. Department. Design ...",
-      "search_title": "Replit - Staff Product Designer, Design System",
+      "url": "https://apply.workable.com/aristotle/j/C9508E1A11",
+      "source": "workable",
+      "posted_date": "2026-01-24T08:19:08.944957",
+      "scraped_at": "2026-01-24T08:19:08.944966",
+      "search_snippet": "Drive the UX design process including user research, wireframing, prototyping, and usability testing ... This website uses cookies to improve user's experience ...",
+      "search_title": "UX Designer - Aristotle",
       "location_analysis": {
-        "location_text": "United States (Remote)",
-        "country": "United States",
+        "location_text": "Unknown",
+        "country": "Unknown",
         "region": "Unknown",
-        "is_us": true,
-        "confidence": 1.0,
-        "evidence": "Location. Remote (United States)"
+        "is_us": "unknown",
+        "confidence": 0.0,
+        "evidence": "No location information provided in any field"
       },
       "anvesha_analysis": {
-        "fit_score": 88,
+        "fit_score": 92,
         "category": "AI/Tech",
-        "justification": "Strong design systems experience from Sonatus internship aligns well with Staff Designer role requirements.",
-        "positioning_advice": "Emphasize component library work, scalable systems thinking, and cross-functional collaboration at Amazon.",
-        "job_title": "Staff Product Designer, Design System",
-        "extracted_title": "Staff Product Designer, Design System"
+        "justification": "Exceptional alignment: 3+ years UX design experience with proven research, prototyping, and usability testing expertise.",
+        "positioning_advice": "Emphasize end-to-end UX process from Sonatus internships and Amazon's metrics-driven design approach.",
+        "job_title": "UX Designer",
+        "extracted_title": "UX Designer"
       },
-      "job_id": "ffc0160319b5d464",
+      "job_id": "ecaf3fa2b222d50d",
+      "days_old": 0
+    },
+    {
+      "title": "Product Designer @ Office Hours",
+      "company": "Office Hours",
+      "location": "Unknown",
+      "description": "",
+      "url": "https://jobs.ashbyhq.com/office-hours/0f894e8b-836a-4ef8-ab30-894270c49c11",
+      "source": "ashby",
+      "posted_date": "2026-01-24T08:19:11.180327",
+      "scraped_at": "2026-01-24T08:19:11.180338",
+      "search_snippet": "ABOUT US At Office Hours, we're on a mission to help people realize the ... product design. THE ROLE We're looking for a Product Designer early in ...",
+      "search_title": "Product Designer @ Office Hours",
+      "location_analysis": {
+        "location_text": "Unknown",
+        "country": "Unknown",
+        "region": "Unknown",
+        "is_us": "unknown",
+        "confidence": 0.1,
+        "evidence": "No location information provided in job title, snippet, or description"
+      },
+      "anvesha_analysis": {
+        "fit_score": 82,
+        "category": "AI/Tech",
+        "justification": "Strong product design skills match with relevant UX internship experience; early-career role aligns with current student status.",
+        "positioning_advice": "Emphasize Sonatus prototyping work and Amazon's data-driven design iteration for consumer products.",
+        "job_title": "Product Designer",
+        "extracted_title": "Product Designer"
+      },
+      "job_id": "707901bd24c17e80",
       "days_old": 0
     },
     {
@@ -157,8 +187,8 @@
       "description": "",
       "url": "https://apply.workable.com/sand-cherry-associates-1/j/5AAA74EE76/",
       "source": "workable",
-      "posted_date": "2026-01-21T04:07:22.722588",
-      "scraped_at": "2026-01-21T04:07:22.722598",
+      "posted_date": "2026-01-24T08:19:13.369569",
+      "scraped_at": "2026-01-24T08:19:13.369580",
       "search_snippet": "... us is . ... · Advanced knowledge in user experience design (information architecture, interaction design ...",
       "search_title": "UX Designer - Sand Cherry Associates",
       "location_analysis": {
@@ -172,12 +202,72 @@
       "anvesha_analysis": {
         "fit_score": 85,
         "category": "AI/Tech",
-        "justification": "Strong alignment with UX design requirements; candidate demonstrates advanced IA, interaction design, and user experience expertise.",
-        "positioning_advice": "Emphasize MIT coursework, enterprise UX at Amazon, and systematic IA/interaction design approach.",
+        "justification": "Strong alignment with UX design requirements; candidate has proven expertise in information architecture and interaction design.",
+        "positioning_advice": "Emphasize IA restructuring work at Sonatus and enterprise-scale design systems experience at Amazon.",
         "job_title": "User Experience Designer",
         "extracted_title": "User Experience Designer"
       },
       "job_id": "6ce0f9f319712b96",
+      "days_old": 0
+    },
+    {
+      "title": "Product Designer - GoodFit",
+      "company": "Goodfit",
+      "location": "Unknown",
+      "description": "",
+      "url": "https://apply.workable.com/goodfit/j/2A2F153222",
+      "source": "workable",
+      "posted_date": "2026-01-24T08:19:15.510712",
+      "scraped_at": "2026-01-24T08:19:15.510721",
+      "search_snippet": "As a Product Designer at GoodFit, you'll shape the user experience of our rapidly evolving B2B SaaS product. We're looking for someone who thrives in a fast ...",
+      "search_title": "Product Designer - GoodFit",
+      "location_analysis": {
+        "location_text": "Unknown",
+        "country": "Unknown",
+        "region": "Unknown",
+        "is_us": "unknown",
+        "confidence": 0.1,
+        "evidence": "No location information provided in title, snippet, or description"
+      },
+      "anvesha_analysis": {
+        "fit_score": 88,
+        "category": "AI/Tech",
+        "justification": "Strong B2B SaaS product design experience with proven UX research, prototyping, and cross-functional collaboration skills.",
+        "positioning_advice": "Emphasize Sonatus SaaS platform redesign and Amazon's data-driven visual systems work.",
+        "job_title": "Product Designer",
+        "extracted_title": "Product Designer"
+      },
+      "job_id": "cbdad98dcfd90939",
+      "days_old": 0
+    },
+    {
+      "title": "Replit - Staff Product Designer, Design System",
+      "company": "Replit",
+      "location": "United States (Remote)",
+      "description": "",
+      "url": "https://jobs.ashbyhq.com/replit/955b73a9-4aec-456d-876b-38ac98cbdecd",
+      "source": "ashby",
+      "posted_date": "2026-01-24T08:19:17.781877",
+      "scraped_at": "2026-01-24T08:19:17.781886",
+      "search_snippet": "Staff Product Designer, Design System. Location. Remote (United States). Employment Type. Full time. Department. Design ...",
+      "search_title": "Replit - Staff Product Designer, Design System",
+      "location_analysis": {
+        "location_text": "United States (Remote)",
+        "country": "United States",
+        "region": "Unknown",
+        "is_us": true,
+        "confidence": 1.0,
+        "evidence": "Location. Remote (United States)"
+      },
+      "anvesha_analysis": {
+        "fit_score": 88,
+        "category": "AI/Tech",
+        "justification": "Strong design systems experience from Sonatus and Amazon aligns well with Staff Designer requirements.",
+        "positioning_advice": "Emphasize component library work, scalable systems, and cross-functional collaboration at Amazon and Sonatus.",
+        "job_title": "Staff Product Designer, Design System",
+        "extracted_title": "Staff Product Designer, Design System"
+      },
+      "job_id": "ffc0160319b5d464",
       "days_old": 0
     },
     {
@@ -187,8 +277,8 @@
       "description": "",
       "url": "https://jobs.ashbyhq.com/april/56f30369-a603-45a6-bd71-c6d29a77678c",
       "source": "ashby",
-      "posted_date": "2026-01-21T04:07:24.882542",
-      "scraped_at": "2026-01-21T04:07:24.882552",
+      "posted_date": "2026-01-24T08:19:20.111615",
+      "scraped_at": "2026-01-24T08:19:20.111624",
       "search_snippet": "Senior Product Designer. Location. United States. Employment Type. Full time. Location Type. Remote ...",
       "search_title": "Senior Product Designer @ april",
       "location_analysis": {
@@ -202,8 +292,8 @@
       "anvesha_analysis": {
         "fit_score": 68,
         "category": "AI/Tech",
-        "justification": "Strong UX foundation but limited senior-level experience; 3 years total with recent internships may not meet senior expectations.",
-        "positioning_advice": "Emphasize Amazon's scale impact and enterprise SaaS work from Sonatus internships prominently.",
+        "justification": "Strong UX/product design skills but lacks senior-level depth; 3+ years experience fits mid-level better.",
+        "positioning_advice": "Emphasize Amazon scale work, design systems expertise, and enterprise SaaS experience from Sonatus.",
         "job_title": "Senior Product Designer",
         "extracted_title": "Senior Product Designer"
       },
@@ -211,153 +301,63 @@
       "days_old": 0
     },
     {
-      "title": "Sr Product Designer @ Pebl",
-      "company": "Pebl",
+      "title": "Product Designer",
+      "company": "Narmi",
+      "location": "New York, NY",
+      "description": "",
+      "url": "https://jobs.lever.co/narmi/8649ae4d-bb06-49ae-bc3e-08afece55291",
+      "source": "lever",
+      "posted_date": "2026-01-24T08:19:31.759437",
+      "scraped_at": "2026-01-24T08:19:31.759453",
+      "search_snippet": "What You'll Bring: 2+ years of product design experience, especially on SAAS or metric-heavy tools; Experience doing user research; A strong portfolio that ...",
+      "search_title": "Narmi - Product Designer",
+      "location_analysis": {
+        "location_text": "New York, NY",
+        "country": "United States",
+        "region": "New York",
+        "is_us": true,
+        "confidence": 0.95,
+        "evidence": "Scraped location explicitly states 'New York, NY'"
+      },
+      "anvesha_analysis": {
+        "fit_score": 88,
+        "category": "AI/Tech",
+        "justification": "Strong match: 3+ years product design, SaaS experience, user research, metrics focus, and portfolio.",
+        "positioning_advice": "Emphasize Sonatus SaaS redesign, Amazon metrics-driven work, and research synthesis skills.",
+        "job_title": "Product Designer",
+        "extracted_title": "Product Designer"
+      },
+      "job_id": "acd9171c07c58511",
+      "days_old": 0
+    },
+    {
+      "title": "Product Designer @ Kalshi",
+      "company": "Kalshi",
       "location": "Unknown",
       "description": "",
-      "url": "https://jobs.ashbyhq.com/pebl/f3360cd9-9c84-4bd5-95c6-259e16b24b8b",
+      "url": "https://jobs.ashbyhq.com/kalshi/25718664-54b7-454b-9a2c-bde0b1deb76c",
       "source": "ashby",
-      "posted_date": "2026-01-21T04:07:27.093657",
-      "scraped_at": "2026-01-21T04:07:27.093666",
-      "search_snippet": "... us means more than filling a role ... We are looking for a proactive and accomplished Senior Product Designer to join our Product Design team.",
-      "search_title": "Sr Product Designer @ Pebl",
+      "posted_date": "2026-01-24T08:19:33.983221",
+      "scraped_at": "2026-01-24T08:19:33.983230",
+      "search_snippet": "What You Bring. 5+ years of experience in product design. A compelling portfolio showcasing your ability to craft delightful product experiences (show us!)",
+      "search_title": "Product Designer @ Kalshi",
       "location_analysis": {
         "location_text": "Unknown",
         "country": "Unknown",
         "region": "Unknown",
         "is_us": "unknown",
         "confidence": 0.1,
-        "evidence": "No location information provided in job title, snippet, or description"
-      },
-      "anvesha_analysis": {
-        "fit_score": 65,
-        "category": "AI/Tech",
-        "justification": "Strong UX skills but only 3 years experience for senior role; lacks seniority depth.",
-        "positioning_advice": "Emphasize Amazon scale impact, design system work, and enterprise SaaS experience from Sonatus.",
-        "job_title": "Senior Product Designer",
-        "extracted_title": "Senior Product Designer"
-      },
-      "job_id": "c51042dd94b7e081",
-      "days_old": 0
-    },
-    {
-      "title": "Senior Product Designer – UI/UX Strategy & Execution",
-      "company": "Sambatv",
-      "location": "New York City, NY / Los Angeles, CA / San Francisco, CA",
-      "description": "",
-      "url": "https://jobs.lever.co/sambatv/cfe49fe9-4e4b-425c-a34c-b61d82fc4f16",
-      "source": "lever",
-      "posted_date": "2026-01-21T04:07:29.631949",
-      "scraped_at": "2026-01-21T04:07:29.631971",
-      "search_snippet": "Conduct user research with clients and internal stakeholders to understand ... 5+ years in product design with a strong portfolio demonstrating end-to ...",
-      "search_title": "Senior Product Designer – UI/UX Strategy & Execution",
-      "location_analysis": {
-        "location_text": "New York City, NY / Los Angeles, CA / San Francisco, CA",
-        "country": "United States",
-        "region": "Multiple (NY, CA)",
-        "is_us": true,
-        "confidence": 0.95,
-        "evidence": "Scraped location explicitly lists three US cities: NYC, LA, and SF"
+        "evidence": "No location information provided in job description, title, or snippet"
       },
       "anvesha_analysis": {
         "fit_score": 45,
         "category": "AI/Tech",
-        "justification": "Candidate has only 3 years product design experience versus required 5+ years with strong portfolio.",
-        "positioning_advice": "Emphasize Amazon's scale work and Sonatus research leadership to bridge experience gap.",
+        "justification": "Candidate has only 3 years product design experience versus required 5+ years minimum.",
+        "positioning_advice": "Emphasize Amazon's scale impact and Sonatus enterprise UX work to bridge experience gap.",
         "job_title": "Product Designer",
         "extracted_title": "Product Designer"
       },
-      "job_id": "535a9af0cd2c25ab",
-      "days_old": 0
-    },
-    {
-      "title": "Senior Product Designer @ Office Hours",
-      "company": "Office Hours",
-      "location": "Unknown",
-      "description": "",
-      "url": "https://jobs.ashbyhq.com/office-hours/d4ad4cb1-8ccd-49a9-b97c-979b09ccde6b",
-      "source": "ashby",
-      "posted_date": "2026-01-21T04:07:31.793357",
-      "scraped_at": "2026-01-21T04:07:31.793366",
-      "search_snippet": "ABOUT US At Office Hours, we're on a mission to help people realize the ... product design. THE ROLE We're looking for a Senior Product Designer with ...",
-      "search_title": "Senior Product Designer @ Office Hours",
-      "location_analysis": {
-        "location_text": "Unknown",
-        "country": "Unknown",
-        "region": "Unknown",
-        "is_us": "unknown",
-        "confidence": 0.0,
-        "evidence": "No location information provided in any field"
-      },
-      "anvesha_analysis": {
-        "fit_score": 68,
-        "category": "AI/Tech",
-        "justification": "Strong UX foundation but lacks senior-level depth; 3+ years experience falls short of typical senior requirements.",
-        "positioning_advice": "Emphasize Amazon scale work, design systems expertise, and research-driven approach to product decisions.",
-        "job_title": "Senior Product Designer",
-        "extracted_title": "Senior Product Designer"
-      },
-      "job_id": "d94b00ff5a0a76cd",
-      "days_old": 0
-    },
-    {
-      "title": "Product Designer (New Grad) - Sweep360",
-      "company": "Sweep360",
-      "location": "Unknown",
-      "description": "",
-      "url": "https://apply.workable.com/sweep360/j/E830356B41/",
-      "source": "workable",
-      "posted_date": "2026-01-21T04:07:33.874651",
-      "scraped_at": "2026-01-21T04:07:33.874660",
-      "search_snippet": "... us. Sweep is building that layer today. Our technology is already deployed ... This website uses cookies to improve user's experience, personalise ads and analyse ...",
-      "search_title": "Product Designer (New Grad) - Sweep360",
-      "location_analysis": {
-        "location_text": "Unknown",
-        "country": "Unknown",
-        "region": "Unknown",
-        "is_us": "unknown",
-        "confidence": 0.0,
-        "evidence": "No location information provided in job title, snippet, or description"
-      },
-      "anvesha_analysis": {
-        "fit_score": 35,
-        "category": "AI/Tech",
-        "justification": "Insufficient job posting details to assess fit; only generic website text provided, no role requirements.",
-        "positioning_advice": "Cannot provide positioning advice without actual job description or requirements.",
-        "job_title": "Not specified in posting",
-        "extracted_title": "Not specified in posting"
-      },
-      "job_id": "45244bcff3cdbbd0",
-      "days_old": 0
-    },
-    {
-      "title": "Senior Product Designer @ Rain",
-      "company": "Rain",
-      "location": "United States (Remote)",
-      "description": "",
-      "url": "https://jobs.ashbyhq.com/rain/0ff2fae6-038c-412e-895c-4b850cf50ba2",
-      "source": "ashby",
-      "posted_date": "2026-01-21T04:07:36.110914",
-      "scraped_at": "2026-01-21T04:07:36.110923",
-      "search_snippet": "... product design metrics WHAT WE'RE LOOKING FOR - Demonstrated experience planning and conducting user research ... US Rainmakers, we offer comprehensive ...",
-      "search_title": "Senior Product Designer @ Rain",
-      "location_analysis": {
-        "location_text": "United States (Remote)",
-        "country": "United States",
-        "region": "Unknown",
-        "is_us": true,
-        "confidence": 0.75,
-        "evidence": "Reference to 'US Rainmakers' in benefits section suggests US-based role"
-      },
-      "anvesha_analysis": {
-        "fit_score": 85,
-        "category": "AI/Tech",
-        "justification": "Strong user research experience with prototyping, usability testing, and research synthesis aligns well with requirements.",
-        "positioning_advice": "Emphasize Sonatus research leadership and Amazon metrics-driven design approach prominently.",
-        "job_title": "User Researcher/Product Designer",
-        "extracted_title": "User Researcher/Product Designer"
-      },
-      "job_id": "866a8895ed358d33",
+      "job_id": "a3452f55c6c12097",
       "days_old": 0
     },
     {
@@ -367,8 +367,8 @@
       "description": "",
       "url": "https://jobs.ashbyhq.com/chromatic/fa4704d3-cc50-4ea0-bba4-db5f9c1d6410",
       "source": "ashby",
-      "posted_date": "2026-01-21T04:07:38.305801",
-      "scraped_at": "2026-01-21T04:07:38.305810",
+      "posted_date": "2026-01-24T08:19:36.307131",
+      "scraped_at": "2026-01-24T08:19:36.307141",
       "search_snippet": "8+ years of digital product design experience with a broad skill set ... Salary Range: US $130K - US $165 + equity. Learn more about our compensation ...",
       "search_title": "Senior Product Designer @ Chromatic",
       "location_analysis": {
@@ -383,7 +383,7 @@
         "fit_score": 35,
         "category": "AI/Tech",
         "justification": "Candidate has only 3 years experience versus required 8+ years; significant seniority gap.",
-        "positioning_advice": "Emphasize Amazon scale work and enterprise SaaS experience from Sonatus internship.",
+        "positioning_advice": "Highlight Amazon scale work and enterprise UX; acknowledge growing toward senior roles.",
         "job_title": "Senior Digital Product Designer",
         "extracted_title": "Senior Digital Product Designer"
       },
@@ -391,165 +391,255 @@
       "days_old": 0
     },
     {
-      "title": "Senior Product Designer (Remote from US)",
-      "company": "Jobgether",
-      "location": "United States (Remote)",
+      "title": "Senior Product Designer | Dodge Construction Network",
+      "company": "N/A",
+      "location": "Unknown",
       "description": "",
-      "url": "https://jobs.lever.co/jobgether/34202d54-dc59-44c7-8703-3d89c548283c",
-      "source": "lever",
-      "posted_date": "2026-01-21T04:07:41.093175",
-      "scraped_at": "2026-01-21T04:07:41.093191",
-      "search_snippet": "We are currently looking for a Senior Product Designer in the United States. As a Senior Product Designer, you will take full ownership of the product design ...",
-      "search_title": "Jobgether - Senior Product Designer (Remote from US)",
+      "url": "https://jobs.workable.com/view/d6NAEgKFcrHZSWgqmHK19V/remote-senior-product-designer-in-united-states-at-dodge-construction-network",
+      "source": "workable",
+      "posted_date": "2026-01-24T08:19:38.646955",
+      "scraped_at": "2026-01-24T08:19:38.646962",
+      "search_snippet": "A Senior Product Designer at Dodge Construction Network co-leads the user experience ... user research, creating detailed prototypes and supporting brand ...",
+      "search_title": "Senior Product Designer | Dodge Construction Network",
+      "location_analysis": {
+        "location_text": "Unknown",
+        "country": "Unknown",
+        "region": "Unknown",
+        "is_us": "unknown",
+        "confidence": 0.1,
+        "evidence": "No location information provided in title, snippet, or description"
+      },
+      "anvesha_analysis": {
+        "fit_score": 82,
+        "category": "AI/Tech",
+        "justification": "Strong UX/product design skills match with relevant enterprise SaaS experience and research-driven approach.",
+        "positioning_advice": "Emphasize Amazon's enterprise-scale work and Sonatus research-led redesign of complex systems.",
+        "job_title": "Senior Product Designer",
+        "extracted_title": "Senior Product Designer"
+      },
+      "job_id": "3c53f1a5cf959443",
+      "days_old": 0
+    },
+    {
+      "title": "Senior Qualitative UX Researcher @ Suno",
+      "company": "Suno",
+      "location": "Unknown",
+      "description": "",
+      "url": "https://jobs.ashbyhq.com/suno/413ec066-ed2b-43ae-a785-41df87c99d89",
+      "source": "ashby",
+      "posted_date": "2026-01-24T08:19:41.147677",
+      "scraped_at": "2026-01-24T08:19:41.147687",
+      "search_snippet": "We're looking for a Senior Qualitative UX Researcher (full-time) to help us accelerate product development and iterate faster ... Collaborate with Product, Design ...",
+      "search_title": "Senior Qualitative UX Researcher @ Suno",
+      "location_analysis": {
+        "location_text": "Unknown",
+        "country": "Unknown",
+        "region": "Unknown",
+        "is_us": "unknown",
+        "confidence": 0.1,
+        "evidence": "No location information provided in job title, snippet, or description"
+      },
+      "anvesha_analysis": {
+        "fit_score": 45,
+        "category": "AI/Tech",
+        "justification": "Candidate is a designer, not a qualitative researcher; lacks senior research experience and methodology expertise.",
+        "positioning_advice": "Emphasize research components from Sonatus internship and Amazon's user-centered design work.",
+        "job_title": "Senior Qualitative UX Researcher",
+        "extracted_title": "Senior Qualitative UX Researcher"
+      },
+      "job_id": "4244b33e03d69b3d",
+      "days_old": 0
+    },
+    {
+      "title": "Staff UX Designer, Lime for Business",
+      "company": "Lime",
+      "location": "Unknown",
+      "description": "",
+      "url": "https://jobs.ashbyhq.com/lime/f18ac3c9-d356-4a4a-bd17-2bc420aa1087",
+      "source": "ashby",
+      "posted_date": "2026-01-24T08:19:43.252329",
+      "scraped_at": "2026-01-24T08:19:43.252338",
+      "search_snippet": "... us develop our Lime for Business Product from the ... A process that grounds work in user research and considers the context of the user's experience.",
+      "search_title": "Staff UX Designer, Lime for Business",
+      "location_analysis": {
+        "location_text": "Unknown",
+        "country": "Unknown",
+        "region": "Unknown",
+        "is_us": "unknown",
+        "confidence": 0.1,
+        "evidence": "No location information provided in job title, snippet, or description"
+      },
+      "anvesha_analysis": {
+        "fit_score": 82,
+        "category": "AI/Tech",
+        "justification": "Strong UX/product design background with research-driven approach directly matches user research and product development requirements.",
+        "positioning_advice": "Emphasize Sonatus enterprise SaaS experience and Amazon's data-driven iteration for B2B product design.",
+        "job_title": "Product Designer - Lime for Business",
+        "extracted_title": "Product Designer - Lime for Business"
+      },
+      "job_id": "c2eed4eb91379a16",
+      "days_old": 0
+    },
+    {
+      "title": "Senior Product Designer @ Office Hours",
+      "company": "Office Hours",
+      "location": "Unknown",
+      "description": "",
+      "url": "https://jobs.ashbyhq.com/office-hours/d4ad4cb1-8ccd-49a9-b97c-979b09ccde6b",
+      "source": "ashby",
+      "posted_date": "2026-01-24T08:19:45.476001",
+      "scraped_at": "2026-01-24T08:19:45.476010",
+      "search_snippet": "ABOUT US At Office Hours, we're on a mission to help people realize the ... product design. THE ROLE We're looking for a Senior Product Designer with ...",
+      "search_title": "Senior Product Designer @ Office Hours",
+      "location_analysis": {
+        "location_text": "Unknown",
+        "country": "Unknown",
+        "region": "Unknown",
+        "is_us": "unknown",
+        "confidence": 0.0,
+        "evidence": "No location information provided in any field"
+      },
+      "anvesha_analysis": {
+        "fit_score": 45,
+        "category": "AI/Tech",
+        "justification": "Candidate has only 3 years experience with internships; role requires senior-level expertise and leadership.",
+        "positioning_advice": "Emphasize Amazon's scale work and design system contributions; acknowledge growth trajectory.",
+        "job_title": "Senior Product Designer",
+        "extracted_title": "Senior Product Designer"
+      },
+      "job_id": "d94b00ff5a0a76cd",
+      "days_old": 0
+    },
+    {
+      "title": "ServiceNow UI/UX Designer - Credence - Application",
+      "company": "Credence",
+      "location": "Tysons, VA (Hybrid)",
+      "description": "",
+      "url": "https://apply.workable.com/credence/j/DD5763E3EF/apply/",
+      "source": "workable",
+      "posted_date": "2026-01-24T08:19:49.793540",
+      "scraped_at": "2026-01-24T08:19:49.793549",
+      "search_snippet": "ServiceNow UI/UX Designer. HybridAgency, DLAFull time. Tysons, Virginia, United States.",
+      "search_title": "ServiceNow UI/UX Designer - Credence - Application",
+      "location_analysis": {
+        "location_text": "Tysons, VA (Hybrid)",
+        "country": "United States",
+        "region": "Virginia",
+        "is_us": true,
+        "confidence": 1.0,
+        "evidence": "Explicitly stated 'Tysons, Virginia, United States' in snippet and job description"
+      },
+      "anvesha_analysis": {
+        "fit_score": 72,
+        "category": "AI/Tech",
+        "justification": "Strong UX/UI skills and enterprise design experience, but lacks ServiceNow platform-specific expertise.",
+        "positioning_advice": "Emphasize enterprise SaaS experience from Sonatus and scalable design systems from Amazon.",
+        "job_title": "ServiceNow UI/UX Designer",
+        "extracted_title": "ServiceNow UI/UX Designer"
+      },
+      "job_id": "15d90128ddb45e81",
+      "days_old": 0
+    },
+    {
+      "title": "Principal Product UX Designer",
+      "company": "Halcyon",
+      "location": "United States (Remote)",
+      "description": "What we do: Halcyon is the industry’s first dedicated, adaptive security platform that combines multiple proprietary advanced prevention engines along with AI models focused specifically on stopping ransomware. Who we are: Halcyon was formed in 2021 by a team of cyber industry veterans after battling the scourge of ransomware (and advanced threats) for years at some of the largest global security vendors. Comprised of leaders from Cylance (now Blackberry), Accuvant (now Optiv), Fireye and ISS X-Force (now IBM), Halcyon is focused on building products and solutions for mid-market and enterprise customers. As a remote-native, completely distributed global team, we recognize great talent can exist anywhere. We invite you to apply to a job you’re interested in and we'll work a plan to meet your needs. The Role Halcyon’s mission is to deliver an anti-ransomware platform that redefines what modern security products can achieve. As our Principal Product UX Designer , you will lead and evolve the end-to-end user experience of the Halcyon platform—from core console workflows and policy management to alert triage, data visualization, and third-party integrations. This is a highly influential role with broad product impact. As Halcyon’s most senior UX practitioner, you will set the UX direction, advance design standards, and continuously raise the quality and usability of a growing, enterprise-grade platform. You’ll partner closely with Product, Engineering, Threat Response, Quant, and Customer Success teams to translate complex security data into intuitive, actionable, and visually compelling experiences that help customers stop ransomware in its tracks. Responsibilities Design Leadership & Strategy: Define and champion Halcyon’s UX vision, principles, and long-term design strategy across the platform. Enable and elevate the UX design team to actively participate in shaping product direction and executive decision-making, ensuring decisions are grounded in shared user-centered insights, research, and data. User-Centered Design: Lead user research efforts including discovery interviews, persona development, journey mapping, and usability testing. Synthesize qualitative and quantitative insights into clear, actionable product and design recommendations. Product & Feature Design: Drive end-to-end design for complex enterprise workflows, from concept through shipped UI. Rapidly iterate on user flows, wireframes, prototypes, and high-fidelity designs in close collaboration with Product, Engineering, and stakeholders. Balance user needs, technical constraints, and business priorities to deliver pragmatic, high-impact solutions. Design System Ownership: Evolve and govern Halcyon’s design system in Figma, including components, patterns, tokens, and interaction standards. Ensure visual and interaction consistency across the web application, documentation, and in-product messaging. Partner closely with engineering to ensure scalable, high-quality implementation. Data Visualization & Complex Interfaces: Translate dense telemetry—alerts, events, timelines, and security signals—into clear, actionable dashboards and visualizations. Design interfaces that accelerate comprehension, investigation, and response for security teams operating under pressure. Cross-Functional Collaboration: Work closely with PMs, engineers, security analysts, brand, and marketing to deliver accessible, high-quality experiences. Clearly communicate and defend design decisions using user data, usability findings, and industry best practices. Continuous Improvement: Analyze user behavior and product usage to identify opportunities to improve usability, efficiency, and clarity. Iterate in a fast-paced environment, incorporating customer feedback and evolving technical realities into design solutions. Skills & Qualifications 8–12+ years of experience in Product UX/UI design for Enterprise SaaS or complex software platforms (cybersecurity, observability, or data-intensive tools strongly preferred). Portfolio demonstrating end-to-end product design ownership—from research and strategy through execution and shipped experiences. Deep experience with low- and high-fidelity design tools, rapid prototyping, and design-system management (Figma required). Proven ability to design for complex enterprise workflows, including RBAC, dashboards, policy engines, APIs, and multi-tenant systems. Strong understanding of modern front-end patterns and technical constraints. Familiarity with React, Material UI, or similar frameworks to collaborate effectively with engineers. Experience designing security, observability, or analytics dashboards (alerts, events, detections, timelines, MITRE ATT&CK, assets, users, policies). Exceptional communication and storytelling skills, with the ability to influence stakeholders at all levels. Thrives in high-growth, evolving environments; self-directed, decisive, and action-oriented. Why Halcyon Mission-critical impact: Your work directly helps global enterprises prevent and recover from ransomware attacks. Platform evolution at scale: Shape and mature a sophisticated security product used by enterprise and public-sector customers. Cross-disciplinary collaboration: Partner with elite security experts and world-class engineers. Rapid growth: Contribute to a platform scaling quickly into Fortune-500 and public-sector organizations. Benefits: Halcyon offers the following benefits to eligible employees: Comprehensive healthcare (medical, dental, and vision) with premiums paid in full for employees and dependents. 401k plan with 3% employer match Short and long-term disability coverage, basic life and AD&D insurance plans. Medical and dependent care FSA options. Flexible PTO policy Parental leave Generous equity offering The Company reserves the right to modify or change these benefits programs at any time, with or without notice. #LN-DNI Base Salary Range : $175k-225k, 10% bonus, and equity. In accordance with applicable state and federal laws, the range provided is Halcyon’s reasonable estimate of the base compensation for this role. The actual amount may differ based on non-discriminatory factors such as experience, knowledge, skills, abilities, and location. Base pay is one part of the total package that is provided to compensate and recognize employees for their work, and this role may be eligible for additional discretionary bonuses/incentives, and equity in the Company. We understand it takes a diverse team of highly intelligent, passionate, curious, and creative people to develop the exceptional product we are building. Our dynamic team has incredible perspectives to share, just as we know you do, and we take great pride in being an equal opportunity employer.",
+      "url": "https://boards.greenhouse.io/halcyon/jobs/5764321004",
+      "source": "greenhouse",
+      "posted_date": "2026-01-24T08:19:57.486827",
+      "scraped_at": "2026-01-24T08:19:57.487239",
+      "search_snippet": "As our Principal Product UX Designer, you will lead and evolve the end-to-end user experience of the Halcyon platform—from core console workflows and policy ...",
+      "search_title": "Job Application for Principal Product UX Designer at Halcyon",
       "location_analysis": {
         "location_text": "United States (Remote)",
         "country": "United States",
         "region": "Unknown",
         "is_us": true,
-        "confidence": 1.0,
-        "evidence": "Job title explicitly states 'Remote from US' and description confirms 'in the United States'"
+        "confidence": 0.95,
+        "evidence": "Scraped location states 'Remote, US' and job description mentions 'remote-native, completely distributed global team'"
       },
       "anvesha_analysis": {
-        "fit_score": 65,
+        "fit_score": 28,
         "category": "AI/Tech",
-        "justification": "Solid UX skills but only 3 years experience; senior role typically requires 5-7 years.",
-        "positioning_advice": "Emphasize Amazon scale work and Sonatus enterprise UX to demonstrate senior-level impact.",
-        "job_title": "Senior Product Designer",
-        "extracted_title": "Senior Product Designer"
+        "justification": "Candidate has only 3 years experience; role requires 8-12+ years and principal-level cybersecurity platform expertise.",
+        "positioning_advice": "Not recommended to apply—experience gap too significant for principal-level enterprise security role.",
+        "job_title": "Principal Product UX Designer",
+        "extracted_title": "Principal Product UX Designer"
       },
-      "job_id": "5ee936a92977dfa1",
+      "job_id": "42913cba85f4bdf6",
       "days_old": 0
     },
     {
-      "title": "Senior Product Designer @ Tava Health",
-      "company": "Tavahealth",
-      "location": "Unknown",
+      "title": "Staff UX Researcher @ Vetcove",
+      "company": "Vetcove",
+      "location": "United States (Remote)",
       "description": "",
-      "url": "https://jobs.ashbyhq.com/tavahealth/f428de8a-a625-45c0-bb9b-ee1e2029a0c7",
+      "url": "https://jobs.ashbyhq.com/Vetcove/ae07da84-3b94-4e72-87bd-c71f377f70c3",
       "source": "ashby",
-      "posted_date": "2026-01-21T04:07:43.294404",
-      "scraped_at": "2026-01-21T04:07:43.294413",
-      "search_snippet": "Ship polished work quickly without sacrificing user experience. Conduct user research and usability testing to validate design decisions. Partner closely ...",
-      "search_title": "Senior Product Designer @ Tava Health",
+      "posted_date": "2026-01-24T08:19:59.732110",
+      "scraped_at": "2026-01-24T08:19:59.732120",
+      "search_snippet": "... Interaction Design, Computer Science, or a closely related field - 5+ years of experience in UX research, product design ... USA - Medical, Dental, and ...",
+      "search_title": "Staff UX Researcher @ Vetcove",
       "location_analysis": {
-        "location_text": "Unknown",
-        "country": "Unknown",
-        "region": "Unknown",
-        "is_us": "unknown",
-        "confidence": 0.1,
-        "evidence": "No location information provided in job title, snippet, or description"
-      },
-      "anvesha_analysis": {
-        "fit_score": 88,
-        "category": "AI/Tech",
-        "justification": "Strong UX/product design match with research, prototyping, and cross-functional collaboration experience at scale.",
-        "positioning_advice": "Emphasize Amazon scale work, usability testing expertise, and rapid iteration with engineering teams.",
-        "job_title": "Product/UX Designer",
-        "extracted_title": "Product/UX Designer"
-      },
-      "job_id": "d4a9e4e790c3f6a3",
-      "days_old": 0
-    },
-    {
-      "title": "Product Designer II (Growth)",
-      "company": "Whoop",
-      "location": "Boston, MA",
-      "description": "",
-      "url": "https://jobs.lever.co/whoop/24031086-78bd-461f-8a17-238ffc6b54d0",
-      "source": "lever",
-      "posted_date": "2026-01-21T04:07:48.649533",
-      "scraped_at": "2026-01-21T04:07:48.649547",
-      "search_snippet": "Product Designer II (Growth). Boston, MA. Product Design /. On-site. Apply for this job. At WHOOP, we're on a mission to unlock human performance and Healthspan ...",
-      "search_title": "Whoop - Product Designer II (Growth)",
-      "location_analysis": {
-        "location_text": "Boston, MA",
+        "location_text": "United States (Remote)",
         "country": "United States",
-        "region": "Massachusetts",
+        "region": "Unknown",
         "is_us": true,
-        "confidence": 1.0,
-        "evidence": "Explicitly states 'Boston, MA' and 'On-site' in title, snippet, and description"
+        "confidence": 0.85,
+        "evidence": "USA - Medical, Dental benefits mentioned suggests US-based role"
       },
       "anvesha_analysis": {
-        "fit_score": 82,
+        "fit_score": 45,
         "category": "AI/Tech",
-        "justification": "Strong product design skills and relevant experience align well with growth-focused product design role.",
-        "positioning_advice": "Emphasize Amazon metrics-driven design work and Sonatus SaaS platform experience for growth impact.",
-        "job_title": "Product Designer II (Growth)",
-        "extracted_title": "Product Designer II (Growth)"
+        "justification": "Candidate has only 3 years experience versus required 5+ years in UX research/product design.",
+        "positioning_advice": "Emphasize Amazon's scale work and Sonatus research leadership to bridge experience gap.",
+        "job_title": "UX Researcher/Product Designer",
+        "extracted_title": "UX Researcher/Product Designer"
       },
-      "job_id": "d84a5c4e9db9dbc0",
+      "job_id": "b76fa969b42f4c74",
       "days_old": 0
     },
     {
-      "title": "Senior Product UX/UI Designer @ Socure",
-      "company": "Socure",
-      "location": "Unknown",
+      "title": "Senior Product Designer @ Rain",
+      "company": "Rain",
+      "location": "United States (Remote)",
       "description": "",
-      "url": "https://jobs.ashbyhq.com/socure/69efa47a-b489-4d0f-8a67-ebd84b7c46c1",
+      "url": "https://jobs.ashbyhq.com/rain/0ff2fae6-038c-412e-895c-4b850cf50ba2",
       "source": "ashby",
-      "posted_date": "2026-01-21T04:08:02.880809",
-      "scraped_at": "2026-01-21T04:08:02.880818",
-      "search_snippet": "... Product Designer at Socure, you will play a ... Strong portfolio demonstrating expertise in user experience, interaction design, and visual design.",
-      "search_title": "Senior Product UX/UI Designer @ Socure",
+      "posted_date": "2026-01-24T08:20:02.052612",
+      "scraped_at": "2026-01-24T08:20:02.052621",
+      "search_snippet": "... product design metrics WHAT WE'RE LOOKING FOR - Demonstrated experience planning and conducting user research ... US Rainmakers, we offer comprehensive ...",
+      "search_title": "Senior Product Designer @ Rain",
       "location_analysis": {
-        "location_text": "Unknown",
-        "country": "Unknown",
-        "region": "Unknown",
-        "is_us": "unknown",
-        "confidence": 0.1,
-        "evidence": "No location information provided in job title, snippet, or description"
-      },
-      "anvesha_analysis": {
-        "fit_score": 88,
-        "category": "AI/Tech",
-        "justification": "Strong UX/product design portfolio with enterprise SaaS experience, design systems, and research skills matching requirements.",
-        "positioning_advice": "Emphasize Sonatus enterprise UX work, design system contributions, and Amazon's scalable visual systems.",
-        "job_title": "Product Designer",
-        "extracted_title": "Product Designer"
-      },
-      "job_id": "83ba22394a11e1e3",
-      "days_old": 0
-    },
-    {
-      "title": "Product Designer II (Growth)",
-      "company": "Whoop",
-      "location": "Boston, MA",
-      "description": "",
-      "url": "https://jobs.lever.co/whoop/24031086-78bd-461f-8a17-238ffc6b54d0",
-      "source": "lever",
-      "posted_date": "2026-01-21T04:08:05.463800",
-      "scraped_at": "2026-01-21T04:08:05.463814",
-      "search_snippet": "Product Designer II (Growth). Boston, MA. Product Design /. On-site. Apply for this job. At WHOOP, we're on a mission to unlock human performance and Healthspan ...",
-      "search_title": "Whoop - Product Designer II (Growth)",
-      "location_analysis": {
-        "location_text": "Boston, MA",
+        "location_text": "United States (Remote)",
         "country": "United States",
-        "region": "Massachusetts",
+        "region": "Unknown",
         "is_us": true,
-        "confidence": 1.0,
-        "evidence": "Explicitly states 'Boston, MA' and 'On-site' in title, snippet, and description"
+        "confidence": 0.75,
+        "evidence": "Reference to 'US Rainmakers' in benefits section suggests US-based role"
       },
       "anvesha_analysis": {
-        "fit_score": 82,
+        "fit_score": 85,
         "category": "AI/Tech",
-        "justification": "Strong product design skills with consumer tech experience; growth focus aligns with Amazon metrics work.",
-        "positioning_advice": "Emphasize Amazon CTR optimization and Sonatus research-driven iteration for growth-focused product design.",
-        "job_title": "Product Designer II (Growth)",
-        "extracted_title": "Product Designer II (Growth)"
+        "justification": "Strong alignment with user research experience, prototyping skills, and demonstrated product design metrics focus.",
+        "positioning_advice": "Emphasize Sonatus research leadership and Amazon metrics-driven design reviews prominently.",
+        "job_title": "User Researcher / Product Designer",
+        "extracted_title": "User Researcher / Product Designer"
       },
-      "job_id": "d84a5c4e9db9dbc0",
+      "job_id": "866a8895ed358d33",
       "days_old": 0
     }
   ],
   "metadata": {
     "profile": "anvesha",
     "profile_display_name": "Anvesha",
-    "run_timestamp": "2026-01-21T04:06:59.747994",
-    "trigger_type": "manual",
+    "run_timestamp": "2026-01-24T08:18:45.037791",
+    "trigger_type": "schedule",
     "total_searched": 25,
     "new_jobs_found": 25,
-    "jobs_analyzed": 25,
+    "jobs_analyzed": 23,
     "jobs_skipped": 0,
-    "jobs_location_filtered": 7
+    "jobs_location_filtered": 2
   }
 }
