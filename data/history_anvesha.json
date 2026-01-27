@@ -11,14 +11,14 @@
       "url": "https://jobs.ashbyhq.com/kognitos/40892aa3-b093-4c9c-aaa0-45c5595ddb37",
       "title": "Senior Product Designer @ Kognitos",
       "company": "Kognitos",
-      "first_seen": "2026-01-24T08:20:21.009952",
-      "fit_score": 45
+      "first_seen": "2026-01-27T08:24:17.422419",
+      "fit_score": 55
     },
     "df0f43d9995db0c1": {
       "url": "https://jobs.ashbyhq.com/anara/4e660933-c8aa-4344-9a33-25968dd28255",
       "title": "Product Designer @ Anara",
       "company": "Anara",
-      "first_seen": "2026-01-24T08:20:16.422173",
+      "first_seen": "2026-01-27T08:24:27.784436",
       "fit_score": 82
     },
     "813c4151d6a1f6a5": {
@@ -32,7 +32,7 @@
       "url": "https://jobs.lever.co/narmi/8649ae4d-bb06-49ae-bc3e-08afece55291",
       "title": "Product Designer",
       "company": "Narmi",
-      "first_seen": "2026-01-24T08:20:57.085695",
+      "first_seen": "2026-01-27T08:24:37.123901",
       "fit_score": 88
     },
     "ecaf3fa2b222d50d": {
@@ -88,7 +88,7 @@
       "url": "https://jobs.ashbyhq.com/rain/0ff2fae6-038c-412e-895c-4b850cf50ba2",
       "title": "Senior Product Designer @ Rain",
       "company": "Rain",
-      "first_seen": "2026-01-24T08:21:48.665123",
+      "first_seen": "2026-01-27T08:25:19.871441",
       "fit_score": 85
     },
     "3cb69bf2df55390a": {
@@ -109,7 +109,7 @@
       "url": "https://jobs.ashbyhq.com/tavahealth/f428de8a-a625-45c0-bb9b-ee1e2029a0c7",
       "title": "Senior Product Designer @ Tava Health",
       "company": "Tavahealth",
-      "first_seen": "2026-01-21T04:09:36.297771",
+      "first_seen": "2026-01-27T08:26:12.344097",
       "fit_score": 88
     },
     "c7c54dc6a67ad2c0": {
@@ -242,7 +242,7 @@
       "url": "https://jobs.ashbyhq.com/replit/955b73a9-4aec-456d-876b-38ac98cbdecd",
       "title": "Replit - Staff Product Designer, Design System",
       "company": "Replit",
-      "first_seen": "2026-01-24T08:20:43.125892",
+      "first_seen": "2026-01-27T08:24:31.994748",
       "fit_score": 88
     },
     "d94b00ff5a0a76cd": {
@@ -256,7 +256,7 @@
       "url": "https://jobs.ashbyhq.com/hyperexponential/ae9f463a-214f-4fd2-a1d4-45a485553cf5",
       "title": "Product Designer @ hyperexponential",
       "company": "Hyperexponential",
-      "first_seen": "2026-01-24T08:20:11.901428",
+      "first_seen": "2026-01-27T08:24:22.446945",
       "fit_score": 82
     },
     "707901bd24c17e80": {
@@ -277,7 +277,7 @@
       "url": "https://jobs.lever.co/insiderone/1cd5fd09-46ad-480a-90f8-1737f96a577a?lever-source%5B%5D=jobs.212.vc",
       "title": "Product Designer",
       "company": "Insiderone",
-      "first_seen": "2026-01-24T08:20:52.691505",
+      "first_seen": "2026-01-27T08:24:41.891918",
       "fit_score": 85
     },
     "3c53f1a5cf959443": {
@@ -291,21 +291,21 @@
       "url": "https://jobs.ashbyhq.com/lime/f18ac3c9-d356-4a4a-bd17-2bc420aa1087",
       "title": "Staff UX Designer, Lime for Business",
       "company": "Lime",
-      "first_seen": "2026-01-24T08:21:19.922563",
+      "first_seen": "2026-01-27T08:25:04.719103",
       "fit_score": 82
     },
     "610982a7dc786754": {
       "url": "https://jobs.lever.co/netomi/8e3b905b-3a9f-48b4-96f6-0b26832c50d4",
       "title": "Senior UX Designer",
       "company": "Netomi",
-      "first_seen": "2026-01-24T08:21:29.331301",
+      "first_seen": "2026-01-27T08:25:57.128588",
       "fit_score": 92
     },
     "15d90128ddb45e81": {
       "url": "https://apply.workable.com/credence/j/DD5763E3EF/apply/",
       "title": "ServiceNow UI/UX Designer - Credence - Application",
       "company": "Credence",
-      "first_seen": "2026-01-24T08:21:34.375707",
+      "first_seen": "2026-01-27T08:25:09.952820",
       "fit_score": 72
     },
     "42913cba85f4bdf6": {
@@ -321,7 +321,84 @@
       "company": "Vetcove",
       "first_seen": "2026-01-24T08:21:44.276971",
       "fit_score": 45
+    },
+    "7c16d74c37985506": {
+      "url": "https://jobs.lever.co/walkme/40a6d947-2695-4c9b-869f-fe9043e041f0?ref=designjobs.careers",
+      "title": "Product Designer",
+      "company": "Walkme",
+      "first_seen": "2026-01-27T08:24:12.583538",
+      "fit_score": 82
+    },
+    "2e8bcb46d0ed4d0f": {
+      "url": "https://jobs.ashbyhq.com/weave/9bc7dbb3-2ccb-4d14-8098-59e9a8224140",
+      "title": "Product Designer, Mobile App @ Weave",
+      "company": "Weave",
+      "first_seen": "2026-01-27T08:24:47.618226",
+      "fit_score": 82
+    },
+    "8d469a89046833a6": {
+      "url": "https://jobs.ashbyhq.com/pebl/f3360cd9-9c84-4bd5-95c6-259e16b24b8b",
+      "title": "Senior Product Designer @ Pebl",
+      "company": "Pebl",
+      "first_seen": "2026-01-27T08:24:53.673287",
+      "fit_score": 65
+    },
+    "bfb31090eddd6f53": {
+      "url": "https://boards.greenhouse.io/halcyon/jobs/5764321004",
+      "title": "Current openings at Halcyon",
+      "company": "Halcyon",
+      "first_seen": "2026-01-27T08:24:59.543536",
+      "fit_score": 68
+    },
+    "812e408d1c1a6dbe": {
+      "url": "https://apply.workable.com/dodge-construction-network/j/07D3B64CC4",
+      "title": "Senior Product Designer - Dodge Construction Network",
+      "company": "Dodge Construction Network",
+      "first_seen": "2026-01-27T08:25:14.833907",
+      "fit_score": 82
+    },
+    "80fd1688c16278aa": {
+      "url": "https://jobs.lever.co/jobgether/48614671-4e84-4188-951d-8c9a48616045",
+      "title": "UI/UX Designer (Remote)",
+      "company": "Jobgether",
+      "first_seen": "2026-01-27T08:26:02.929912",
+      "fit_score": 45
+    },
+    "5d81ffefa5787b42": {
+      "url": "https://jobs.ashbyhq.com/baba/262c3826-39e0-49aa-891f-03211a8af128",
+      "title": "Founding Product Designer @ Baba",
+      "company": "Baba",
+      "first_seen": "2026-01-27T08:25:37.304609",
+      "fit_score": 88
+    },
+    "761a4743d80ac5a8": {
+      "url": "https://jobs.ashbyhq.com/solace/ac9b9134-ed16-4944-89bf-37e104fe1b23",
+      "title": "Associate Product Designer (College Grad 2026) @ Solace",
+      "company": "Solace",
+      "first_seen": "2026-01-27T08:25:42.812148",
+      "fit_score": 78
+    },
+    "baf780f432bbbfbf": {
+      "url": "https://jobs.lever.co/lodgify/4bfe8973-38f5-44b3-b1cc-801a0770c0bc",
+      "title": "Principal Product Designer",
+      "company": "Lodgify",
+      "first_seen": "2026-01-27T08:25:47.593109",
+      "fit_score": 92
+    },
+    "46512445986d7451": {
+      "url": "https://jobs.ashbyhq.com/clasp-group/265d0cfa-4c6f-4219-b437-48b8e98688d5",
+      "title": "Senior Product Designer @ Clasp",
+      "company": "Clasp Group",
+      "first_seen": "2026-01-27T08:25:52.258934",
+      "fit_score": 72
+    },
+    "b86275da11eedc81": {
+      "url": "https://jobs.lever.co/cloudwalk/a1eb7b8a-01ea-4e0e-8424-2164082e6c05",
+      "title": "Junior Product Designer - AI Driven",
+      "company": "Cloudwalk",
+      "first_seen": "2026-01-27T08:26:07.675771",
+      "fit_score": 85
     }
   },
-  "last_updated": "2026-01-24T08:21:48.667224"
+  "last_updated": "2026-01-27T08:26:12.345951"
 }

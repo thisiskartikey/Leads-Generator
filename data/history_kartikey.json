@@ -556,7 +556,7 @@
       "url": "https://jobs.ashbyhq.com/navigate-ai/889f3a95-5945-45e2-9fad-61e12faf5c45",
       "title": "AI Product Manager @ Navigate AI",
       "company": "Navigate Ai",
-      "first_seen": "2026-01-20T08:19:35.952588",
+      "first_seen": "2026-01-27T08:19:59.526259",
       "ai_fit_score": 92,
       "sustainability_fit_score": 42
     },
@@ -564,7 +564,7 @@
       "url": "https://jobs.ashbyhq.com/Profound/7a6182d0-efcd-4b5a-9d90-93f8797b7395",
       "title": "AI Strategist, New Grad @ Profound",
       "company": "Profound",
-      "first_seen": "2026-01-24T08:15:48.737177",
+      "first_seen": "2026-01-27T08:20:15.340871",
       "ai_fit_score": 95,
       "sustainability_fit_score": 68
     },
@@ -596,7 +596,7 @@
       "url": "https://jobs.ashbyhq.com/raspberry/b2fe39f1-a8bd-4124-af41-281ee0b1decb",
       "title": "AI Support and Operations Specialist @ Raspberry AI",
       "company": "Raspberry",
-      "first_seen": "2026-01-21T04:03:41.826159",
+      "first_seen": "2026-01-27T08:20:07.089621",
       "ai_fit_score": 45,
       "sustainability_fit_score": 72
     },
@@ -636,7 +636,7 @@
       "url": "https://jobs.ashbyhq.com/tessera-labs/ea05dfd6-92d7-4ccc-aa53-2f31a85928c5",
       "title": "Product Manager @ Tessera Labs",
       "company": "Tessera Labs",
-      "first_seen": "2026-01-21T04:03:33.508409",
+      "first_seen": "2026-01-27T08:20:23.214269",
       "ai_fit_score": 92,
       "sustainability_fit_score": 72
     },
@@ -692,7 +692,7 @@
       "url": "https://jobs.ashbyhq.com/raspberry/9f34354e-b3eb-45e8-8e0c-a062423a04f0",
       "title": "AI Implementation Specialist @ Raspberry AI",
       "company": "Raspberry",
-      "first_seen": "2026-01-24T08:16:20.447872",
+      "first_seen": "2026-01-27T08:22:26.147096",
       "ai_fit_score": 25,
       "sustainability_fit_score": 25
     },
@@ -764,7 +764,7 @@
       "url": "https://jobs.ashbyhq.com/handshake/c5753428-968f-4142-9dbc-49d419f0a020",
       "title": "Strategic Projects Lead, Handshake AI",
       "company": "Handshake",
-      "first_seen": "2026-01-20T08:21:56.255541",
+      "first_seen": "2026-01-27T08:22:03.359910",
       "ai_fit_score": 92,
       "sustainability_fit_score": 35
     },
@@ -780,7 +780,7 @@
       "url": "https://boards.greenhouse.io/slingshotaerospace/jobs/5706791004",
       "title": "Shape the Future of Space",
       "company": "Slingshotaerospace",
-      "first_seen": "2026-01-24T08:17:22.734646",
+      "first_seen": "2026-01-27T08:21:18.309055",
       "ai_fit_score": 0,
       "sustainability_fit_score": 5
     },
@@ -900,7 +900,7 @@
       "url": "https://jobs.ashbyhq.com/buspatrol/f3fbe1b5-7cf7-4462-8f32-261008b2739b",
       "title": "Sr. Product Manager (HW/AI) @ BusPatrol",
       "company": "Buspatrol",
-      "first_seen": "2026-01-24T08:15:55.741931",
+      "first_seen": "2026-01-27T08:19:51.033397",
       "ai_fit_score": 72,
       "sustainability_fit_score": 45
     },
@@ -908,9 +908,9 @@
       "url": "https://jobs.ashbyhq.com/mecka.ai/c9eea598-dbd6-4c06-bcb5-b99ff604a942",
       "title": "Director of Enterprise Sales (AI Labs & Robotics) @ Mecka",
       "company": "Mecka.Ai",
-      "first_seen": "2026-01-24T08:16:12.137912",
+      "first_seen": "2026-01-27T08:21:55.128883",
       "ai_fit_score": 35,
-      "sustainability_fit_score": 25
+      "sustainability_fit_score": 15
     },
     "8e860d32f80a8184": {
       "url": "https://jobs.ashbyhq.com/decagon/62fc49c0-fd54-4e4f-b113-d2abba5f1bc6?trk=public_post_comment-text",
@@ -1023,9 +1023,121 @@
       "first_seen": "2026-01-24T08:18:44.996426",
       "ai_fit_score": 45,
       "sustainability_fit_score": 85
+    },
+    "ea26063a1dd1aa86": {
+      "url": "https://jobs.ashbyhq.com/arcade/f4b33684-09c4-42ca-8634-3973c41c9aa5",
+      "title": "AI Product Manager @ Arcade",
+      "company": "Arcade",
+      "first_seen": "2026-01-27T08:19:42.644902",
+      "ai_fit_score": 72,
+      "sustainability_fit_score": 35
+    },
+    "d86e87e844a1aed1": {
+      "url": "https://jobs.ashbyhq.com/evenup/79b4f026-2bdc-4134-a076-84b0c024113b",
+      "title": "Director of Machine Learning @ EvenUp",
+      "company": "Evenup",
+      "first_seen": "2026-01-27T08:20:30.513634",
+      "ai_fit_score": 45,
+      "sustainability_fit_score": 15
+    },
+    "e6427c06e5a6e24a": {
+      "url": "https://jobs.ashbyhq.com/palup/8c358251-3e3d-4386-80d9-16d664410b11",
+      "title": "Product Manager @ Palup.ai",
+      "company": "Palup",
+      "first_seen": "2026-01-27T08:20:38.815600",
+      "ai_fit_score": 82,
+      "sustainability_fit_score": 45
+    },
+    "865b877ba4adbd99": {
+      "url": "https://jobs.ashbyhq.com/decagon/2b657cd9-e26a-4770-8205-a0846963df02?trk=public_post_comment-text",
+      "title": "Senior Agent Product Manager, Strategic @ Decagon",
+      "company": "Decagon",
+      "first_seen": "2026-01-27T08:20:46.610804",
+      "ai_fit_score": 45,
+      "sustainability_fit_score": 25
+    },
+    "a6196dcc9c77471b": {
+      "url": "https://jobs.ashbyhq.com/decart-ai/b8cd5522-8fe1-4752-b8d8-0bd1c5ed9469",
+      "title": "IT Specialist @ Decart.ai",
+      "company": "Decart Ai",
+      "first_seen": "2026-01-27T08:20:54.605629",
+      "ai_fit_score": 45,
+      "sustainability_fit_score": 25
+    },
+    "af58ff0986654f0f": {
+      "url": "https://jobs.ashbyhq.com/siena/89fe7b6e-3740-4eb0-bc42-95d7f3df4c96/application",
+      "title": "Product Manager, AI Agent Deployment @ Siena AI",
+      "company": "Siena",
+      "first_seen": "2026-01-27T08:21:03.471226",
+      "ai_fit_score": 92,
+      "sustainability_fit_score": 45
+    },
+    "7716fffb18f60e78": {
+      "url": "https://jobs.ashbyhq.com/norm-ai/ffa37c13-14da-472d-9bd2-dfdfd657f4e2?urlHash=oSjv",
+      "title": "Legal AI Analyst @ Norm AI",
+      "company": "Norm Ai",
+      "first_seen": "2026-01-27T08:21:11.289928",
+      "ai_fit_score": 68,
+      "sustainability_fit_score": 35
+    },
+    "1b01efb83916c4ef": {
+      "url": "https://boards.greenhouse.io/purestorage/jobs/7520650?gh_jid=7520650",
+      "title": "Join Us at Pure",
+      "company": "Purestorage",
+      "first_seen": "2026-01-27T08:21:30.366745",
+      "ai_fit_score": 0,
+      "sustainability_fit_score": 0
+    },
+    "428516cab5cf38da": {
+      "url": "https://boards.greenhouse.io/kaseya/jobs/5711581004",
+      "title": "Job ID #5711581004 | Learn About Our Culture and Jobs",
+      "company": "Kaseya",
+      "first_seen": "2026-01-27T08:21:38.465958",
+      "ai_fit_score": 25,
+      "sustainability_fit_score": 25
+    },
+    "7ba9e9ed54bec5e9": {
+      "url": "https://boards.greenhouse.io/monks/jobs/5779443004",
+      "title": "Director, Digital Strategy (Remote), B2C - Monks",
+      "company": "Monks",
+      "first_seen": "2026-01-27T08:21:47.188231",
+      "ai_fit_score": 35,
+      "sustainability_fit_score": 15
+    },
+    "a6906f2d00c8e1bb": {
+      "url": "https://jobs.ashbyhq.com/patreon/1a7c9691-03e0-425e-aa93-91048bb22b4b",
+      "title": "Customer Happiness Technical Specialist @ Patreon",
+      "company": "Patreon",
+      "first_seen": "2026-01-27T08:22:10.628978",
+      "ai_fit_score": 35,
+      "sustainability_fit_score": 35
+    },
+    "0db2d0c6ad547b58": {
+      "url": "https://boards.greenhouse.io/flagshippioneeringinc/jobs/8384885002?gh_jid=8384885002",
+      "title": "Senior Product Manager, Flagship Data Platform",
+      "company": "Flagshippioneeringinc",
+      "first_seen": "2026-01-27T08:22:18.623155",
+      "ai_fit_score": 72,
+      "sustainability_fit_score": 52
+    },
+    "8c5f4d26f4bec6bc": {
+      "url": "https://jobs.ashbyhq.com/DeepL/1f3dfed8-6100-44af-9b97-889a649b7108",
+      "title": "Solution Consultant - Agentic AI @ DeepL",
+      "company": "Deepl",
+      "first_seen": "2026-01-27T08:22:34.718476",
+      "ai_fit_score": 95,
+      "sustainability_fit_score": 82
+    },
+    "517132ffebe31565": {
+      "url": "https://boards.greenhouse.io/stripe/jobs/7550590",
+      "title": "Stripe logoJobs",
+      "company": "Stripe",
+      "first_seen": "2026-01-27T08:22:43.077778",
+      "ai_fit_score": 42,
+      "sustainability_fit_score": 25
     }
   },
-  "last_updated": "2026-01-24T08:18:44.998647",
+  "last_updated": "2026-01-27T08:22:43.080320",
   "metadata": {
     "version": "1.0",
     "description": "Tracks jobs that have been analyzed to avoid duplicates"
