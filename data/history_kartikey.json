@@ -596,7 +596,7 @@
       "url": "https://jobs.ashbyhq.com/raspberry/b2fe39f1-a8bd-4124-af41-281ee0b1decb",
       "title": "AI Support and Operations Specialist @ Raspberry AI",
       "company": "Raspberry",
-      "first_seen": "2026-01-27T08:20:07.089621",
+      "first_seen": "2026-01-31T08:18:21.027812",
       "ai_fit_score": 45,
       "sustainability_fit_score": 72
     },
@@ -620,7 +620,7 @@
       "url": "https://jobs.ashbyhq.com/peec/ec5b4a25-f0b7-4a4f-9c0e-22fcddc5a5f5",
       "title": "Director Data Science @ Peec AI",
       "company": "Peec",
-      "first_seen": "2026-01-21T04:05:29.084372",
+      "first_seen": "2026-01-31T08:18:03.365898",
       "ai_fit_score": 45,
       "sustainability_fit_score": 35
     },
@@ -628,7 +628,7 @@
       "url": "https://jobs.ashbyhq.com/siena/89fe7b6e-3740-4eb0-bc42-95d7f3df4c96",
       "title": "Product Manager, AI Agent Deployment @ Siena AI",
       "company": "Siena",
-      "first_seen": "2026-01-21T04:04:17.600315",
+      "first_seen": "2026-01-31T08:17:37.273040",
       "ai_fit_score": 92,
       "sustainability_fit_score": 45
     },
@@ -636,7 +636,7 @@
       "url": "https://jobs.ashbyhq.com/tessera-labs/ea05dfd6-92d7-4ccc-aa53-2f31a85928c5",
       "title": "Product Manager @ Tessera Labs",
       "company": "Tessera Labs",
-      "first_seen": "2026-01-27T08:20:23.214269",
+      "first_seen": "2026-01-31T08:18:46.918833",
       "ai_fit_score": 92,
       "sustainability_fit_score": 72
     },
@@ -900,9 +900,9 @@
       "url": "https://jobs.ashbyhq.com/buspatrol/f3fbe1b5-7cf7-4462-8f32-261008b2739b",
       "title": "Sr. Product Manager (HW/AI) @ BusPatrol",
       "company": "Buspatrol",
-      "first_seen": "2026-01-27T08:19:51.033397",
+      "first_seen": "2026-01-31T08:19:45.221500",
       "ai_fit_score": 72,
-      "sustainability_fit_score": 45
+      "sustainability_fit_score": 42
     },
     "4051cf240f9f8915": {
       "url": "https://jobs.ashbyhq.com/mecka.ai/c9eea598-dbd6-4c06-bcb5-b99ff604a942",
@@ -1028,7 +1028,7 @@
       "url": "https://jobs.ashbyhq.com/arcade/f4b33684-09c4-42ca-8634-3973c41c9aa5",
       "title": "AI Product Manager @ Arcade",
       "company": "Arcade",
-      "first_seen": "2026-01-27T08:19:42.644902",
+      "first_seen": "2026-01-31T08:17:28.328414",
       "ai_fit_score": 72,
       "sustainability_fit_score": 35
     },
@@ -1135,9 +1135,129 @@
       "first_seen": "2026-01-27T08:22:43.077778",
       "ai_fit_score": 42,
       "sustainability_fit_score": 25
+    },
+    "828da75e27a616fa": {
+      "url": "https://jobs.ashbyhq.com/eliseai/8ba4a378-b115-45eb-b0db-7ad13689fd63",
+      "title": "Strategy and Planning, Manager | Housing @ EliseAI",
+      "company": "Eliseai",
+      "first_seen": "2026-01-31T08:17:45.552448",
+      "ai_fit_score": 92,
+      "sustainability_fit_score": 45
+    },
+    "9cc8b979a7fd2ed7": {
+      "url": "https://boards.greenhouse.io/castaigroupinc/jobs/4111095009",
+      "title": "Director of Customer Success & Account Management (NYC)",
+      "company": "Castaigroupinc",
+      "first_seen": "2026-01-31T08:17:53.835467",
+      "ai_fit_score": 0,
+      "sustainability_fit_score": 15
+    },
+    "109a345378285c0b": {
+      "url": "https://jobs.ashbyhq.com/evenup/ddf4f867-4209-48c1-918e-51f8cde70ae5",
+      "title": "Senior AI Product Manager @ EvenUp",
+      "company": "Evenup",
+      "first_seen": "2026-01-31T08:18:12.264306",
+      "ai_fit_score": 72,
+      "sustainability_fit_score": 25
+    },
+    "a34ace7900090ce4": {
+      "url": "https://jobs.ashbyhq.com/cohere/eeeac26a-e901-4e5d-98aa-3c64be7a8e41",
+      "title": "Partner Success Specialist @ Cohere",
+      "company": "Cohere",
+      "first_seen": "2026-01-31T08:18:29.584511",
+      "ai_fit_score": 82,
+      "sustainability_fit_score": 45
+    },
+    "42ff5b835f1b7840": {
+      "url": "https://boards.greenhouse.io/block/jobs/5069002008",
+      "title": "Work at Block",
+      "company": "Block",
+      "first_seen": "2026-01-31T08:18:38.141107",
+      "ai_fit_score": 0,
+      "sustainability_fit_score": 0
+    },
+    "4143aa2db8852b2e": {
+      "url": "https://jobs.ashbyhq.com/kraken.com",
+      "title": "Kraken",
+      "company": "Kraken.Com",
+      "first_seen": "2026-01-31T08:18:55.459019",
+      "ai_fit_score": 45,
+      "sustainability_fit_score": 25
+    },
+    "4acb4c9b5319af0a": {
+      "url": "https://jobs.ashbyhq.com/atroposhealth/93710b38-3e17-44f6-a676-27af0c1273ca",
+      "title": "Lead Product Manager (AI) @ Atropos Health",
+      "company": "Atroposhealth",
+      "first_seen": "2026-01-31T08:19:02.822370",
+      "ai_fit_score": 45,
+      "sustainability_fit_score": 45
+    },
+    "7a1317d3c1635969": {
+      "url": "https://jobs.ashbyhq.com/handshake/1d679efd-3bbe-4ce3-8f99-34a890e941a9",
+      "title": "Compensation Analyst - AI Trainer (Contract) @ Handshake",
+      "company": "Handshake",
+      "first_seen": "2026-01-31T08:19:10.485841",
+      "ai_fit_score": 25,
+      "sustainability_fit_score": 25
+    },
+    "54c4d8d685d25a4d": {
+      "url": "https://jobs.ashbyhq.com/webai/8ffee75f-08a4-4a41-b463-76a86e9d3f37",
+      "title": "Senior AI Product Manager, Customer Engagement @ webAI",
+      "company": "Webai",
+      "first_seen": "2026-01-31T08:19:18.869013",
+      "ai_fit_score": 88,
+      "sustainability_fit_score": 42
+    },
+    "7d83ad9c357ba1ef": {
+      "url": "https://jobs.ashbyhq.com/socure/873f3aaa-3ffc-43e9-8c3e-28f66c568fc4",
+      "title": "Senior Manager, AI Platform Engineering @ Socure",
+      "company": "Socure",
+      "first_seen": "2026-01-31T08:19:28.119655",
+      "ai_fit_score": 92,
+      "sustainability_fit_score": 35
+    },
+    "d68cbb579a09dded": {
+      "url": "https://boards.greenhouse.io/aegworldwide/jobs/8371404002",
+      "title": "Director of Project Management – Creative Jira",
+      "company": "Aegworldwide",
+      "first_seen": "2026-01-31T08:19:37.028189",
+      "ai_fit_score": 42,
+      "sustainability_fit_score": 42
+    },
+    "d7ebcdbaf1c7fc04": {
+      "url": "https://jobs.ashbyhq.com/cohere",
+      "title": "Cohere",
+      "company": "Cohere",
+      "first_seen": "2026-01-31T08:19:53.245844",
+      "ai_fit_score": 92,
+      "sustainability_fit_score": 45
+    },
+    "2e649f78c91875a0": {
+      "url": "https://jobs.ashbyhq.com/phia/8a9d7284-02c1-4542-a039-f6727975df94",
+      "title": "Product Manager @ Phia",
+      "company": "Phia",
+      "first_seen": "2026-01-31T08:20:00.697104",
+      "ai_fit_score": 82,
+      "sustainability_fit_score": 45
+    },
+    "bd0e939a12c8a317": {
+      "url": "https://boards.greenhouse.io/datadog/jobs/7566827",
+      "title": "Senior AI Engineer - CD Visibility",
+      "company": "Datadog",
+      "first_seen": "2026-01-31T08:20:09.990577",
+      "ai_fit_score": 45,
+      "sustainability_fit_score": 35
+    },
+    "a1f3b9495a935b66": {
+      "url": "https://boards.greenhouse.io/purestorage/jobs/7360716?gh_jid=7360716",
+      "title": "Join Us at Pure",
+      "company": "Purestorage",
+      "first_seen": "2026-01-31T08:20:26.394196",
+      "ai_fit_score": 0,
+      "sustainability_fit_score": 0
     }
   },
-  "last_updated": "2026-01-27T08:22:43.080320",
+  "last_updated": "2026-01-31T08:20:26.396514",
   "metadata": {
     "version": "1.0",
     "description": "Tracks jobs that have been analyzed to avoid duplicates"
