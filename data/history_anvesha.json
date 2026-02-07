@@ -11,7 +11,7 @@
       "url": "https://jobs.ashbyhq.com/kognitos/40892aa3-b093-4c9c-aaa0-45c5595ddb37",
       "title": "Senior Product Designer @ Kognitos",
       "company": "Kognitos",
-      "first_seen": "2026-02-03T08:31:17.352534",
+      "first_seen": "2026-02-07T08:23:56.504492",
       "fit_score": 55
     },
     "df0f43d9995db0c1": {
@@ -32,7 +32,7 @@
       "url": "https://jobs.lever.co/narmi/8649ae4d-bb06-49ae-bc3e-08afece55291",
       "title": "Product Designer",
       "company": "Narmi",
-      "first_seen": "2026-01-27T08:24:37.123901",
+      "first_seen": "2026-02-07T08:24:23.184267",
       "fit_score": 88
     },
     "ecaf3fa2b222d50d": {
@@ -74,7 +74,7 @@
       "url": "https://jobs.lever.co/getlabs/b83888d4-5a0d-4c16-a828-2e1079eab171",
       "title": "Product Designer - UX/UI",
       "company": "Getlabs",
-      "first_seen": "2026-02-03T08:31:21.850852",
+      "first_seen": "2026-02-07T08:24:11.856369",
       "fit_score": 0
     },
     "4244b33e03d69b3d": {
@@ -109,7 +109,7 @@
       "url": "https://jobs.ashbyhq.com/tavahealth/f428de8a-a625-45c0-bb9b-ee1e2029a0c7",
       "title": "Senior Product Designer @ Tava Health",
       "company": "Tavahealth",
-      "first_seen": "2026-01-31T08:22:43.575615",
+      "first_seen": "2026-02-07T08:24:37.581963",
       "fit_score": 88
     },
     "c7c54dc6a67ad2c0": {
@@ -130,7 +130,7 @@
       "url": "https://jobs.ashbyhq.com/socure/69efa47a-b489-4d0f-8a67-ebd84b7c46c1",
       "title": "Senior Product UX/UI Designer @ Socure",
       "company": "Socure",
-      "first_seen": "2026-01-21T04:10:15.693138",
+      "first_seen": "2026-02-07T08:24:28.117646",
       "fit_score": 88
     },
     "d84a5c4e9db9dbc0": {
@@ -144,8 +144,8 @@
       "url": "https://jobs.lever.co/benchsci/5dac2ae0-514f-4bfe-92de-69eecbda6dfd",
       "title": "Product Designer",
       "company": "Benchsci",
-      "first_seen": "2026-01-21T04:09:58.100220",
-      "fit_score": 88
+      "first_seen": "2026-02-07T08:25:01.599812",
+      "fit_score": 85
     },
     "28b2d0726c46746e": {
       "url": "https://jobs.lever.co/jobgether/718d692b-8a88-4074-b1f3-9a322a877cf6",
@@ -165,7 +165,7 @@
       "url": "https://jobs.ashbyhq.com/april/56f30369-a603-45a6-bd71-c6d29a77678c",
       "title": "Senior Product Designer @ april",
       "company": "April",
-      "first_seen": "2026-02-03T08:31:32.284763",
+      "first_seen": "2026-02-07T08:24:32.754434",
       "fit_score": 68
     },
     "535a9af0cd2c25ab": {
@@ -242,7 +242,7 @@
       "url": "https://jobs.ashbyhq.com/replit/955b73a9-4aec-456d-876b-38ac98cbdecd",
       "title": "Replit - Staff Product Designer, Design System",
       "company": "Replit",
-      "first_seen": "2026-01-27T08:24:31.994748",
+      "first_seen": "2026-02-07T08:23:40.908019",
       "fit_score": 88
     },
     "d94b00ff5a0a76cd": {
@@ -277,7 +277,7 @@
       "url": "https://jobs.lever.co/insiderone/1cd5fd09-46ad-480a-90f8-1737f96a577a?lever-source%5B%5D=jobs.212.vc",
       "title": "Product Designer",
       "company": "Insiderone",
-      "first_seen": "2026-01-31T08:22:37.872132",
+      "first_seen": "2026-02-07T08:24:57.160338",
       "fit_score": 85
     },
     "3c53f1a5cf959443": {
@@ -410,14 +410,14 @@
       "url": "https://boards.greenhouse.io/datadog/jobs/7572488",
       "title": "Product Designer II, Actions",
       "company": "Datadog",
-      "first_seen": "2026-02-03T08:30:53.129099",
-      "fit_score": 88
+      "first_seen": "2026-02-07T08:23:11.882008",
+      "fit_score": 0
     },
     "347cb534cda6f694": {
       "url": "https://jobs.ashbyhq.com/assembledhq/50669bc9-b139-48b7-a3e0-73bee5e3804e",
       "title": "Product Designer (Experienced) @ Assembled",
       "company": "Assembledhq",
-      "first_seen": "2026-02-03T08:30:58.353913",
+      "first_seen": "2026-02-07T08:23:26.616246",
       "fit_score": 82
     },
     "5a944cb3ba8fb382": {
@@ -552,7 +552,98 @@
       "company": "Finalis",
       "first_seen": "2026-02-03T08:32:56.010652",
       "fit_score": 88
+    },
+    "88b269a527a236aa": {
+      "url": "https://jobs.lever.co/wmg/c6f8f262-f743-4017-a957-cc1b33b16ced",
+      "title": "Product Designer",
+      "company": "Wmg",
+      "first_seen": "2026-02-07T08:23:06.771933",
+      "fit_score": 88
+    },
+    "00ade2463efdd9cc": {
+      "url": "https://jobs.lever.co/padsplit/d65ac87c-0d18-4229-9077-9c033d5bca3d/apply",
+      "title": "Product Designer (Fully Remote)",
+      "company": "Padsplit",
+      "first_seen": "2026-02-07T08:23:16.878667",
+      "fit_score": 85
+    },
+    "e9870874ace1c0fa": {
+      "url": "https://jobs.lever.co/jobgether/b534968d-a3a3-42fe-8529-0a761ec40914",
+      "title": "Product Designer - UDS Registry",
+      "company": "Jobgether",
+      "first_seen": "2026-02-07T08:23:21.864973",
+      "fit_score": 92
+    },
+    "2b0e4c0e20a09153": {
+      "url": "https://jobs.ashbyhq.com/hiive/574d0653-6f71-4d82-9f11-05d74c003c07",
+      "title": "Product Designer @ Hiive",
+      "company": "Hiive",
+      "first_seen": "2026-02-07T08:23:31.101260",
+      "fit_score": 82
+    },
+    "9aaaab77d86287af": {
+      "url": "https://jobs.lever.co/artera-2/cfd44848-ab2c-4171-b67a-1a20b8944ec1",
+      "title": "Product Designer",
+      "company": "Artera 2",
+      "first_seen": "2026-02-07T08:23:36.162570",
+      "fit_score": 88
+    },
+    "6da5ac1ee2f22df8": {
+      "url": "https://jobs.ashbyhq.com/noda-ai/623d05a3-e32e-4159-baa0-f992d5873e5a?ref=designjobs.careers",
+      "title": "Product Designer – NODA AI",
+      "company": "Noda Ai",
+      "first_seen": "2026-02-07T08:23:46.156748",
+      "fit_score": 72
+    },
+    "171effc0a813aaad": {
+      "url": "https://jobs.ashbyhq.com/stable/2f59875b-aab0-4fdc-8450-23afddad1aff",
+      "title": "Product Designer @ Stable",
+      "company": "Stable",
+      "first_seen": "2026-02-07T08:23:50.888721",
+      "fit_score": 72
+    },
+    "213c92b940ff0798": {
+      "url": "https://jobs.ashbyhq.com/preql/889f09fb-8562-436b-9b15-30d7d56caae7",
+      "title": "Product Designer @ Preql AI",
+      "company": "Preql",
+      "first_seen": "2026-02-07T08:24:01.625064",
+      "fit_score": 88
+    },
+    "441202320a65a143": {
+      "url": "https://jobs.ashbyhq.com/reflow/772363f3-791d-4e04-9550-85e7a4cc6a5c",
+      "title": "Lead Product Designer @ Reflow",
+      "company": "Reflow",
+      "first_seen": "2026-02-07T08:24:06.609517",
+      "fit_score": 45
+    },
+    "8bbe1370b092a13e": {
+      "url": "https://boards.greenhouse.io/esri/jobs/5042013007",
+      "title": "Find a job",
+      "company": "Esri",
+      "first_seen": "2026-02-07T08:24:18.035540",
+      "fit_score": 35
+    },
+    "b80b8629a01ba3b8": {
+      "url": "https://jobs.lever.co/goodleap/dd292195-7678-44a4-8a6f-52b9f5d806cd?lever-source%5B%5D=careers.nea.com",
+      "title": "Senior UX Designer",
+      "company": "Goodleap",
+      "first_seen": "2026-02-07T08:24:42.478419",
+      "fit_score": 82
+    },
+    "1153240f3c180f66": {
+      "url": "https://jobs.ashbyhq.com/phantom/0844373f-aecc-4290-bd1e-159d15b29ae2",
+      "title": "Staff Product Designer (Trading) @ Phantom",
+      "company": "Phantom",
+      "first_seen": "2026-02-07T08:24:47.353572",
+      "fit_score": 85
+    },
+    "5b65d182701172b5": {
+      "url": "https://jobs.lever.co/jobgether/7b0e53bc-ae3c-430c-bf4b-eb457b51998a",
+      "title": "Product Designer - REMOTE",
+      "company": "Jobgether",
+      "first_seen": "2026-02-07T08:24:52.581850",
+      "fit_score": 45
     }
   },
-  "last_updated": "2026-02-03T08:32:56.012364"
+  "last_updated": "2026-02-07T08:25:01.601835"
 }
