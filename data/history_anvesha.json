@@ -32,7 +32,7 @@
       "url": "https://jobs.lever.co/narmi/8649ae4d-bb06-49ae-bc3e-08afece55291",
       "title": "Product Designer",
       "company": "Narmi",
-      "first_seen": "2026-02-07T08:24:23.184267",
+      "first_seen": "2026-02-10T08:44:46.855802",
       "fit_score": 88
     },
     "ecaf3fa2b222d50d": {
@@ -67,8 +67,8 @@
       "url": "https://jobs.ashbyhq.com/replit/955b73a9-4aec-456d-876b-38ac98cbdecd",
       "title": "Staff Product Designer, Design System @ Replit",
       "company": "Replit",
-      "first_seen": "2026-01-19T23:14:58.009730",
-      "fit_score": 45
+      "first_seen": "2026-02-10T08:44:41.673165",
+      "fit_score": 88
     },
     "c1333483efb1f909": {
       "url": "https://jobs.lever.co/getlabs/b83888d4-5a0d-4c16-a828-2e1079eab171",
@@ -144,8 +144,8 @@
       "url": "https://jobs.lever.co/benchsci/5dac2ae0-514f-4bfe-92de-69eecbda6dfd",
       "title": "Product Designer",
       "company": "Benchsci",
-      "first_seen": "2026-02-07T08:25:01.599812",
-      "fit_score": 85
+      "first_seen": "2026-02-10T08:43:59.764847",
+      "fit_score": 88
     },
     "28b2d0726c46746e": {
       "url": "https://jobs.lever.co/jobgether/718d692b-8a88-4074-b1f3-9a322a877cf6",
@@ -298,7 +298,7 @@
       "url": "https://jobs.lever.co/netomi/8e3b905b-3a9f-48b4-96f6-0b26832c50d4",
       "title": "Senior UX Designer",
       "company": "Netomi",
-      "first_seen": "2026-01-27T08:25:57.128588",
+      "first_seen": "2026-02-10T08:44:36.985633",
       "fit_score": 92
     },
     "15d90128ddb45e81": {
@@ -417,7 +417,7 @@
       "url": "https://jobs.ashbyhq.com/assembledhq/50669bc9-b139-48b7-a3e0-73bee5e3804e",
       "title": "Product Designer (Experienced) @ Assembled",
       "company": "Assembledhq",
-      "first_seen": "2026-02-07T08:23:26.616246",
+      "first_seen": "2026-02-10T08:43:44.155761",
       "fit_score": 82
     },
     "5a944cb3ba8fb382": {
@@ -571,7 +571,7 @@
       "url": "https://jobs.lever.co/jobgether/b534968d-a3a3-42fe-8529-0a761ec40914",
       "title": "Product Designer - UDS Registry",
       "company": "Jobgether",
-      "first_seen": "2026-02-07T08:23:21.864973",
+      "first_seen": "2026-02-10T08:44:04.777483",
       "fit_score": 92
     },
     "2b0e4c0e20a09153": {
@@ -585,14 +585,14 @@
       "url": "https://jobs.lever.co/artera-2/cfd44848-ab2c-4171-b67a-1a20b8944ec1",
       "title": "Product Designer",
       "company": "Artera 2",
-      "first_seen": "2026-02-07T08:23:36.162570",
+      "first_seen": "2026-02-10T08:44:16.143520",
       "fit_score": 88
     },
     "6da5ac1ee2f22df8": {
       "url": "https://jobs.ashbyhq.com/noda-ai/623d05a3-e32e-4159-baa0-f992d5873e5a?ref=designjobs.careers",
       "title": "Product Designer – NODA AI",
       "company": "Noda Ai",
-      "first_seen": "2026-02-07T08:23:46.156748",
+      "first_seen": "2026-02-10T08:45:01.566029",
       "fit_score": 72
     },
     "171effc0a813aaad": {
@@ -643,7 +643,98 @@
       "company": "Jobgether",
       "first_seen": "2026-02-07T08:24:52.581850",
       "fit_score": 45
+    },
+    "fb0adfed5462494b": {
+      "url": "https://jobs.ashbyhq.com/sandbar/f9d9661c-526c-42e1-9171-17c48e5e66f9",
+      "title": "Product Designer @ Sandbar",
+      "company": "Sandbar",
+      "first_seen": "2026-02-10T08:43:39.618348",
+      "fit_score": 88
+    },
+    "f77b6f2f1b5a8826": {
+      "url": "https://jobs.ashbyhq.com/sapiom/0be3119e-0314-4c56-91f4-af83e31769e3",
+      "title": "Product Designer @ Sapiom",
+      "company": "Sapiom",
+      "first_seen": "2026-02-10T08:43:49.163196",
+      "fit_score": 85
+    },
+    "573cacdef924ca24": {
+      "url": "https://jobs.ashbyhq.com/HighlightTA/49728a6e-d9e0-4522-bc87-fa40e2f4666c/application",
+      "title": "Product Designer @ HighlightTA",
+      "company": "Highlightta",
+      "first_seen": "2026-02-10T08:43:54.517565",
+      "fit_score": 82
+    },
+    "c9a73a758dbe96fc": {
+      "url": "https://jobs.ashbyhq.com/second-nature/d4043f6c-dcb4-48a2-80e7-de0dd5fdfb30",
+      "title": "Senior UX Designer @ Second Nature",
+      "company": "Second Nature",
+      "first_seen": "2026-02-10T08:44:10.264527",
+      "fit_score": 58
+    },
+    "4dd193c96d4b75c3": {
+      "url": "https://boards.greenhouse.io/esri/jobs/5038175007",
+      "title": "Sr. Product Designer - ArcGIS Dashboards",
+      "company": "Esri",
+      "first_seen": "2026-02-10T08:45:11.835520",
+      "fit_score": 35
+    },
+    "a58e8ed5a13a933c": {
+      "url": "https://jobs.lever.co/jobgether/b1e37d5c-87a8-458e-a00c-e298aad37c98",
+      "title": "Product Designer (Remote from US)",
+      "company": "Jobgether",
+      "first_seen": "2026-02-10T08:44:25.818873",
+      "fit_score": 85
+    },
+    "9167c7871d712432": {
+      "url": "https://jobs.ashbyhq.com/harvey/aa3ee516-84cb-4ad8-bcb0-61fb34fcb599",
+      "title": "Staff UX Researcher @ Harvey",
+      "company": "Harvey",
+      "first_seen": "2026-02-10T08:44:31.396213",
+      "fit_score": 82
+    },
+    "67a2207ed1bf5666": {
+      "url": "https://jobs.lever.co/jobgether/bfc64245-aba8-4ddd-9bb4-ccfadc22cd7b",
+      "title": "Product Designer - REMOTE",
+      "company": "Jobgether",
+      "first_seen": "2026-02-10T08:44:52.016719",
+      "fit_score": 88
+    },
+    "37d4872660f6c6b0": {
+      "url": "https://jobs.ashbyhq.com/patreon/316e1383-ffe1-4397-b630-c4ac84e6d7b5",
+      "title": "Product Designer, Discovery @ Patreon",
+      "company": "Patreon",
+      "first_seen": "2026-02-10T08:44:56.501735",
+      "fit_score": 45
+    },
+    "4ca7e6804e656906": {
+      "url": "https://jobs.workable.com/view/hfXneNpA1G1w4FUuyPDhw3/ux-designer---remote-(req.-%23745)-in-rochester-at-mindex",
+      "title": "UX Designer - Remote (Req. #745) | Mindex",
+      "company": "N/A",
+      "first_seen": "2026-02-10T08:45:22.515788",
+      "fit_score": 92
+    },
+    "da597765f4b6d82b": {
+      "url": "https://jobs.lever.co/flowlife/d8f1bf3a-d65d-407c-8b62-62b33ef9f849?lever-source%5B%5D=jobs.a16z.com",
+      "title": "Senior Product Designer",
+      "company": "Flowlife",
+      "first_seen": "2026-02-10T08:45:17.316997",
+      "fit_score": 68
+    },
+    "9719c86d5464ef51": {
+      "url": "https://apply.workable.com/aurora-3/j/D9A36DBB49/",
+      "title": "Product Designer (Mobile) - AURORA",
+      "company": "Aurora 3",
+      "first_seen": "2026-02-10T08:45:27.395769",
+      "fit_score": 88
+    },
+    "c2e84120df0a80c1": {
+      "url": "https://jobs.ashbyhq.com/synthesia/8b8c8ae0-3074-4087-94fa-0002c8894063?utm_source=careers_page",
+      "title": "Product Designer (Senior/Principal-level) @ Synthesia",
+      "company": "Synthesia",
+      "first_seen": "2026-02-10T08:45:32.574993",
+      "fit_score": 45
     }
   },
-  "last_updated": "2026-02-07T08:25:01.601835"
+  "last_updated": "2026-02-10T08:45:32.576622"
 }
