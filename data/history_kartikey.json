@@ -636,7 +636,7 @@
       "url": "https://jobs.ashbyhq.com/tessera-labs/ea05dfd6-92d7-4ccc-aa53-2f31a85928c5",
       "title": "Product Manager @ Tessera Labs",
       "company": "Tessera Labs",
-      "first_seen": "2026-02-10T08:40:41.386149",
+      "first_seen": "2026-02-14T08:20:57.645324",
       "ai_fit_score": 92,
       "sustainability_fit_score": 72
     },
@@ -676,7 +676,7 @@
       "url": "https://jobs.ashbyhq.com/sana-roles/05167c0a-38b0-4b00-9854-d2b8cd15e047?utm_source=careers.nea.com",
       "title": "Product Manager (Agents) @ Sana",
       "company": "Sana Roles",
-      "first_seen": "2026-02-10T08:41:31.769933",
+      "first_seen": "2026-02-14T08:23:25.204621",
       "ai_fit_score": 72,
       "sustainability_fit_score": 42
     },
@@ -924,7 +924,7 @@
       "url": "https://jobs.ashbyhq.com/tem/a0a2f37d-19ab-4357-817b-cefdeffc9375",
       "title": "AI First Growth Specialist @ tem",
       "company": "Tem",
-      "first_seen": "2026-01-24T08:16:36.121689",
+      "first_seen": "2026-02-14T08:21:32.113077",
       "ai_fit_score": 92,
       "sustainability_fit_score": 45
     },
@@ -1036,7 +1036,7 @@
       "url": "https://jobs.ashbyhq.com/evenup/79b4f026-2bdc-4134-a076-84b0c024113b",
       "title": "Director of Machine Learning @ EvenUp",
       "company": "Evenup",
-      "first_seen": "2026-02-10T08:40:57.675111",
+      "first_seen": "2026-02-14T08:22:55.966733",
       "ai_fit_score": 45,
       "sustainability_fit_score": 15
     },
@@ -1364,7 +1364,7 @@
       "url": "https://jobs.ashbyhq.com/1password/46cad1cc-8f2a-427a-9090-5643a701f61b",
       "title": "Senior Director Engineering, AI and Developer @ 1Password",
       "company": "1Password",
-      "first_seen": "2026-02-10T08:40:24.384984",
+      "first_seen": "2026-02-14T08:20:49.397257",
       "ai_fit_score": 45,
       "sustainability_fit_score": 25
     },
@@ -1396,16 +1396,16 @@
       "url": "https://jobs.ashbyhq.com/character/0d291945-66fc-464c-9397-99130369a383",
       "title": "Character.AI - Product Manager, Activation & Growth",
       "company": "Character",
-      "first_seen": "2026-02-07T08:20:41.002617",
-      "ai_fit_score": 72,
+      "first_seen": "2026-02-14T08:22:12.507086",
+      "ai_fit_score": 45,
       "sustainability_fit_score": 35
     },
     "fbc4a366870bf97a": {
       "url": "https://jobs.ashbyhq.com/platoapp/0ea6bfb7-89ef-4910-8bdf-832bbc5244c7",
       "title": "Product Manager (AI Focus) @ Plato",
       "company": "Platoapp",
-      "first_seen": "2026-02-10T08:41:40.367473",
-      "ai_fit_score": 88,
+      "first_seen": "2026-02-14T08:21:48.477721",
+      "ai_fit_score": 85,
       "sustainability_fit_score": 45
     },
     "ee2d8f20ec9b0098": {
@@ -1436,7 +1436,7 @@
       "url": "https://jobs.ashbyhq.com/valkai/45c9113c-f145-4afc-bca4-442119b3b420",
       "title": "AI Strategy @ Valkai",
       "company": "Valkai",
-      "first_seen": "2026-02-10T08:39:10.455516",
+      "first_seen": "2026-02-14T08:20:08.498099",
       "ai_fit_score": 95,
       "sustainability_fit_score": 45
     },
@@ -1460,7 +1460,7 @@
       "url": "https://jobs.ashbyhq.com/replit/1e1a651f-693d-4f9d-bfd9-280a50d28d13",
       "title": "Staff Technical Program Manager, AI / Agent Systems",
       "company": "Replit",
-      "first_seen": "2026-02-10T08:39:35.477553",
+      "first_seen": "2026-02-14T08:20:17.131155",
       "ai_fit_score": 45,
       "sustainability_fit_score": 35
     },
@@ -1487,9 +1487,121 @@
       "first_seen": "2026-02-10T08:42:06.318150",
       "ai_fit_score": 88,
       "sustainability_fit_score": 72
+    },
+    "facf45602ff6d5ea": {
+      "url": "https://jobs.ashbyhq.com/laurel/33be981a-ff33-4243-bc07-499e85ce1839",
+      "title": "AI Ops & Strategy, Generalist @ Laurel",
+      "company": "Laurel",
+      "first_seen": "2026-02-14T08:20:26.040951",
+      "ai_fit_score": 92,
+      "sustainability_fit_score": 35
+    },
+    "c1684921dbac1df2": {
+      "url": "https://jobs.ashbyhq.com/ema/afe8daf3-0c35-4b8a-92a1-d8ca1fc7d450",
+      "title": "Agent Product Manager @ Ema",
+      "company": "Ema",
+      "first_seen": "2026-02-14T08:20:33.859719",
+      "ai_fit_score": 92,
+      "sustainability_fit_score": 45
+    },
+    "1b63235078eeaff4": {
+      "url": "https://jobs.ashbyhq.com/everops/b8cabae8-ae0e-4514-ba95-aac08dea8c62",
+      "title": "AI Platform Architect @ EverOps",
+      "company": "Everops",
+      "first_seen": "2026-02-14T08:20:41.972399",
+      "ai_fit_score": 72,
+      "sustainability_fit_score": 35
+    },
+    "27b615aa100ebd9e": {
+      "url": "https://jobs.ashbyhq.com/vanta/b3008eb1-49db-4e7b-8f79-388f6da78200",
+      "title": "Program Manager, Upmarket Education @ Vanta",
+      "company": "Vanta",
+      "first_seen": "2026-02-14T08:21:06.769990",
+      "ai_fit_score": 42,
+      "sustainability_fit_score": 35
+    },
+    "93d97e468b0cf59a": {
+      "url": "https://jobs.ashbyhq.com/hellopatient/fc288f14-e1ce-4d33-93c2-b91f2f0422f8/application",
+      "title": "AI Agent Product Manager @ Hello Patient",
+      "company": "Hellopatient",
+      "first_seen": "2026-02-14T08:21:15.262236",
+      "ai_fit_score": 92,
+      "sustainability_fit_score": 82
+    },
+    "d7ee129da797d870": {
+      "url": "https://jobs.ashbyhq.com/harperinsure/52fae06b-fcab-49c9-b832-65afe6578fb3",
+      "title": "Future AI Founder @ Harper",
+      "company": "Harperinsure",
+      "first_seen": "2026-02-14T08:21:40.009151",
+      "ai_fit_score": 35,
+      "sustainability_fit_score": 35
+    },
+    "ce75a47bc86e7ad3": {
+      "url": "https://jobs.ashbyhq.com/claylabs/749a6373-0979-424a-abc9-9cfc511a5e44",
+      "title": "Product Manager, Enrichment & AI @ Clay Labs",
+      "company": "Claylabs",
+      "first_seen": "2026-02-14T08:21:56.347509",
+      "ai_fit_score": 72,
+      "sustainability_fit_score": 42
+    },
+    "95014204e3cf42b4": {
+      "url": "https://jobs.ashbyhq.com/unify/fb1e97d7-d1f0-404f-b38e-51b42618292a",
+      "title": "Senior Product Manager @ Unify",
+      "company": "Unify",
+      "first_seen": "2026-02-14T08:22:04.351419",
+      "ai_fit_score": 45,
+      "sustainability_fit_score": 35
+    },
+    "583ffd1a956a3580": {
+      "url": "https://jobs.ashbyhq.com/replit/705620d0-74cd-4628-89c0-1e1bf39a998a",
+      "title": "Growth Product Manager @ Replit",
+      "company": "Replit",
+      "first_seen": "2026-02-14T08:22:20.680628",
+      "ai_fit_score": 85,
+      "sustainability_fit_score": 35
+    },
+    "47002febf404d8a1": {
+      "url": "https://jobs.ashbyhq.com/tenex/5bbf062f-1809-42b1-ab9b-1d7ccbed511f",
+      "title": "Director of AI/ML @ TENEX.AI",
+      "company": "Tenex",
+      "first_seen": "2026-02-14T08:22:28.973248",
+      "ai_fit_score": 45,
+      "sustainability_fit_score": 25
+    },
+    "a41c4be83ab408fa": {
+      "url": "https://jobs.ashbyhq.com/listenlabs/f67f1521-ed0b-4185-94c1-fe60aef923f9",
+      "title": "Founding Product Manager @ Listen Labs",
+      "company": "Listenlabs",
+      "first_seen": "2026-02-14T08:22:37.485922",
+      "ai_fit_score": 85,
+      "sustainability_fit_score": 72
+    },
+    "707e0bbf67421a3d": {
+      "url": "https://jobs.ashbyhq.com/handshake/3f81effc-91b6-4464-aa9c-9766e7d7c655",
+      "title": "Senior Product Manager, Operator Experience",
+      "company": "Handshake",
+      "first_seen": "2026-02-14T08:22:47.746548",
+      "ai_fit_score": 72,
+      "sustainability_fit_score": 42
+    },
+    "290f303c7263b5a9": {
+      "url": "https://boards.greenhouse.io/samsara/jobs/7595219",
+      "title": "AI Specialist - Marketing Operations - Remote - CA",
+      "company": "Samsara",
+      "first_seen": "2026-02-14T08:23:04.494778",
+      "ai_fit_score": 92,
+      "sustainability_fit_score": 35
+    },
+    "d7122f3be047796d": {
+      "url": "https://jobs.ashbyhq.com/vic.ai/4309ca5d-deae-4be0-bb92-e799e1fc332f",
+      "title": "Vic.ai - Product Manager",
+      "company": "Vic.Ai",
+      "first_seen": "2026-02-14T08:23:12.754319",
+      "ai_fit_score": 95,
+      "sustainability_fit_score": 45
     }
   },
-  "last_updated": "2026-02-10T08:42:15.880200",
+  "last_updated": "2026-02-14T08:23:25.206777",
   "metadata": {
     "version": "1.0",
     "description": "Tracks jobs that have been analyzed to avoid duplicates"

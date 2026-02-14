@@ -321,7 +321,41 @@
       "total_searched": 25,
       "new_jobs_found": 25,
       "jobs_analyzed": 25
+    },
+    {
+      "timestamp": "2026-02-14T08:18:47.116390",
+      "trigger": "schedule",
+      "job_ids": [
+        "2dfd212e8be62c98",
+        "c674a9ddeb297fbd",
+        "facf45602ff6d5ea",
+        "c1684921dbac1df2",
+        "1b63235078eeaff4",
+        "2114c955727dd68a",
+        "c790f89ca08011c4",
+        "27b615aa100ebd9e",
+        "93d97e468b0cf59a",
+        "64538ad9fb163fa6",
+        "64538ad9fb163fa6",
+        "d7ee129da797d870",
+        "fbc4a366870bf97a",
+        "ce75a47bc86e7ad3",
+        "95014204e3cf42b4",
+        "c912b5ab7c0ae289",
+        "583ffd1a956a3580",
+        "47002febf404d8a1",
+        "a41c4be83ab408fa",
+        "707e0bbf67421a3d",
+        "d86e87e844a1aed1",
+        "290f303c7263b5a9",
+        "d7122f3be047796d",
+        "4d6518604e7020ef"
+      ],
+      "jobs_in_results": 24,
+      "total_searched": 25,
+      "new_jobs_found": 25,
+      "jobs_analyzed": 24
     }
   ],
-  "last_updated": "2026-02-10T08:37:40.618619"
+  "last_updated": "2026-02-14T08:18:47.116390"
 }
