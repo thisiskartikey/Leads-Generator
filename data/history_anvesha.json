@@ -578,7 +578,7 @@
       "url": "https://jobs.ashbyhq.com/hiive/574d0653-6f71-4d82-9f11-05d74c003c07",
       "title": "Product Designer @ Hiive",
       "company": "Hiive",
-      "first_seen": "2026-02-17T08:39:39.123130",
+      "first_seen": "2026-02-21T08:24:29.026753",
       "fit_score": 82
     },
     "9aaaab77d86287af": {
@@ -592,8 +592,8 @@
       "url": "https://jobs.ashbyhq.com/noda-ai/623d05a3-e32e-4159-baa0-f992d5873e5a?ref=designjobs.careers",
       "title": "Product Designer – NODA AI",
       "company": "Noda Ai",
-      "first_seen": "2026-02-10T08:45:01.566029",
-      "fit_score": 72
+      "first_seen": "2026-02-21T08:25:03.054637",
+      "fit_score": 35
     },
     "171effc0a813aaad": {
       "url": "https://jobs.ashbyhq.com/stable/2f59875b-aab0-4fdc-8450-23afddad1aff",
@@ -606,14 +606,14 @@
       "url": "https://jobs.ashbyhq.com/preql/889f09fb-8562-436b-9b15-30d7d56caae7",
       "title": "Product Designer @ Preql AI",
       "company": "Preql",
-      "first_seen": "2026-02-14T08:25:20.335208",
+      "first_seen": "2026-02-21T08:24:43.954794",
       "fit_score": 88
     },
     "441202320a65a143": {
       "url": "https://jobs.ashbyhq.com/reflow/772363f3-791d-4e04-9550-85e7a4cc6a5c",
       "title": "Lead Product Designer @ Reflow",
       "company": "Reflow",
-      "first_seen": "2026-02-17T08:39:48.842111",
+      "first_seen": "2026-02-21T08:24:38.347488",
       "fit_score": 45
     },
     "8bbe1370b092a13e": {
@@ -648,15 +648,15 @@
       "url": "https://jobs.ashbyhq.com/sandbar/f9d9661c-526c-42e1-9171-17c48e5e66f9",
       "title": "Product Designer @ Sandbar",
       "company": "Sandbar",
-      "first_seen": "2026-02-17T08:39:44.287500",
+      "first_seen": "2026-02-21T08:24:33.511455",
       "fit_score": 88
     },
     "f77b6f2f1b5a8826": {
       "url": "https://jobs.ashbyhq.com/sapiom/0be3119e-0314-4c56-91f4-af83e31769e3",
       "title": "Product Designer @ Sapiom",
       "company": "Sapiom",
-      "first_seen": "2026-02-14T08:24:44.040290",
-      "fit_score": 88
+      "first_seen": "2026-02-21T08:25:23.582526",
+      "fit_score": 85
     },
     "573cacdef924ca24": {
       "url": "https://jobs.ashbyhq.com/HighlightTA/49728a6e-d9e0-4522-bc87-fa40e2f4666c/application",
@@ -669,14 +669,14 @@
       "url": "https://jobs.ashbyhq.com/second-nature/d4043f6c-dcb4-48a2-80e7-de0dd5fdfb30",
       "title": "Senior UX Designer @ Second Nature",
       "company": "Second Nature",
-      "first_seen": "2026-02-17T08:40:13.809068",
+      "first_seen": "2026-02-21T08:24:58.624548",
       "fit_score": 88
     },
     "4dd193c96d4b75c3": {
       "url": "https://boards.greenhouse.io/esri/jobs/5038175007",
       "title": "Sr. Product Designer - ArcGIS Dashboards",
       "company": "Esri",
-      "first_seen": "2026-02-10T08:45:11.835520",
+      "first_seen": "2026-02-21T08:25:33.990063",
       "fit_score": 35
     },
     "a58e8ed5a13a933c": {
@@ -718,7 +718,7 @@
       "url": "https://jobs.lever.co/flowlife/d8f1bf3a-d65d-407c-8b62-62b33ef9f849?lever-source%5B%5D=jobs.a16z.com",
       "title": "Senior Product Designer",
       "company": "Flowlife",
-      "first_seen": "2026-02-14T08:26:17.264984",
+      "first_seen": "2026-02-21T08:25:39.080739",
       "fit_score": 92
     },
     "9719c86d5464ef51": {
@@ -746,7 +746,7 @@
       "url": "https://apply.workable.com/hospitable/j/56CFE0BC48",
       "title": "Staff UI/UX Product Designer (USA/EMEA - Remote)",
       "company": "Hospitable",
-      "first_seen": "2026-02-17T08:38:44.445958",
+      "first_seen": "2026-02-21T08:24:23.968612",
       "fit_score": 68
     },
     "deafb49751ffc313": {
@@ -788,7 +788,7 @@
       "url": "https://apply.workable.com/hospitable/j/56CFE0BC48/apply/",
       "title": "Staff UI/UX Product Designer (USA/EMEA - Remote)",
       "company": "Hospitable",
-      "first_seen": "2026-02-14T08:26:12.400320",
+      "first_seen": "2026-02-21T08:25:44.323098",
       "fit_score": 45
     },
     "9a4836eb1532ea95": {
@@ -860,7 +860,63 @@
       "company": "Vanta",
       "first_seen": "2026-02-17T08:40:42.405988",
       "fit_score": 72
+    },
+    "3a89a7f7fe47cd6c": {
+      "url": "https://jobs.ashbyhq.com/binance.us/6b79e4ce-0ecf-47f9-af89-e52c864f49ec",
+      "title": "Product Designer @ Binance.US",
+      "company": "Binance.Us",
+      "first_seen": "2026-02-21T08:23:46.426840",
+      "fit_score": 88
+    },
+    "c276c9dc082651ed": {
+      "url": "https://jobs.lever.co/vrchat/a45b0cb7-8d16-45e4-a35d-def0bf980b15",
+      "title": "Product Designer, Creators",
+      "company": "Vrchat",
+      "first_seen": "2026-02-21T08:23:56.691008",
+      "fit_score": 85
+    },
+    "6d9af98f01af4170": {
+      "url": "https://jobs.ashbyhq.com/close/39115486-07d1-4e6a-9480-e7786a168fe4",
+      "title": "Staff Product Designer, Growth (USA Only - 100% Remote)",
+      "company": "Close",
+      "first_seen": "2026-02-21T08:24:01.878253",
+      "fit_score": 72
+    },
+    "386110664c3e8aea": {
+      "url": "https://apply.workable.com/enroute/j/D0759F4BC0",
+      "title": "UX Designer - Enroute",
+      "company": "Enroute",
+      "first_seen": "2026-02-21T08:24:07.419223",
+      "fit_score": 85
+    },
+    "25fdb6b14a862040": {
+      "url": "https://jobs.ashbyhq.com/Crusoe/44579dd9-d91f-4ab6-b0c7-e3eb788afd32",
+      "title": "Product Designer (SF/Sunnyvale) @ Crusoe",
+      "company": "Crusoe",
+      "first_seen": "2026-02-21T08:24:12.438504",
+      "fit_score": 92
+    },
+    "38b6eeb7ea2a5332": {
+      "url": "https://jobs.lever.co/vrchat/07c86e97-a01d-4fd9-979c-03075c437127",
+      "title": "Senior Product Designer, Experience (Social Core)",
+      "company": "Vrchat",
+      "first_seen": "2026-02-21T08:24:49.022350",
+      "fit_score": 82
+    },
+    "c83d94f7fbf95946": {
+      "url": "https://jobs.workable.com/view/bCPma2KgEDsZdPD1Wb4RWW/hybrid-product-designer-in-nashville-at-theinclab",
+      "title": "Product Designer | TheIncLab | Jobs By Workable",
+      "company": "N/A",
+      "first_seen": "2026-02-21T08:24:53.718856",
+      "fit_score": 88
+    },
+    "ea1e2a0f2eb783b0": {
+      "url": "https://jobs.workable.com/view/nUwuXCcwFDRCzpS1eWBKmX/remote-senior-ui%2Fux-designer-in-united-states-at-weekday-ai",
+      "title": "Senior UI/UX Designer | Weekday AI",
+      "company": "N/A",
+      "first_seen": "2026-02-21T08:25:28.496435",
+      "fit_score": 68
     }
   },
-  "last_updated": "2026-02-17T08:40:47.196749"
+  "last_updated": "2026-02-21T08:25:44.325105"
 }
