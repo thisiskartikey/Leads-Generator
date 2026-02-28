@@ -424,7 +424,7 @@
       "url": "https://jobs.ashbyhq.com/intus/13777068-4374-47fe-8aa3-858de1c2ab2a",
       "title": "Senior UX Researcher @ IntusCare",
       "company": "Intus",
-      "first_seen": "2026-02-24T08:42:16.539910",
+      "first_seen": "2026-02-28T08:23:16.406526",
       "fit_score": 45
     },
     "b1f1c574372ee83e": {
@@ -578,7 +578,7 @@
       "url": "https://jobs.ashbyhq.com/hiive/574d0653-6f71-4d82-9f11-05d74c003c07",
       "title": "Product Designer @ Hiive",
       "company": "Hiive",
-      "first_seen": "2026-02-21T08:24:29.026753",
+      "first_seen": "2026-02-28T08:22:19.046689",
       "fit_score": 82
     },
     "9aaaab77d86287af": {
@@ -648,7 +648,7 @@
       "url": "https://jobs.ashbyhq.com/sandbar/f9d9661c-526c-42e1-9171-17c48e5e66f9",
       "title": "Product Designer @ Sandbar",
       "company": "Sandbar",
-      "first_seen": "2026-02-24T08:40:42.602095",
+      "first_seen": "2026-02-28T08:22:25.743221",
       "fit_score": 85
     },
     "f77b6f2f1b5a8826": {
@@ -676,7 +676,7 @@
       "url": "https://boards.greenhouse.io/esri/jobs/5038175007",
       "title": "Sr. Product Designer - ArcGIS Dashboards",
       "company": "Esri",
-      "first_seen": "2026-02-21T08:25:33.990063",
+      "first_seen": "2026-02-28T08:22:53.964442",
       "fit_score": 35
     },
     "a58e8ed5a13a933c": {
@@ -746,7 +746,7 @@
       "url": "https://apply.workable.com/hospitable/j/56CFE0BC48",
       "title": "Staff UI/UX Product Designer (USA/EMEA - Remote)",
       "company": "Hospitable",
-      "first_seen": "2026-02-24T08:40:35.559678",
+      "first_seen": "2026-02-28T08:22:49.389225",
       "fit_score": 68
     },
     "deafb49751ffc313": {
@@ -788,7 +788,7 @@
       "url": "https://apply.workable.com/hospitable/j/56CFE0BC48/apply/",
       "title": "Staff UI/UX Product Designer (USA/EMEA - Remote)",
       "company": "Hospitable",
-      "first_seen": "2026-02-21T08:25:44.323098",
+      "first_seen": "2026-02-28T08:23:40.870412",
       "fit_score": 45
     },
     "9a4836eb1532ea95": {
@@ -865,7 +865,7 @@
       "url": "https://jobs.ashbyhq.com/binance.us/6b79e4ce-0ecf-47f9-af89-e52c864f49ec",
       "title": "Product Designer @ Binance.US",
       "company": "Binance.Us",
-      "first_seen": "2026-02-24T08:40:06.717630",
+      "first_seen": "2026-02-28T08:21:50.294710",
       "fit_score": 92
     },
     "c276c9dc082651ed": {
@@ -886,14 +886,14 @@
       "url": "https://apply.workable.com/enroute/j/D0759F4BC0",
       "title": "UX Designer - Enroute",
       "company": "Enroute",
-      "first_seen": "2026-02-21T08:24:07.419223",
+      "first_seen": "2026-02-28T08:22:39.043462",
       "fit_score": 85
     },
     "25fdb6b14a862040": {
       "url": "https://jobs.ashbyhq.com/Crusoe/44579dd9-d91f-4ab6-b0c7-e3eb788afd32",
       "title": "Product Designer (SF/Sunnyvale) @ Crusoe",
       "company": "Crusoe",
-      "first_seen": "2026-02-21T08:24:12.438504",
+      "first_seen": "2026-02-28T08:22:14.240906",
       "fit_score": 92
     },
     "38b6eeb7ea2a5332": {
@@ -921,7 +921,7 @@
       "url": "https://jobs.ashbyhq.com/netic/2b65d752-605f-4ccc-a25e-c7a8b18c191e",
       "title": "Product Designer @ Netic",
       "company": "Netic",
-      "first_seen": "2026-02-24T08:40:17.388593",
+      "first_seen": "2026-02-28T08:22:08.914619",
       "fit_score": 92
     },
     "bddacc4589d77dab": {
@@ -942,14 +942,14 @@
       "url": "https://jobs.ashbyhq.com/pivotal-health/8884c8a7-b140-4fd9-9334-0610cb38c9a2",
       "title": "Founding Product Designer @ Pivotal Health",
       "company": "Pivotal Health",
-      "first_seen": "2026-02-24T08:41:12.218319",
+      "first_seen": "2026-02-28T08:23:56.592011",
       "fit_score": 82
     },
     "ee87f7853dde5f4d": {
       "url": "https://jobs.ashbyhq.com/feathr/d7c675d2-358a-43b7-96a5-37f98548907a",
       "title": "Product Designer @ Feathr",
       "company": "Feathr",
-      "first_seen": "2026-02-24T08:41:18.868118",
+      "first_seen": "2026-02-28T08:23:05.667591",
       "fit_score": 85
     },
     "d0ced4c4aac006d2": {
@@ -986,7 +986,84 @@
       "company": "Unblu",
       "first_seen": "2026-02-24T08:42:28.376620",
       "fit_score": 88
+    },
+    "0eb6fe95b76b8bf6": {
+      "url": "https://jobs.ashbyhq.com/assembledhq/1b24a2ec-a55d-45c0-8ca0-ad3d1546d773",
+      "title": "Product Designer (Experienced) @ Assembled",
+      "company": "Assembledhq",
+      "first_seen": "2026-02-28T08:21:57.047030",
+      "fit_score": 82
+    },
+    "755dcc0f841602a5": {
+      "url": "https://jobs.lever.co/h1/67f12730-96c2-4695-b1b7-415fa7d31a7c",
+      "title": "Product Designer",
+      "company": "H1",
+      "first_seen": "2026-02-28T08:22:03.382218",
+      "fit_score": 92
+    },
+    "dc431fa1d7a1a53d": {
+      "url": "https://jobs.ashbyhq.com/openai/697696a5-6f62-4898-9629-c31c7857959d",
+      "title": "Product Designer, Codex @ OpenAI",
+      "company": "Openai",
+      "first_seen": "2026-02-28T08:22:32.422308",
+      "fit_score": 82
+    },
+    "d7614f0d3ea79880": {
+      "url": "https://apply.workable.com/pearltalent/j/390495AA69",
+      "title": "UI/UX Designer - REMOTE - AP007 - Pearl",
+      "company": "Pearltalent",
+      "first_seen": "2026-02-28T08:22:43.612501",
+      "fit_score": 82
+    },
+    "75ab1b0962f55f27": {
+      "url": "https://jobs.workable.com/view/v7moueGkw4DixzMCL5EmCd/remote-senior-product-designer-(end-to-end%2C-ux-first)-in-united-states-at-jersey-watch",
+      "title": "Senior Product Designer (End-to-End, UX-first)",
+      "company": "N/A",
+      "first_seen": "2026-02-28T08:22:58.501812",
+      "fit_score": 82
+    },
+    "958c04f98b4b646a": {
+      "url": "https://jobs.ashbyhq.com/dandy/b8f5bf51-393b-40ad-bab1-2781e3549323",
+      "title": "Product Designer, Chairside and Product Lines Team",
+      "company": "Dandy",
+      "first_seen": "2026-02-28T08:23:11.657969",
+      "fit_score": 82
+    },
+    "b592b1e8f6f3566c": {
+      "url": "https://jobs.ashbyhq.com/super.com/94c0bd48-9e5a-43aa-b797-d082c8c2e530",
+      "title": "Senior Product Designer, Core Experiences @ Super.com",
+      "company": "Super.Com",
+      "first_seen": "2026-02-28T08:23:24.114431",
+      "fit_score": 68
+    },
+    "bb76fb54b0b5e3ac": {
+      "url": "https://jobs.lever.co/pattern/2938a985-98be-453f-8185-20f51e471bbe",
+      "title": "Senior UX Designer",
+      "company": "Pattern",
+      "first_seen": "2026-02-28T08:23:28.936555",
+      "fit_score": 88
+    },
+    "8234808bbc38fd69": {
+      "url": "https://apply.workable.com/koothjobs/j/2570C6F1C9",
+      "title": "UX Designer - Kooth",
+      "company": "Koothjobs",
+      "first_seen": "2026-02-28T08:23:45.405658",
+      "fit_score": 85
+    },
+    "c0179f45f8053362": {
+      "url": "https://jobs.workable.com/view/9y8cDcCtvYd9Zhg6i1ruKn/hybrid-fbs---sr-ux-designer-in-s%C3%A3o-paulo-at-capgemini",
+      "title": "FBS - Sr UX Designer | Capgemini",
+      "company": "N/A",
+      "first_seen": "2026-02-28T08:23:51.506017",
+      "fit_score": 72
+    },
+    "88aa22679c409196": {
+      "url": "https://jobs.workable.com/view/wnP5xmnbdTmGCRL6fL9Dio/hybrid-ui%2Fux-designer-in-raleigh-at-zone-it-solutions?utm_source=bandana",
+      "title": "UI/UX Designer | Zone IT Solutions",
+      "company": "N/A",
+      "first_seen": "2026-02-28T08:24:02.367675",
+      "fit_score": 92
     }
   },
-  "last_updated": "2026-02-24T08:42:33.895066"
+  "last_updated": "2026-02-28T08:24:02.369834"
 }
