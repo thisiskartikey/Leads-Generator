@@ -1,14 +1,54 @@
 {
   "jobs": [
     {
+      "title": "Web UI/UX Designer (Remote, United States EST/CST)",
+      "company": "N/A",
+      "location": "N/A",
+      "description": "",
+      "url": "https://jobs.workable.com/view/wVw871HrAzKzSX4QeXbgcC/web-ui%2Fux-designer-(remote%2C-united-states-est%2Fcst)-in-united-states-at-m-files",
+      "source": "workable",
+      "posted_date": "2026-04-14T09:08:49.865522",
+      "scraped_at": "2026-04-14T09:08:49.865528",
+      "search_snippet": "Web UI/UX Designer (Remote, United States EST/CST). at M-Files. RemoteUnited ... At M-Files, our Guiding Principles unite us across diverse cultures and ...",
+      "search_title": "Web UI/UX Designer (Remote, United States EST/CST)",
+      "anvesha_analysis": {
+        "fit_score": 0,
+        "category": "Unknown",
+        "justification": "Analysis failed",
+        "positioning_advice": "Could not analyze this job"
+      },
+      "job_id": "06e2ade5a5c4f67e",
+      "days_old": 0
+    },
+    {
+      "title": "Senior UI/UX Designer @ ARB Interactive - Jobs",
+      "company": "Arb Interactive",
+      "location": "N/A",
+      "description": "",
+      "url": "https://jobs.ashbyhq.com/arb-interactive/651157c2-4aae-4831-8238-06b48a3b7dfb",
+      "source": "ashby",
+      "posted_date": "2026-04-14T09:08:52.258147",
+      "scraped_at": "2026-04-14T09:08:52.258155",
+      "search_snippet": "Senior UI/UX Designer ; Location. United States ; Employment Type. Full time ; Location Type. Remote ; Department. ProductProduct Design.",
+      "search_title": "Senior UI/UX Designer @ ARB Interactive - Jobs",
+      "anvesha_analysis": {
+        "fit_score": 0,
+        "category": "Unknown",
+        "justification": "Analysis failed",
+        "positioning_advice": "Could not analyze this job"
+      },
+      "job_id": "3367476ec1fdd0ab",
+      "days_old": 0
+    },
+    {
       "title": "Product UX Designer - Diversified Services Network, Inc.",
       "company": "Dsn",
       "location": "N/A",
       "description": "",
       "url": "https://apply.workable.com/dsn/j/490AD5E6D5",
       "source": "workable",
-      "posted_date": "2026-04-11T08:31:15.687182",
-      "scraped_at": "2026-04-11T08:31:15.687191",
+      "posted_date": "2026-04-14T09:09:00.173035",
+      "scraped_at": "2026-04-14T09:09:00.173043",
       "search_snippet": "Diversified Services Network, Inc. Product UX Designer. HybridFull time192462. Broomfield, Colorado, United States.",
       "search_title": "Product UX Designer - Diversified Services Network, Inc.",
       "anvesha_analysis": {
@@ -21,23 +61,63 @@
       "days_old": 0
     },
     {
-      "title": "Product UX Designer | Diversified Services Network, Inc.",
-      "company": "N/A",
+      "title": "Product Designer | Senior @ Nord Security",
+      "company": "Nord Security",
       "location": "N/A",
       "description": "",
-      "url": "https://jobs.workable.com/view/s38GSK4xH78fGR9EyMGB7v/hybrid-product-ux-designer-in-dallas-at-diversified-services-network%2C-inc.",
-      "source": "workable",
-      "posted_date": "2026-04-11T08:31:17.866533",
-      "scraped_at": "2026-04-11T08:31:17.866540",
-      "search_snippet": "Product UX Designer. at Diversified Services Network, Inc. HybridDallas, Texas, United StatesFull-time.",
-      "search_title": "Product UX Designer | Diversified Services Network, Inc.",
+      "url": "https://jobs.ashbyhq.com/nord-security/86c9a4c2-48ff-457e-8738-a86445ed2572",
+      "source": "ashby",
+      "posted_date": "2026-04-14T09:09:02.763485",
+      "scraped_at": "2026-04-14T09:09:02.763493",
+      "search_snippet": "... Product Designer to join our NordVPN Apps Design ... us all do the best work and grow together. Core Requirements - - Experience: 4+ years in product design ...",
+      "search_title": "Product Designer | Senior @ Nord Security",
       "anvesha_analysis": {
         "fit_score": 0,
         "category": "Unknown",
         "justification": "Analysis failed",
         "positioning_advice": "Could not analyze this job"
       },
-      "job_id": "2f4c81f72d015270",
+      "job_id": "aad9f9c8e7fa7c37",
+      "days_old": 0
+    },
+    {
+      "title": "Product Designer @ Promise",
+      "company": "Promise",
+      "location": "N/A",
+      "description": "",
+      "url": "https://jobs.ashbyhq.com/promise/8ca35784-e670-40ef-927f-d5578c678de0",
+      "source": "ashby",
+      "posted_date": "2026-04-14T09:09:05.102114",
+      "scraped_at": "2026-04-14T09:09:05.102121",
+      "search_snippet": "... interaction design, steward our design system, and help transform real ... US persons, which includes US citizens and permanent residents (",
+      "search_title": "Product Designer @ Promise",
+      "anvesha_analysis": {
+        "fit_score": 0,
+        "category": "Unknown",
+        "justification": "Analysis failed",
+        "positioning_advice": "Could not analyze this job"
+      },
+      "job_id": "5a182f62218b0813",
+      "days_old": 0
+    },
+    {
+      "title": "Senior UX Researcher @ Super.com",
+      "company": "Super.Com",
+      "location": "N/A",
+      "description": "",
+      "url": "https://jobs.ashbyhq.com/super.com/d44842b8-0c52-4fa0-8f39-bbf6b220e0a2",
+      "source": "ashby",
+      "posted_date": "2026-04-14T09:09:07.330808",
+      "scraped_at": "2026-04-14T09:09:07.330816",
+      "search_snippet": "Senior UX Researcher. Location. United States; Canada. Employment Type. Full time. Location Type. Remote ...",
+      "search_title": "Senior UX Researcher @ Super.com",
+      "anvesha_analysis": {
+        "fit_score": 0,
+        "category": "Unknown",
+        "justification": "Analysis failed",
+        "positioning_advice": "Could not analyze this job"
+      },
+      "job_id": "f7e7143ad5698d96",
       "days_old": 0
     },
     {
@@ -47,8 +127,8 @@
       "description": "",
       "url": "https://jobs.ashbyhq.com/picogrid/95f4655f-d513-4888-94c2-a0de539ec004",
       "source": "ashby",
-      "posted_date": "2026-04-11T08:31:20.140237",
-      "scraped_at": "2026-04-11T08:31:20.140246",
+      "posted_date": "2026-04-14T09:09:09.559123",
+      "scraped_at": "2026-04-14T09:09:09.559130",
       "search_snippet": "... United States and its allies. ABOUT THE ROLE As a Product Designer at ... user experience and help set and maintain experience quality standards across ...",
       "search_title": "Product Designer @ Picogrid",
       "anvesha_analysis": {
@@ -61,114 +141,14 @@
       "days_old": 0
     },
     {
-      "title": "Senior UX Designer @ ARB Interactive - Jobs",
-      "company": "Arb Interactive",
-      "location": "N/A",
-      "description": "",
-      "url": "https://jobs.ashbyhq.com/arb-interactive/651157c2-4aae-4831-8238-06b48a3b7dfb",
-      "source": "ashby",
-      "posted_date": "2026-04-11T08:31:22.445815",
-      "scraped_at": "2026-04-11T08:31:22.445826",
-      "search_snippet": "5+ years of experience in UI/UX design, with a strong portfolio demonstrating end-to-end product design on mobile platforms. · Deep understanding of mobile ...",
-      "search_title": "Senior UX Designer @ ARB Interactive - Jobs",
-      "anvesha_analysis": {
-        "fit_score": 0,
-        "category": "Unknown",
-        "justification": "Analysis failed",
-        "positioning_advice": "Could not analyze this job"
-      },
-      "job_id": "c986267aa2a356f1",
-      "days_old": 0
-    },
-    {
-      "title": "Product Designer @ Creatify Lab Inc",
-      "company": "Creatify",
-      "location": "N/A",
-      "description": "",
-      "url": "https://jobs.ashbyhq.com/creatify/61eb9907-3092-4ee2-a7de-ab0261f5f68f",
-      "source": "ashby",
-      "posted_date": "2026-04-11T08:31:24.680430",
-      "scraped_at": "2026-04-11T08:31:24.680439",
-      "search_snippet": "... us in reinventing the ... Ability to simplify complex ideas into clear, intuitive experiences. Strong interest in product design, user experience, and craft.",
-      "search_title": "Product Designer @ Creatify Lab Inc",
-      "anvesha_analysis": {
-        "fit_score": 0,
-        "category": "Unknown",
-        "justification": "Analysis failed",
-        "positioning_advice": "Could not analyze this job"
-      },
-      "job_id": "8e27f278e956874c",
-      "days_old": 0
-    },
-    {
-      "title": "Product Designer",
-      "company": "Revel",
-      "location": "Los Angeles",
-      "description": "",
-      "url": "https://jobs.lever.co/revel/cae2b56a-8535-458d-931d-243887ed068e",
-      "source": "lever",
-      "posted_date": "2026-04-11T08:31:26.922333",
-      "scraped_at": "2026-04-11T08:31:26.922349",
-      "search_snippet": "As a Product Designer at Revel, you will be responsible for shaping the end-to-end user experience of our core product. ... U.S. citizen or national, (ii) ...",
-      "search_title": "Product Designer - Revel",
-      "anvesha_analysis": {
-        "fit_score": 0,
-        "category": "Unknown",
-        "justification": "Analysis failed",
-        "positioning_advice": "Could not analyze this job"
-      },
-      "job_id": "9d8cc8c0e413c886",
-      "days_old": 0
-    },
-    {
-      "title": "Product Designer @ DailyPay",
-      "company": "Dailypay",
-      "location": "N/A",
-      "description": "",
-      "url": "https://jobs.ashbyhq.com/dailypay/868f70d0-6799-4683-a84e-b18aa6389050",
-      "source": "ashby",
-      "posted_date": "2026-04-11T08:31:29.054746",
-      "scraped_at": "2026-04-11T08:31:29.054755",
-      "search_snippet": "... United States as well as in Belfast. For more information, visit DailyPay's Press Center. http://www.dailypay.com/press THE ROLE: As a Product Designer at ...",
-      "search_title": "Product Designer @ DailyPay",
-      "anvesha_analysis": {
-        "fit_score": 0,
-        "category": "Unknown",
-        "justification": "Analysis failed",
-        "positioning_advice": "Could not analyze this job"
-      },
-      "job_id": "19f943b3d5b64eea",
-      "days_old": 0
-    },
-    {
-      "title": "Product Designer (Remote)",
-      "company": "Trellis",
-      "location": "Anywhere in the US",
-      "description": "",
-      "url": "https://jobs.lever.co/trellis/56eacd2c-5981-4614-a847-7e8d7de42cff",
-      "source": "lever",
-      "posted_date": "2026-04-11T08:31:31.296054",
-      "scraped_at": "2026-04-11T08:31:31.296072",
-      "search_snippet": "Use data and user feedback to continuously improve the user experience. Who You Are: 2+ years of product design experience, ideally ...",
-      "search_title": "Trellis - Product Designer (Remote)",
-      "anvesha_analysis": {
-        "fit_score": 0,
-        "category": "Unknown",
-        "justification": "Analysis failed",
-        "positioning_advice": "Could not analyze this job"
-      },
-      "job_id": "34081b910a8199af",
-      "days_old": 0
-    },
-    {
       "title": "🎨 Product Designer (Opportunistic) @ Partiful",
       "company": "Partiful",
       "location": "N/A",
       "description": "",
       "url": "https://jobs.ashbyhq.com/partiful/3cd0a5e0-d31f-416a-8632-f958a256eb3c",
       "source": "ashby",
-      "posted_date": "2026-04-11T08:31:33.484038",
-      "scraped_at": "2026-04-11T08:31:33.484048",
+      "posted_date": "2026-04-14T09:09:11.785409",
+      "scraped_at": "2026-04-14T09:09:11.785417",
       "search_snippet": "Storyboarding for animations and demo videos. UX writing or microcopy. Front-end development. Creating iconsets. Design systems. User Research ...",
       "search_title": "🎨 Product Designer (Opportunistic) @ Partiful",
       "anvesha_analysis": {
@@ -181,34 +161,14 @@
       "days_old": 0
     },
     {
-      "title": "CloudZero - Product Designer, AI Native UX",
-      "company": "Cloudzero",
-      "location": "N/A",
-      "description": "",
-      "url": "https://jobs.ashbyhq.com/CloudZero/211983fc-eb10-4373-9c63-35088ad302db?utm_source=Threshold+job+board&utm_medium=getro.com&gh_src=Threshold+job+board",
-      "source": "ashby",
-      "posted_date": "2026-04-11T08:31:35.731230",
-      "scraped_at": "2026-04-11T08:31:35.731240",
-      "search_snippet": "... product design work at real scale, not a handoff role or a pixel-pushing job ... UX design - Strong proficiency in Figma with clean, scalable, and ...",
-      "search_title": "CloudZero - Product Designer, AI Native UX",
-      "anvesha_analysis": {
-        "fit_score": 0,
-        "category": "Unknown",
-        "justification": "Analysis failed",
-        "positioning_advice": "Could not analyze this job"
-      },
-      "job_id": "c189fad0d4cf3504",
-      "days_old": 0
-    },
-    {
       "title": "Hinge Health - Product Designer, Program Foundations",
       "company": "Hinge Health",
       "location": "N/A",
       "description": "",
       "url": "https://jobs.ashbyhq.com/hinge-health/bf8919d9-8978-47ce-a3e9-fd0e6b0a97ad",
       "source": "ashby",
-      "posted_date": "2026-04-11T08:31:37.979083",
-      "scraped_at": "2026-04-11T08:31:37.979093",
+      "posted_date": "2026-04-14T09:09:14.019278",
+      "scraped_at": "2026-04-14T09:09:14.019286",
       "search_snippet": "... interaction design and visual design. - 3+ years of product design ... Service design, Human-computer interaction, or equivalent experience. - Experience ...",
       "search_title": "Hinge Health - Product Designer, Program Foundations",
       "anvesha_analysis": {
@@ -221,163 +181,23 @@
       "days_old": 0
     },
     {
-      "title": "Product Designer, Services (LUMA) @ Mural",
-      "company": "Mural",
+      "title": "Product Designer @ Picogrid",
+      "company": "Picogrid",
       "location": "N/A",
       "description": "",
-      "url": "https://jobs.ashbyhq.com/mural/a61e4f71-a2b1-4be0-bc27-375cd792861b",
+      "url": "https://jobs.ashbyhq.com/picogrid/95f4655f-d513-4888-94c2-a0de539ec004",
       "source": "ashby",
-      "posted_date": "2026-04-11T08:31:40.298532",
-      "scraped_at": "2026-04-11T08:31:40.298542",
-      "search_snippet": "Product Designer, Services (LUMA). Location. United States Remote. Employment Type. Full time. Department. Product.",
-      "search_title": "Product Designer, Services (LUMA) @ Mural",
+      "posted_date": "2026-04-14T09:09:16.049295",
+      "scraped_at": "2026-04-14T09:09:16.049302",
+      "search_snippet": "... United States and its allies. ABOUT THE ROLE As a Product Designer at ... user experience and help set and maintain experience quality standards across ...",
+      "search_title": "Product Designer @ Picogrid",
       "anvesha_analysis": {
         "fit_score": 0,
         "category": "Unknown",
         "justification": "Analysis failed",
         "positioning_advice": "Could not analyze this job"
       },
-      "job_id": "4f5d85e50732e35d",
-      "days_old": 0
-    },
-    {
-      "title": "Senior UX Researcher @ Super.com",
-      "company": "Super.Com",
-      "location": "N/A",
-      "description": "",
-      "url": "https://jobs.ashbyhq.com/super.com/d44842b8-0c52-4fa0-8f39-bbf6b220e0a2",
-      "source": "ashby",
-      "posted_date": "2026-04-11T08:31:42.637806",
-      "scraped_at": "2026-04-11T08:31:42.637816",
-      "search_snippet": "Senior UX Researcher. Location. United States; Canada. Employment Type. Full time. Location Type. Remote ...",
-      "search_title": "Senior UX Researcher @ Super.com",
-      "anvesha_analysis": {
-        "fit_score": 0,
-        "category": "Unknown",
-        "justification": "Analysis failed",
-        "positioning_advice": "Could not analyze this job"
-      },
-      "job_id": "f7e7143ad5698d96",
-      "days_old": 0
-    },
-    {
-      "title": "Product Designer @ Ivo AI Inc",
-      "company": "Ivo Ai Inc",
-      "location": "N/A",
-      "description": "",
-      "url": "https://jobs.ashbyhq.com/ivo-ai-inc/7a7888db-f670-4b46-b989-243cb89f644c",
-      "source": "ashby",
-      "posted_date": "2026-04-11T08:31:44.849255",
-      "scraped_at": "2026-04-11T08:31:44.849266",
-      "search_snippet": "... us at an early stage and play a crucial role in shaping Ivo's product, user experience ... product design and other design work, from branding to marketing ...",
-      "search_title": "Product Designer @ Ivo AI Inc",
-      "anvesha_analysis": {
-        "fit_score": 0,
-        "category": "Unknown",
-        "justification": "Analysis failed",
-        "positioning_advice": "Could not analyze this job"
-      },
-      "job_id": "f9d8b5454e9efc4a",
-      "days_old": 0
-    },
-    {
-      "title": "Product Designer, Creative Tools @ Vizcom",
-      "company": "Vizcom",
-      "location": "N/A",
-      "description": "",
-      "url": "https://jobs.ashbyhq.com/vizcom/43da5655-48b2-4bda-9d83-c2b427aae1a2",
-      "source": "ashby",
-      "posted_date": "2026-04-11T08:31:47.074561",
-      "scraped_at": "2026-04-11T08:31:47.074571",
-      "search_snippet": "Product Designer, Creative Lead · A portfolio that showcases impeccable UX, visual, and interaction design work, demonstrating end-to-end ownership of features ...",
-      "search_title": "Product Designer, Creative Tools @ Vizcom",
-      "anvesha_analysis": {
-        "fit_score": 0,
-        "category": "Unknown",
-        "justification": "Analysis failed",
-        "positioning_advice": "Could not analyze this job"
-      },
-      "job_id": "e5b9b90656b32554",
-      "days_old": 0
-    },
-    {
-      "title": "Senior Product Designer, Credit Building @ Super.com",
-      "company": "Super.Com",
-      "location": "N/A",
-      "description": "",
-      "url": "https://jobs.ashbyhq.com/super.com/e7722dfa-4079-43b3-b2f3-fdfe8da754e3",
-      "source": "ashby",
-      "posted_date": "2026-04-11T08:31:49.266992",
-      "scraped_at": "2026-04-11T08:31:49.267002",
-      "search_snippet": "Senior Product Designer, Credit Building. Location. United States. Employment Type. Full time. Location Type. Remote ...",
-      "search_title": "Senior Product Designer, Credit Building @ Super.com",
-      "anvesha_analysis": {
-        "fit_score": 0,
-        "category": "Unknown",
-        "justification": "Analysis failed",
-        "positioning_advice": "Could not analyze this job"
-      },
-      "job_id": "c36ccebe48dd6950",
-      "days_old": 0
-    },
-    {
-      "title": "Product Designer @ Kiss My Apps",
-      "company": "Kissmyapps",
-      "location": "N/A",
-      "description": "",
-      "url": "https://jobs.ashbyhq.com/kissmyapps/49184c7f-586c-4a1e-8907-50e569061097",
-      "source": "ashby",
-      "posted_date": "2026-04-11T08:31:51.511901",
-      "scraped_at": "2026-04-11T08:31:51.511910",
-      "search_snippet": "KMA grows 3x year over year, and we are looking for a Product Designer, someone who will help us scale even faster. ... user experience across web and mobile.",
-      "search_title": "Product Designer @ Kiss My Apps",
-      "anvesha_analysis": {
-        "fit_score": 0,
-        "category": "Unknown",
-        "justification": "Analysis failed",
-        "positioning_advice": "Could not analyze this job"
-      },
-      "job_id": "20bd1e6563d60ce0",
-      "days_old": 0
-    },
-    {
-      "title": "Senior Product Designer @ Scribe",
-      "company": "Scribe",
-      "location": "N/A",
-      "description": "",
-      "url": "https://jobs.ashbyhq.com/scribe/22b140e8-aded-4c47-a4c6-dbcb98c002ee",
-      "source": "ashby",
-      "posted_date": "2026-04-11T08:31:54.252314",
-      "scraped_at": "2026-04-11T08:31:54.252323",
-      "search_snippet": "... user experience and would never say “improving that is out of scope for this ... interaction design, and craft 1. [30 min] Chat with our recruiter to ...",
-      "search_title": "Senior Product Designer @ Scribe",
-      "anvesha_analysis": {
-        "fit_score": 0,
-        "category": "Unknown",
-        "justification": "Analysis failed",
-        "positioning_advice": "Could not analyze this job"
-      },
-      "job_id": "a4d640cf32cb78a7",
-      "days_old": 0
-    },
-    {
-      "title": "UI/UX Designer - Diversified Services Network, Inc.",
-      "company": "Dsn",
-      "location": "N/A",
-      "description": "",
-      "url": "https://apply.workable.com/dsn/j/2FCE0851CE",
-      "source": "workable",
-      "posted_date": "2026-04-11T08:31:56.377003",
-      "scraped_at": "2026-04-11T08:31:56.377013",
-      "search_snippet": "Diversified Services Network, Inc. UI/UX Designer. HybridFull time191659. Broomfield, Colorado, United States.",
-      "search_title": "UI/UX Designer - Diversified Services Network, Inc.",
-      "anvesha_analysis": {
-        "fit_score": 0,
-        "category": "Unknown",
-        "justification": "Analysis failed",
-        "positioning_advice": "Could not analyze this job"
-      },
-      "job_id": "82d4c145f1c6b777",
+      "job_id": "ec3dbda0e9c2219a",
       "days_old": 0
     },
     {
@@ -387,8 +207,8 @@
       "description": "",
       "url": "https://apply.workable.com/huzzle/j/F1A2B7A382/",
       "source": "workable",
-      "posted_date": "2026-04-11T08:31:58.496926",
-      "scraped_at": "2026-04-11T08:31:58.496936",
+      "posted_date": "2026-04-14T09:09:18.187534",
+      "scraped_at": "2026-04-14T09:09:18.187541",
       "search_snippet": "5+ years of experience in Product Design, UI/UX Design, or Interaction Design; Strong portfolio demonstrating end-to-end product design work; Proficiency in ...",
       "search_title": "Senior Product Designer (UI/UX & Product Design) - Huzzle",
       "anvesha_analysis": {
@@ -401,63 +221,83 @@
       "days_old": 0
     },
     {
-      "title": "Senior Product Designer @ Scribe",
-      "company": "Scribe",
+      "title": "UI/UX Designer - Diversified Services Network, Inc.",
+      "company": "Dsn",
       "location": "N/A",
       "description": "",
-      "url": "https://jobs.ashbyhq.com/scribe/22b140e8-aded-4c47-a4c6-dbcb98c002ee",
-      "source": "ashby",
-      "posted_date": "2026-04-11T08:32:00.513529",
-      "scraped_at": "2026-04-11T08:32:00.513541",
-      "search_snippet": "... user experience and would never say “improving that is out of scope for this ... interaction design, and craft 1. [30 min] Chat with our recruiter to ...",
-      "search_title": "Senior Product Designer @ Scribe",
+      "url": "https://apply.workable.com/dsn/j/2FCE0851CE/",
+      "source": "workable",
+      "posted_date": "2026-04-14T09:09:20.381854",
+      "scraped_at": "2026-04-14T09:09:20.381862",
+      "search_snippet": "Diversified Services Network, Inc. UI/UX Designer. HybridFull time191659. Broomfield, Colorado, United States.",
+      "search_title": "UI/UX Designer - Diversified Services Network, Inc.",
       "anvesha_analysis": {
         "fit_score": 0,
         "category": "Unknown",
         "justification": "Analysis failed",
         "positioning_advice": "Could not analyze this job"
       },
-      "job_id": "a4d640cf32cb78a7",
+      "job_id": "eb88d1b175e718f5",
       "days_old": 0
     },
     {
-      "title": "Senior UX Researcher @ Super.com",
-      "company": "Super.Com",
+      "title": "Product Designer @ Kiss My Apps",
+      "company": "Kissmyapps",
       "location": "N/A",
       "description": "",
-      "url": "https://jobs.ashbyhq.com/super.com/d44842b8-0c52-4fa0-8f39-bbf6b220e0a2",
+      "url": "https://jobs.ashbyhq.com/kissmyapps/49184c7f-586c-4a1e-8907-50e569061097",
       "source": "ashby",
-      "posted_date": "2026-04-11T08:32:02.533400",
-      "scraped_at": "2026-04-11T08:32:02.533410",
-      "search_snippet": "Senior UX Researcher. Location. United States; Canada. Employment Type. Full time. Location Type. Remote ...",
-      "search_title": "Senior UX Researcher @ Super.com",
+      "posted_date": "2026-04-14T09:09:22.607600",
+      "scraped_at": "2026-04-14T09:09:22.607608",
+      "search_snippet": "KMA grows 3x year over year, and we are looking for a Product Designer, someone who will help us scale even faster. ... user experience across web and mobile.",
+      "search_title": "Product Designer @ Kiss My Apps",
       "anvesha_analysis": {
         "fit_score": 0,
         "category": "Unknown",
         "justification": "Analysis failed",
         "positioning_advice": "Could not analyze this job"
       },
-      "job_id": "f7e7143ad5698d96",
+      "job_id": "20bd1e6563d60ce0",
       "days_old": 0
     },
     {
-      "title": "CloudZero - Product Designer, AI Native UX",
-      "company": "Cloudzero",
+      "title": "Hinge Health - Product Designer, Program Foundations",
+      "company": "Hinge Health",
       "location": "N/A",
       "description": "",
-      "url": "https://jobs.ashbyhq.com/CloudZero/211983fc-eb10-4373-9c63-35088ad302db?utm_source=Threshold+job+board&utm_medium=getro.com&gh_src=Threshold+job+board",
+      "url": "https://jobs.ashbyhq.com/hinge-health/bf8919d9-8978-47ce-a3e9-fd0e6b0a97ad",
       "source": "ashby",
-      "posted_date": "2026-04-11T08:32:10.738608",
-      "scraped_at": "2026-04-11T08:32:10.738618",
-      "search_snippet": "... product design work at real scale, not a handoff role or a pixel-pushing job ... UX design - Strong proficiency in Figma with clean, scalable, and ...",
-      "search_title": "CloudZero - Product Designer, AI Native UX",
+      "posted_date": "2026-04-14T09:09:24.636481",
+      "scraped_at": "2026-04-14T09:09:24.636488",
+      "search_snippet": "... interaction design and visual design. - 3+ years of product design ... Service design, Human-computer interaction, or equivalent experience. - Experience ...",
+      "search_title": "Hinge Health - Product Designer, Program Foundations",
       "anvesha_analysis": {
         "fit_score": 0,
         "category": "Unknown",
         "justification": "Analysis failed",
         "positioning_advice": "Could not analyze this job"
       },
-      "job_id": "c189fad0d4cf3504",
+      "job_id": "b5567ae0481d5b9a",
+      "days_old": 0
+    },
+    {
+      "title": "Senior Product Designer (U.S. East Coast) @ Loot Labs",
+      "company": "Loot Labs",
+      "location": "N/A",
+      "description": "",
+      "url": "https://jobs.ashbyhq.com/loot-labs/ed4cae1a-0e4c-425c-9436-0a071f501e86",
+      "source": "ashby",
+      "posted_date": "2026-04-14T09:09:32.603660",
+      "scraped_at": "2026-04-14T09:09:32.603668",
+      "search_snippet": "... Product Design, taking on a portion of responsibilities that ... Senior Product Designer (U.S. East Coast). Location. Remote. Employment Type.",
+      "search_title": "Senior Product Designer (U.S. East Coast) @ Loot Labs",
+      "anvesha_analysis": {
+        "fit_score": 0,
+        "category": "Unknown",
+        "justification": "Analysis failed",
+        "positioning_advice": "Could not analyze this job"
+      },
+      "job_id": "1766522cc6fad024",
       "days_old": 0
     },
     {
@@ -467,8 +307,8 @@
       "description": "At Mitratech, we are a team of technocrats focused on building world-class products that simplify operations in the Legal, Risk, Compliance, and HR functions. We are a close-knit, globally dispersed team that thrives in an ecosystem that supports individual excellence and takes pride in its diverse and inclusive work culture centered around great people practices, learning opportunities, and having fun! Our culture is the ideal blend of entrepreneurial spirit and enterprise investment, enabling the chance to move at a rapid pace with some of the most complex, leading-edge technologies available. For over 35 years, the experts at Mitratech have been focused on solving the complex needs. Today, we serve 20,000 client companies of all sizes globally, representing 30% of the Fortune 500 and over 500,000 users in over 160 countries. As we continue to grow, we’re always looking for resourceful, enthusiastic, and fresh perspectives. Join our global team and see what makes Mitratech a truly exceptional place to work! Due to business and compliance requirements, this position is open only to candidates residing in US . Applications from candidates outside this region will not be considered. Job Overview: Senior Product Designer – Enterprise Join Our Team and Shape the Future of Enterprise User Experience Are you a visionary Senior Product Designer passionate about solving complex problems and elevating enterprise user experiences? Do you thrive in fast-paced, collaborative environments where your decisions influence product strategy and your designs impact thousands of global users? At Mitratech, we’re transforming how people interact with enterprise applications. We’re looking for someone who doesn’t just design interfaces— you design systems, shape workflows, and champion the voice of the user . In this role, you'll serve as a strategic partner to Product and Engineering, leveraging your expertise to craft intuitive, scalable, and technically feasible experiences. If you’re driven by design excellence, cross-functional influence, and delivering work that has a measurable impact, this is the role for you. Why You’ll Love Working Here Customer-Centric Impact Work on real, high-value problems that improve workflow efficiency, save time, and increase productivity for enterprise customers. Cross-Functional Collaboration Partner with product managers, engineers, and other designers to create world-class digital experiences grounded in strong UX principles and technical feasibility. Meaningful Outcomes Every project you deliver will have a clear business and user impact—and you’ll hear direct feedback from customers who rely on your improvements. Key Responsibilities Lead Design for Complex Enterprise Features Own the end-to-end design process for medium-to-large product initiatives—driving discovery, workflow definition, interaction design, and high-fidelity visual design and prototyping. Use AI-enhanced tools to accelerate exploration and iteration where appropriate. Shape Product Direction Through Deep Collaboration Work closely with engineers, product managers, and other designers in an agile environment to design accessible, performant, and elegant interfaces that balance user needs with technical and delivery constraints Create and Refine UX Deliverables Produce user flows, interaction models, prototypes, interface comps, visual specs, and supporting documentation across multiple enterprise products—using AI tools to streamline research synthesis, generate prototypes, and explore ideas more rapidly. Own and Advocate for the User Experience Take full ownership of the UX for your product areas and proactively advocate for users, ensuring their needs lead design decisions while aligning with the realities of our technology stack and component libraries . Apply Modern UX & UI and AI-Assisted Expertise Use up-to-date knowledge of design systems, interaction patterns, accessibility standards, responsive layouts, and front-end capabilities to elevate implementation quality and usability—along with AI-powered design and research tools—to elevate implementation quality, speed, and usability. Bring Clarity to Ambiguity Independently investigate complex problems, surface assumptions, validate solutions with stakeholders, and turn abstract challenges into actionable design direction. Use AI tools to accelerate insight-gathering and pattern detection. Influence Product Strategy Frame user problems, communicate trade-offs, and present design recommendations that shape product priorities and near-term roadmaps. Partner Closely With Engineering Use tools like Figma Make, Bolt, and Cursor to build interactive prototypes and provide clear, implementation-ready workflows. This creates a smoother, faster handoff and minimizes back-and-forth with engineering teams. Contribute to the Design System Improve and extend our design system to support consistency, scalability, and an efficient development pipeline across all product teams. Mentor and Elevate the Team Support other designers through critique, coaching, and knowledge-sharing, contributing to a culture of continuous improvement and design excellence. Required Skills & Experience 5–8 years of UX/Product Design experience, preferably in enterprise SaaS environments. Expert understanding of UX processes, interaction design fundamentals, and end-to-end design workflows. Strong portfolio demonstrating ability to design for complex systems and translate business/user needs into thoughtful solutions. Hands-on experience conducting user research and applying findings to real product decisions—familiarity with AI-assisted research synthesis is a plus. Mastery of design tools such as Figma, Sketch, Framer, Adobe XD, Illustrator, or Photoshop, including experience with AI features within these tools (e.g., Figma AI, Bolt, Cursor, Lovable). Deep experience with design systems—from consuming to contributing at scale. Strong communication and storytelling skills, with the ability to present design rationale to technical and non-technical audiences. Proven ability to operate autonomously, manage multiple workstreams, and drive outcomes in partnership with cross-functional teams. Familiarity with HTML, CSS, JavaScript, and modern component libraries (e.g., React or web components). Ability to craft creative solutions while working within existing frameworks and constraints. Experience collaborating with and influencing US-based teams. Comfort using AI tools to accelerate ideation, prototyping, documentation, or research workflows. Education & Requirements Bachelor’s degree in design or a related field preferred. All applicants must provide a portfolio showcasing visual design, interaction design, and user-centered problem-solving work. We are an equal-opportunity employer that values diversity at all levels. All qualified applicants will receive consideration for employment without regard to race, color, religion, gender, national origin, age, sexual orientation, gender identity, disability, or veteran status.",
       "url": "https://boards.greenhouse.io/mitratech/jobs/7793608",
       "source": "greenhouse",
-      "posted_date": "2026-04-11T08:32:13.051088",
-      "scraped_at": "2026-04-11T08:32:13.051546",
+      "posted_date": "2026-04-14T09:09:35.182033",
+      "scraped_at": "2026-04-14T09:09:35.182488",
       "search_snippet": "Senior Product Designer – Enterprise UX · 5–8 years of UX/Product Design experience, preferably in enterprise SaaS environments. · Expert understanding of UX ...",
       "search_title": "Senior Product Designer – Enterprise UX",
       "anvesha_analysis": {
@@ -479,16 +319,156 @@
       },
       "job_id": "6c4c74d088cc51f3",
       "days_old": 0
+    },
+    {
+      "title": "Product Designer @ Ivo AI Inc",
+      "company": "Ivo Ai Inc",
+      "location": "N/A",
+      "description": "",
+      "url": "https://jobs.ashbyhq.com/ivo-ai-inc/7a7888db-f670-4b46-b989-243cb89f644c",
+      "source": "ashby",
+      "posted_date": "2026-04-14T09:09:37.395752",
+      "scraped_at": "2026-04-14T09:09:37.395760",
+      "search_snippet": "... us at an early stage and play a crucial role in shaping Ivo's product, user experience ... product design and other design work, from branding to marketing ...",
+      "search_title": "Product Designer @ Ivo AI Inc",
+      "anvesha_analysis": {
+        "fit_score": 0,
+        "category": "Unknown",
+        "justification": "Analysis failed",
+        "positioning_advice": "Could not analyze this job"
+      },
+      "job_id": "f9d8b5454e9efc4a",
+      "days_old": 0
+    },
+    {
+      "title": "Staff Product Designer @ R37 Lab, R1 RCM",
+      "company": "Phare R1 R37",
+      "location": "N/A",
+      "description": "",
+      "url": "https://jobs.ashbyhq.com/phare-r1-r37/a267c12f-9a5b-45b8-adeb-13a1f6369020",
+      "source": "ashby",
+      "posted_date": "2026-04-14T09:09:39.682890",
+      "scraped_at": "2026-04-14T09:09:39.682898",
+      "search_snippet": "About Us. Phare Health is now part of R1 and its AI innovation engine, R37 ... Articulate product design strategy in a way that builds alignment ...",
+      "search_title": "Staff Product Designer @ R37 Lab, R1 RCM",
+      "anvesha_analysis": {
+        "fit_score": 0,
+        "category": "Unknown",
+        "justification": "Analysis failed",
+        "positioning_advice": "Could not analyze this job"
+      },
+      "job_id": "468f2f05a4f1910b",
+      "days_old": 0
+    },
+    {
+      "title": "Senior Product Designer @ Causaly",
+      "company": "Causaly",
+      "location": "N/A",
+      "description": "",
+      "url": "https://jobs.ashbyhq.com/causaly/eaf6e71f-2a59-4cb2-a465-3db61e058a1d",
+      "source": "ashby",
+      "posted_date": "2026-04-14T09:09:41.903630",
+      "scraped_at": "2026-04-14T09:09:41.903638",
+      "search_snippet": "Senior Product Designer. Location. London. Employment Type. Full time. Location Type. Hybrid. Department. ProductProduct Design. OverviewApplication. About us:.",
+      "search_title": "Senior Product Designer @ Causaly",
+      "anvesha_analysis": {
+        "fit_score": 0,
+        "category": "Unknown",
+        "justification": "Analysis failed",
+        "positioning_advice": "Could not analyze this job"
+      },
+      "job_id": "95ef8f71b3149504",
+      "days_old": 0
+    },
+    {
+      "title": "Senior Product Designer – Enterprise UX",
+      "company": "Mitratech",
+      "location": "Remote US",
+      "description": "At Mitratech, we are a team of technocrats focused on building world-class products that simplify operations in the Legal, Risk, Compliance, and HR functions. We are a close-knit, globally dispersed team that thrives in an ecosystem that supports individual excellence and takes pride in its diverse and inclusive work culture centered around great people practices, learning opportunities, and having fun! Our culture is the ideal blend of entrepreneurial spirit and enterprise investment, enabling the chance to move at a rapid pace with some of the most complex, leading-edge technologies available. For over 35 years, the experts at Mitratech have been focused on solving the complex needs. Today, we serve 20,000 client companies of all sizes globally, representing 30% of the Fortune 500 and over 500,000 users in over 160 countries. As we continue to grow, we’re always looking for resourceful, enthusiastic, and fresh perspectives. Join our global team and see what makes Mitratech a truly exceptional place to work! Due to business and compliance requirements, this position is open only to candidates residing in US . Applications from candidates outside this region will not be considered. Job Overview: Senior Product Designer – Enterprise Join Our Team and Shape the Future of Enterprise User Experience Are you a visionary Senior Product Designer passionate about solving complex problems and elevating enterprise user experiences? Do you thrive in fast-paced, collaborative environments where your decisions influence product strategy and your designs impact thousands of global users? At Mitratech, we’re transforming how people interact with enterprise applications. We’re looking for someone who doesn’t just design interfaces— you design systems, shape workflows, and champion the voice of the user . In this role, you'll serve as a strategic partner to Product and Engineering, leveraging your expertise to craft intuitive, scalable, and technically feasible experiences. If you’re driven by design excellence, cross-functional influence, and delivering work that has a measurable impact, this is the role for you. Why You’ll Love Working Here Customer-Centric Impact Work on real, high-value problems that improve workflow efficiency, save time, and increase productivity for enterprise customers. Cross-Functional Collaboration Partner with product managers, engineers, and other designers to create world-class digital experiences grounded in strong UX principles and technical feasibility. Meaningful Outcomes Every project you deliver will have a clear business and user impact—and you’ll hear direct feedback from customers who rely on your improvements. Key Responsibilities Lead Design for Complex Enterprise Features Own the end-to-end design process for medium-to-large product initiatives—driving discovery, workflow definition, interaction design, and high-fidelity visual design and prototyping. Use AI-enhanced tools to accelerate exploration and iteration where appropriate. Shape Product Direction Through Deep Collaboration Work closely with engineers, product managers, and other designers in an agile environment to design accessible, performant, and elegant interfaces that balance user needs with technical and delivery constraints Create and Refine UX Deliverables Produce user flows, interaction models, prototypes, interface comps, visual specs, and supporting documentation across multiple enterprise products—using AI tools to streamline research synthesis, generate prototypes, and explore ideas more rapidly. Own and Advocate for the User Experience Take full ownership of the UX for your product areas and proactively advocate for users, ensuring their needs lead design decisions while aligning with the realities of our technology stack and component libraries . Apply Modern UX & UI and AI-Assisted Expertise Use up-to-date knowledge of design systems, interaction patterns, accessibility standards, responsive layouts, and front-end capabilities to elevate implementation quality and usability—along with AI-powered design and research tools—to elevate implementation quality, speed, and usability. Bring Clarity to Ambiguity Independently investigate complex problems, surface assumptions, validate solutions with stakeholders, and turn abstract challenges into actionable design direction. Use AI tools to accelerate insight-gathering and pattern detection. Influence Product Strategy Frame user problems, communicate trade-offs, and present design recommendations that shape product priorities and near-term roadmaps. Partner Closely With Engineering Use tools like Figma Make, Bolt, and Cursor to build interactive prototypes and provide clear, implementation-ready workflows. This creates a smoother, faster handoff and minimizes back-and-forth with engineering teams. Contribute to the Design System Improve and extend our design system to support consistency, scalability, and an efficient development pipeline across all product teams. Mentor and Elevate the Team Support other designers through critique, coaching, and knowledge-sharing, contributing to a culture of continuous improvement and design excellence. Required Skills & Experience 5–8 years of UX/Product Design experience, preferably in enterprise SaaS environments. Expert understanding of UX processes, interaction design fundamentals, and end-to-end design workflows. Strong portfolio demonstrating ability to design for complex systems and translate business/user needs into thoughtful solutions. Hands-on experience conducting user research and applying findings to real product decisions—familiarity with AI-assisted research synthesis is a plus. Mastery of design tools such as Figma, Sketch, Framer, Adobe XD, Illustrator, or Photoshop, including experience with AI features within these tools (e.g., Figma AI, Bolt, Cursor, Lovable). Deep experience with design systems—from consuming to contributing at scale. Strong communication and storytelling skills, with the ability to present design rationale to technical and non-technical audiences. Proven ability to operate autonomously, manage multiple workstreams, and drive outcomes in partnership with cross-functional teams. Familiarity with HTML, CSS, JavaScript, and modern component libraries (e.g., React or web components). Ability to craft creative solutions while working within existing frameworks and constraints. Experience collaborating with and influencing US-based teams. Comfort using AI tools to accelerate ideation, prototyping, documentation, or research workflows. Education & Requirements Bachelor’s degree in design or a related field preferred. All applicants must provide a portfolio showcasing visual design, interaction design, and user-centered problem-solving work. We are an equal-opportunity employer that values diversity at all levels. All qualified applicants will receive consideration for employment without regard to race, color, religion, gender, national origin, age, sexual orientation, gender identity, disability, or veteran status.",
+      "url": "https://boards.greenhouse.io/mitratech/jobs/7793608",
+      "source": "greenhouse",
+      "posted_date": "2026-04-14T09:09:44.082800",
+      "scraped_at": "2026-04-14T09:09:44.083248",
+      "search_snippet": "Senior Product Designer – Enterprise UX · 5–8 years of UX/Product Design experience, preferably in enterprise SaaS environments. · Expert understanding of UX ...",
+      "search_title": "Senior Product Designer – Enterprise UX",
+      "anvesha_analysis": {
+        "fit_score": 0,
+        "category": "Unknown",
+        "justification": "Analysis failed",
+        "positioning_advice": "Could not analyze this job"
+      },
+      "job_id": "6c4c74d088cc51f3",
+      "days_old": 0
+    },
+    {
+      "title": "Senior Product Designer",
+      "company": "Crowdriff",
+      "location": "Remote",
+      "description": "",
+      "url": "https://jobs.lever.co/crowdriff/61413f5d-7df0-496a-8f61-8f897c642646",
+      "source": "lever",
+      "posted_date": "2026-04-14T09:09:46.672131",
+      "scraped_at": "2026-04-14T09:09:46.672143",
+      "search_snippet": "Your role: Senior Product Designer. Product design is changing fast.The best designers today don't wait for fully formed briefs. They talk to customers ...",
+      "search_title": "CrowdRiff - Senior Product Designer",
+      "anvesha_analysis": {
+        "fit_score": 0,
+        "category": "Unknown",
+        "justification": "Analysis failed",
+        "positioning_advice": "Could not analyze this job"
+      },
+      "job_id": "45aed83d09b7a241",
+      "days_old": 0
+    },
+    {
+      "title": "Senior Product Designer (U.S. East Coast) @ Loot Labs",
+      "company": "Loot Labs",
+      "location": "N/A",
+      "description": "",
+      "url": "https://jobs.ashbyhq.com/loot-labs/ed4cae1a-0e4c-425c-9436-0a071f501e86",
+      "source": "ashby",
+      "posted_date": "2026-04-14T09:09:48.699834",
+      "scraped_at": "2026-04-14T09:09:48.699842",
+      "search_snippet": "... Product Design, taking on a portion of responsibilities that ... Senior Product Designer (U.S. East Coast). Location. Remote. Employment Type.",
+      "search_title": "Senior Product Designer (U.S. East Coast) @ Loot Labs",
+      "anvesha_analysis": {
+        "fit_score": 0,
+        "category": "Unknown",
+        "justification": "Analysis failed",
+        "positioning_advice": "Could not analyze this job"
+      },
+      "job_id": "1766522cc6fad024",
+      "days_old": 0
+    },
+    {
+      "title": "Principal Product Designer @ Recraft",
+      "company": "Recraft",
+      "location": "N/A",
+      "description": "",
+      "url": "https://jobs.ashbyhq.com/recraft/65556354-b802-437c-960d-0de8cbd43e07",
+      "source": "ashby",
+      "posted_date": "2026-04-14T09:09:50.899284",
+      "scraped_at": "2026-04-14T09:09:50.899291",
+      "search_snippet": "ABOUT US Founded in the US in 2022 and now based in London, UK, Recraft ... Strong understanding of UX principles, user research, and interaction design.",
+      "search_title": "Principal Product Designer @ Recraft",
+      "anvesha_analysis": {
+        "fit_score": 0,
+        "category": "Unknown",
+        "justification": "Analysis failed",
+        "positioning_advice": "Could not analyze this job"
+      },
+      "job_id": "7e01371bfb477820",
+      "days_old": 0
     }
   ],
   "metadata": {
     "profile": "anvesha",
     "profile_display_name": "Anvesha",
-    "run_timestamp": "2026-04-11T08:31:07.684772",
+    "run_timestamp": "2026-04-14T09:08:40.704963",
     "trigger_type": "schedule",
     "total_searched": 25,
     "new_jobs_found": 25,
-    "jobs_analyzed": 24,
+    "jobs_analyzed": 23,
     "jobs_skipped": 0,
     "jobs_location_filtered": 0
   }
