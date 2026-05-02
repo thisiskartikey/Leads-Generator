@@ -1740,7 +1740,7 @@
       "url": "https://jobs.lever.co/gopuff/456bc1b3-aa59-4dcc-9b01-03aa7b260caa",
       "title": "Senior UX / Product Designer",
       "company": "Gopuff",
-      "first_seen": "2026-04-21T09:18:38.923465",
+      "first_seen": "2026-05-02T08:57:05.944824",
       "fit_score": 0
     },
     "e50bbaaf2d9424f6": {
@@ -1922,7 +1922,7 @@
       "url": "https://jobs.ashbyhq.com/loot-labs/ed4cae1a-0e4c-425c-9436-0a071f501e86",
       "title": "Senior Product Designer (U.S. East Coast) @ Loot Labs",
       "company": "Loot Labs",
-      "first_seen": "2026-04-25T08:42:00.676206",
+      "first_seen": "2026-05-02T08:57:02.552185",
       "fit_score": 0
     },
     "468f2f05a4f1910b": {
@@ -1985,7 +1985,7 @@
       "url": "https://jobs.ashbyhq.com/openai/7e265aee-6842-4fc1-bf28-1df3ea4ee013",
       "title": "Product Designer @ OpenAI",
       "company": "Openai",
-      "first_seen": "2026-04-25T08:42:01.546238",
+      "first_seen": "2026-05-02T08:57:04.251733",
       "fit_score": 0
     },
     "0ef7052b39678d16": {
@@ -2020,14 +2020,14 @@
       "url": "https://jobs.lever.co/Ubiminds/d84ee5a0-a5ce-4eb6-b056-b7df1450b2f4",
       "title": "Senior Product Designer – Product Design / UX (504)",
       "company": "Ubiminds",
-      "first_seen": "2026-04-25T08:42:00.043073",
+      "first_seen": "2026-05-02T08:57:01.876568",
       "fit_score": 0
     },
     "90159c343fca818b": {
       "url": "https://jobs.ashbyhq.com/10xteam/2b739178-af8a-4b54-9f10-3fa817d862bd",
       "title": "AI Trainer - Freelance - 8-20hrs/week - Remote @ 10x Team",
       "company": "10Xteam",
-      "first_seen": "2026-04-25T08:42:02.820785",
+      "first_seen": "2026-05-02T08:57:04.455867",
       "fit_score": 0
     },
     "4c79200fcfe723e2": {
@@ -2062,7 +2062,7 @@
       "url": "https://jobs.lever.co/USMobile/1b3564d8-9bdd-4c94-b59d-e0b4cb60c6cd",
       "title": "Product Designer",
       "company": "Usmobile",
-      "first_seen": "2026-04-25T08:41:59.759070",
+      "first_seen": "2026-05-02T08:57:04.069282",
       "fit_score": 0
     },
     "d242e0b41b0037bb": {
@@ -2092,7 +2092,112 @@
       "company": "Voxel",
       "first_seen": "2026-04-25T08:42:05.202681",
       "fit_score": 0
+    },
+    "510a40266d41b097": {
+      "url": "https://jobs.ashbyhq.com/nuna/837ab905-4d9a-4deb-8217-2b9d49024c19",
+      "title": "Product Designer @ Nuna",
+      "company": "Nuna",
+      "first_seen": "2026-05-02T08:57:02.338867",
+      "fit_score": 0
+    },
+    "54ca879fae56f379": {
+      "url": "https://jobs.ashbyhq.com/withflex/1822153c-b2f1-4b04-b531-705d7228f3c8",
+      "title": "Product Designer @ Flex",
+      "company": "Withflex",
+      "first_seen": "2026-05-02T08:57:02.747648",
+      "fit_score": 0
+    },
+    "d10016116a1c2140": {
+      "url": "https://jobs.ashbyhq.com/Graphite/b476b93e-d409-4dba-8dc5-3ed925bd926d?utm_source=jobs.a16z.com",
+      "title": "Senior Product Designer @ Graphite",
+      "company": "Graphite",
+      "first_seen": "2026-05-02T08:57:05.561584",
+      "fit_score": 0
+    },
+    "a3ae19fe3ab20b9e": {
+      "url": "https://jobs.lever.co/LuminDigital/4d94936c-561d-4c35-8767-b0319e43b14b",
+      "title": "Senior Product Designer",
+      "company": "Lumindigital",
+      "first_seen": "2026-05-02T08:57:03.260020",
+      "fit_score": 0
+    },
+    "89d42eefc746d557": {
+      "url": "https://jobs.ashbyhq.com/airapps/fce96016-6495-4d59-a9d8-1672a271e628",
+      "title": "Product Designer @ Air Apps",
+      "company": "Airapps",
+      "first_seen": "2026-05-02T08:57:03.483451",
+      "fit_score": 0
+    },
+    "d67b9680f22fc763": {
+      "url": "https://jobs.ashbyhq.com/aiwyn/92b2c023-3ce4-436b-8791-287758bf7ef5",
+      "title": "Staff Product Designer @ Aiwyn",
+      "company": "Aiwyn",
+      "first_seen": "2026-05-02T08:57:04.894499",
+      "fit_score": 0
+    },
+    "244e1b41098e3f3a": {
+      "url": "https://jobs.ashbyhq.com/jane/93bb22ec-02f8-4850-85e1-ff1bb7a7dcce",
+      "title": "Senior Product Designer - Payments @ Jane",
+      "company": "Jane",
+      "first_seen": "2026-05-02T08:57:03.862449",
+      "fit_score": 0
+    },
+    "7f298b0dbb1527b8": {
+      "url": "https://jobs.ashbyhq.com/super.com/9a81411b-dafe-4a3a-80c3-b2432a8a4fcb",
+      "title": "Staff Product Designer, Design Systems @ Super.com",
+      "company": "Super.Com",
+      "first_seen": "2026-05-02T08:57:04.628159",
+      "fit_score": 0
+    },
+    "6be9d4e2b38f27a9": {
+      "url": "https://jobs.ashbyhq.com/alchemy/8438fa3b-258d-4da1-9af1-3e1f5b71b931",
+      "title": "Senior Product Designer @ Alchemy",
+      "company": "Alchemy",
+      "first_seen": "2026-05-02T08:57:05.094276",
+      "fit_score": 0
+    },
+    "f992f90f5345653c": {
+      "url": "https://jobs.lever.co/bellese/e7931a66-eb27-4fb1-8d37-52371e7cbab6",
+      "title": "UX Designer II",
+      "company": "Bellese",
+      "first_seen": "2026-05-02T08:57:05.349890",
+      "fit_score": 0
+    },
+    "a1e3b2c9eab1fd0e": {
+      "url": "https://jobs.ashbyhq.com/conductorai/98e3918c-8769-4013-b0bd-978db7b7c3b7",
+      "title": "Product Design Lead @ ConductorAI",
+      "company": "Conductorai",
+      "first_seen": "2026-05-02T08:57:05.784185",
+      "fit_score": 0
+    },
+    "46a3db79011bdb09": {
+      "url": "https://jobs.ashbyhq.com/runway-ml/e0fec99f-ae6e-4f92-ac1a-7d227179261f",
+      "title": "Sr./Staff Product Designer @ Runway",
+      "company": "Runway Ml",
+      "first_seen": "2026-05-02T08:57:06.102322",
+      "fit_score": 0
+    },
+    "2b56a1c846aa8de1": {
+      "url": "https://jobs.workable.com/view/fKhRhy3Dwcsau3HuHemcVG/remote-senior-product-designer---contractor-role-in-united-states-at-wayfinder",
+      "title": "Senior Product Designer - Contractor Role | Wayfinder",
+      "company": "N/A",
+      "first_seen": "2026-05-02T08:57:06.320823",
+      "fit_score": 0
+    },
+    "27ee6ca6608ee666": {
+      "url": "https://jobs.ashbyhq.com/kiefer/9e973563-8a92-461e-a3d1-ecaebe49c0a7",
+      "title": "Senior Product Designer @ Kiefer",
+      "company": "Kiefer",
+      "first_seen": "2026-05-02T08:57:06.880465",
+      "fit_score": 0
+    },
+    "2159a16566e1dfdf": {
+      "url": "https://jobs.workable.com/view/sZoDPMnpYdRvXuMxka5Aha/remote-ux-researcher-(uxr-1-042026)-in-india-at-koru-ux-design-llp",
+      "title": "UX Researcher (UXR-1-042026) | Koru UX Design LLP",
+      "company": "N/A",
+      "first_seen": "2026-05-02T08:57:07.102786",
+      "fit_score": 0
     }
   },
-  "last_updated": "2026-04-25T08:42:05.407044"
+  "last_updated": "2026-05-02T08:57:07.104445"
 }
