@@ -1,14 +1,66 @@
 {
   "jobs": [
     {
+      "title": "Director, AI @ Adonis",
+      "company": "Adonis",
+      "location": "N/A",
+      "description": "",
+      "url": "https://jobs.ashbyhq.com/adonis/a4fe5f84-3caa-463b-9de8-36905b3d944f",
+      "source": "ashby",
+      "posted_date": "2026-05-12T10:22:18.540621",
+      "scraped_at": "2026-05-12T10:22:18.540632",
+      "search_snippet": "... AI Strategy & Vision: Develop and execute the overarching AI/ML strategy for ... DS/ML Team Leadership: Lead and mentor the Data Science and Machine Learning ...",
+      "search_title": "Director, AI @ Adonis",
+      "ai_analysis": {
+        "fit_score": 0,
+        "category": "Unknown",
+        "justification": "Analysis failed",
+        "positioning_advice": "Could not analyze this job"
+      },
+      "sustainability_analysis": {
+        "fit_score": 0,
+        "category": "Unknown",
+        "justification": "Analysis failed",
+        "positioning_advice": "Could not analyze this job"
+      },
+      "job_id": "8abf988b4a869548",
+      "days_old": 0
+    },
+    {
+      "title": "Senior Product Manager @ Artian AI",
+      "company": "Artian",
+      "location": "N/A",
+      "description": "",
+      "url": "https://jobs.ashbyhq.com/artian/6c61f5d5-0702-416d-ad47-c6203ece2fd1",
+      "source": "ashby",
+      "posted_date": "2026-05-12T10:22:20.777605",
+      "scraped_at": "2026-05-12T10:22:20.777615",
+      "search_snippet": "About the Role. Artian AI is looking for a Senior Product Manager to lead product development for the operational workflows our agentic AI platform automates.",
+      "search_title": "Senior Product Manager @ Artian AI",
+      "ai_analysis": {
+        "fit_score": 0,
+        "category": "Unknown",
+        "justification": "Analysis failed",
+        "positioning_advice": "Could not analyze this job"
+      },
+      "sustainability_analysis": {
+        "fit_score": 0,
+        "category": "Unknown",
+        "justification": "Analysis failed",
+        "positioning_advice": "Could not analyze this job"
+      },
+      "job_id": "13b521bda09bcf5e",
+      "days_old": 0
+    },
+    {
       "title": "Senior Product Manager, Agentic AI @ Jerry.ai",
       "company": "Jerry.Ai",
       "location": "N/A",
       "description": "",
       "url": "https://jobs.ashbyhq.com/jerry.ai/34dfe2c9-ea41-4454-842b-edc1e2b9e5ee",
       "source": "ashby",
-      "posted_date": "2026-05-05T09:50:47.960426",
-      "scraped_at": "2026-05-05T09:50:47.960439",
+      "posted_date": "2026-05-12T10:22:22.910823",
+      "scraped_at": "2026-05-12T10:22:22.910835",
       "search_snippet": "Senior Product Manager, Agentic AI. Location. San Francisco Bay Area; Atlanta ... Backed by artificial intelligence and machine learning, Jerry.ai ...",
       "search_title": "Senior Product Manager, Agentic AI @ Jerry.ai",
       "ai_analysis": {
@@ -27,67 +79,15 @@
       "days_old": 0
     },
     {
-      "title": "Product Manager, Guest Discovery and Homepage",
-      "company": "Airbnb",
-      "location": "N/A",
-      "description": "",
-      "url": "https://boards.greenhouse.io/airbnb/jobs/7827238",
-      "source": "greenhouse",
-      "posted_date": "2026-05-05T09:50:50.813242",
-      "scraped_at": "2026-05-05T09:50:50.813253",
-      "search_snippet": "Product Manager, Guest Discovery and Homepage ... They partner with talented cross-functional team members across engineering, design, operations, data science, ...",
-      "search_title": "Product Manager, Guest Discovery and Homepage",
-      "ai_analysis": {
-        "fit_score": 0,
-        "category": "Unknown",
-        "justification": "Analysis failed",
-        "positioning_advice": "Could not analyze this job"
-      },
-      "sustainability_analysis": {
-        "fit_score": 0,
-        "category": "Unknown",
-        "justification": "Analysis failed",
-        "positioning_advice": "Could not analyze this job"
-      },
-      "job_id": "48ac10bfdee66f73",
-      "days_old": 0
-    },
-    {
-      "title": "Product Manager- Generative & Agentic AI @ Semperis",
-      "company": "Semperis",
-      "location": "N/A",
-      "description": "",
-      "url": "https://jobs.ashbyhq.com/semperis/ccd62cab-0068-4f03-9513-016b6f71f9ec?utm_medium=getro.com&gh_src=Insight+Partners+job+board&utm_source=jobs.cobloom.com",
-      "source": "ashby",
-      "posted_date": "2026-05-05T09:50:53.036761",
-      "scraped_at": "2026-05-05T09:50:53.036772",
-      "search_snippet": "Product Manager- Generative & Agentic AI. Location. Toronto. Employment Type ... Experience building or product managing generative AI/LLM-based ...",
-      "search_title": "Product Manager- Generative & Agentic AI @ Semperis",
-      "ai_analysis": {
-        "fit_score": 0,
-        "category": "Unknown",
-        "justification": "Analysis failed",
-        "positioning_advice": "Could not analyze this job"
-      },
-      "sustainability_analysis": {
-        "fit_score": 0,
-        "category": "Unknown",
-        "justification": "Analysis failed",
-        "positioning_advice": "Could not analyze this job"
-      },
-      "job_id": "3bf9fe168816f3c7",
-      "days_old": 0
-    },
-    {
       "title": "AI Trainer - Freelance - 8-20 hrs/week - Remote @ 10x Team",
       "company": "10Xteam",
       "location": "N/A",
       "description": "",
       "url": "https://jobs.ashbyhq.com/10xteam/3f7aad32-42ab-4f87-980c-8d5b7a3f4cd9",
       "source": "ashby",
-      "posted_date": "2026-05-05T09:50:55.300656",
-      "scraped_at": "2026-05-05T09:50:55.300666",
-      "search_snippet": "Are you an experienced transformation program manager who instinctively identifies gaps in strategic execution, drives large-scale initiatives, ...",
+      "posted_date": "2026-05-12T10:22:25.160297",
+      "scraped_at": "2026-05-12T10:22:25.160306",
+      "search_snippet": "A senior-level transformation program manager with significant professional experience within the EU or UK · Experienced in designing, managing, and delivering ...",
       "search_title": "AI Trainer - Freelance - 8-20 hrs/week - Remote @ 10x Team",
       "ai_analysis": {
         "fit_score": 0,
@@ -105,16 +105,16 @@
       "days_old": 0
     },
     {
-      "title": "AI Strategy Consultant @ Casper Studios",
-      "company": "Casper%20Studios",
+      "title": "Senior Agent Product Manager @ Decagon",
+      "company": "Decagon",
       "location": "N/A",
       "description": "",
-      "url": "https://jobs.ashbyhq.com/Casper%20Studios/9fa9ea47-acdf-4d8e-b4da-1feb6df7b174",
+      "url": "https://jobs.ashbyhq.com/decagon/123e4aae-9550-4e69-be08-6789e09db07e",
       "source": "ashby",
-      "posted_date": "2026-05-05T09:50:57.503743",
-      "scraped_at": "2026-05-05T09:50:57.503754",
-      "search_snippet": "AI Strategy Consultant. Location. Remote. Employment Type. Full time. Location Type. Remote. Department. Product. Compensation. $160K – $180K • Offers Equity.",
-      "search_title": "AI Strategy Consultant @ Casper Studios",
+      "posted_date": "2026-05-12T10:22:27.384187",
+      "scraped_at": "2026-05-12T10:22:27.384195",
+      "search_snippet": "... Product Manager, one part AI expert. ... Embed deeply within strategic customers to understand their business challenges and serve as a strategic advisor to their ...",
+      "search_title": "Senior Agent Product Manager @ Decagon",
       "ai_analysis": {
         "fit_score": 0,
         "category": "Unknown",
@@ -127,20 +127,20 @@
         "justification": "Analysis failed",
         "positioning_advice": "Could not analyze this job"
       },
-      "job_id": "bc28dc33d9dbfbef",
+      "job_id": "82789af5a0db59c0",
       "days_old": 0
     },
     {
-      "title": "Director, AI @ Adonis",
-      "company": "Adonis",
+      "title": "AI Ops & Strategy, GTM @ Laurel",
+      "company": "Laurel",
       "location": "N/A",
       "description": "",
-      "url": "https://jobs.ashbyhq.com/Adonis/b20fe47e-0452-45e2-82fa-a1808b8dc614?utm_source=fundedandhiring.com",
+      "url": "https://jobs.ashbyhq.com/Laurel/99fc6bc2-cf05-4f81-af7b-e570ddd42298/application?ref=levels.fyi&src=levels.fyi&utm_source=levels.fyi",
       "source": "ashby",
-      "posted_date": "2026-05-05T09:50:59.587665",
-      "scraped_at": "2026-05-05T09:50:59.587674",
-      "search_snippet": "... AI Strategy & Vision: Develop and execute the overarching AI/ML strategy for ... DS/ML Team Leadership: Lead and mentor the Data Science and Machine Learning ...",
-      "search_title": "Director, AI @ Adonis",
+      "posted_date": "2026-05-12T10:22:30.327903",
+      "scraped_at": "2026-05-12T10:22:30.327912",
+      "search_snippet": "machine learning technology automates work time capture and connects time ... AI Ops & Strategy, GTM. Location. New York, NY. Employment Type. Full time ...",
+      "search_title": "AI Ops & Strategy, GTM @ Laurel",
       "ai_analysis": {
         "fit_score": 0,
         "category": "Unknown",
@@ -153,20 +153,20 @@
         "justification": "Analysis failed",
         "positioning_advice": "Could not analyze this job"
       },
-      "job_id": "5f565a23366d2283",
+      "job_id": "2a15a7931c329ae6",
       "days_old": 0
     },
     {
-      "title": "SpotOn - Senior Director of Product & AI",
-      "company": "Spoton",
+      "title": "Manager, CX AI Strategy @ Strava",
+      "company": "Strava",
       "location": "N/A",
       "description": "",
-      "url": "https://jobs.ashbyhq.com/spoton/c41a54de-50f4-4705-9419-cec616b50f89",
+      "url": "https://jobs.ashbyhq.com/Strava/439de2d2-2db0-45c0-9428-8ff17da0965c?utm_source=levels.fyi&ref=levels.fyi&src=levels.fyi",
       "source": "ashby",
-      "posted_date": "2026-05-05T09:51:01.935797",
-      "scraped_at": "2026-05-05T09:51:01.935807",
-      "search_snippet": "Senior Director of Product & AI. Location. Chicago, Illinois, United States; Austin, Texas, United States; New York, New York, United States; Royal Oak ...",
-      "search_title": "SpotOn - Senior Director of Product & AI",
+      "posted_date": "2026-05-12T10:22:33.171480",
+      "scraped_at": "2026-05-12T10:22:33.171489",
+      "search_snippet": "Manager, CX AI Strategy. Location. Strava SF. Employment Type. Full time ... These include (but are not limited to) AI involvement rate, AI resolution rate ...",
+      "search_title": "Manager, CX AI Strategy @ Strava",
       "ai_analysis": {
         "fit_score": 0,
         "category": "Unknown",
@@ -179,20 +179,20 @@
         "justification": "Analysis failed",
         "positioning_advice": "Could not analyze this job"
       },
-      "job_id": "1f38bf8d5797bce3",
+      "job_id": "53e25d76c2a0a6b4",
       "days_old": 0
     },
     {
-      "title": "Credit Genie - Data Analyst (L25-162569)",
-      "company": "Creditgenie",
+      "title": "Senior Product Manager @ Artian AI",
+      "company": "Artian",
       "location": "N/A",
       "description": "",
-      "url": "https://jobs.ashbyhq.com/creditgenie/06042f0d-b8d9-4a63-ad61-9afaf6aacb7d",
+      "url": "https://jobs.ashbyhq.com/artian/6c61f5d5-0702-416d-ad47-c6203ece2fd1/application",
       "source": "ashby",
-      "posted_date": "2026-05-05T09:51:04.174547",
-      "scraped_at": "2026-05-05T09:51:04.174557",
-      "search_snippet": "We leverage artificial intelligence to provide personalized insights and are building a financial ecosystem by offering tools and services that provide instant ...",
-      "search_title": "Credit Genie - Data Analyst (L25-162569)",
+      "posted_date": "2026-05-12T10:22:35.427735",
+      "scraped_at": "2026-05-12T10:22:35.427745",
+      "search_snippet": "Artian AI. Senior Product Manager. Location. New York. Employment Type. Full time. Location Type. On-site. Department. Distribution. Compensation. $150K – $175K ...",
+      "search_title": "Senior Product Manager @ Artian AI",
       "ai_analysis": {
         "fit_score": 0,
         "category": "Unknown",
@@ -205,20 +205,20 @@
         "justification": "Analysis failed",
         "positioning_advice": "Could not analyze this job"
       },
-      "job_id": "686c0f7e4a354278",
+      "job_id": "272ad7593f5cb95c",
       "days_old": 0
     },
     {
-      "title": "Lead GTM Data Operations Analyst, AI Workflows",
-      "company": "Klaviyo",
-      "location": "Denver, CO",
-      "description": "Discover how the Klaviyo CRM, built for your business, can help you create lasting customer relationships.",
-      "url": "https://boards.greenhouse.io/klaviyo/jobs/7724065003",
-      "source": "greenhouse",
-      "posted_date": "2026-05-05T09:51:06.746299",
-      "scraped_at": "2026-05-05T09:51:06.746327",
-      "search_snippet": "Sit between AI systems and GTM data. Operate, tune, and extend our agentic data quality pipeline (detection, enrichment, hierarchy mapping, conflict resolution) ...",
-      "search_title": "Lead GTM Data Operations Analyst, AI Workflows",
+      "title": "AI Product Manager @ DualEntry",
+      "company": "Dualentry",
+      "location": "N/A",
+      "description": "",
+      "url": "https://jobs.ashbyhq.com/dualentry/0931fa81-43e6-43f1-8c05-0361ef6ada1f/application?utm_data=hiring.lat",
+      "source": "ashby",
+      "posted_date": "2026-05-12T10:22:37.696193",
+      "scraped_at": "2026-05-12T10:22:37.696203",
+      "search_snippet": "AI Product Manager ; Location. New York City ; Address. 7 World Trade Center, 39th Floor, New York NY ; Employment Type. Full time ; Location Type. On-site ...",
+      "search_title": "AI Product Manager @ DualEntry",
       "ai_analysis": {
         "fit_score": 0,
         "category": "Unknown",
@@ -231,7 +231,33 @@
         "justification": "Analysis failed",
         "positioning_advice": "Could not analyze this job"
       },
-      "job_id": "059dd9fd7bcf9eaa",
+      "job_id": "205914ee3d3be945",
+      "days_old": 0
+    },
+    {
+      "title": "M&A Specialist - AI Trainer - Freelance - 8-20hrs/week",
+      "company": "10Xteam",
+      "location": "N/A",
+      "description": "",
+      "url": "https://jobs.ashbyhq.com/10xteam/4976298f-11be-4031-ac71-d0e165a1ffcd",
+      "source": "ashby",
+      "posted_date": "2026-05-12T10:22:39.968965",
+      "scraped_at": "2026-05-12T10:22:39.968974",
+      "search_snippet": "Review and refine AI-generated outputs on M&A topics, including deal sourcing, due diligence, transaction structuring, valuation, post-merger integration, and ...",
+      "search_title": "M&A Specialist - AI Trainer - Freelance - 8-20hrs/week",
+      "ai_analysis": {
+        "fit_score": 0,
+        "category": "Unknown",
+        "justification": "Analysis failed",
+        "positioning_advice": "Could not analyze this job"
+      },
+      "sustainability_analysis": {
+        "fit_score": 0,
+        "category": "Unknown",
+        "justification": "Analysis failed",
+        "positioning_advice": "Could not analyze this job"
+      },
+      "job_id": "f10f1dd3ccda34af",
       "days_old": 0
     },
     {
@@ -241,8 +267,8 @@
       "description": "",
       "url": "https://jobs.ashbyhq.com/Hippocratic%20AI/f7e6117e-e3b2-4146-ade7-cfc47748ccaf",
       "source": "ashby",
-      "posted_date": "2026-05-05T09:51:08.925838",
-      "scraped_at": "2026-05-05T09:51:08.925848",
+      "posted_date": "2026-05-12T10:22:42.213254",
+      "scraped_at": "2026-05-12T10:22:42.213263",
       "search_snippet": "Hippocratic AI is the leading generative AI company in healthcare. We have the only system that can have safe, autonomous, clinical conversations with patients.",
       "search_title": "AI Clinical Solutions Specialist (Sioux Falls, SD)",
       "ai_analysis": {
@@ -261,170 +287,14 @@
       "days_old": 0
     },
     {
-      "title": "AI Search Analyst @ Scrunch",
-      "company": "Scrunch",
-      "location": "N/A",
-      "description": "",
-      "url": "https://jobs.ashbyhq.com/scrunch/e7ce3d48-4aa6-42cc-95cd-1575a86e255f",
-      "source": "ashby",
-      "posted_date": "2026-05-05T09:51:11.164495",
-      "scraped_at": "2026-05-05T09:51:11.164504",
-      "search_snippet": "2–4 years of experience in analytics, data science, consulting, or a similarly quantitative role. Strong foundations in statistics, analysis, and measurement.",
-      "search_title": "AI Search Analyst @ Scrunch",
-      "ai_analysis": {
-        "fit_score": 0,
-        "category": "Unknown",
-        "justification": "Analysis failed",
-        "positioning_advice": "Could not analyze this job"
-      },
-      "sustainability_analysis": {
-        "fit_score": 0,
-        "category": "Unknown",
-        "justification": "Analysis failed",
-        "positioning_advice": "Could not analyze this job"
-      },
-      "job_id": "74b2f350bc9d82ef",
-      "days_old": 0
-    },
-    {
-      "title": "Director, AI @ Adonis",
-      "company": "Adonis",
-      "location": "N/A",
-      "description": "",
-      "url": "https://jobs.ashbyhq.com/Adonis/b20fe47e-0452-45e2-82fa-a1808b8dc614?utm_source=fundedandhiring.com",
-      "source": "ashby",
-      "posted_date": "2026-05-05T09:51:13.182121",
-      "scraped_at": "2026-05-05T09:51:13.182131",
-      "search_snippet": "... AI Strategy & Vision: Develop and execute the overarching AI/ML strategy for ... DS/ML Team Leadership: Lead and mentor the Data Science and Machine Learning ...",
-      "search_title": "Director, AI @ Adonis",
-      "ai_analysis": {
-        "fit_score": 0,
-        "category": "Unknown",
-        "justification": "Analysis failed",
-        "positioning_advice": "Could not analyze this job"
-      },
-      "sustainability_analysis": {
-        "fit_score": 0,
-        "category": "Unknown",
-        "justification": "Analysis failed",
-        "positioning_advice": "Could not analyze this job"
-      },
-      "job_id": "5f565a23366d2283",
-      "days_old": 0
-    },
-    {
-      "title": "Managing Director - AI Trainer - Freelance - 8-20 hrs/week",
-      "company": "10Xteam",
-      "location": "N/A",
-      "description": "",
-      "url": "https://jobs.ashbyhq.com/10xteam/bfe7f103-ed87-4f5e-84ed-88851c360379",
-      "source": "ashby",
-      "posted_date": "2026-05-05T09:51:15.361561",
-      "scraped_at": "2026-05-05T09:51:15.361570",
-      "search_snippet": "Rather than managing teams directly, you'll help AI models learn and reason like a real-world managing director. Who You Are. A senior-level managing director ...",
-      "search_title": "Managing Director - AI Trainer - Freelance - 8-20 hrs/week",
-      "ai_analysis": {
-        "fit_score": 0,
-        "category": "Unknown",
-        "justification": "Analysis failed",
-        "positioning_advice": "Could not analyze this job"
-      },
-      "sustainability_analysis": {
-        "fit_score": 0,
-        "category": "Unknown",
-        "justification": "Analysis failed",
-        "positioning_advice": "Could not analyze this job"
-      },
-      "job_id": "d397735ac06b4f43",
-      "days_old": 0
-    },
-    {
-      "title": "AI Strategy & Deployment Manager @ Databook Labs, Inc.",
-      "company": "Databook",
-      "location": "N/A",
-      "description": "",
-      "url": "https://jobs.ashbyhq.com/databook/3f487f03-d580-4cc4-af09-92fcc2600f98",
-      "source": "ashby",
-      "posted_date": "2026-05-05T09:51:17.573960",
-      "scraped_at": "2026-05-05T09:51:17.573970",
-      "search_snippet": "AI Strategy & Deployment Manager. Location. Palo Alto. Employment Type. Full ... AI/ML solutions to optimize revenue operations and customer success strategies.",
-      "search_title": "AI Strategy & Deployment Manager @ Databook Labs, Inc.",
-      "ai_analysis": {
-        "fit_score": 0,
-        "category": "Unknown",
-        "justification": "Analysis failed",
-        "positioning_advice": "Could not analyze this job"
-      },
-      "sustainability_analysis": {
-        "fit_score": 0,
-        "category": "Unknown",
-        "justification": "Analysis failed",
-        "positioning_advice": "Could not analyze this job"
-      },
-      "job_id": "2e9518757673d597",
-      "days_old": 0
-    },
-    {
-      "title": "AI Strategy Consultant @ Casper Studios",
-      "company": "Casper%20Studios",
-      "location": "N/A",
-      "description": "",
-      "url": "https://jobs.ashbyhq.com/Casper%20Studios/9fa9ea47-acdf-4d8e-b4da-1feb6df7b174",
-      "source": "ashby",
-      "posted_date": "2026-05-05T09:51:19.594646",
-      "scraped_at": "2026-05-05T09:51:19.594657",
-      "search_snippet": "AI Strategy Consultant. Location. Remote. Employment Type. Full time. Location Type. Remote. Department. Product. Compensation. $160K – $180K • Offers Equity.",
-      "search_title": "AI Strategy Consultant @ Casper Studios",
-      "ai_analysis": {
-        "fit_score": 0,
-        "category": "Unknown",
-        "justification": "Analysis failed",
-        "positioning_advice": "Could not analyze this job"
-      },
-      "sustainability_analysis": {
-        "fit_score": 0,
-        "category": "Unknown",
-        "justification": "Analysis failed",
-        "positioning_advice": "Could not analyze this job"
-      },
-      "job_id": "bc28dc33d9dbfbef",
-      "days_old": 0
-    },
-    {
-      "title": "Lead GTM Data Operations Analyst, AI Workflows",
-      "company": "Klaviyo",
-      "location": "Boston, MA",
-      "description": "Discover how the Klaviyo CRM, built for your business, can help you create lasting customer relationships.",
-      "url": "https://boards.greenhouse.io/klaviyo/jobs/7718967003",
-      "source": "greenhouse",
-      "posted_date": "2026-05-05T09:51:22.020998",
-      "scraped_at": "2026-05-05T09:51:22.021030",
-      "search_snippet": "Sit between AI systems and GTM data. Operate, tune, and extend our agentic data quality pipeline (detection, enrichment, hierarchy mapping, conflict resolution) ...",
-      "search_title": "Lead GTM Data Operations Analyst, AI Workflows",
-      "ai_analysis": {
-        "fit_score": 0,
-        "category": "Unknown",
-        "justification": "Analysis failed",
-        "positioning_advice": "Could not analyze this job"
-      },
-      "sustainability_analysis": {
-        "fit_score": 0,
-        "category": "Unknown",
-        "justification": "Analysis failed",
-        "positioning_advice": "Could not analyze this job"
-      },
-      "job_id": "c10db9dc12e812d8",
-      "days_old": 0
-    },
-    {
       "title": "AI Implementation Specialist @ Raspberry AI",
       "company": "Raspberry",
       "location": "N/A",
       "description": "",
       "url": "https://jobs.ashbyhq.com/raspberry/47aeb1c8-70df-4511-b467-8d671df861f3",
       "source": "ashby",
-      "posted_date": "2026-05-05T09:51:24.196666",
-      "scraped_at": "2026-05-05T09:51:24.196676",
+      "posted_date": "2026-05-12T10:22:44.944242",
+      "scraped_at": "2026-05-12T10:22:44.944253",
       "search_snippet": "Leveraging cutting-edge AI analytics and generative AI capabilities, we help fashion brands revolutionize their design and merchandising processes. We are a ...",
       "search_title": "AI Implementation Specialist @ Raspberry AI",
       "ai_analysis": {
@@ -443,16 +313,16 @@
       "days_old": 0
     },
     {
-      "title": "AI Specialist - AI Trainer - Freelance - 8-20hrs/week - Remote",
-      "company": "10Xteam",
+      "title": "Product Manager- Generative & Agentic AI @ Semperis",
+      "company": "Semperis",
       "location": "N/A",
       "description": "",
-      "url": "https://jobs.ashbyhq.com/10xteam/3c053f18-838a-4e58-8b06-46228c57dc54",
+      "url": "https://jobs.ashbyhq.com/semperis/ccd62cab-0068-4f03-9513-016b6f71f9ec?utm_medium=getro.com&gh_src=Insight+Partners+job+board&utm_source=jobs.cobloom.com",
       "source": "ashby",
-      "posted_date": "2026-05-05T09:51:26.351228",
-      "scraped_at": "2026-05-05T09:51:26.351239",
-      "search_snippet": "What You Will Do. Review and refine AI-generated outputs related to artificial intelligence systems, technical requirements, and practical aspects of AI tooling.",
-      "search_title": "AI Specialist - AI Trainer - Freelance - 8-20hrs/week - Remote",
+      "posted_date": "2026-05-12T10:22:47.374248",
+      "scraped_at": "2026-05-12T10:22:47.374258",
+      "search_snippet": "Product Manager- Generative & Agentic AI. Location. Toronto. Employment Type ... Experience building or product managing generative AI/LLM-based ...",
+      "search_title": "Product Manager- Generative & Agentic AI @ Semperis",
       "ai_analysis": {
         "fit_score": 0,
         "category": "Unknown",
@@ -465,7 +335,137 @@
         "justification": "Analysis failed",
         "positioning_advice": "Could not analyze this job"
       },
-      "job_id": "586d8afa02fbccbf",
+      "job_id": "3bf9fe168816f3c7",
+      "days_old": 0
+    },
+    {
+      "title": "Senior Director, Creative",
+      "company": "Datadog",
+      "location": "N/A",
+      "description": "",
+      "url": "https://boards.greenhouse.io/datadog/jobs/7899179",
+      "source": "greenhouse",
+      "posted_date": "2026-05-12T10:22:49.826311",
+      "scraped_at": "2026-05-12T10:22:49.826321",
+      "search_snippet": "As Senior Director, Creative, you will set and uphold the creative standard across both modes, leading design, video, and copy as a unified, high-performing ...",
+      "search_title": "Senior Director, Creative",
+      "ai_analysis": {
+        "fit_score": 0,
+        "category": "Unknown",
+        "justification": "Analysis failed",
+        "positioning_advice": "Could not analyze this job"
+      },
+      "sustainability_analysis": {
+        "fit_score": 0,
+        "category": "Unknown",
+        "justification": "Analysis failed",
+        "positioning_advice": "Could not analyze this job"
+      },
+      "job_id": "eb949ba08f5f8346",
+      "days_old": 0
+    },
+    {
+      "title": "Director, Customer Experience",
+      "company": "Discord",
+      "location": "San Francisco Bay Area",
+      "description": "Discord is used by over 200 million people every month for many different reasons, but there’s one thing that nearly everyone does on our platform: play video games. Over 90% of our users play games, spending a combined 1.5 billion hours playing thousands of unique titles on Discord each month. Discord plays a uniquely important role in the future of gaming. We are focused on making it easier and more fun for people to talk and hang out before, during, and after playing games. The Customer Experience team at Discord has the privilege of supporting our communities, listening to their feedback, and sharing these insights with other teams to help make the Discord experience the best that it can possibly be. We’re looking for a Director of Customer Experience to lead the next chapter of our support story: a bold, AI-powered transformation of how we serve tens of millions of users worldwide. You’ll inherit a talented, established team of in-house CX specialists and own the strategy, culture, and execution that defines what great support looks like at Discord. This is a high-visibility, high-impact role for a senior leader who thrives on building world class systems that solve problems for customers. This person will report to the Senior Director of Scaled Operations. What you'll be doing Define and drive a CX transformation strategy that harnesses AI, intelligent tooling, and data-driven insights to deliver faster, higher-quality support at global scale Lead, develop, and inspire a global team of in-house CX specialists building a culture of ownership, continuous improvement, and genuine care for our users Own the end-to-end user support experience, setting the vision for quality, efficiency, and satisfaction across all channels and contact types Champion AI-first support models including intelligent triage, AI agents, and proactive deflection strategies, partnering closely with technical teams to bring them to life Partner cross-functionally with Product, Engineering, and Data teams to identify upstream drivers of contact volume, close the feedback loop, and measurably improve the user experience Define and defend the KPIs that matter and translate data into executable strategy that moves the needle Build and maintain high-trust operational partnerships to ensure global coverage, quality consistency, and resilience across all support channels What you should have 10+ years in customer support or customer experience, including 5+ years leading large-scale global support organizations at major technology companies A proven track record of CX transformation at scale. You’ve modernized tooling, implemented AI-powered support, and have the metrics to prove it moved the needle Deep fluency in AI-powered support models. You understand how to build a modern support stack, maximize automation, and know where human judgment still wins Exceptional people leadership. You develop leaders, grow high-performing teams, and create environments where people do the best work of their careers Strong analytical fluency. You’re comfortable in the data, can diagnose what’s broken, and translate insight into executable strategy A highly collaborative operating style. You build strong cross-functional partnerships with Product, Engineering, Finance, and Legal, and know how to drive outcomes across organizational lines Genuine enthusiasm for Discord’s mission and an intuition for what community-driven platforms demand from their support experience Bonus points Hands-on experience implementing or scaling AI support agents (e.g., conversational AI platforms, automated resolution tools) Deep familiarity with Zendesk or enterprise CX platforms at significant scale Background in Trust & Safety or experience supporting policy-sensitive user issues Experience managing global vendor or BPO relationships as part of a broader support strategy Candidates must reside in or be willing to relocate to the San Francisco Bay Area (Alameda, Contra Costa, Marin, Napa, San Francisco, San Mateo, Santa Clara, Solano, and Sonoma counties). Relocation assistance may be available. The US base salary range for this full-time position is $224,000 to $252,000 + equity + benefits. Our salary ranges are determined by role and level. Within the range, individual pay is determined by additional factors, including job-related skills, experience, and relevant education or training. Please note that the compensation details listed in US role postings reflect the base salary only, and do not include equity, or benefits. Why Discord? Discord plays a uniquely important role in the future of gaming. We're a multiplatform, multigenerational and multiplayer platform that helps people deepen their friendships around games and shared interests. We believe games give us a way to have fun with our favorite people, whether listening to music together or grinding in competitive matches for diamond rank. Join us in our mission! Your future is just a click away! Discord is committed to inclusion and providing reasonable accommodations during the interview process. We want you to feel set up for success, so if you are in need of reasonable accommodations, please let your recruiter know. Please see our Applicant and Candidate Privacy Policy for details regarding Discord’s collection and usage of personal information relating to the application and recruitment process by clicking HERE.",
+      "url": "https://boards.greenhouse.io/discord/jobs/8538797002",
+      "source": "greenhouse",
+      "posted_date": "2026-05-12T10:22:52.058355",
+      "scraped_at": "2026-05-12T10:22:52.058717",
+      "search_snippet": "We're looking for a Director of Customer Experience to lead the next chapter of our support story: a bold, AI-powered transformation of how we serve tens of ...",
+      "search_title": "Job Application for Director, Customer Experience at Discord",
+      "ai_analysis": {
+        "fit_score": 0,
+        "category": "Unknown",
+        "justification": "Analysis failed",
+        "positioning_advice": "Could not analyze this job"
+      },
+      "sustainability_analysis": {
+        "fit_score": 0,
+        "category": "Unknown",
+        "justification": "Analysis failed",
+        "positioning_advice": "Could not analyze this job"
+      },
+      "job_id": "f0303c01ff2a6b36",
+      "days_old": 0
+    },
+    {
+      "title": "Applied AI Product Manager @ Clipboard",
+      "company": "Clipboard",
+      "location": "N/A",
+      "description": "",
+      "url": "https://jobs.ashbyhq.com/clipboard/6f52144e-6f0e-47a0-99a8-e5ad58828999/application",
+      "source": "ashby",
+      "posted_date": "2026-05-12T10:22:54.326268",
+      "scraped_at": "2026-05-12T10:22:54.326278",
+      "search_snippet": "Applied AI Product Manager. Location. Remote (Global). Employment Type. Full time. Location Type. Remote. Department. Customer Operations. OverviewApplication ...",
+      "search_title": "Applied AI Product Manager @ Clipboard",
+      "ai_analysis": {
+        "fit_score": 0,
+        "category": "Unknown",
+        "justification": "Analysis failed",
+        "positioning_advice": "Could not analyze this job"
+      },
+      "sustainability_analysis": {
+        "fit_score": 0,
+        "category": "Unknown",
+        "justification": "Analysis failed",
+        "positioning_advice": "Could not analyze this job"
+      },
+      "job_id": "e805780c1d0260a9",
+      "days_old": 0
+    },
+    {
+      "title": "Senior Agent Product Manager @ Decagon",
+      "company": "Decagon",
+      "location": "N/A",
+      "description": "",
+      "url": "https://jobs.ashbyhq.com/decagon/123e4aae-9550-4e69-be08-6789e09db07e",
+      "source": "ashby",
+      "posted_date": "2026-05-12T10:22:56.344544",
+      "scraped_at": "2026-05-12T10:22:56.344552",
+      "search_snippet": "... Product Manager, one part AI expert. ... Embed deeply within strategic customers to understand their business challenges and serve as a strategic advisor to their ...",
+      "search_title": "Senior Agent Product Manager @ Decagon",
+      "ai_analysis": {
+        "fit_score": 0,
+        "category": "Unknown",
+        "justification": "Analysis failed",
+        "positioning_advice": "Could not analyze this job"
+      },
+      "sustainability_analysis": {
+        "fit_score": 0,
+        "category": "Unknown",
+        "justification": "Analysis failed",
+        "positioning_advice": "Could not analyze this job"
+      },
+      "job_id": "82789af5a0db59c0",
+      "days_old": 0
+    },
+    {
+      "title": "AI Ops & Strategy, GTM @ Laurel",
+      "company": "Laurel",
+      "location": "N/A",
+      "description": "",
+      "url": "https://jobs.ashbyhq.com/Laurel/99fc6bc2-cf05-4f81-af7b-e570ddd42298/application?ref=levels.fyi&src=levels.fyi&utm_source=levels.fyi",
+      "source": "ashby",
+      "posted_date": "2026-05-12T10:22:58.363409",
+      "scraped_at": "2026-05-12T10:22:58.363417",
+      "search_snippet": "machine learning technology automates work time capture and connects time ... AI Ops & Strategy, GTM. Location. New York, NY. Employment Type. Full time ...",
+      "search_title": "AI Ops & Strategy, GTM @ Laurel",
+      "ai_analysis": {
+        "fit_score": 0,
+        "category": "Unknown",
+        "justification": "Analysis failed",
+        "positioning_advice": "Could not analyze this job"
+      },
+      "sustainability_analysis": {
+        "fit_score": 0,
+        "category": "Unknown",
+        "justification": "Analysis failed",
+        "positioning_advice": "Could not analyze this job"
+      },
+      "job_id": "2a15a7931c329ae6",
       "days_old": 0
     },
     {
@@ -475,8 +475,8 @@
       "description": "",
       "url": "https://jobs.ashbyhq.com/farsight/aaa9d556-a204-495f-9d9d-624d19185736",
       "source": "ashby",
-      "posted_date": "2026-05-05T09:51:28.482545",
-      "scraped_at": "2026-05-05T09:51:28.482555",
+      "posted_date": "2026-05-12T10:23:00.599182",
+      "scraped_at": "2026-05-12T10:23:00.599192",
       "search_snippet": "PRODUCT MANAGER ABOUT FARSIGHT AI Farsight AI is the agentic AI platform for financial services, helping investment banks and private equity firms fully ...",
       "search_title": "Product Manager @ Farsight AI",
       "ai_analysis": {
@@ -495,16 +495,16 @@
       "days_old": 0
     },
     {
-      "title": "AI Strategist, Business @ Profound",
-      "company": "Profound",
+      "title": "Customer AI Strategy & Success Lead – SMB @ Arya Health",
+      "company": "Aryahealth.Ai",
       "location": "N/A",
       "description": "",
-      "url": "https://jobs.ashbyhq.com/Profound/9e401d6d-7a8c-4e35-afbe-cdf0e2e80b3c",
+      "url": "https://jobs.ashbyhq.com/aryahealth.ai/17626eda-ab73-4102-af26-b02e891c3a64",
       "source": "ashby",
-      "posted_date": "2026-05-05T09:51:30.664688",
-      "scraped_at": "2026-05-05T09:51:30.664698",
-      "search_snippet": "... strategy conversations with confidence - Partner with Sales, Post-Sales, Product, Product Marketing and the broader AI Strategy team as a trusted expert and ...",
-      "search_title": "AI Strategist, Business @ Profound",
+      "posted_date": "2026-05-12T10:23:02.824216",
+      "scraped_at": "2026-05-12T10:23:02.824226",
+      "search_snippet": "You'll operate at the intersection of customer success, implementation, operations, and AI strategy — helping healthcare organizations modernize how they work ...",
+      "search_title": "Customer AI Strategy & Success Lead – SMB @ Arya Health",
       "ai_analysis": {
         "fit_score": 0,
         "category": "Unknown",
@@ -517,20 +517,20 @@
         "justification": "Analysis failed",
         "positioning_advice": "Could not analyze this job"
       },
-      "job_id": "a713162654fa75cc",
+      "job_id": "e5a708b1c206c069",
       "days_old": 0
     },
     {
-      "title": "AI Strategist, Business @ Profound",
-      "company": "Profound",
+      "title": "Technical Product Manager - AI Agent Systems @ Block Labs",
+      "company": "Block Labs",
       "location": "N/A",
       "description": "",
-      "url": "https://jobs.ashbyhq.com/Profound/9e401d6d-7a8c-4e35-afbe-cdf0e2e80b3c",
+      "url": "https://jobs.ashbyhq.com/block-labs/ea80f42e-2273-42aa-bc02-6d94eb9f2b07",
       "source": "ashby",
-      "posted_date": "2026-05-05T09:51:32.682450",
-      "scraped_at": "2026-05-05T09:51:32.682458",
-      "search_snippet": "... strategy conversations with confidence - Partner with Sales, Post-Sales, Product, Product Marketing and the broader AI Strategy team as a trusted expert and ...",
-      "search_title": "AI Strategist, Business @ Profound",
+      "posted_date": "2026-05-12T10:23:05.034906",
+      "scraped_at": "2026-05-12T10:23:05.034916",
+      "search_snippet": "Technical Leadership: Experience working directly with AI/ML, Data Engineering, and Backend teams to ship logic-heavy, production-grade products. Agentic ...",
+      "search_title": "Technical Product Manager - AI Agent Systems @ Block Labs",
       "ai_analysis": {
         "fit_score": 0,
         "category": "Unknown",
@@ -543,20 +543,20 @@
         "justification": "Analysis failed",
         "positioning_advice": "Could not analyze this job"
       },
-      "job_id": "a713162654fa75cc",
+      "job_id": "724dbb68b6643112",
       "days_old": 0
     },
     {
-      "title": "Lead Product Manager - Agentic AI @ Hinge Health",
-      "company": "Hinge Health",
+      "title": "Legal AI Student Analyst @ Legora AB",
+      "company": "Legora",
       "location": "N/A",
       "description": "",
-      "url": "https://jobs.ashbyhq.com/hinge-health/d7ed5d8f-351e-4c50-a9af-362523eb2d87?utm_source=bing&utm_medium=cpc&utm_campaign=Search_Branded_Core_US_B&adgroupid=1238051079362908&utm_term=hinge%20health&matchtype=e&utm_content=&device=c&devicemodel=&adposition=&loc_physical_ms=102493&network=o&placement=&extensionid=%7Bextensionid%7D&msclkid=04ad9ee5d4291448bc32f716033ea2ac",
+      "url": "https://jobs.ashbyhq.com/legora/0db5d2c8-f028-49b9-9404-92a654f15a52",
       "source": "ashby",
-      "posted_date": "2026-05-05T09:51:34.940477",
-      "scraped_at": "2026-05-05T09:51:34.940488",
-      "search_snippet": "5+ years of experience building AI/ML-driven products, with direct, recent experience working with LLM-powered products — including conversational AI, agentic ...",
-      "search_title": "Lead Product Manager - Agentic AI @ Hinge Health",
+      "posted_date": "2026-05-12T10:23:07.271388",
+      "scraped_at": "2026-05-12T10:23:07.271397",
+      "search_snippet": "Ready to join us in building the intelligent future of law? The Role. As a Legal AI Analyst, you will help build the benchmark dataset we use to evaluate how ...",
+      "search_title": "Legal AI Student Analyst @ Legora AB",
       "ai_analysis": {
         "fit_score": 0,
         "category": "Unknown",
@@ -569,20 +569,20 @@
         "justification": "Analysis failed",
         "positioning_advice": "Could not analyze this job"
       },
-      "job_id": "223cf09f00c8a0fa",
+      "job_id": "702cda8bdbc4fb8c",
       "days_old": 0
     },
     {
-      "title": "Sr. Director, Search Engine Marketing (SEM) @ Hims & Hers",
-      "company": "Hims And Hers",
+      "title": "Senior Product Manager, AI CMO @ Owner.com",
+      "company": "Owner",
       "location": "N/A",
       "description": "",
-      "url": "https://jobs.ashbyhq.com/hims-and-hers/d89bd610-da95-45da-8c52-20221ada73d0",
+      "url": "https://jobs.ashbyhq.com/owner/62507a10-45f1-4b85-a483-cdf7ef4ebed0",
       "source": "ashby",
-      "posted_date": "2026-05-05T09:51:37.327757",
-      "scraped_at": "2026-05-05T09:51:37.327768",
-      "search_snippet": "... Director of Search Engine Marketing (SEM) is a critical growth leader ... Act as the strategic owner for AI/ML integration across SEM, including ...",
-      "search_title": "Sr. Director, Search Engine Marketing (SEM) @ Hims & Hers",
+      "posted_date": "2026-05-12T10:23:09.549343",
+      "scraped_at": "2026-05-12T10:23:09.549352",
+      "search_snippet": "Senior Product Manager, AI CMO. Location. Remote - United States; Remote - Canada. Employment Type. Full time. Location Type. Remote. Department. Engineering ...",
+      "search_title": "Senior Product Manager, AI CMO @ Owner.com",
       "ai_analysis": {
         "fit_score": 0,
         "category": "Unknown",
@@ -595,20 +595,20 @@
         "justification": "Analysis failed",
         "positioning_advice": "Could not analyze this job"
       },
-      "job_id": "6f99ec11f826b4b5",
+      "job_id": "3d89068cab4a566f",
       "days_old": 0
     },
     {
-      "title": "Director of Partnerships @ Surgical Data Science Collective",
-      "company": "Sdsc",
+      "title": "Senior Product Manager @ Artian AI",
+      "company": "Artian",
       "location": "N/A",
       "description": "",
-      "url": "https://jobs.ashbyhq.com/sdsc/a69fc759-ae62-4e8a-86a7-56b05a23c24f",
+      "url": "https://jobs.ashbyhq.com/artian/6c61f5d5-0702-416d-ad47-c6203ece2fd1/application",
       "source": "ashby",
-      "posted_date": "2026-05-05T09:51:39.543629",
-      "scraped_at": "2026-05-05T09:51:39.543638",
-      "search_snippet": "Surgical Data Science Collective. Director of Partnerships. Location. Washington DC; Remote. Employment Type. Full time. Location Type. Remote. Department.",
-      "search_title": "Director of Partnerships @ Surgical Data Science Collective",
+      "posted_date": "2026-05-12T10:23:11.569290",
+      "scraped_at": "2026-05-12T10:23:11.569299",
+      "search_snippet": "Artian AI. Senior Product Manager. Location. New York. Employment Type. Full time. Location Type. On-site. Department. Distribution. Compensation. $150K – $175K ...",
+      "search_title": "Senior Product Manager @ Artian AI",
       "ai_analysis": {
         "fit_score": 0,
         "category": "Unknown",
@@ -621,20 +621,20 @@
         "justification": "Analysis failed",
         "positioning_advice": "Could not analyze this job"
       },
-      "job_id": "9205cfac312436c4",
+      "job_id": "272ad7593f5cb95c",
       "days_old": 0
     },
     {
-      "title": "Program Manager, Partner Operations @ OpenAI",
-      "company": "Openai",
+      "title": "Managing Director - AI Trainer - Freelance - 8-20 hrs/week",
+      "company": "10Xteam",
       "location": "N/A",
       "description": "",
-      "url": "https://jobs.ashbyhq.com/openai/a4d772fc-1c97-43fd-8241-5e5afdc0ef51",
+      "url": "https://jobs.ashbyhq.com/10xteam/bfe7f103-ed87-4f5e-84ed-88851c360379",
       "source": "ashby",
-      "posted_date": "2026-05-05T09:51:41.953761",
-      "scraped_at": "2026-05-05T09:51:41.953771",
-      "search_snippet": "Experience with vibe coding tools, agentic models or OpenAI LLM APIs: e.g., Codex. Project management tools: e.g., Jira. About OpenAI. OpenAI is an AI research ...",
-      "search_title": "Program Manager, Partner Operations @ OpenAI",
+      "posted_date": "2026-05-12T10:23:13.799239",
+      "scraped_at": "2026-05-12T10:23:13.799248",
+      "search_snippet": "Rather than managing teams directly, you'll help AI models learn and reason like a real-world managing director. Who You Are. A senior-level managing director ...",
+      "search_title": "Managing Director - AI Trainer - Freelance - 8-20 hrs/week",
       "ai_analysis": {
         "fit_score": 0,
         "category": "Unknown",
@@ -647,14 +647,14 @@
         "justification": "Analysis failed",
         "positioning_advice": "Could not analyze this job"
       },
-      "job_id": "a30af49a8a50a3cc",
+      "job_id": "d397735ac06b4f43",
       "days_old": 0
     }
   ],
   "metadata": {
     "profile": "kartikey",
     "profile_display_name": "Kartikey",
-    "run_timestamp": "2026-05-05T09:50:36.235942",
+    "run_timestamp": "2026-05-12T10:22:11.934143",
     "trigger_type": "schedule",
     "total_searched": 25,
     "new_jobs_found": 25,
