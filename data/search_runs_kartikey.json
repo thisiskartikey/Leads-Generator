@@ -2,35 +2,6 @@
   "profile": "kartikey",
   "runs": [
     {
-      "timestamp": "2026-02-03T08:25:03.626224",
-      "trigger": "schedule",
-      "job_ids": [
-        "ea26063a1dd1aa86",
-        "a58d667c2f9174be",
-        "06835d1b4b2872b3",
-        "c790f89ca08011c4",
-        "a3e0931e63382f51",
-        "9214b43d335b3a62",
-        "34214aba31cf799e",
-        "4acb4c9b5319af0a",
-        "54c4d8d685d25a4d",
-        "ceb11a5c1db7a596",
-        "fd958408198f8d71",
-        "400291c9e8c7a27d",
-        "4432b7edd2be0f14",
-        "a6e092b616c70dff",
-        "9cba1b72f5837923",
-        "e233f116da2ed086",
-        "4536335cb9fe4482",
-        "91e7c0790f7f2650",
-        "e233f116da2ed086"
-      ],
-      "jobs_in_results": 19,
-      "total_searched": 25,
-      "new_jobs_found": 25,
-      "jobs_analyzed": 23
-    },
-    {
       "timestamp": "2026-02-07T08:17:29.325092",
       "trigger": "schedule",
       "job_ids": [
@@ -1037,7 +1008,42 @@
       "total_searched": 25,
       "new_jobs_found": 25,
       "jobs_analyzed": 25
+    },
+    {
+      "timestamp": "2026-06-06T09:51:25.915208",
+      "trigger": "schedule",
+      "job_ids": [
+        "3d2a88703c241cde",
+        "668b7a4adf8587b6",
+        "4a017f9b9cb7549b",
+        "2c25112b6a1adee4",
+        "b02f947e564b1101",
+        "6fd4ad9040eb15c7",
+        "d22d1e4778acdb84",
+        "13b521bda09bcf5e",
+        "bb2e4665d58f33d8",
+        "e348edba31a90518",
+        "586d8afa02fbccbf",
+        "4c7f568b0342061e",
+        "1ff65db057476abe",
+        "ebc0e6c45010e942",
+        "db009677298740a2",
+        "d02247fac97b1d39",
+        "b1e82a7d6cf16247",
+        "96936a4fca47bf64",
+        "4a017f9b9cb7549b",
+        "e348edba31a90518",
+        "6d791249e6f15ada",
+        "8a6c1f4f302c6b1e",
+        "96936a4fca47bf64",
+        "bb4a6bfa5443b306",
+        "1ff65db057476abe"
+      ],
+      "jobs_in_results": 25,
+      "total_searched": 25,
+      "new_jobs_found": 25,
+      "jobs_analyzed": 25
     }
   ],
-  "last_updated": "2026-06-02T11:55:38.606717"
+  "last_updated": "2026-06-06T09:51:25.915208"
 }
