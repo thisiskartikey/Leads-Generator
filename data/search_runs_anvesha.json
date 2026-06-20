@@ -2,38 +2,6 @@
   "profile": "anvesha",
   "runs": [
     {
-      "timestamp": "2026-02-28T08:20:36.699593",
-      "trigger": "schedule",
-      "job_ids": [
-        "3a89a7f7fe47cd6c",
-        "0eb6fe95b76b8bf6",
-        "755dcc0f841602a5",
-        "83a2f739d8ed83be",
-        "25fdb6b14a862040",
-        "2b0e4c0e20a09153",
-        "fb0adfed5462494b",
-        "dc431fa1d7a1a53d",
-        "386110664c3e8aea",
-        "d7614f0d3ea79880",
-        "19e3f241a61592bd",
-        "4dd193c96d4b75c3",
-        "75ab1b0962f55f27",
-        "ee87f7853dde5f4d",
-        "958c04f98b4b646a",
-        "5a944cb3ba8fb382",
-        "b592b1e8f6f3566c",
-        "bb76fb54b0b5e3ac",
-        "43813ddae1c059c5",
-        "c0179f45f8053362",
-        "114db9f39984af9f",
-        "88aa22679c409196"
-      ],
-      "jobs_in_results": 22,
-      "total_searched": 25,
-      "new_jobs_found": 25,
-      "jobs_analyzed": 24
-    },
-    {
       "timestamp": "2026-03-03T08:32:09.743060",
       "trigger": "schedule",
       "job_ids": [
@@ -1021,7 +989,42 @@
       "total_searched": 25,
       "new_jobs_found": 25,
       "jobs_analyzed": 25
+    },
+    {
+      "timestamp": "2026-06-20T10:25:59.206747",
+      "trigger": "schedule",
+      "job_ids": [
+        "3404b317a1061291",
+        "b408955d8135fedc",
+        "7629348e57f7c2da",
+        "2c154a377e6f53e6",
+        "bf5e72848c75bf8b",
+        "df01f00134f7d916",
+        "9ab3269cdda3faa1",
+        "fdb580c16d4d7da9",
+        "f1595a496da19037",
+        "9582db3aaef3facb",
+        "ce031ef9429c2c28",
+        "2d734d934e561d19",
+        "bdc2ddaaf15419d1",
+        "df01f00134f7d916",
+        "f27b91f435bac3ce",
+        "89232fb1dfa8d216",
+        "abc15cb9244df2b2",
+        "2c154a377e6f53e6",
+        "a9131c5335eb4899",
+        "0452afdad04d543a",
+        "80cd2b27840a2c4a",
+        "0452afdad04d543a",
+        "a9131c5335eb4899",
+        "9228e8d39ec37d08",
+        "3cd0e1833a80f946"
+      ],
+      "jobs_in_results": 25,
+      "total_searched": 25,
+      "new_jobs_found": 25,
+      "jobs_analyzed": 25
     }
   ],
-  "last_updated": "2026-06-16T12:44:13.453956"
+  "last_updated": "2026-06-20T10:25:59.206747"
 }
