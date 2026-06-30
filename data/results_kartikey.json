@@ -1,118 +1,14 @@
 {
   "jobs": [
     {
-      "title": "AI Product Manager @ Prosper AI",
-      "company": "Prosper Ai",
-      "location": "N/A",
-      "description": "",
-      "url": "https://jobs.ashbyhq.com/prosper-ai/7ad5dfff-0dd8-4e05-99ea-716cac730b30?embed=js",
-      "source": "ashby",
-      "posted_date": "2026-06-27T09:54:30.405380",
-      "scraped_at": "2026-06-27T09:54:30.405393",
-      "search_snippet": "Join Prosper AI as an AI Product Manager to lead the creation and deployment of AI agents that automate core administrative workflows in US healthcare ...",
-      "search_title": "AI Product Manager @ Prosper AI",
-      "ai_analysis": {
-        "fit_score": 0,
-        "category": "Unknown",
-        "justification": "Analysis failed",
-        "positioning_advice": "Could not analyze this job"
-      },
-      "sustainability_analysis": {
-        "fit_score": 0,
-        "category": "Unknown",
-        "justification": "Analysis failed",
-        "positioning_advice": "Could not analyze this job"
-      },
-      "job_id": "b9fa3ed697f02e14",
-      "days_old": 0
-    },
-    {
-      "title": "Senior Product Manager (AI Agents) @ Traba",
-      "company": "Traba",
-      "location": "N/A",
-      "description": "",
-      "url": "https://jobs.ashbyhq.com/traba/e747ab3f-4545-4299-8446-66ae304e4041",
-      "source": "ashby",
-      "posted_date": "2026-06-27T09:54:32.583758",
-      "scraped_at": "2026-06-27T09:54:32.583770",
-      "search_snippet": "What you'll bring · 5 – 7 years of experience as a Product Manager · Evidence of launching products from scratch and driving meaningful customer outcomes.",
-      "search_title": "Senior Product Manager (AI Agents) @ Traba",
-      "ai_analysis": {
-        "fit_score": 0,
-        "category": "Unknown",
-        "justification": "Analysis failed",
-        "positioning_advice": "Could not analyze this job"
-      },
-      "sustainability_analysis": {
-        "fit_score": 0,
-        "category": "Unknown",
-        "justification": "Analysis failed",
-        "positioning_advice": "Could not analyze this job"
-      },
-      "job_id": "70e3e036ab08ce80",
-      "days_old": 0
-    },
-    {
-      "title": "Director, AI Strategy & Operations @ Talkiatry",
-      "company": "Talkiatry",
-      "location": "N/A",
-      "description": "",
-      "url": "https://jobs.ashbyhq.com/talkiatry/6dc58504-f2b6-42a9-896f-5749d7e44db4",
-      "source": "ashby",
-      "posted_date": "2026-06-27T09:54:34.752286",
-      "scraped_at": "2026-06-27T09:54:34.752298",
-      "search_snippet": "As Director of AI Strategy & Operations, you'll own how that happens. You'll define where AI gets deployed across the patient journey – intake, scheduling ...",
-      "search_title": "Director, AI Strategy & Operations @ Talkiatry",
-      "ai_analysis": {
-        "fit_score": 0,
-        "category": "Unknown",
-        "justification": "Analysis failed",
-        "positioning_advice": "Could not analyze this job"
-      },
-      "sustainability_analysis": {
-        "fit_score": 0,
-        "category": "Unknown",
-        "justification": "Analysis failed",
-        "positioning_advice": "Could not analyze this job"
-      },
-      "job_id": "8a6c1f4f302c6b1e",
-      "days_old": 0
-    },
-    {
-      "title": "Strategy Consultant - AI Trainer - Freelance - 8-20 hrs/week",
-      "company": "10Xteam",
-      "location": "N/A",
-      "description": "",
-      "url": "https://jobs.ashbyhq.com/10xteam/07e8767c-cb11-41e2-9e5c-10bc7dd9e5a8",
-      "source": "ashby",
-      "posted_date": "2026-06-27T09:54:36.902611",
-      "scraped_at": "2026-06-27T09:54:36.902621",
-      "search_snippet": "Are you an experienced Strategy Consultant passionate about the future of artificial intelligence? Join 10x Team as a Freelance Strategy Consultant – AI ...",
-      "search_title": "Strategy Consultant - AI Trainer - Freelance - 8-20 hrs/week",
-      "ai_analysis": {
-        "fit_score": 0,
-        "category": "Unknown",
-        "justification": "Analysis failed",
-        "positioning_advice": "Could not analyze this job"
-      },
-      "sustainability_analysis": {
-        "fit_score": 0,
-        "category": "Unknown",
-        "justification": "Analysis failed",
-        "positioning_advice": "Could not analyze this job"
-      },
-      "job_id": "9228f110c78e7e1b",
-      "days_old": 0
-    },
-    {
       "title": "Senior Product Manager, Agentic AI @ Jerry.ai",
       "company": "Jerry.Ai",
       "location": "N/A",
       "description": "",
       "url": "https://jobs.ashbyhq.com/Jerry.ai/cf83a2e9-f444-4237-ae58-0f549f503a2f",
       "source": "ashby",
-      "posted_date": "2026-06-27T09:54:39.173646",
-      "scraped_at": "2026-06-27T09:54:39.173658",
+      "posted_date": "2026-06-30T10:47:42.543479",
+      "scraped_at": "2026-06-30T10:47:42.543492",
       "search_snippet": "Senior Product Manager, Agentic AI. Location. New York, New York; Boston ... Backed by artificial intelligence and machine learning, Jerry.ai simplifies ...",
       "search_title": "Senior Product Manager, Agentic AI @ Jerry.ai",
       "ai_analysis": {
@@ -131,16 +27,16 @@
       "days_old": 0
     },
     {
-      "title": "Staff Product Manager, AI Platform @ Headway",
-      "company": "Headway",
+      "title": "Director, AI Strategy & Operations @ Talkiatry",
+      "company": "Talkiatry",
       "location": "N/A",
       "description": "",
-      "url": "https://jobs.ashbyhq.com/headway/d0d1aaed-cd19-4a9b-a2e2-5518973ba14d",
+      "url": "https://jobs.ashbyhq.com/talkiatry/6dc58504-f2b6-42a9-896f-5749d7e44db4",
       "source": "ashby",
-      "posted_date": "2026-06-27T09:54:41.377417",
-      "scraped_at": "2026-06-27T09:54:41.377428",
-      "search_snippet": "Staff Product Manager, AI Platform ; Location. Remote - New York ; Employment Type. Full time ; Location Type. Remote ; Department. Product Management ; Compensation.",
-      "search_title": "Staff Product Manager, AI Platform @ Headway",
+      "posted_date": "2026-06-30T10:47:44.767333",
+      "scraped_at": "2026-06-30T10:47:44.767345",
+      "search_snippet": "As Director of AI Strategy & Operations, you'll own how that happens. You'll define where AI gets deployed across the patient journey – intake, scheduling ...",
+      "search_title": "Director, AI Strategy & Operations @ Talkiatry",
       "ai_analysis": {
         "fit_score": 0,
         "category": "Unknown",
@@ -153,7 +49,33 @@
         "justification": "Analysis failed",
         "positioning_advice": "Could not analyze this job"
       },
-      "job_id": "9a2f2eeb761002fe",
+      "job_id": "8a6c1f4f302c6b1e",
+      "days_old": 0
+    },
+    {
+      "title": "Senior Product Manager (AI Agents) @ Traba",
+      "company": "Traba",
+      "location": "N/A",
+      "description": "",
+      "url": "https://jobs.ashbyhq.com/traba/e747ab3f-4545-4299-8446-66ae304e4041",
+      "source": "ashby",
+      "posted_date": "2026-06-30T10:47:46.844157",
+      "scraped_at": "2026-06-30T10:47:46.844169",
+      "search_snippet": "What you'll bring · 5 – 7 years of experience as a Product Manager · Evidence of launching products from scratch and driving meaningful customer outcomes.",
+      "search_title": "Senior Product Manager (AI Agents) @ Traba",
+      "ai_analysis": {
+        "fit_score": 0,
+        "category": "Unknown",
+        "justification": "Analysis failed",
+        "positioning_advice": "Could not analyze this job"
+      },
+      "sustainability_analysis": {
+        "fit_score": 0,
+        "category": "Unknown",
+        "justification": "Analysis failed",
+        "positioning_advice": "Could not analyze this job"
+      },
+      "job_id": "70e3e036ab08ce80",
       "days_old": 0
     },
     {
@@ -163,8 +85,8 @@
       "description": "",
       "url": "https://jobs.ashbyhq.com/frontcareers/ef22a4eb-df20-4ba5-acd4-1c4bbd341935",
       "source": "ashby",
-      "posted_date": "2026-06-27T09:54:43.601057",
-      "scraped_at": "2026-06-27T09:54:43.601068",
+      "posted_date": "2026-06-30T10:47:49.133341",
+      "scraped_at": "2026-06-30T10:47:49.133352",
       "search_snippet": "Senior Product Manager - AI. Location. Paris, France. Employment Type. Full time. Department. EPD ...",
       "search_title": "Senior Product Manager - AI @ Front",
       "ai_analysis": {
@@ -183,14 +105,40 @@
       "days_old": 0
     },
     {
+      "title": "AI Product Manager @ Prosper AI",
+      "company": "Prosper Ai",
+      "location": "N/A",
+      "description": "",
+      "url": "https://jobs.ashbyhq.com/prosper-ai/7ad5dfff-0dd8-4e05-99ea-716cac730b30?embed=js",
+      "source": "ashby",
+      "posted_date": "2026-06-30T10:47:51.337278",
+      "scraped_at": "2026-06-30T10:47:51.337289",
+      "search_snippet": "Join Prosper AI as an AI Product Manager to lead the creation and deployment of AI agents that automate core administrative workflows in US healthcare ...",
+      "search_title": "AI Product Manager @ Prosper AI",
+      "ai_analysis": {
+        "fit_score": 0,
+        "category": "Unknown",
+        "justification": "Analysis failed",
+        "positioning_advice": "Could not analyze this job"
+      },
+      "sustainability_analysis": {
+        "fit_score": 0,
+        "category": "Unknown",
+        "justification": "Analysis failed",
+        "positioning_advice": "Could not analyze this job"
+      },
+      "job_id": "b9fa3ed697f02e14",
+      "days_old": 0
+    },
+    {
       "title": "Generative AI Analyst (Chinese zh-CN)",
       "company": "Weloglobal",
       "location": "Remote",
       "description": "",
       "url": "https://jobs.lever.co/weloglobal/2368c31f-91c0-435b-b6ab-c6d3bcb51d91",
       "source": "lever",
-      "posted_date": "2026-06-27T09:54:45.884756",
-      "scraped_at": "2026-06-27T09:54:45.884777",
+      "posted_date": "2026-06-30T10:47:53.591041",
+      "scraped_at": "2026-06-30T10:47:53.591058",
       "search_snippet": "We are hiring full-time Generative AI Analysts to support evaluation and quality review of AI-generated videos. In this role, you will review text prompts, ...",
       "search_title": "Welo Global - Generative AI Analyst (Chinese zh-CN)",
       "ai_analysis": {
@@ -209,16 +157,16 @@
       "days_old": 0
     },
     {
-      "title": "Product Manager, Agent Development - Flagship ...",
-      "company": "Sierra",
-      "location": "N/A",
+      "title": "Senior Technical Product Manager (Agentic CRM), Remote",
+      "company": "Aledade",
+      "location": "Remote, United States",
       "description": "",
-      "url": "https://jobs.ashbyhq.com/Sierra/758beaca-db59-4e46-9867-7a93989735a7",
-      "source": "ashby",
-      "posted_date": "2026-06-27T09:54:48.275529",
-      "scraped_at": "2026-06-27T09:54:48.275541",
-      "search_snippet": "Product Manager, Agent Development - Flagship Deployment. Location. San Francisco, CA; New York, NY. Employment Type. Full time ...",
-      "search_title": "Product Manager, Agent Development - Flagship ...",
+      "url": "https://jobs.lever.co/aledade/a7680239-7d4d-485f-a322-60aa4e917425",
+      "source": "lever",
+      "posted_date": "2026-06-30T10:47:56.224335",
+      "scraped_at": "2026-06-30T10:47:56.224356",
+      "search_snippet": "Senior Technical Product Manager (Agentic CRM), Remote. Remote, United States ... We may use automated tools, including artificial intelligence (AI), to help ...",
+      "search_title": "Senior Technical Product Manager (Agentic CRM), Remote",
       "ai_analysis": {
         "fit_score": 0,
         "category": "Unknown",
@@ -231,20 +179,20 @@
         "justification": "Analysis failed",
         "positioning_advice": "Could not analyze this job"
       },
-      "job_id": "d46246514b76367c",
+      "job_id": "c8bf88e8979a0051",
       "days_old": 0
     },
     {
-      "title": "Lead AI Product Manager @ Prosper AI",
-      "company": "Prosper Ai",
+      "title": "Strategy Consultant - AI Trainer - Freelance - 8-20 hrs/week",
+      "company": "10Xteam",
       "location": "N/A",
       "description": "",
-      "url": "https://jobs.ashbyhq.com/prosper-ai/441edff5-300b-4c84-8d81-a404ce65d3d7?embed=js",
+      "url": "https://jobs.ashbyhq.com/10xteam/07e8767c-cb11-41e2-9e5c-10bc7dd9e5a8",
       "source": "ashby",
-      "posted_date": "2026-06-27T09:54:50.464417",
-      "scraped_at": "2026-06-27T09:54:50.464428",
-      "search_snippet": "Join Prosper AI as a Lead AI Product Manager to lead a squad of AI PMs building and deploying AI agents that run real healthcare workflows in production.",
-      "search_title": "Lead AI Product Manager @ Prosper AI",
+      "posted_date": "2026-06-30T10:47:58.393484",
+      "scraped_at": "2026-06-30T10:47:58.393494",
+      "search_snippet": "Are you an experienced Strategy Consultant passionate about the future of artificial intelligence? Join 10x Team as a Freelance Strategy Consultant – AI ...",
+      "search_title": "Strategy Consultant - AI Trainer - Freelance - 8-20 hrs/week",
       "ai_analysis": {
         "fit_score": 0,
         "category": "Unknown",
@@ -257,59 +205,7 @@
         "justification": "Analysis failed",
         "positioning_advice": "Could not analyze this job"
       },
-      "job_id": "1d84cb1c3fd6800e",
-      "days_old": 0
-    },
-    {
-      "title": "Product Manager, Agent Development - Flagship ...",
-      "company": "Sierra",
-      "location": "N/A",
-      "description": "",
-      "url": "https://jobs.ashbyhq.com/Sierra/758beaca-db59-4e46-9867-7a93989735a7",
-      "source": "ashby",
-      "posted_date": "2026-06-27T09:54:52.496788",
-      "scraped_at": "2026-06-27T09:54:52.496798",
-      "search_snippet": "Product Manager, Agent Development - Flagship Deployment. Location. San Francisco, CA; New York, NY. Employment Type. Full time ...",
-      "search_title": "Product Manager, Agent Development - Flagship ...",
-      "ai_analysis": {
-        "fit_score": 0,
-        "category": "Unknown",
-        "justification": "Analysis failed",
-        "positioning_advice": "Could not analyze this job"
-      },
-      "sustainability_analysis": {
-        "fit_score": 0,
-        "category": "Unknown",
-        "justification": "Analysis failed",
-        "positioning_advice": "Could not analyze this job"
-      },
-      "job_id": "d46246514b76367c",
-      "days_old": 0
-    },
-    {
-      "title": "Senior Product Manager, Agentic AI @ Jerry.ai",
-      "company": "Jerry.Ai",
-      "location": "N/A",
-      "description": "",
-      "url": "https://jobs.ashbyhq.com/Jerry.ai/6490159b-be64-4bca-893e-240a4f82fe87",
-      "source": "ashby",
-      "posted_date": "2026-06-27T09:54:54.703269",
-      "scraped_at": "2026-06-27T09:54:54.703279",
-      "search_snippet": "Come lead our customer-facing Agentic AI product leveraging LLMs, agents ... generative AI. Before off-the-shelf platforms existed, we built our own ...",
-      "search_title": "Senior Product Manager, Agentic AI @ Jerry.ai",
-      "ai_analysis": {
-        "fit_score": 0,
-        "category": "Unknown",
-        "justification": "Analysis failed",
-        "positioning_advice": "Could not analyze this job"
-      },
-      "sustainability_analysis": {
-        "fit_score": 0,
-        "category": "Unknown",
-        "justification": "Analysis failed",
-        "positioning_advice": "Could not analyze this job"
-      },
-      "job_id": "789916a03730f69e",
+      "job_id": "9228f110c78e7e1b",
       "days_old": 0
     },
     {
@@ -319,8 +215,8 @@
       "description": "",
       "url": "https://jobs.ashbyhq.com/headway/ff51583c-75e8-4fa2-a5d3-8f05ea6da364",
       "source": "ashby",
-      "posted_date": "2026-06-27T09:54:56.891767",
-      "scraped_at": "2026-06-27T09:54:56.891778",
+      "posted_date": "2026-06-30T10:48:00.609294",
+      "scraped_at": "2026-06-30T10:48:00.609303",
       "search_snippet": "Join us, and help change mental healthcare for the better. About This Role. Headway is hiring a Program Manager, Talent & AI Enablement to build the programs ...",
       "search_title": "Program Manager, Talent & AI Enablement @ Headway",
       "ai_analysis": {
@@ -339,92 +235,14 @@
       "days_old": 0
     },
     {
-      "title": "Senior Program Manager (R4932)",
-      "company": "Shieldai",
-      "location": "Dallas, Texas /Washington, DC",
-      "description": "",
-      "url": "https://jobs.lever.co/shieldai/535b4ae5-3e2d-4382-bfcc-f080affaa706",
-      "source": "lever",
-      "posted_date": "2026-06-27T09:54:59.089600",
-      "scraped_at": "2026-06-27T09:54:59.089621",
-      "search_snippet": "Senior Program Manager (R4932). Dallas, Texas / Washington, DC. V-BAT ... We may use artificial intelligence (AI) tools to support parts of the hiring ...",
-      "search_title": "Shield AI - Senior Program Manager (R4932)",
-      "ai_analysis": {
-        "fit_score": 0,
-        "category": "Unknown",
-        "justification": "Analysis failed",
-        "positioning_advice": "Could not analyze this job"
-      },
-      "sustainability_analysis": {
-        "fit_score": 0,
-        "category": "Unknown",
-        "justification": "Analysis failed",
-        "positioning_advice": "Could not analyze this job"
-      },
-      "job_id": "23dc1d0317d84f70",
-      "days_old": 0
-    },
-    {
-      "title": "AI Product Manager",
-      "company": "32Co",
-      "location": "London",
-      "description": "",
-      "url": "https://jobs.lever.co/32Co/87c749e2-6ebf-4c23-9c7e-d903cb71d87a",
-      "source": "lever",
-      "posted_date": "2026-06-27T09:55:01.452630",
-      "scraped_at": "2026-06-27T09:55:01.452649",
-      "search_snippet": "We are seeking an AI Product Manager to lead the end-to-end strategy, development, and scaling of critical product verticals across our platform. You will ...",
-      "search_title": "AI Product Manager - 01Health",
-      "ai_analysis": {
-        "fit_score": 0,
-        "category": "Unknown",
-        "justification": "Analysis failed",
-        "positioning_advice": "Could not analyze this job"
-      },
-      "sustainability_analysis": {
-        "fit_score": 0,
-        "category": "Unknown",
-        "justification": "Analysis failed",
-        "positioning_advice": "Could not analyze this job"
-      },
-      "job_id": "cff9020b84d1828f",
-      "days_old": 0
-    },
-    {
-      "title": "Director of Product Management (Internal AI Product Strategy & Ops), Remote",
-      "company": "Aledade",
-      "location": "Remote, United States",
-      "description": "",
-      "url": "https://jobs.lever.co/aledade/e9c62d9e-2c2b-42f3-8f12-5fa2ca6f5372",
-      "source": "lever",
-      "posted_date": "2026-06-27T09:55:03.612453",
-      "scraped_at": "2026-06-27T09:55:03.612477",
-      "search_snippet": "As Director, Internal AI Product Strategy & Operations, you own Aledade's internal AI strategy and operating model: how employees work with AI, the ...",
-      "search_title": "Aledade - Director of Product Management (Internal AI ...",
-      "ai_analysis": {
-        "fit_score": 0,
-        "category": "Unknown",
-        "justification": "Analysis failed",
-        "positioning_advice": "Could not analyze this job"
-      },
-      "sustainability_analysis": {
-        "fit_score": 0,
-        "category": "Unknown",
-        "justification": "Analysis failed",
-        "positioning_advice": "Could not analyze this job"
-      },
-      "job_id": "557fbb2ae8d5939e",
-      "days_old": 0
-    },
-    {
       "title": "Product Manager",
       "company": "Radicalai",
       "location": "New York, NY",
       "description": "",
       "url": "https://jobs.lever.co/RadicalAI/140f98ab-03ef-4e94-acf7-018cb16a9b97",
       "source": "lever",
-      "posted_date": "2026-06-27T09:55:05.752185",
-      "scraped_at": "2026-06-27T09:55:05.752204",
+      "posted_date": "2026-06-30T10:48:02.776255",
+      "scraped_at": "2026-06-30T10:48:02.776272",
       "search_snippet": "Product Manager. New York, NY. Software Engineering – Core Software /. Full Time ... Familiarity with AI/ML products, LLM-based systems, or agent frameworks.",
       "search_title": "Radical AI - Product Manager",
       "ai_analysis": {
@@ -443,16 +261,16 @@
       "days_old": 0
     },
     {
-      "title": "Forward Deployed Product Manager (NC) @ Fractional AI",
-      "company": "Fractional Ai",
+      "title": "Lead AI Product Manager @ Prosper AI",
+      "company": "Prosper Ai",
       "location": "N/A",
       "description": "",
-      "url": "https://jobs.ashbyhq.com/fractional-ai/f5351d10-7fef-4daf-8ca4-e62c81381300?utm_source=aijobs-dot-com",
+      "url": "https://jobs.ashbyhq.com/prosper-ai/441edff5-300b-4c84-8d81-a404ce65d3d7?embed=js",
       "source": "ashby",
-      "posted_date": "2026-06-27T09:55:07.911847",
-      "scraped_at": "2026-06-27T09:55:07.911860",
-      "search_snippet": "This is a forward-deployed, full-stack customer role: Part engagement manager — you're the primary face of Fractional to the client. Part product manager — you ...",
-      "search_title": "Forward Deployed Product Manager (NC) @ Fractional AI",
+      "posted_date": "2026-06-30T10:48:04.961686",
+      "scraped_at": "2026-06-30T10:48:04.961696",
+      "search_snippet": "Join Prosper AI as a Lead AI Product Manager to lead a squad of AI PMs building and deploying AI agents that run real healthcare workflows in production.",
+      "search_title": "Lead AI Product Manager @ Prosper AI",
       "ai_analysis": {
         "fit_score": 0,
         "category": "Unknown",
@@ -465,20 +283,46 @@
         "justification": "Analysis failed",
         "positioning_advice": "Could not analyze this job"
       },
-      "job_id": "070804a925ce86f4",
+      "job_id": "1d84cb1c3fd6800e",
       "days_old": 0
     },
     {
-      "title": "AI Strategist, Principal @ Hebbia AI",
-      "company": "Hebbia Ai",
+      "title": "Agentic Product Analyst",
+      "company": "Netomi",
+      "location": "Gurugram",
+      "description": "",
+      "url": "https://jobs.lever.co/netomi/d40908e2-6e22-4dbb-a87f-a5b214d0eaca?utm_source=jobs.cobloom.com",
+      "source": "lever",
+      "posted_date": "2026-06-30T10:48:07.117179",
+      "scraped_at": "2026-06-30T10:48:07.117205",
+      "search_snippet": "Background in Conversational AI, Agentic AI, RPA, Automation, CRM/Ticketing, or LLM-based products. Hands-on experience defining business logic, decision trees, ...",
+      "search_title": "Agentic Product Analyst - Netomi",
+      "ai_analysis": {
+        "fit_score": 0,
+        "category": "Unknown",
+        "justification": "Analysis failed",
+        "positioning_advice": "Could not analyze this job"
+      },
+      "sustainability_analysis": {
+        "fit_score": 0,
+        "category": "Unknown",
+        "justification": "Analysis failed",
+        "positioning_advice": "Could not analyze this job"
+      },
+      "job_id": "957dd48253163c05",
+      "days_old": 0
+    },
+    {
+      "title": "Product Manager, Agent Development - Sierra",
+      "company": "Sierra",
       "location": "N/A",
       "description": "",
-      "url": "https://jobs.ashbyhq.com/hebbia-ai/e1f3f01c-610a-411a-870c-cc14f0cbdf6e?utm_",
+      "url": "https://jobs.ashbyhq.com/Sierra/758beaca-db59-4e46-9867-7a93989735a7",
       "source": "ashby",
-      "posted_date": "2026-06-27T09:55:10.119188",
-      "scraped_at": "2026-06-27T09:55:10.119200",
-      "search_snippet": "Hebbia AI. AI Strategist, Principal. Location. NYC. Employment Type. Full time. Location Type. On-site. Department. AI Strategy. OverviewApplication. AI ...",
-      "search_title": "AI Strategist, Principal @ Hebbia AI",
+      "posted_date": "2026-06-30T10:48:09.544152",
+      "scraped_at": "2026-06-30T10:48:09.544163",
+      "search_snippet": "Product Manager, Agent Development - Flagship Deployment. Location. San Francisco, CA; New York, NY. Employment Type. Full time ...",
+      "search_title": "Product Manager, Agent Development - Sierra",
       "ai_analysis": {
         "fit_score": 0,
         "category": "Unknown",
@@ -491,20 +335,20 @@
         "justification": "Analysis failed",
         "positioning_advice": "Could not analyze this job"
       },
-      "job_id": "a5cf336a59685280",
+      "job_id": "56d0bb683adaf66f",
       "days_old": 0
     },
     {
-      "title": "Talent Development & Enablement Director",
-      "company": "Artera 2",
-      "location": "Seattle, Washington /Santa Barbara, California",
+      "title": "AI Product Manager",
+      "company": "32Co",
+      "location": "London",
       "description": "",
-      "url": "https://jobs.lever.co/artera-2/f1468ba3-aed2-47e1-a5a0-07b46e81e554",
+      "url": "https://jobs.lever.co/32Co/87c749e2-6ebf-4c23-9c7e-d903cb71d87a",
       "source": "lever",
-      "posted_date": "2026-06-27T09:55:12.271983",
-      "scraped_at": "2026-06-27T09:55:12.272010",
-      "search_snippet": "We may use artificial intelligence (AI) tools to support parts of the hiring process, such as reviewing applications, analyzing resumes, or assessing responses ...",
-      "search_title": "Artera - Talent Development & Enablement Director",
+      "posted_date": "2026-06-30T10:48:11.686218",
+      "scraped_at": "2026-06-30T10:48:11.686234",
+      "search_snippet": "We are seeking an AI Product Manager to lead the end-to-end strategy, development, and scaling of critical product verticals across our platform. You will ...",
+      "search_title": "AI Product Manager - 01Health",
       "ai_analysis": {
         "fit_score": 0,
         "category": "Unknown",
@@ -517,85 +361,7 @@
         "justification": "Analysis failed",
         "positioning_advice": "Could not analyze this job"
       },
-      "job_id": "198122f118cda58b",
-      "days_old": 0
-    },
-    {
-      "title": "Senior Technical Program Manager, AI @ brightwheel",
-      "company": "Brightwheel",
-      "location": "N/A",
-      "description": "",
-      "url": "https://jobs.ashbyhq.com/brightwheel/127635e3-551e-4575-83b6-85d36e9599e0?fbclid=IwdGRleARCkElleHRuA2FlbQIxMQBzcnRjBmFwcF9pZAo2NjI4NTY4Mzc5AAEen0gd-lpLZgCFPxl9yVGXASoRNXyjH17erI6qNsORH-vUHWKJNwBwk80FLFw_aem_e0O60G9MATSmqGlC9j7LaQ&workplaceType=Remote",
-      "source": "ashby",
-      "posted_date": "2026-06-27T09:55:14.564287",
-      "scraped_at": "2026-06-27T09:55:14.564298",
-      "search_snippet": "You are an AI-native Senior Technical Program Manager who combines deep ... Applied AI familiarity in production: You have driven programs involving AI, LLM ...",
-      "search_title": "Senior Technical Program Manager, AI @ brightwheel",
-      "ai_analysis": {
-        "fit_score": 0,
-        "category": "Unknown",
-        "justification": "Analysis failed",
-        "positioning_advice": "Could not analyze this job"
-      },
-      "sustainability_analysis": {
-        "fit_score": 0,
-        "category": "Unknown",
-        "justification": "Analysis failed",
-        "positioning_advice": "Could not analyze this job"
-      },
-      "job_id": "9fa382b0bffe3562",
-      "days_old": 0
-    },
-    {
-      "title": "Talent Development & Enablement Director",
-      "company": "Artera 2",
-      "location": "Seattle, Washington /Santa Barbara, California",
-      "description": "",
-      "url": "https://jobs.lever.co/artera-2/f1468ba3-aed2-47e1-a5a0-07b46e81e554",
-      "source": "lever",
-      "posted_date": "2026-06-27T09:55:16.722056",
-      "scraped_at": "2026-06-27T09:55:16.722079",
-      "search_snippet": "We may use artificial intelligence (AI) tools to support parts of the hiring process, such as reviewing applications, analyzing resumes, or assessing responses ...",
-      "search_title": "Artera - Talent Development & Enablement Director",
-      "ai_analysis": {
-        "fit_score": 0,
-        "category": "Unknown",
-        "justification": "Analysis failed",
-        "positioning_advice": "Could not analyze this job"
-      },
-      "sustainability_analysis": {
-        "fit_score": 0,
-        "category": "Unknown",
-        "justification": "Analysis failed",
-        "positioning_advice": "Could not analyze this job"
-      },
-      "job_id": "198122f118cda58b",
-      "days_old": 0
-    },
-    {
-      "title": "Workplace AI Business Analytics Specialist",
-      "company": "Alimentiv 2",
-      "location": "Toronto, Ontario",
-      "description": "",
-      "url": "https://jobs.lever.co/alimentiv-2/0b010fe1-60be-4c9d-9b73-8b0a6e4c735a",
-      "source": "lever",
-      "posted_date": "2026-06-27T09:55:18.939051",
-      "scraped_at": "2026-06-27T09:55:18.939073",
-      "search_snippet": "The AI Enablement Specialist supports the adoption of artificial intelligence tools across Alimentiv by providing structured training, practical guidance ...",
-      "search_title": "Workplace AI Business Analytics Specialist - Alimentiv",
-      "ai_analysis": {
-        "fit_score": 0,
-        "category": "Unknown",
-        "justification": "Analysis failed",
-        "positioning_advice": "Could not analyze this job"
-      },
-      "sustainability_analysis": {
-        "fit_score": 0,
-        "category": "Unknown",
-        "justification": "Analysis failed",
-        "positioning_advice": "Could not analyze this job"
-      },
-      "job_id": "bbc5703fe6c61c41",
+      "job_id": "cff9020b84d1828f",
       "days_old": 0
     },
     {
@@ -605,8 +371,8 @@
       "description": "",
       "url": "https://jobs.ashbyhq.com/hatz-ai/35dd6815-0957-4a69-81cb-50cc13a231ad",
       "source": "ashby",
-      "posted_date": "2026-06-27T09:55:21.104955",
-      "scraped_at": "2026-06-27T09:55:21.104966",
+      "posted_date": "2026-06-30T10:48:13.904933",
+      "scraped_at": "2026-06-30T10:48:13.904944",
       "search_snippet": "Hatz AI is looking for a Senior Product Manager to own the vision, strategy, and roadmap for our AI-native platform — products that are actively reshaping how ...",
       "search_title": "Sr. Product Manager @ Hatz AI",
       "ai_analysis": {
@@ -625,14 +391,170 @@
       "days_old": 0
     },
     {
+      "title": "Senior Program Manager (R4932)",
+      "company": "Shieldai",
+      "location": "Dallas, Texas /Washington, DC",
+      "description": "",
+      "url": "https://jobs.lever.co/shieldai/535b4ae5-3e2d-4382-bfcc-f080affaa706",
+      "source": "lever",
+      "posted_date": "2026-06-30T10:48:16.072411",
+      "scraped_at": "2026-06-30T10:48:16.072429",
+      "search_snippet": "Senior Program Manager (R4932). Dallas, Texas / Washington, DC. V-BAT ... We may use artificial intelligence (AI) tools to support parts of the hiring ...",
+      "search_title": "Shield AI - Senior Program Manager (R4932)",
+      "ai_analysis": {
+        "fit_score": 0,
+        "category": "Unknown",
+        "justification": "Analysis failed",
+        "positioning_advice": "Could not analyze this job"
+      },
+      "sustainability_analysis": {
+        "fit_score": 0,
+        "category": "Unknown",
+        "justification": "Analysis failed",
+        "positioning_advice": "Could not analyze this job"
+      },
+      "job_id": "23dc1d0317d84f70",
+      "days_old": 0
+    },
+    {
+      "title": "Forward Deployed Product Manager (NC) @ Fractional AI",
+      "company": "Fractional Ai",
+      "location": "N/A",
+      "description": "",
+      "url": "https://jobs.ashbyhq.com/fractional-ai/f5351d10-7fef-4daf-8ca4-e62c81381300?utm_source=aijobs-dot-com",
+      "source": "ashby",
+      "posted_date": "2026-06-30T10:48:18.207361",
+      "scraped_at": "2026-06-30T10:48:18.207372",
+      "search_snippet": "This is a forward-deployed, full-stack customer role: Part engagement manager — you're the primary face of Fractional to the client. Part product manager — you ...",
+      "search_title": "Forward Deployed Product Manager (NC) @ Fractional AI",
+      "ai_analysis": {
+        "fit_score": 0,
+        "category": "Unknown",
+        "justification": "Analysis failed",
+        "positioning_advice": "Could not analyze this job"
+      },
+      "sustainability_analysis": {
+        "fit_score": 0,
+        "category": "Unknown",
+        "justification": "Analysis failed",
+        "positioning_advice": "Could not analyze this job"
+      },
+      "job_id": "070804a925ce86f4",
+      "days_old": 0
+    },
+    {
+      "title": "Workplace AI Business Analytics Specialist",
+      "company": "Alimentiv 2",
+      "location": "Toronto, Ontario",
+      "description": "",
+      "url": "https://jobs.lever.co/alimentiv-2/0b010fe1-60be-4c9d-9b73-8b0a6e4c735a",
+      "source": "lever",
+      "posted_date": "2026-06-30T10:48:20.372740",
+      "scraped_at": "2026-06-30T10:48:20.372759",
+      "search_snippet": "The AI Enablement Specialist supports the adoption of artificial intelligence tools across Alimentiv by providing structured training, practical guidance ...",
+      "search_title": "Workplace AI Business Analytics Specialist - Alimentiv",
+      "ai_analysis": {
+        "fit_score": 0,
+        "category": "Unknown",
+        "justification": "Analysis failed",
+        "positioning_advice": "Could not analyze this job"
+      },
+      "sustainability_analysis": {
+        "fit_score": 0,
+        "category": "Unknown",
+        "justification": "Analysis failed",
+        "positioning_advice": "Could not analyze this job"
+      },
+      "job_id": "bbc5703fe6c61c41",
+      "days_old": 0
+    },
+    {
+      "title": "AI Product Manager @ Alpha Life Sciences",
+      "company": "Alphalifesci",
+      "location": "N/A",
+      "description": "",
+      "url": "https://jobs.ashbyhq.com/alphalifesci/64254ce6-c08f-4567-8796-cbb2f80c7f68",
+      "source": "ashby",
+      "posted_date": "2026-06-30T10:48:22.557712",
+      "scraped_at": "2026-06-30T10:48:22.557722",
+      "search_snippet": "AlphaLife Sciences is seeking a Product Manager to develop and scale AI-powered clinical applications that leverage generative AI and large language models ( ...",
+      "search_title": "AI Product Manager @ Alpha Life Sciences",
+      "ai_analysis": {
+        "fit_score": 0,
+        "category": "Unknown",
+        "justification": "Analysis failed",
+        "positioning_advice": "Could not analyze this job"
+      },
+      "sustainability_analysis": {
+        "fit_score": 0,
+        "category": "Unknown",
+        "justification": "Analysis failed",
+        "positioning_advice": "Could not analyze this job"
+      },
+      "job_id": "15469d6758544c91",
+      "days_old": 0
+    },
+    {
+      "title": "AI Strategist, Principal @ Hebbia AI",
+      "company": "Hebbia Ai",
+      "location": "N/A",
+      "description": "",
+      "url": "https://jobs.ashbyhq.com/hebbia-ai/e1f3f01c-610a-411a-870c-cc14f0cbdf6e?utm_",
+      "source": "ashby",
+      "posted_date": "2026-06-30T10:48:24.963373",
+      "scraped_at": "2026-06-30T10:48:24.963384",
+      "search_snippet": "Hebbia AI. AI Strategist, Principal. Location. NYC. Employment Type. Full time. Location Type. On-site. Department. AI Strategy. OverviewApplication. AI ...",
+      "search_title": "AI Strategist, Principal @ Hebbia AI",
+      "ai_analysis": {
+        "fit_score": 0,
+        "category": "Unknown",
+        "justification": "Analysis failed",
+        "positioning_advice": "Could not analyze this job"
+      },
+      "sustainability_analysis": {
+        "fit_score": 0,
+        "category": "Unknown",
+        "justification": "Analysis failed",
+        "positioning_advice": "Could not analyze this job"
+      },
+      "job_id": "a5cf336a59685280",
+      "days_old": 0
+    },
+    {
+      "title": "Product Manager - AI @ Oscilar",
+      "company": "Oscilar",
+      "location": "N/A",
+      "description": "",
+      "url": "https://jobs.ashbyhq.com/oscilar/a951fe3d-3784-47ba-99b7-11117676d20e?locationId=0150550d-f22c-4131-ab66-052e281f3ce3",
+      "source": "ashby",
+      "posted_date": "2026-06-30T10:48:27.211053",
+      "scraped_at": "2026-06-30T10:48:27.211063",
+      "search_snippet": "Product Manager - AI. ... This platform will combine no-code visual workflow builders with Generative AI and Agentic ...",
+      "search_title": "Product Manager - AI @ Oscilar",
+      "ai_analysis": {
+        "fit_score": 0,
+        "category": "Unknown",
+        "justification": "Analysis failed",
+        "positioning_advice": "Could not analyze this job"
+      },
+      "sustainability_analysis": {
+        "fit_score": 0,
+        "category": "Unknown",
+        "justification": "Analysis failed",
+        "positioning_advice": "Could not analyze this job"
+      },
+      "job_id": "b02f947e564b1101",
+      "days_old": 0
+    },
+    {
       "title": "Program Manager, AI Transformation (GTM) @ Vanta",
       "company": "Vanta",
       "location": "N/A",
       "description": "",
       "url": "https://jobs.ashbyhq.com/vanta/5dffd0d2-fa52-45f0-8a1a-6c52770b4c17?weekdayJdUid=217694",
       "source": "ashby",
-      "posted_date": "2026-06-27T09:55:23.547706",
-      "scraped_at": "2026-06-27T09:55:23.547717",
+      "posted_date": "2026-06-30T10:48:29.712666",
+      "scraped_at": "2026-06-30T10:48:29.712676",
       "search_snippet": "... Program Manager on the GTM Engineering team, you will own the strategy and execution of AI-driven automations across our GTM stack. The main focus of this ...",
       "search_title": "Program Manager, AI Transformation (GTM) @ Vanta",
       "ai_analysis": {
@@ -649,12 +571,90 @@
       },
       "job_id": "2c25112b6a1adee4",
       "days_old": 0
+    },
+    {
+      "title": "Generative AI Analyst | Greek (Greece)",
+      "company": "Weloglobal",
+      "location": "Greece",
+      "description": "",
+      "url": "https://jobs.lever.co/weloglobal/8d4be68e-93c4-48b4-9ff2-2eff1a9e5945/apply",
+      "source": "lever",
+      "posted_date": "2026-06-30T10:48:31.858935",
+      "scraped_at": "2026-06-30T10:48:31.858952",
+      "search_snippet": "Generative AI Analyst | Greek (Greece). Greece. Welo Data - AI Services – Data ... We may use artificial intelligence (AI) tools to support parts of the ...",
+      "search_title": "Welo Global - Generative AI Analyst | Greek (Greece)",
+      "ai_analysis": {
+        "fit_score": 0,
+        "category": "Unknown",
+        "justification": "Analysis failed",
+        "positioning_advice": "Could not analyze this job"
+      },
+      "sustainability_analysis": {
+        "fit_score": 0,
+        "category": "Unknown",
+        "justification": "Analysis failed",
+        "positioning_advice": "Could not analyze this job"
+      },
+      "job_id": "30e6fe7156a0d446",
+      "days_old": 0
+    },
+    {
+      "title": "Senior Program Manager (R4932)",
+      "company": "Shieldai",
+      "location": "Dallas, Texas /Washington, DC",
+      "description": "",
+      "url": "https://jobs.lever.co/shieldai/535b4ae5-3e2d-4382-bfcc-f080affaa706",
+      "source": "lever",
+      "posted_date": "2026-06-30T10:48:34.803751",
+      "scraped_at": "2026-06-30T10:48:34.803774",
+      "search_snippet": "Senior Program Manager (R4932). Dallas, Texas / Washington, DC. V-BAT ... We may use artificial intelligence (AI) tools to support parts of the hiring ...",
+      "search_title": "Shield AI - Senior Program Manager (R4932)",
+      "ai_analysis": {
+        "fit_score": 0,
+        "category": "Unknown",
+        "justification": "Analysis failed",
+        "positioning_advice": "Could not analyze this job"
+      },
+      "sustainability_analysis": {
+        "fit_score": 0,
+        "category": "Unknown",
+        "justification": "Analysis failed",
+        "positioning_advice": "Could not analyze this job"
+      },
+      "job_id": "23dc1d0317d84f70",
+      "days_old": 0
+    },
+    {
+      "title": "AI Product Manager @ Simular",
+      "company": "Simular",
+      "location": "N/A",
+      "description": "",
+      "url": "https://jobs.ashbyhq.com/simular/d8574780-1543-447d-af49-26c5cfeaac50?embed=js&locationId=ceb6d935-8b96-4f09-8671-840b6ec5cb18",
+      "source": "ashby",
+      "posted_date": "2026-06-30T10:48:37.000343",
+      "scraped_at": "2026-06-30T10:48:37.000353",
+      "search_snippet": "... Product Manager, you'll own the product roadmap end-to-end, choosing which workflows the agent ... AI/ML products, particularly in the agent or LLM space.",
+      "search_title": "AI Product Manager @ Simular",
+      "ai_analysis": {
+        "fit_score": 0,
+        "category": "Unknown",
+        "justification": "Analysis failed",
+        "positioning_advice": "Could not analyze this job"
+      },
+      "sustainability_analysis": {
+        "fit_score": 0,
+        "category": "Unknown",
+        "justification": "Analysis failed",
+        "positioning_advice": "Could not analyze this job"
+      },
+      "job_id": "a1ed001521c8e3e4",
+      "days_old": 0
     }
   ],
   "metadata": {
     "profile": "kartikey",
     "profile_display_name": "Kartikey",
-    "run_timestamp": "2026-06-27T09:54:18.840250",
+    "run_timestamp": "2026-06-30T10:46:46.264195",
     "trigger_type": "schedule",
     "total_searched": 25,
     "new_jobs_found": 25,
