@@ -1,42 +1,16 @@
 {
   "jobs": [
     {
-      "title": "Staff Product Manager, Agentic AI Applications",
-      "company": "Databricks",
+      "title": "AI Strategist, Product @ Tenex",
+      "company": "Tenexlabs",
       "location": "N/A",
       "description": "",
-      "url": "https://boards.greenhouse.io/databricks/jobs/8560772002",
-      "source": "greenhouse",
-      "posted_date": "2026-07-04T09:57:52.838948",
-      "scraped_at": "2026-07-04T09:57:52.838959",
-      "search_snippet": "Demonstrated experience with AI/ML platforms, agent frameworks, LLM-powered applications, or agentic systems. You know what an agent runtime is, what RAG means ...",
-      "search_title": "Staff Product Manager, Agentic AI Applications",
-      "ai_analysis": {
-        "fit_score": 0,
-        "category": "Unknown",
-        "justification": "Analysis failed",
-        "positioning_advice": "Could not analyze this job"
-      },
-      "sustainability_analysis": {
-        "fit_score": 0,
-        "category": "Unknown",
-        "justification": "Analysis failed",
-        "positioning_advice": "Could not analyze this job"
-      },
-      "job_id": "9e2ea806f4b842b2",
-      "days_old": 0
-    },
-    {
-      "title": "Senior Product Manager (AI Agents) @ Traba",
-      "company": "Traba",
-      "location": "N/A",
-      "description": "",
-      "url": "https://jobs.ashbyhq.com/traba/e747ab3f-4545-4299-8446-66ae304e4041",
+      "url": "https://jobs.ashbyhq.com/tenexlabs/24e81c35-d36e-42df-a64b-e8052f701a00",
       "source": "ashby",
-      "posted_date": "2026-07-04T09:57:55.071299",
-      "scraped_at": "2026-07-04T09:57:55.071309",
-      "search_snippet": "What you'll bring · 5 – 7 years of experience as a Product Manager · Evidence of launching products from scratch and driving meaningful customer outcomes.",
-      "search_title": "Senior Product Manager (AI Agents) @ Traba",
+      "posted_date": "2026-07-07T10:43:26.958554",
+      "scraped_at": "2026-07-07T10:43:26.958569",
+      "search_snippet": "Run AI strategy audits that surface how work actually happens (not how people say it happens), quantify what's broken, and rank the bets worth making. Design ...",
+      "search_title": "AI Strategist, Product @ Tenex",
       "ai_analysis": {
         "fit_score": 0,
         "category": "Unknown",
@@ -49,20 +23,20 @@
         "justification": "Analysis failed",
         "positioning_advice": "Could not analyze this job"
       },
-      "job_id": "70e3e036ab08ce80",
+      "job_id": "a4c83b89dcb0afd8",
       "days_old": 0
     },
     {
-      "title": "Senior Product Manager - AI @ Front",
-      "company": "Frontcareers",
+      "title": "Senior Product Manager, Data & Agentic Products @ Pleo",
+      "company": "Pleo",
       "location": "N/A",
       "description": "",
-      "url": "https://jobs.ashbyhq.com/frontcareers/ef22a4eb-df20-4ba5-acd4-1c4bbd341935",
+      "url": "https://jobs.ashbyhq.com/pleo/9839f2a6-790d-450b-b26c-14e656ced62f",
       "source": "ashby",
-      "posted_date": "2026-07-04T09:57:57.314926",
-      "scraped_at": "2026-07-04T09:57:57.314937",
-      "search_snippet": "Senior Product Manager - AI. Location. Paris, France. Employment Type. Full time. Department. EPD ...",
-      "search_title": "Senior Product Manager - AI @ Front",
+      "posted_date": "2026-07-07T10:43:28.979434",
+      "scraped_at": "2026-07-07T10:43:28.979445",
+      "search_snippet": "Shape the data & AI strategy: Define and execute Pleo's roadmap to ... 4+ years in Product Management, with at least 2 years focused heavily on AI/ML, LLM ...",
+      "search_title": "Senior Product Manager, Data & Agentic Products @ Pleo",
       "ai_analysis": {
         "fit_score": 0,
         "category": "Unknown",
@@ -75,20 +49,20 @@
         "justification": "Analysis failed",
         "positioning_advice": "Could not analyze this job"
       },
-      "job_id": "f9e4deace3db6498",
+      "job_id": "e2de07e41f4db884",
       "days_old": 0
     },
     {
-      "title": "Customer AI Strategy & Success Lead – SMB @ Arya Health",
-      "company": "Aryahealth.Ai",
+      "title": "Chief of Staff, Co-CEO @ Runway",
+      "company": "Runway Ml",
       "location": "N/A",
       "description": "",
-      "url": "https://jobs.ashbyhq.com/aryahealth.ai/17626eda-ab73-4102-af26-b02e891c3a64?embed=js",
+      "url": "https://jobs.ashbyhq.com/runway-ml/36b0012b-a995-41c1-9eb4-e39285e0b451",
       "source": "ashby",
-      "posted_date": "2026-07-04T09:57:59.495656",
-      "scraped_at": "2026-07-04T09:57:59.495677",
-      "search_snippet": "You'll operate at the intersection of customer success, implementation, operations, and AI strategy — helping healthcare organizations modernize how they work ...",
-      "search_title": "Customer AI Strategy & Success Lead – SMB @ Arya Health",
+      "posted_date": "2026-07-07T10:43:31.145078",
+      "scraped_at": "2026-07-07T10:43:31.145090",
+      "search_snippet": "We believe that world models are at the frontier of progress in artificial intelligence. Language models alone won't solve the world's hardest problems – ...",
+      "search_title": "Chief of Staff, Co-CEO @ Runway",
       "ai_analysis": {
         "fit_score": 0,
         "category": "Unknown",
@@ -101,267 +75,7 @@
         "justification": "Analysis failed",
         "positioning_advice": "Could not analyze this job"
       },
-      "job_id": "e5a708b1c206c069",
-      "days_old": 0
-    },
-    {
-      "title": "Principal Product Manager, AI Enablement @ Ibotta",
-      "company": "Ibotta",
-      "location": "N/A",
-      "description": "",
-      "url": "https://jobs.ashbyhq.com/ibotta/fa8bac46-ba61-4317-9768-828bb080a54d",
-      "source": "ashby",
-      "posted_date": "2026-07-04T09:58:01.688788",
-      "scraped_at": "2026-07-04T09:58:01.688797",
-      "search_snippet": "Ibotta is seeking a Principal Product Manager, AI Enablement to join our team and contribute to our mission to Make Every Purchase Rewarding.",
-      "search_title": "Principal Product Manager, AI Enablement @ Ibotta",
-      "ai_analysis": {
-        "fit_score": 0,
-        "category": "Unknown",
-        "justification": "Analysis failed",
-        "positioning_advice": "Could not analyze this job"
-      },
-      "sustainability_analysis": {
-        "fit_score": 0,
-        "category": "Unknown",
-        "justification": "Analysis failed",
-        "positioning_advice": "Could not analyze this job"
-      },
-      "job_id": "c134b716467b30bb",
-      "days_old": 0
-    },
-    {
-      "title": "Lead AI Product Manager @ Prosper AI",
-      "company": "Prosper Ai",
-      "location": "N/A",
-      "description": "",
-      "url": "https://jobs.ashbyhq.com/prosper-ai/441edff5-300b-4c84-8d81-a404ce65d3d7?embed=js",
-      "source": "ashby",
-      "posted_date": "2026-07-04T09:58:03.856347",
-      "scraped_at": "2026-07-04T09:58:03.856356",
-      "search_snippet": "Join Prosper AI as a Lead AI Product Manager to lead a squad of AI PMs building and deploying AI agents that run real healthcare workflows in production.",
-      "search_title": "Lead AI Product Manager @ Prosper AI",
-      "ai_analysis": {
-        "fit_score": 0,
-        "category": "Unknown",
-        "justification": "Analysis failed",
-        "positioning_advice": "Could not analyze this job"
-      },
-      "sustainability_analysis": {
-        "fit_score": 0,
-        "category": "Unknown",
-        "justification": "Analysis failed",
-        "positioning_advice": "Could not analyze this job"
-      },
-      "job_id": "1d84cb1c3fd6800e",
-      "days_old": 0
-    },
-    {
-      "title": "Sr. Product Manager @ Hatz AI",
-      "company": "Hatz Ai",
-      "location": "N/A",
-      "description": "",
-      "url": "https://jobs.ashbyhq.com/hatz-ai/35dd6815-0957-4a69-81cb-50cc13a231ad",
-      "source": "ashby",
-      "posted_date": "2026-07-04T09:58:06.076497",
-      "scraped_at": "2026-07-04T09:58:06.076506",
-      "search_snippet": "Hatz AI is looking for a Senior Product Manager to own the vision, strategy, and roadmap for our AI-native platform — products that are actively reshaping how ...",
-      "search_title": "Sr. Product Manager @ Hatz AI",
-      "ai_analysis": {
-        "fit_score": 0,
-        "category": "Unknown",
-        "justification": "Analysis failed",
-        "positioning_advice": "Could not analyze this job"
-      },
-      "sustainability_analysis": {
-        "fit_score": 0,
-        "category": "Unknown",
-        "justification": "Analysis failed",
-        "positioning_advice": "Could not analyze this job"
-      },
-      "job_id": "6d791249e6f15ada",
-      "days_old": 0
-    },
-    {
-      "title": "Strategy Consultant - AI Trainer - Freelance - 8-20 hrs/week",
-      "company": "10Xteam",
-      "location": "N/A",
-      "description": "",
-      "url": "https://jobs.ashbyhq.com/10xteam/07e8767c-cb11-41e2-9e5c-10bc7dd9e5a8",
-      "source": "ashby",
-      "posted_date": "2026-07-04T09:58:08.254296",
-      "scraped_at": "2026-07-04T09:58:08.254304",
-      "search_snippet": "Are you an experienced Strategy Consultant passionate about the future of artificial intelligence? Join 10x Team as a Freelance Strategy Consultant – AI ...",
-      "search_title": "Strategy Consultant - AI Trainer - Freelance - 8-20 hrs/week",
-      "ai_analysis": {
-        "fit_score": 0,
-        "category": "Unknown",
-        "justification": "Analysis failed",
-        "positioning_advice": "Could not analyze this job"
-      },
-      "sustainability_analysis": {
-        "fit_score": 0,
-        "category": "Unknown",
-        "justification": "Analysis failed",
-        "positioning_advice": "Could not analyze this job"
-      },
-      "job_id": "9228f110c78e7e1b",
-      "days_old": 0
-    },
-    {
-      "title": "Technical Program Manager - AI & Data Systems",
-      "company": "Abnormalsecurity",
-      "location": "N/A",
-      "description": "",
-      "url": "https://boards.greenhouse.io/abnormalsecurity/jobs/7773951003",
-      "source": "greenhouse",
-      "posted_date": "2026-07-04T09:58:10.834816",
-      "scraped_at": "2026-07-04T09:58:10.834827",
-      "search_snippet": "Careers/Open Roles/Technical Program Manager - AI & Data Systems. Technical Program Manager - AI & Data Systems. Remote - USA CIO AI Transformation R-101117.",
-      "search_title": "Technical Program Manager - AI & Data Systems",
-      "ai_analysis": {
-        "fit_score": 0,
-        "category": "Unknown",
-        "justification": "Analysis failed",
-        "positioning_advice": "Could not analyze this job"
-      },
-      "sustainability_analysis": {
-        "fit_score": 0,
-        "category": "Unknown",
-        "justification": "Analysis failed",
-        "positioning_advice": "Could not analyze this job"
-      },
-      "job_id": "ca37d40ce5b7b698",
-      "days_old": 0
-    },
-    {
-      "title": "Product Manager, Agent Development - Sierra",
-      "company": "Sierra",
-      "location": "N/A",
-      "description": "",
-      "url": "https://jobs.ashbyhq.com/Sierra/758beaca-db59-4e46-9867-7a93989735a7",
-      "source": "ashby",
-      "posted_date": "2026-07-04T09:58:13.353944",
-      "scraped_at": "2026-07-04T09:58:13.353953",
-      "search_snippet": "Product Manager, Agent Development - Flagship Deployment. Location. San Francisco, CA; New York, NY. Employment Type. Full time ...",
-      "search_title": "Product Manager, Agent Development - Sierra",
-      "ai_analysis": {
-        "fit_score": 0,
-        "category": "Unknown",
-        "justification": "Analysis failed",
-        "positioning_advice": "Could not analyze this job"
-      },
-      "sustainability_analysis": {
-        "fit_score": 0,
-        "category": "Unknown",
-        "justification": "Analysis failed",
-        "positioning_advice": "Could not analyze this job"
-      },
-      "job_id": "56d0bb683adaf66f",
-      "days_old": 0
-    },
-    {
-      "title": "AI Strategist, Principal @ Hebbia AI",
-      "company": "Hebbia Ai",
-      "location": "N/A",
-      "description": "",
-      "url": "https://jobs.ashbyhq.com/hebbia-ai/e1f3f01c-610a-411a-870c-cc14f0cbdf6e?utm_",
-      "source": "ashby",
-      "posted_date": "2026-07-04T09:58:15.600417",
-      "scraped_at": "2026-07-04T09:58:15.600426",
-      "search_snippet": "Hebbia AI. AI Strategist, Principal. Location. NYC. Employment Type. Full time. Location Type. On-site. Department. AI Strategy. OverviewApplication. AI ...",
-      "search_title": "AI Strategist, Principal @ Hebbia AI",
-      "ai_analysis": {
-        "fit_score": 0,
-        "category": "Unknown",
-        "justification": "Analysis failed",
-        "positioning_advice": "Could not analyze this job"
-      },
-      "sustainability_analysis": {
-        "fit_score": 0,
-        "category": "Unknown",
-        "justification": "Analysis failed",
-        "positioning_advice": "Could not analyze this job"
-      },
-      "job_id": "a5cf336a59685280",
-      "days_old": 0
-    },
-    {
-      "title": "AI Product Manager @ Alpha Life Sciences",
-      "company": "Alphalifesci",
-      "location": "N/A",
-      "description": "",
-      "url": "https://jobs.ashbyhq.com/alphalifesci/64254ce6-c08f-4567-8796-cbb2f80c7f68",
-      "source": "ashby",
-      "posted_date": "2026-07-04T09:58:17.790908",
-      "scraped_at": "2026-07-04T09:58:17.790917",
-      "search_snippet": "AlphaLife Sciences is seeking a Product Manager to develop and scale AI-powered clinical applications that leverage generative AI and large language models ( ...",
-      "search_title": "AI Product Manager @ Alpha Life Sciences",
-      "ai_analysis": {
-        "fit_score": 0,
-        "category": "Unknown",
-        "justification": "Analysis failed",
-        "positioning_advice": "Could not analyze this job"
-      },
-      "sustainability_analysis": {
-        "fit_score": 0,
-        "category": "Unknown",
-        "justification": "Analysis failed",
-        "positioning_advice": "Could not analyze this job"
-      },
-      "job_id": "15469d6758544c91",
-      "days_old": 0
-    },
-    {
-      "title": "Automated Customer Experience / AI Quality Specialist",
-      "company": "Super.Com",
-      "location": "N/A",
-      "description": "",
-      "url": "https://jobs.ashbyhq.com/super.com/6e1342f4-ff8a-48b3-a08d-c0a83242c821",
-      "source": "ashby",
-      "posted_date": "2026-07-04T09:58:20.041914",
-      "scraped_at": "2026-07-04T09:58:20.041922",
-      "search_snippet": "At Super.com, we are proud to leverage cutting-edge artificial intelligence (AI) technology to make our hiring process smarter, faster, and more inclusive. By ...",
-      "search_title": "Automated Customer Experience / AI Quality Specialist",
-      "ai_analysis": {
-        "fit_score": 0,
-        "category": "Unknown",
-        "justification": "Analysis failed",
-        "positioning_advice": "Could not analyze this job"
-      },
-      "sustainability_analysis": {
-        "fit_score": 0,
-        "category": "Unknown",
-        "justification": "Analysis failed",
-        "positioning_advice": "Could not analyze this job"
-      },
-      "job_id": "3fa0fde0ef540f65",
-      "days_old": 0
-    },
-    {
-      "title": "Lead Product Manager, AI Agents @ SuperDial",
-      "company": "Superdial",
-      "location": "N/A",
-      "description": "",
-      "url": "https://jobs.ashbyhq.com/superdial/1bfdce0a-14a5-4932-b4c6-3c1e722d5173",
-      "source": "ashby",
-      "posted_date": "2026-07-04T09:58:22.261141",
-      "scraped_at": "2026-07-04T09:58:22.261150",
-      "search_snippet": "As a Lead Product Manager, AI Agents at SuperDial, you will report to the VP ... Direct experience building or deploying AI agents, LLM-powered ...",
-      "search_title": "Lead Product Manager, AI Agents @ SuperDial",
-      "ai_analysis": {
-        "fit_score": 0,
-        "category": "Unknown",
-        "justification": "Analysis failed",
-        "positioning_advice": "Could not analyze this job"
-      },
-      "sustainability_analysis": {
-        "fit_score": 0,
-        "category": "Unknown",
-        "justification": "Analysis failed",
-        "positioning_advice": "Could not analyze this job"
-      },
-      "job_id": "a43beb9cfd81844c",
+      "job_id": "d60af764cc37e9a9",
       "days_old": 0
     },
     {
@@ -371,8 +85,8 @@
       "description": "",
       "url": "https://boards.greenhouse.io/brex/jobs/8616327002",
       "source": "greenhouse",
-      "posted_date": "2026-07-04T09:58:24.717695",
-      "scraped_at": "2026-07-04T09:58:24.717703",
+      "posted_date": "2026-07-07T10:43:33.785468",
+      "scraped_at": "2026-07-07T10:43:33.785479",
       "search_snippet": "Requirements · You're an experienced product manager (5-7 years of relevant experience). · You've built AI products for other people. · You thrive in ambiguity.",
       "search_title": "Senior Product Manager, AI | Career Opportunities",
       "ai_analysis": {
@@ -391,16 +105,16 @@
       "days_old": 0
     },
     {
-      "title": "AI Product Manager @ Simular",
-      "company": "Simular",
+      "title": "Senior Product Designer @ webAI",
+      "company": "Webai",
       "location": "N/A",
       "description": "",
-      "url": "https://jobs.ashbyhq.com/simular/d8574780-1543-447d-af49-26c5cfeaac50?embed=js&locationId=ceb6d935-8b96-4f09-8671-840b6ec5cb18",
+      "url": "https://jobs.ashbyhq.com/webai/095f79ba-dfdf-4a1f-8538-0c259c5bbfad",
       "source": "ashby",
-      "posted_date": "2026-07-04T09:58:26.903413",
-      "scraped_at": "2026-07-04T09:58:26.903422",
-      "search_snippet": "... Product Manager, you'll own the product roadmap end-to-end, choosing which workflows the agent ... AI/ML products, particularly in the agent or LLM space.",
-      "search_title": "AI Product Manager @ Simular",
+      "posted_date": "2026-07-07T10:43:35.805989",
+      "scraped_at": "2026-07-07T10:43:35.805999",
+      "search_snippet": "... Director ... webAI is pioneering the future of artificial intelligence by establishing the first distributed AI infrastructure dedicated to personalized AI.",
+      "search_title": "Senior Product Designer @ webAI",
       "ai_analysis": {
         "fit_score": 0,
         "category": "Unknown",
@@ -413,7 +127,137 @@
         "justification": "Analysis failed",
         "positioning_advice": "Could not analyze this job"
       },
-      "job_id": "a1ed001521c8e3e4",
+      "job_id": "ce2dd77c578139ed",
+      "days_old": 0
+    },
+    {
+      "title": "Strategy Consultant - AI Trainer - Freelance - 8-20 hrs/week",
+      "company": "10Xteam",
+      "location": "N/A",
+      "description": "",
+      "url": "https://jobs.ashbyhq.com/10xteam/07e8767c-cb11-41e2-9e5c-10bc7dd9e5a8",
+      "source": "ashby",
+      "posted_date": "2026-07-07T10:43:38.006013",
+      "scraped_at": "2026-07-07T10:43:38.006024",
+      "search_snippet": "Are you an experienced Strategy Consultant passionate about the future of artificial intelligence? Join 10x Team as a Freelance Strategy Consultant – AI ...",
+      "search_title": "Strategy Consultant - AI Trainer - Freelance - 8-20 hrs/week",
+      "ai_analysis": {
+        "fit_score": 0,
+        "category": "Unknown",
+        "justification": "Analysis failed",
+        "positioning_advice": "Could not analyze this job"
+      },
+      "sustainability_analysis": {
+        "fit_score": 0,
+        "category": "Unknown",
+        "justification": "Analysis failed",
+        "positioning_advice": "Could not analyze this job"
+      },
+      "job_id": "9228f110c78e7e1b",
+      "days_old": 0
+    },
+    {
+      "title": "Sr. Manager, Data, Analytics & AI",
+      "company": "Everpass",
+      "location": "Greenwich, CT, Remote",
+      "description": "We use Greenhouse’s AI-powered Talent Matching tool to compare your application against our job requirements. Learn more",
+      "url": "https://boards.greenhouse.io/everpass/jobs/8620989002",
+      "source": "greenhouse",
+      "posted_date": "2026-07-07T10:43:40.144492",
+      "scraped_at": "2026-07-07T10:43:40.144525",
+      "search_snippet": "... AI strategy. This individual will partner closely with Product, Engineering ... Experience implementing AI, machine learning, or Generative AI solutions in ...",
+      "search_title": "Sr. Manager, Data, Analytics & AI",
+      "ai_analysis": {
+        "fit_score": 0,
+        "category": "Unknown",
+        "justification": "Analysis failed",
+        "positioning_advice": "Could not analyze this job"
+      },
+      "sustainability_analysis": {
+        "fit_score": 0,
+        "category": "Unknown",
+        "justification": "Analysis failed",
+        "positioning_advice": "Could not analyze this job"
+      },
+      "job_id": "8ee924b99190eda2",
+      "days_old": 0
+    },
+    {
+      "title": "Technical Product Manager, AI Engineering & Systems",
+      "company": "Jerry.Ai",
+      "location": "N/A",
+      "description": "",
+      "url": "https://jobs.ashbyhq.com/jerry.ai/3f0cc68f-5422-48f3-a237-8fe755605bbb",
+      "source": "ashby",
+      "posted_date": "2026-07-07T10:43:42.328349",
+      "scraped_at": "2026-07-07T10:43:42.328359",
+      "search_snippet": "Technical Product Manager, AI Engineering & Systems. Location. New York, New ... Backed by artificial intelligence and machine learning, Jerry.ai ...",
+      "search_title": "Technical Product Manager, AI Engineering & Systems",
+      "ai_analysis": {
+        "fit_score": 0,
+        "category": "Unknown",
+        "justification": "Analysis failed",
+        "positioning_advice": "Could not analyze this job"
+      },
+      "sustainability_analysis": {
+        "fit_score": 0,
+        "category": "Unknown",
+        "justification": "Analysis failed",
+        "positioning_advice": "Could not analyze this job"
+      },
+      "job_id": "9441e7d364a8e85e",
+      "days_old": 0
+    },
+    {
+      "title": "Director, solutions architecture @ WRITER",
+      "company": "Writer",
+      "location": "N/A",
+      "description": "",
+      "url": "https://jobs.ashbyhq.com/WRITER/d5644b6a-7fdf-430d-9746-e798caca7753",
+      "source": "ashby",
+      "posted_date": "2026-07-07T10:43:44.549671",
+      "scraped_at": "2026-07-07T10:43:44.549682",
+      "search_snippet": "You'll be at the forefront of driving AI transformation, moving beyond theoretical discussions to hands-on deployment and measurable impact. This is your chance ...",
+      "search_title": "Director, solutions architecture @ WRITER",
+      "ai_analysis": {
+        "fit_score": 0,
+        "category": "Unknown",
+        "justification": "Analysis failed",
+        "positioning_advice": "Could not analyze this job"
+      },
+      "sustainability_analysis": {
+        "fit_score": 0,
+        "category": "Unknown",
+        "justification": "Analysis failed",
+        "positioning_advice": "Could not analyze this job"
+      },
+      "job_id": "5935065d3ce88963",
+      "days_old": 0
+    },
+    {
+      "title": "Head of Strategic Finance @ Cohere",
+      "company": "Cohere",
+      "location": "N/A",
+      "description": "",
+      "url": "https://jobs.ashbyhq.com/cohere/39ae8da6-9c3d-4f36-80a3-310159ee1f8d",
+      "source": "ashby",
+      "posted_date": "2026-07-07T10:43:46.693477",
+      "scraped_at": "2026-07-07T10:43:46.693488",
+      "search_snippet": "Experience operating in a SaaS or similar technology organization, coupled with an understanding of AI/ML market dynamics, pricing strategies, and enterprise ...",
+      "search_title": "Head of Strategic Finance @ Cohere",
+      "ai_analysis": {
+        "fit_score": 0,
+        "category": "Unknown",
+        "justification": "Analysis failed",
+        "positioning_advice": "Could not analyze this job"
+      },
+      "sustainability_analysis": {
+        "fit_score": 0,
+        "category": "Unknown",
+        "justification": "Analysis failed",
+        "positioning_advice": "Could not analyze this job"
+      },
+      "job_id": "d4bb7294fd1db717",
       "days_old": 0
     },
     {
@@ -423,8 +267,8 @@
       "description": "",
       "url": "https://jobs.ashbyhq.com/hopper/8e8ef9a0-a7b0-4469-926d-a80a7f441038",
       "source": "ashby",
-      "posted_date": "2026-07-04T09:58:29.165567",
-      "scraped_at": "2026-07-04T09:58:29.165576",
+      "posted_date": "2026-07-07T10:43:48.912457",
+      "scraped_at": "2026-07-07T10:43:48.912467",
       "search_snippet": "This is a foundational role at the intersection of marketplace economics, machine learning, and financial systems. You will partner deeply with Data Science and ...",
       "search_title": "Principal Product Manager - AI Travel (100% Remote - USA)",
       "ai_analysis": {
@@ -443,16 +287,16 @@
       "days_old": 0
     },
     {
-      "title": "Finance Data and AI Specialist",
-      "company": "Databricks",
+      "title": "Senior Product Manager, AI | Career Opportunities",
+      "company": "Brex",
       "location": "N/A",
       "description": "",
-      "url": "https://boards.greenhouse.io/databricks/jobs/8604579002",
+      "url": "https://boards.greenhouse.io/brex/jobs/8616327002",
       "source": "greenhouse",
-      "posted_date": "2026-07-04T09:58:32.786877",
-      "scraped_at": "2026-07-04T09:58:32.786886",
-      "search_snippet": "As a Finance Data and AI Specialist, you will be a hands-on contributor building and maintaining the data pipelines, applications, and AI-powered tools",
-      "search_title": "Finance Data and AI Specialist",
+      "posted_date": "2026-07-07T10:43:51.108905",
+      "scraped_at": "2026-07-07T10:43:51.108916",
+      "search_snippet": "Requirements · You're an experienced product manager (5-7 years of relevant experience). · You've built AI products for other people. · You thrive in ambiguity.",
+      "search_title": "Senior Product Manager, AI | Career Opportunities",
       "ai_analysis": {
         "fit_score": 0,
         "category": "Unknown",
@@ -465,7 +309,7 @@
         "justification": "Analysis failed",
         "positioning_advice": "Could not analyze this job"
       },
-      "job_id": "04e174f1eefef96c",
+      "job_id": "f2bc2302305563ad",
       "days_old": 0
     },
     {
@@ -475,8 +319,8 @@
       "description": "",
       "url": "https://jobs.ashbyhq.com/brightwheel/127635e3-551e-4575-83b6-85d36e9599e0",
       "source": "ashby",
-      "posted_date": "2026-07-04T09:58:35.026797",
-      "scraped_at": "2026-07-04T09:58:35.026807",
+      "posted_date": "2026-07-07T10:43:53.131198",
+      "scraped_at": "2026-07-07T10:43:53.131207",
       "search_snippet": "You are an AI-native Senior Technical Program Manager who combines deep ... Applied AI familiarity in production: You have driven programs involving AI, LLM ...",
       "search_title": "Senior Technical Program Manager, AI @ brightwheel",
       "ai_analysis": {
@@ -495,16 +339,16 @@
       "days_old": 0
     },
     {
-      "title": "Product Manager | Agents @ Rogo",
-      "company": "Rogo",
+      "title": "Senior Product Manager, Data & Agentic Products @ Pleo",
+      "company": "Pleo",
       "location": "N/A",
       "description": "",
-      "url": "https://jobs.ashbyhq.com/Rogo/1d838efc-7c1d-45d1-b2c2-85e6cb4ab6df",
+      "url": "https://jobs.ashbyhq.com/pleo/a33f8156-a795-4626-8ad3-2c14ea0ecbc9",
       "source": "ashby",
-      "posted_date": "2026-07-04T09:58:37.229933",
-      "scraped_at": "2026-07-04T09:58:37.229942",
-      "search_snippet": "We're looking for an exceptional, high-agency product manager to own Felix, the agent at the core of Rogo. This is one of the most ambitious problems in applied ...",
-      "search_title": "Product Manager | Agents @ Rogo",
+      "posted_date": "2026-07-07T10:43:55.318347",
+      "scraped_at": "2026-07-07T10:43:55.318358",
+      "search_snippet": "Shape the Data & Agentic Strategy: Define and execute Pleo's roadmap to ... , with at least 2 years focused heavily on AI/ML, LLM orchestration, autonomous ...",
+      "search_title": "Senior Product Manager, Data & Agentic Products @ Pleo",
       "ai_analysis": {
         "fit_score": 0,
         "category": "Unknown",
@@ -517,20 +361,20 @@
         "justification": "Analysis failed",
         "positioning_advice": "Could not analyze this job"
       },
-      "job_id": "7a422d38d694921b",
+      "job_id": "5f05e32d6c7eb718",
       "days_old": 0
     },
     {
-      "title": "Director, AI Center of Excellence @ Instructure, Inc.",
-      "company": "Instructure",
+      "title": "AI Product Manager @ Simular",
+      "company": "Simular",
       "location": "N/A",
       "description": "",
-      "url": "https://jobs.ashbyhq.com/instructure/4001e25a-4523-4d4c-9c53-11597d03cfd5",
+      "url": "https://jobs.ashbyhq.com/simular/d8574780-1543-447d-af49-26c5cfeaac50?embed=js&locationId=ceb6d935-8b96-4f09-8671-840b6ec5cb18",
       "source": "ashby",
-      "posted_date": "2026-07-04T09:58:39.497000",
-      "scraped_at": "2026-07-04T09:58:39.497009",
-      "search_snippet": "We're standing up an AI Center of Excellence, and we're looking for a Director, AI Transformation to lead it. ... 2 or more years working directly with AI or ...",
-      "search_title": "Director, AI Center of Excellence @ Instructure, Inc.",
+      "posted_date": "2026-07-07T10:43:57.481120",
+      "scraped_at": "2026-07-07T10:43:57.481132",
+      "search_snippet": "... Product Manager, you'll own the product roadmap end-to-end, choosing which workflows the agent ... AI/ML products, particularly in the agent or LLM space.",
+      "search_title": "AI Product Manager @ Simular",
       "ai_analysis": {
         "fit_score": 0,
         "category": "Unknown",
@@ -543,20 +387,20 @@
         "justification": "Analysis failed",
         "positioning_advice": "Could not analyze this job"
       },
-      "job_id": "b5c6b9aefaed9918",
+      "job_id": "a1ed001521c8e3e4",
       "days_old": 0
     },
     {
-      "title": "Director, AI Strategy & Operations @ Talkiatry",
-      "company": "Talkiatry",
+      "title": "AI Strategist, Corporate Law @ Hebbia AI",
+      "company": "Hebbia Ai",
       "location": "N/A",
       "description": "",
-      "url": "https://jobs.ashbyhq.com/talkiatry/6dc58504-f2b6-42a9-896f-5749d7e44db4?embed=js&departmentId=a6aa2abc-5c17-4e7a-a2cf-4a844b3dee08",
+      "url": "https://jobs.ashbyhq.com/hebbia-ai/f6372e23-a80d-4c26-b831-3dd5bce96a7d",
       "source": "ashby",
-      "posted_date": "2026-07-04T09:58:41.663891",
-      "scraped_at": "2026-07-04T09:58:41.663900",
-      "search_snippet": "Director of AI Strategy & Operations | AI, Automation & Patient Experience | Lead AI strategy, agent operations, and workflow innovation to scale access ...",
-      "search_title": "Director, AI Strategy & Operations @ Talkiatry",
+      "posted_date": "2026-07-07T10:43:59.679777",
+      "scraped_at": "2026-07-07T10:43:59.679806",
+      "search_snippet": "... AI Strategy Team Our AI Strategists are deep domain experts and problem-solvers who bridge product, commercial strategy, and customer impact. They ...",
+      "search_title": "AI Strategist, Corporate Law @ Hebbia AI",
       "ai_analysis": {
         "fit_score": 0,
         "category": "Unknown",
@@ -569,20 +413,20 @@
         "justification": "Analysis failed",
         "positioning_advice": "Could not analyze this job"
       },
-      "job_id": "8a6c1f4f302c6b1e",
+      "job_id": "85d1169b55bb2613",
       "days_old": 0
     },
     {
-      "title": "Senior Director of Engineering, Consumer AI @ 1Password",
-      "company": "1Password",
+      "title": "Head/Director of Product (AI Insights & Automation)",
+      "company": "Mimica",
       "location": "N/A",
       "description": "",
-      "url": "https://jobs.ashbyhq.com/1password/ef8e8a1f-349e-42bc-a859-586f4aaa5916",
+      "url": "https://jobs.ashbyhq.com/mimica/02ca67ea-b630-4bdb-8033-144a2e377e38",
       "source": "ashby",
-      "posted_date": "2026-07-04T09:58:43.870104",
-      "scraped_at": "2026-07-04T09:58:43.870113",
-      "search_snippet": "of Engineering, Consumer AI will define and execute 1Password's Applied AI strategy ... 1Password uses artificial intelligence (AI) and machine learning (ML) ...",
-      "search_title": "Senior Director of Engineering, Consumer AI @ 1Password",
+      "posted_date": "2026-07-07T10:44:01.825593",
+      "scraped_at": "2026-07-07T10:44:01.825604",
+      "search_snippet": "Head/Director of Product (AI Insights & Automation). Location. UK; Canada ... Experience in building products powered by in-house developed ML/AI technology.",
+      "search_title": "Head/Director of Product (AI Insights & Automation)",
       "ai_analysis": {
         "fit_score": 0,
         "category": "Unknown",
@@ -595,20 +439,20 @@
         "justification": "Analysis failed",
         "positioning_advice": "Could not analyze this job"
       },
-      "job_id": "924cab2a7e793649",
+      "job_id": "ec662a8a40575629",
       "days_old": 0
     },
     {
-      "title": "Product Manager - AI Trainer - Freelance - 8-20hrs/week",
-      "company": "10Xteam",
+      "title": "Forward Deployed Product Manager, Agents @ Siena AI",
+      "company": "Siena",
       "location": "N/A",
       "description": "",
-      "url": "https://jobs.ashbyhq.com/10xteam/7d402ab8-392d-464b-8ca4-d23874c513d2",
+      "url": "https://jobs.ashbyhq.com/siena/bece1b22-9932-4621-ba86-4c5352344cf2",
       "source": "ashby",
-      "posted_date": "2026-07-04T09:58:46.061236",
-      "scraped_at": "2026-07-04T09:58:46.061245",
-      "search_snippet": "A senior-level product manager with significant professional experience within the EU or UK · Experienced in advising on, preparing, and executing product ...",
-      "search_title": "Product Manager - AI Trainer - Freelance - 8-20hrs/week",
+      "posted_date": "2026-07-07T10:44:03.991607",
+      "scraped_at": "2026-07-07T10:44:03.991618",
+      "search_snippet": "As a Forward Deployed Product Manager, Agents, you're embedded directly with strategic accounts, owning their deployment outcomes end-to-end while feeding the ...",
+      "search_title": "Forward Deployed Product Manager, Agents @ Siena AI",
       "ai_analysis": {
         "fit_score": 0,
         "category": "Unknown",
@@ -621,7 +465,163 @@
         "justification": "Analysis failed",
         "positioning_advice": "Could not analyze this job"
       },
-      "job_id": "78907d5d7453c757",
+      "job_id": "6e7a066cf1b9745c",
+      "days_old": 0
+    },
+    {
+      "title": "Senior Director, AI Transformation @ Amplify",
+      "company": "Amplify",
+      "location": "N/A",
+      "description": "",
+      "url": "https://jobs.ashbyhq.com/amplify/d67deacd-784c-481f-b301-670d2dd7a226",
+      "source": "ashby",
+      "posted_date": "2026-07-07T10:44:06.224831",
+      "scraped_at": "2026-07-07T10:44:06.224842",
+      "search_snippet": "Senior Director, AI Transformation. Location. Remote - United States. Employment Type. Full time. Location Type. Remote ...",
+      "search_title": "Senior Director, AI Transformation @ Amplify",
+      "ai_analysis": {
+        "fit_score": 0,
+        "category": "Unknown",
+        "justification": "Analysis failed",
+        "positioning_advice": "Could not analyze this job"
+      },
+      "sustainability_analysis": {
+        "fit_score": 0,
+        "category": "Unknown",
+        "justification": "Analysis failed",
+        "positioning_advice": "Could not analyze this job"
+      },
+      "job_id": "9871d4d69db4ff3c",
+      "days_old": 0
+    },
+    {
+      "title": "Hebbia AI",
+      "company": "Hebbia Ai?Utm_",
+      "location": "N/A",
+      "description": "",
+      "url": "https://jobs.ashbyhq.com/hebbia-ai?utm_",
+      "source": "ashby",
+      "posted_date": "2026-07-07T10:44:08.315846",
+      "scraped_at": "2026-07-07T10:44:08.315858",
+      "search_snippet": "AI Strategist. AI Strategy • NYC • Full time • On-site · AI Strategist, Corporate Law. AI Strategy • London; NYC • Full time • On-site · AI Strategist ...",
+      "search_title": "Hebbia AI",
+      "ai_analysis": {
+        "fit_score": 0,
+        "category": "Unknown",
+        "justification": "Analysis failed",
+        "positioning_advice": "Could not analyze this job"
+      },
+      "sustainability_analysis": {
+        "fit_score": 0,
+        "category": "Unknown",
+        "justification": "Analysis failed",
+        "positioning_advice": "Could not analyze this job"
+      },
+      "job_id": "22e2ce159276e352",
+      "days_old": 0
+    },
+    {
+      "title": "Technical Product Manager, AI Engineering & Systems",
+      "company": "Jerry.Ai",
+      "location": "N/A",
+      "description": "",
+      "url": "https://jobs.ashbyhq.com/jerry.ai/3f0cc68f-5422-48f3-a237-8fe755605bbb",
+      "source": "ashby",
+      "posted_date": "2026-07-07T10:44:10.336520",
+      "scraped_at": "2026-07-07T10:44:10.336530",
+      "search_snippet": "Technical Product Manager, AI Engineering & Systems. Location. New York, New ... Backed by artificial intelligence and machine learning, Jerry.ai ...",
+      "search_title": "Technical Product Manager, AI Engineering & Systems",
+      "ai_analysis": {
+        "fit_score": 0,
+        "category": "Unknown",
+        "justification": "Analysis failed",
+        "positioning_advice": "Could not analyze this job"
+      },
+      "sustainability_analysis": {
+        "fit_score": 0,
+        "category": "Unknown",
+        "justification": "Analysis failed",
+        "positioning_advice": "Could not analyze this job"
+      },
+      "job_id": "9441e7d364a8e85e",
+      "days_old": 0
+    },
+    {
+      "title": "Senior Product Manager - AI Products (FinTech)",
+      "company": "Meridianlink",
+      "location": "N/A",
+      "description": "",
+      "url": "https://jobs.ashbyhq.com/meridianlink/a85d295b-93a2-4bb1-924f-00925527e5f0?embed=js",
+      "source": "ashby",
+      "posted_date": "2026-07-07T10:44:12.570705",
+      "scraped_at": "2026-07-07T10:44:12.570716",
+      "search_snippet": "Expertise in digital product development, including conversational AI, GenAI, automation, and data-driven platforms. Familiarity with AI/ML concepts, LLMs, MCPs ...",
+      "search_title": "Senior Product Manager - AI Products (FinTech)",
+      "ai_analysis": {
+        "fit_score": 0,
+        "category": "Unknown",
+        "justification": "Analysis failed",
+        "positioning_advice": "Could not analyze this job"
+      },
+      "sustainability_analysis": {
+        "fit_score": 0,
+        "category": "Unknown",
+        "justification": "Analysis failed",
+        "positioning_advice": "Could not analyze this job"
+      },
+      "job_id": "466c9b733f48cf51",
+      "days_old": 0
+    },
+    {
+      "title": "AI Strategy Senior Director @ Broccoli AI",
+      "company": "Broccoli",
+      "location": "N/A",
+      "description": "",
+      "url": "https://jobs.ashbyhq.com/broccoli/0011139a-034f-40b5-9bd9-486302c31459",
+      "source": "ashby",
+      "posted_date": "2026-07-07T10:44:14.590160",
+      "scraped_at": "2026-07-07T10:44:14.590171",
+      "search_snippet": "We're hiring a Senior Director of AI Strategy to lead AI value creation across our most strategic customers, which include PE-backed roll-ups and franchise ...",
+      "search_title": "AI Strategy Senior Director @ Broccoli AI",
+      "ai_analysis": {
+        "fit_score": 0,
+        "category": "Unknown",
+        "justification": "Analysis failed",
+        "positioning_advice": "Could not analyze this job"
+      },
+      "sustainability_analysis": {
+        "fit_score": 0,
+        "category": "Unknown",
+        "justification": "Analysis failed",
+        "positioning_advice": "Could not analyze this job"
+      },
+      "job_id": "c09c8e2c7c63850f",
+      "days_old": 0
+    },
+    {
+      "title": "Staff Product Manager, AI Enablement @ Airwallex",
+      "company": "Airwallex",
+      "location": "N/A",
+      "description": "",
+      "url": "https://jobs.ashbyhq.com/airwallex/8b9163cb-f65c-4441-9f1c-06f1ec3bc7dd",
+      "source": "ashby",
+      "posted_date": "2026-07-07T10:44:16.807292",
+      "scraped_at": "2026-07-07T10:44:16.807303",
+      "search_snippet": "As a Staff Product Manager, AI Enablement you will define and drive the strategy ... Technical background or prior role in AI/ML, data science, or engineering.",
+      "search_title": "Staff Product Manager, AI Enablement @ Airwallex",
+      "ai_analysis": {
+        "fit_score": 0,
+        "category": "Unknown",
+        "justification": "Analysis failed",
+        "positioning_advice": "Could not analyze this job"
+      },
+      "sustainability_analysis": {
+        "fit_score": 0,
+        "category": "Unknown",
+        "justification": "Analysis failed",
+        "positioning_advice": "Could not analyze this job"
+      },
+      "job_id": "e5f084ded3f90df7",
       "days_old": 0
     },
     {
@@ -631,8 +631,8 @@
       "description": "",
       "url": "https://jobs.ashbyhq.com/tenexlabs/b914aa30-1a21-4a65-81fe-4f2c3789d370",
       "source": "ashby",
-      "posted_date": "2026-07-04T09:58:48.264990",
-      "scraped_at": "2026-07-04T09:58:48.264999",
+      "posted_date": "2026-07-07T10:44:19.013252",
+      "scraped_at": "2026-07-07T10:44:19.013263",
       "search_snippet": "Run AI strategy audits that surface how work actually happens (not how people say it happens), quantify what's broken, and rank the bets worth making. Design ...",
       "search_title": "AI Strategist, Data @ Tenex",
       "ai_analysis": {
@@ -654,7 +654,7 @@
   "metadata": {
     "profile": "kartikey",
     "profile_display_name": "Kartikey",
-    "run_timestamp": "2026-07-04T09:57:41.617901",
+    "run_timestamp": "2026-07-07T10:42:55.713206",
     "trigger_type": "schedule",
     "total_searched": 25,
     "new_jobs_found": 25,

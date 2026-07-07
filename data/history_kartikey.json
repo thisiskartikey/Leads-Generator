@@ -3340,7 +3340,7 @@
       "url": "https://jobs.ashbyhq.com/siena/bece1b22-9932-4621-ba86-4c5352344cf2",
       "title": "Forward Deployed Product Manager, Agents @ Siena AI",
       "company": "Siena",
-      "first_seen": "2026-05-16T09:20:27.436444",
+      "first_seen": "2026-07-07T10:44:27.777156",
       "ai_fit_score": 0,
       "sustainability_fit_score": 0
     },
@@ -3692,7 +3692,7 @@
       "url": "https://jobs.ashbyhq.com/10xteam/07e8767c-cb11-41e2-9e5c-10bc7dd9e5a8",
       "title": "Strategy Consultant - AI Trainer - Freelance - 8-20 hrs/week",
       "company": "10Xteam",
-      "first_seen": "2026-07-04T09:58:52.116229",
+      "first_seen": "2026-07-07T10:44:21.417241",
       "ai_fit_score": 0,
       "sustainability_fit_score": 0
     },
@@ -3988,7 +3988,7 @@
       "url": "https://jobs.ashbyhq.com/brightwheel/127635e3-551e-4575-83b6-85d36e9599e0",
       "title": "Senior Technical Program Manager, AI @ brightwheel",
       "company": "Brightwheel",
-      "first_seen": "2026-07-04T09:58:57.043678",
+      "first_seen": "2026-07-07T10:44:24.813758",
       "ai_fit_score": 0,
       "sustainability_fit_score": 0
     },
@@ -4292,7 +4292,7 @@
       "url": "https://jobs.ashbyhq.com/simular/d8574780-1543-447d-af49-26c5cfeaac50?embed=js&locationId=ceb6d935-8b96-4f09-8671-840b6ec5cb18",
       "title": "AI Product Manager @ Simular",
       "company": "Simular",
-      "first_seen": "2026-07-04T09:58:55.753000",
+      "first_seen": "2026-07-07T10:44:25.839206",
       "ai_fit_score": 0,
       "sustainability_fit_score": 0
     },
@@ -4340,7 +4340,7 @@
       "url": "https://boards.greenhouse.io/brex/jobs/8616327002",
       "title": "Senior Product Manager, AI | Career Opportunities",
       "company": "Brex",
-      "first_seen": "2026-07-04T09:58:55.338752",
+      "first_seen": "2026-07-07T10:44:24.272335",
       "ai_fit_score": 0,
       "sustainability_fit_score": 0
     },
@@ -4348,7 +4348,7 @@
       "url": "https://jobs.ashbyhq.com/hopper/8e8ef9a0-a7b0-4469-926d-a80a7f441038",
       "title": "Principal Product Manager - AI Travel (100% Remote - USA)",
       "company": "Hopper",
-      "first_seen": "2026-07-04T09:58:56.126734",
+      "first_seen": "2026-07-07T10:44:23.825372",
       "ai_fit_score": 0,
       "sustainability_fit_score": 0
     },
@@ -4388,12 +4388,140 @@
       "url": "https://jobs.ashbyhq.com/tenexlabs/b914aa30-1a21-4a65-81fe-4f2c3789d370",
       "title": "AI Strategist, Data @ Tenex",
       "company": "Tenexlabs",
-      "first_seen": "2026-07-04T09:59:00.036252",
+      "first_seen": "2026-07-07T10:44:31.285585",
+      "ai_fit_score": 0,
+      "sustainability_fit_score": 0
+    },
+    "a4c83b89dcb0afd8": {
+      "url": "https://jobs.ashbyhq.com/tenexlabs/24e81c35-d36e-42df-a64b-e8052f701a00",
+      "title": "AI Strategist, Product @ Tenex",
+      "company": "Tenexlabs",
+      "first_seen": "2026-07-07T10:44:19.446742",
+      "ai_fit_score": 0,
+      "sustainability_fit_score": 0
+    },
+    "e2de07e41f4db884": {
+      "url": "https://jobs.ashbyhq.com/pleo/9839f2a6-790d-450b-b26c-14e656ced62f",
+      "title": "Senior Product Manager, Data & Agentic Products @ Pleo",
+      "company": "Pleo",
+      "first_seen": "2026-07-07T10:44:19.826466",
+      "ai_fit_score": 0,
+      "sustainability_fit_score": 0
+    },
+    "d60af764cc37e9a9": {
+      "url": "https://jobs.ashbyhq.com/runway-ml/36b0012b-a995-41c1-9eb4-e39285e0b451",
+      "title": "Chief of Staff, Co-CEO @ Runway",
+      "company": "Runway Ml",
+      "first_seen": "2026-07-07T10:44:20.194861",
+      "ai_fit_score": 0,
+      "sustainability_fit_score": 0
+    },
+    "ce2dd77c578139ed": {
+      "url": "https://jobs.ashbyhq.com/webai/095f79ba-dfdf-4a1f-8538-0c259c5bbfad",
+      "title": "Senior Product Designer @ webAI",
+      "company": "Webai",
+      "first_seen": "2026-07-07T10:44:21.041457",
+      "ai_fit_score": 0,
+      "sustainability_fit_score": 0
+    },
+    "8ee924b99190eda2": {
+      "url": "https://boards.greenhouse.io/everpass/jobs/8620989002",
+      "title": "Sr. Manager, Data, Analytics & AI",
+      "company": "Everpass",
+      "first_seen": "2026-07-07T10:44:21.812885",
+      "ai_fit_score": 0,
+      "sustainability_fit_score": 0
+    },
+    "9441e7d364a8e85e": {
+      "url": "https://jobs.ashbyhq.com/jerry.ai/3f0cc68f-5422-48f3-a237-8fe755605bbb",
+      "title": "Technical Product Manager, AI Engineering & Systems",
+      "company": "Jerry.Ai",
+      "first_seen": "2026-07-07T10:44:29.417635",
+      "ai_fit_score": 0,
+      "sustainability_fit_score": 0
+    },
+    "5935065d3ce88963": {
+      "url": "https://jobs.ashbyhq.com/WRITER/d5644b6a-7fdf-430d-9746-e798caca7753",
+      "title": "Director, solutions architecture @ WRITER",
+      "company": "Writer",
+      "first_seen": "2026-07-07T10:44:22.783136",
+      "ai_fit_score": 0,
+      "sustainability_fit_score": 0
+    },
+    "d4bb7294fd1db717": {
+      "url": "https://jobs.ashbyhq.com/cohere/39ae8da6-9c3d-4f36-80a3-310159ee1f8d",
+      "title": "Head of Strategic Finance @ Cohere",
+      "company": "Cohere",
+      "first_seen": "2026-07-07T10:44:23.321893",
+      "ai_fit_score": 0,
+      "sustainability_fit_score": 0
+    },
+    "5f05e32d6c7eb718": {
+      "url": "https://jobs.ashbyhq.com/pleo/a33f8156-a795-4626-8ad3-2c14ea0ecbc9",
+      "title": "Senior Product Manager, Data & Agentic Products @ Pleo",
+      "company": "Pleo",
+      "first_seen": "2026-07-07T10:44:25.277706",
+      "ai_fit_score": 0,
+      "sustainability_fit_score": 0
+    },
+    "85d1169b55bb2613": {
+      "url": "https://jobs.ashbyhq.com/hebbia-ai/f6372e23-a80d-4c26-b831-3dd5bce96a7d",
+      "title": "AI Strategist, Corporate Law @ Hebbia AI",
+      "company": "Hebbia Ai",
+      "first_seen": "2026-07-07T10:44:26.655332",
+      "ai_fit_score": 0,
+      "sustainability_fit_score": 0
+    },
+    "ec662a8a40575629": {
+      "url": "https://jobs.ashbyhq.com/mimica/02ca67ea-b630-4bdb-8033-144a2e377e38",
+      "title": "Head/Director of Product (AI Insights & Automation)",
+      "company": "Mimica",
+      "first_seen": "2026-07-07T10:44:27.298553",
+      "ai_fit_score": 0,
+      "sustainability_fit_score": 0
+    },
+    "9871d4d69db4ff3c": {
+      "url": "https://jobs.ashbyhq.com/amplify/d67deacd-784c-481f-b301-670d2dd7a226",
+      "title": "Senior Director, AI Transformation @ Amplify",
+      "company": "Amplify",
+      "first_seen": "2026-07-07T10:44:28.378775",
+      "ai_fit_score": 0,
+      "sustainability_fit_score": 0
+    },
+    "22e2ce159276e352": {
+      "url": "https://jobs.ashbyhq.com/hebbia-ai?utm_",
+      "title": "Hebbia AI",
+      "company": "Hebbia Ai?Utm_",
+      "first_seen": "2026-07-07T10:44:28.819565",
+      "ai_fit_score": 0,
+      "sustainability_fit_score": 0
+    },
+    "466c9b733f48cf51": {
+      "url": "https://jobs.ashbyhq.com/meridianlink/a85d295b-93a2-4bb1-924f-00925527e5f0?embed=js",
+      "title": "Senior Product Manager - AI Products (FinTech)",
+      "company": "Meridianlink",
+      "first_seen": "2026-07-07T10:44:30.056286",
+      "ai_fit_score": 0,
+      "sustainability_fit_score": 0
+    },
+    "c09c8e2c7c63850f": {
+      "url": "https://jobs.ashbyhq.com/broccoli/0011139a-034f-40b5-9bd9-486302c31459",
+      "title": "AI Strategy Senior Director @ Broccoli AI",
+      "company": "Broccoli",
+      "first_seen": "2026-07-07T10:44:30.421434",
+      "ai_fit_score": 0,
+      "sustainability_fit_score": 0
+    },
+    "e5f084ded3f90df7": {
+      "url": "https://jobs.ashbyhq.com/airwallex/8b9163cb-f65c-4441-9f1c-06f1ec3bc7dd",
+      "title": "Staff Product Manager, AI Enablement @ Airwallex",
+      "company": "Airwallex",
+      "first_seen": "2026-07-07T10:44:30.782624",
       "ai_fit_score": 0,
       "sustainability_fit_score": 0
     }
   },
-  "last_updated": "2026-07-04T09:59:00.038070",
+  "last_updated": "2026-07-07T10:44:31.287472",
   "metadata": {
     "version": "1.0",
     "description": "Tracks jobs that have been analyzed to avoid duplicates"
