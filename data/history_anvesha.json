@@ -3035,7 +3035,7 @@
       "url": "https://jobs.lever.co/iru/0bf50a9a-1a25-492e-8b9d-03c6a0f6d5d8",
       "title": "Principal UI/UX Designer",
       "company": "Iru",
-      "first_seen": "2026-07-04T10:00:21.934363",
+      "first_seen": "2026-07-11T09:16:28.551761",
       "fit_score": 0
     },
     "399418217ecbb58d": {
@@ -3133,7 +3133,7 @@
       "url": "https://apply.workable.com/panorama-education/j/7D5CF84724/",
       "title": "Lead Product Designer - Panorama Education",
       "company": "Panorama Education",
-      "first_seen": "2026-07-07T10:46:01.055986",
+      "first_seen": "2026-07-11T09:16:27.105590",
       "fit_score": 0
     },
     "7aa91d536f4acf20": {
@@ -3175,7 +3175,7 @@
       "url": "https://apply.workable.com/pavago/j/AA21443CBA",
       "title": "UX/UI & Design Systems (Remote) - Pavago",
       "company": "Pavago",
-      "first_seen": "2026-07-07T10:46:03.667119",
+      "first_seen": "2026-07-11T09:16:29.616895",
       "fit_score": 0
     },
     "12d943dc59876d7b": {
@@ -3231,7 +3231,7 @@
       "url": "https://boards.greenhouse.io/coupang/jobs/7971916",
       "title": "Staff Product Designer",
       "company": "Coupang",
-      "first_seen": "2026-07-07T10:46:01.883181",
+      "first_seen": "2026-07-11T09:16:28.367368",
       "fit_score": 0
     },
     "3919ae5f4d694095": {
@@ -3273,9 +3273,107 @@
       "url": "https://jobs.workable.com/view/qvTMyicHNuh4CKmMgSKHQ8/remote-ui%2Fux-designer-part-time-in-palo-alto-at-gotham-enterprises-ltd",
       "title": "UI/UX Designer Part Time | Gotham Enterprises Ltd",
       "company": "N/A",
-      "first_seen": "2026-07-07T10:46:04.417496",
+      "first_seen": "2026-07-11T09:16:31.032976",
+      "fit_score": 0
+    },
+    "c9d950f1d3048d04": {
+      "url": "https://jobs.ashbyhq.com/Tools%20for%20Humanity/b775ad86-6f12-4c21-810f-37ea85fcb51c",
+      "title": "Website UI/UX Designer @ Tools for Humanity",
+      "company": "Tools%20For%20Humanity",
+      "first_seen": "2026-07-11T09:16:27.321373",
+      "fit_score": 0
+    },
+    "cccbf4bc851a7271": {
+      "url": "https://jobs.ashbyhq.com/vanta/0fcbc935-76c7-4eac-b522-af421ed200c9/application?embed=js",
+      "title": "Staff Product Designer, Design Systems @ Vanta",
+      "company": "Vanta",
+      "first_seen": "2026-07-11T09:16:27.532896",
+      "fit_score": 0
+    },
+    "c979fb0fc767c364": {
+      "url": "https://jobs.ashbyhq.com/betterup/b16b26a9-a282-46b2-8b8b-c92717a9d097",
+      "title": "Principal UX Researcher @ BetterUp",
+      "company": "Betterup",
+      "first_seen": "2026-07-11T09:16:27.847377",
+      "fit_score": 0
+    },
+    "e64c377e0787ec7a": {
+      "url": "https://jobs.ashbyhq.com/tavus/45fdebdf-c3e1-480f-bbfb-ab4deee35db7",
+      "title": "Product Designer @ Tavus",
+      "company": "Tavus",
+      "first_seen": "2026-07-11T09:16:28.145987",
+      "fit_score": 0
+    },
+    "5c6679cf4f36a2ef": {
+      "url": "https://jobs.ashbyhq.com/withcherry/2412e9c2-fdd4-43d6-bd13-7345e82c9ec7",
+      "title": "Senior Product Designer @ Cherry Technologies, Inc.",
+      "company": "Withcherry",
+      "first_seen": "2026-07-11T09:16:28.839681",
+      "fit_score": 0
+    },
+    "00d7c7e185924f57": {
+      "url": "https://jobs.lever.co/jobgether/623c3001-416b-41c2-bf44-015153e653df",
+      "title": "Sr. UX Designer",
+      "company": "Jobgether",
+      "first_seen": "2026-07-11T09:16:29.098948",
+      "fit_score": 0
+    },
+    "bf9189f9e03485fd": {
+      "url": "https://jobs.ashbyhq.com/primer/af6ad413-6e2f-4cb4-9e11-582b2d2e6c42",
+      "title": "Product Designer @ Primer",
+      "company": "Primer",
+      "first_seen": "2026-07-11T09:16:29.361517",
+      "fit_score": 0
+    },
+    "d81bd8a561d0036d": {
+      "url": "https://apply.workable.com/unpack-holdings-limited/j/C215B82545",
+      "title": "UX/Product Designer - Unpack Holdings Limited",
+      "company": "Unpack Holdings Limited",
+      "first_seen": "2026-07-11T09:16:29.830887",
+      "fit_score": 0
+    },
+    "1427916c0230354b": {
+      "url": "https://jobs.ashbyhq.com/hiive/25bbd0fd-ff23-43cd-8a3c-1708654dccf6",
+      "title": "Senior Product Designer @ Hiive",
+      "company": "Hiive",
+      "first_seen": "2026-07-11T09:16:30.135250",
+      "fit_score": 0
+    },
+    "d464c7b19bc51ddd": {
+      "url": "https://apply.workable.com/xtremax-pte-ltd/j/69F8FF77B8/",
+      "title": "UX Researcher and Service Designer - (Public Sector)",
+      "company": "Xtremax Pte Ltd",
+      "first_seen": "2026-07-11T09:16:30.579638",
+      "fit_score": 0
+    },
+    "6430c496f85e5dc2": {
+      "url": "https://jobs.ashbyhq.com/assembledhq/1e6165e1-4274-4ed6-9410-5ebb05639486?utm_source=aijobs-dot-com",
+      "title": "Product Designer, AI Agents @ Assembled",
+      "company": "Assembledhq",
+      "first_seen": "2026-07-11T09:16:30.824957",
+      "fit_score": 0
+    },
+    "608ba905a93ca46e": {
+      "url": "https://jobs.lever.co/airalo/f238e932-7dd9-4508-8790-e26a3563b13e",
+      "title": "Senior Product Designer, UX",
+      "company": "Airalo",
+      "first_seen": "2026-07-11T09:16:31.254527",
+      "fit_score": 0
+    },
+    "64bc6e367c4c47ae": {
+      "url": "https://jobs.ashbyhq.com/ibotta/f2a96af0-5032-4fd9-b551-5439ae1d8609",
+      "title": "UX Researcher @ Ibotta",
+      "company": "Ibotta",
+      "first_seen": "2026-07-11T09:16:31.404249",
+      "fit_score": 0
+    },
+    "9912d1373dc965e8": {
+      "url": "https://jobs.ashbyhq.com/Wisdom-AI/a83997b1-3173-49eb-9192-25b404c1258e",
+      "title": "Senior Product Designer - UI/UX @ Wisdom AI",
+      "company": "Wisdom Ai",
+      "first_seen": "2026-07-11T09:16:31.622429",
       "fit_score": 0
     }
   },
-  "last_updated": "2026-07-07T10:46:04.419413"
+  "last_updated": "2026-07-11T09:16:31.623808"
 }

@@ -2,40 +2,6 @@
   "profile": "anvesha",
   "runs": [
     {
-      "timestamp": "2026-03-21T08:20:15.729601",
-      "trigger": "schedule",
-      "job_ids": [
-        "778dbcf0b2b7c08b",
-        "c0608ae2884e0849",
-        "ec3dbda0e9c2219a",
-        "a249b2723ea679c6",
-        "22fedbe5863ef54e",
-        "4f5d85e50732e35d",
-        "707ba3a8107e938e",
-        "ea25f15c0179b50a",
-        "48a4592f541d1351",
-        "c276c9dc082651ed",
-        "ea25f15c0179b50a",
-        "c276c9dc082651ed",
-        "f869183bbb445455",
-        "6d24d32de3a5bb4e",
-        "6a3e3d85ebdbedfa",
-        "b592b1e8f6f3566c",
-        "a249b2723ea679c6",
-        "ba76514bfc88606a",
-        "9966b6eca2ab5a02",
-        "20bc84ab5eddd966",
-        "609c1322c3d071b3",
-        "b592b1e8f6f3566c",
-        "c766c179d6b4f6a6",
-        "c276c9dc082651ed"
-      ],
-      "jobs_in_results": 24,
-      "total_searched": 25,
-      "new_jobs_found": 25,
-      "jobs_analyzed": 24
-    },
-    {
       "timestamp": "2026-03-24T08:39:04.381508",
       "trigger": "schedule",
       "job_ids": [
@@ -1030,7 +996,36 @@
       "total_searched": 25,
       "new_jobs_found": 25,
       "jobs_analyzed": 25
+    },
+    {
+      "timestamp": "2026-07-11T09:15:30.049126",
+      "trigger": "schedule",
+      "job_ids": [
+        "3b2b130e1a54a1ee",
+        "c9d950f1d3048d04",
+        "cccbf4bc851a7271",
+        "c979fb0fc767c364",
+        "e64c377e0787ec7a",
+        "4762f5bd7f74c892",
+        "5f2ecb5765b75ede",
+        "5c6679cf4f36a2ef",
+        "00d7c7e185924f57",
+        "bf9189f9e03485fd",
+        "48d8b18462ca1c11",
+        "d81bd8a561d0036d",
+        "1427916c0230354b",
+        "d464c7b19bc51ddd",
+        "6430c496f85e5dc2",
+        "00d28eeb09de143a",
+        "608ba905a93ca46e",
+        "64bc6e367c4c47ae",
+        "9912d1373dc965e8"
+      ],
+      "jobs_in_results": 19,
+      "total_searched": 20,
+      "new_jobs_found": 20,
+      "jobs_analyzed": 19
     }
   ],
-  "last_updated": "2026-07-07T10:44:31.326384"
+  "last_updated": "2026-07-11T09:15:30.049126"
 }
