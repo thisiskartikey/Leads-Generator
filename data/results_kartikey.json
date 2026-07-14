@@ -7,8 +7,8 @@
       "description": "",
       "url": "https://jobs.ashbyhq.com/prosper-ai/7ad5dfff-0dd8-4e05-99ea-716cac730b30?embed=js",
       "source": "ashby",
-      "posted_date": "2026-07-11T09:14:26.236751",
-      "scraped_at": "2026-07-11T09:14:26.236764",
+      "posted_date": "2026-07-14T09:44:16.424501",
+      "scraped_at": "2026-07-14T09:44:16.424513",
       "search_snippet": "Join Prosper AI as an AI Product Manager to lead the creation and deployment of AI agents that automate core administrative workflows in US healthcare ...",
       "search_title": "AI Product Manager @ Prosper AI",
       "ai_analysis": {
@@ -27,14 +27,66 @@
       "days_old": 0
     },
     {
+      "title": "Staff Product Manager, Agentic AI Applications",
+      "company": "Databricks",
+      "location": "N/A",
+      "description": "",
+      "url": "https://boards.greenhouse.io/databricks/jobs/8560772002",
+      "source": "greenhouse",
+      "posted_date": "2026-07-14T09:44:19.262947",
+      "scraped_at": "2026-07-14T09:44:19.262957",
+      "search_snippet": "Demonstrated experience with AI/ML platforms, agent frameworks, LLM-powered applications, or agentic systems. You know what an agent runtime is, what RAG means ...",
+      "search_title": "Staff Product Manager, Agentic AI Applications",
+      "ai_analysis": {
+        "fit_score": 0,
+        "category": "Unknown",
+        "justification": "Analysis failed",
+        "positioning_advice": "Could not analyze this job"
+      },
+      "sustainability_analysis": {
+        "fit_score": 0,
+        "category": "Unknown",
+        "justification": "Analysis failed",
+        "positioning_advice": "Could not analyze this job"
+      },
+      "job_id": "9e2ea806f4b842b2",
+      "days_old": 0
+    },
+    {
+      "title": "Product Manager, AI Agents @ SuperDial",
+      "company": "Superdial",
+      "location": "N/A",
+      "description": "",
+      "url": "https://jobs.ashbyhq.com/superdial/b562e9d3-72b2-46d2-af6a-a55fe11a87df",
+      "source": "ashby",
+      "posted_date": "2026-07-14T09:44:22.206534",
+      "scraped_at": "2026-07-14T09:44:22.206546",
+      "search_snippet": "Product Manager, AI Agents. Location. Burlingame, CA. Employment Type. Full time. Location Type. Hybrid. Department. Technology. Compensation. $145K – $175K • ...",
+      "search_title": "Product Manager, AI Agents @ SuperDial",
+      "ai_analysis": {
+        "fit_score": 0,
+        "category": "Unknown",
+        "justification": "Analysis failed",
+        "positioning_advice": "Could not analyze this job"
+      },
+      "sustainability_analysis": {
+        "fit_score": 0,
+        "category": "Unknown",
+        "justification": "Analysis failed",
+        "positioning_advice": "Could not analyze this job"
+      },
+      "job_id": "5863b6963a351272",
+      "days_old": 0
+    },
+    {
       "title": "AI Strategy Senior Director @ Broccoli AI",
       "company": "Broccoli",
       "location": "N/A",
       "description": "",
       "url": "https://jobs.ashbyhq.com/broccoli/0011139a-034f-40b5-9bd9-486302c31459",
       "source": "ashby",
-      "posted_date": "2026-07-11T09:14:28.398505",
-      "scraped_at": "2026-07-11T09:14:28.398516",
+      "posted_date": "2026-07-14T09:44:24.323839",
+      "scraped_at": "2026-07-14T09:44:24.323849",
       "search_snippet": "We're hiring a Senior Director of AI Strategy to lead AI value creation across our most strategic customers, which include PE-backed roll-ups and franchise ...",
       "search_title": "AI Strategy Senior Director @ Broccoli AI",
       "ai_analysis": {
@@ -53,16 +105,16 @@
       "days_old": 0
     },
     {
-      "title": "AI Product Manager @ Nevoya",
-      "company": "Nevoya",
+      "title": "Director, Business Process Analysis AI",
+      "company": "Ensono",
       "location": "N/A",
       "description": "",
-      "url": "https://jobs.ashbyhq.com/nevoya/97a8d582-7540-492a-a417-623d4d6171f3",
-      "source": "ashby",
-      "posted_date": "2026-07-11T09:14:30.588951",
-      "scraped_at": "2026-07-11T09:14:30.588961",
-      "search_snippet": "... AI strategy as that function grows - Support the buildout of the product ... AI Product Manager. Location. Hybrid | San Francisco. Employment Type. Full ...",
-      "search_title": "AI Product Manager @ Nevoya",
+      "url": "https://boards.greenhouse.io/ensono/jobs/4711803005",
+      "source": "greenhouse",
+      "posted_date": "2026-07-14T09:44:27.005446",
+      "scraped_at": "2026-07-14T09:44:27.005456",
+      "search_snippet": "About the role and what you'll be doing: The Director, AI Solutions & Engagement leads discovery and engagement for Finance AI Transformation. While the ...",
+      "search_title": "Director, Business Process Analysis AI",
       "ai_analysis": {
         "fit_score": 0,
         "category": "Unknown",
@@ -75,85 +127,7 @@
         "justification": "Analysis failed",
         "positioning_advice": "Could not analyze this job"
       },
-      "job_id": "a43005955cdeefea",
-      "days_old": 0
-    },
-    {
-      "title": "Product Manager - AI @ Oscilar",
-      "company": "Oscilar",
-      "location": "N/A",
-      "description": "",
-      "url": "https://jobs.ashbyhq.com/oscilar/a951fe3d-3784-47ba-99b7-11117676d20e?locationId=0150550d-f22c-4131-ab66-052e281f3ce3",
-      "source": "ashby",
-      "posted_date": "2026-07-11T09:14:32.791948",
-      "scraped_at": "2026-07-11T09:14:32.791958",
-      "search_snippet": "Product Manager - AI. ... This platform will combine no-code visual workflow builders with Generative AI and Agentic ...",
-      "search_title": "Product Manager - AI @ Oscilar",
-      "ai_analysis": {
-        "fit_score": 0,
-        "category": "Unknown",
-        "justification": "Analysis failed",
-        "positioning_advice": "Could not analyze this job"
-      },
-      "sustainability_analysis": {
-        "fit_score": 0,
-        "category": "Unknown",
-        "justification": "Analysis failed",
-        "positioning_advice": "Could not analyze this job"
-      },
-      "job_id": "b02f947e564b1101",
-      "days_old": 0
-    },
-    {
-      "title": "Lead AI Product Manager @ Prosper AI",
-      "company": "Prosper Ai",
-      "location": "N/A",
-      "description": "",
-      "url": "https://jobs.ashbyhq.com/prosper-ai/441edff5-300b-4c84-8d81-a404ce65d3d7?embed=js",
-      "source": "ashby",
-      "posted_date": "2026-07-11T09:14:34.925603",
-      "scraped_at": "2026-07-11T09:14:34.925612",
-      "search_snippet": "Join Prosper AI as a Lead AI Product Manager to lead a squad of AI PMs building and deploying AI agents that run real healthcare workflows in production.",
-      "search_title": "Lead AI Product Manager @ Prosper AI",
-      "ai_analysis": {
-        "fit_score": 0,
-        "category": "Unknown",
-        "justification": "Analysis failed",
-        "positioning_advice": "Could not analyze this job"
-      },
-      "sustainability_analysis": {
-        "fit_score": 0,
-        "category": "Unknown",
-        "justification": "Analysis failed",
-        "positioning_advice": "Could not analyze this job"
-      },
-      "job_id": "1d84cb1c3fd6800e",
-      "days_old": 0
-    },
-    {
-      "title": "AI Product Manager @ Alpha Life Sciences",
-      "company": "Alphalifesci",
-      "location": "N/A",
-      "description": "",
-      "url": "https://jobs.ashbyhq.com/alphalifesci/64254ce6-c08f-4567-8796-cbb2f80c7f68",
-      "source": "ashby",
-      "posted_date": "2026-07-11T09:14:37.143016",
-      "scraped_at": "2026-07-11T09:14:37.143025",
-      "search_snippet": "AlphaLife Sciences is seeking a Product Manager to develop and scale AI-powered clinical applications that leverage generative AI and large language models ( ...",
-      "search_title": "AI Product Manager @ Alpha Life Sciences",
-      "ai_analysis": {
-        "fit_score": 0,
-        "category": "Unknown",
-        "justification": "Analysis failed",
-        "positioning_advice": "Could not analyze this job"
-      },
-      "sustainability_analysis": {
-        "fit_score": 0,
-        "category": "Unknown",
-        "justification": "Analysis failed",
-        "positioning_advice": "Could not analyze this job"
-      },
-      "job_id": "15469d6758544c91",
+      "job_id": "bc8a72c2e4edd5c7",
       "days_old": 0
     },
     {
@@ -163,8 +137,8 @@
       "description": "",
       "url": "https://jobs.ashbyhq.com/silnahealth.com/28ba5d0b-b862-4e04-995d-d5eff22d269e",
       "source": "ashby",
-      "posted_date": "2026-07-11T09:14:39.290579",
-      "scraped_at": "2026-07-11T09:14:39.290591",
+      "posted_date": "2026-07-14T09:44:29.234432",
+      "scraped_at": "2026-07-14T09:44:29.234445",
       "search_snippet": "This is a great role for a recent graduate with a background in computer science, data science, or a non-technical field who wants to apply those skills in a ...",
       "search_title": "AI Deployment Analyst @ Silna Health",
       "ai_analysis": {
@@ -183,40 +157,14 @@
       "days_old": 0
     },
     {
-      "title": "AI Strategist, Corporate Law @ Hebbia AI",
-      "company": "Hebbia Ai",
-      "location": "N/A",
-      "description": "",
-      "url": "https://jobs.ashbyhq.com/hebbia-ai/f6372e23-a80d-4c26-b831-3dd5bce96a7d",
-      "source": "ashby",
-      "posted_date": "2026-07-11T09:14:41.499273",
-      "scraped_at": "2026-07-11T09:14:41.499284",
-      "search_snippet": "... AI Strategy Team Our AI Strategists are deep domain experts and problem-solvers who bridge product, commercial strategy, and customer impact. They ...",
-      "search_title": "AI Strategist, Corporate Law @ Hebbia AI",
-      "ai_analysis": {
-        "fit_score": 0,
-        "category": "Unknown",
-        "justification": "Analysis failed",
-        "positioning_advice": "Could not analyze this job"
-      },
-      "sustainability_analysis": {
-        "fit_score": 0,
-        "category": "Unknown",
-        "justification": "Analysis failed",
-        "positioning_advice": "Could not analyze this job"
-      },
-      "job_id": "85d1169b55bb2613",
-      "days_old": 0
-    },
-    {
       "title": "Forward Deployed AI Strategy Lead @ Prime Intellect",
       "company": "Primeintellect",
       "location": "N/A",
       "description": "",
       "url": "https://jobs.ashbyhq.com/PrimeIntellect/a259487d-9599-42e6-ad42-b97a9772f48b",
       "source": "ashby",
-      "posted_date": "2026-07-11T09:14:43.639980",
-      "scraped_at": "2026-07-11T09:14:43.639990",
+      "posted_date": "2026-07-14T09:44:31.388085",
+      "scraped_at": "2026-07-14T09:44:31.388096",
       "search_snippet": "As a Forward Deployed AI Strategy Lead, you will work directly with strategic customers to identify high-value AI workflows, translate them into evals and post- ...",
       "search_title": "Forward Deployed AI Strategy Lead @ Prime Intellect",
       "ai_analysis": {
@@ -235,16 +183,16 @@
       "days_old": 0
     },
     {
-      "title": "Staff Product Manager (AI Agents) @ Traba",
-      "company": "Traba",
+      "title": "AI Product Manager @ Nevoya",
+      "company": "Nevoya",
       "location": "N/A",
       "description": "",
-      "url": "https://jobs.ashbyhq.com/traba/e7e2e6d4-8057-43b5-b313-ed941ec9ce8d",
+      "url": "https://jobs.ashbyhq.com/nevoya/97a8d582-7540-492a-a417-623d4d6171f3",
       "source": "ashby",
-      "posted_date": "2026-07-11T09:14:45.826678",
-      "scraped_at": "2026-07-11T09:14:45.826688",
-      "search_snippet": "What you'll bring · 7 – 10 years of experience as a Product Manager · Evidence of launching products from scratch and driving meaningful customer outcomes.",
-      "search_title": "Staff Product Manager (AI Agents) @ Traba",
+      "posted_date": "2026-07-14T09:44:33.578815",
+      "scraped_at": "2026-07-14T09:44:33.578826",
+      "search_snippet": "... AI strategy as that function grows - Support the buildout of the product ... AI Product Manager. Location. Hybrid | San Francisco. Employment Type. Full ...",
+      "search_title": "AI Product Manager @ Nevoya",
       "ai_analysis": {
         "fit_score": 0,
         "category": "Unknown",
@@ -257,20 +205,20 @@
         "justification": "Analysis failed",
         "positioning_advice": "Could not analyze this job"
       },
-      "job_id": "79989a8c2988d63b",
+      "job_id": "a43005955cdeefea",
       "days_old": 0
     },
     {
-      "title": "Staff Product Manager (AI Agents) @ Traba",
-      "company": "Traba",
+      "title": "Lead AI Product Manager @ Prosper AI",
+      "company": "Prosper Ai",
       "location": "N/A",
       "description": "",
-      "url": "https://jobs.ashbyhq.com/traba/e7e2e6d4-8057-43b5-b313-ed941ec9ce8d",
+      "url": "https://jobs.ashbyhq.com/prosper-ai/441edff5-300b-4c84-8d81-a404ce65d3d7?embed=js",
       "source": "ashby",
-      "posted_date": "2026-07-11T09:14:47.846394",
-      "scraped_at": "2026-07-11T09:14:47.846402",
-      "search_snippet": "What you'll bring · 7 – 10 years of experience as a Product Manager · Evidence of launching products from scratch and driving meaningful customer outcomes.",
-      "search_title": "Staff Product Manager (AI Agents) @ Traba",
+      "posted_date": "2026-07-14T09:44:35.761120",
+      "scraped_at": "2026-07-14T09:44:35.761131",
+      "search_snippet": "Join Prosper AI as a Lead AI Product Manager to lead a squad of AI PMs building and deploying AI agents that run real healthcare workflows in production.",
+      "search_title": "Lead AI Product Manager @ Prosper AI",
       "ai_analysis": {
         "fit_score": 0,
         "category": "Unknown",
@@ -283,20 +231,20 @@
         "justification": "Analysis failed",
         "positioning_advice": "Could not analyze this job"
       },
-      "job_id": "79989a8c2988d63b",
+      "job_id": "1d84cb1c3fd6800e",
       "days_old": 0
     },
     {
-      "title": "Head/Director of Product (AI Insights & Automation)",
-      "company": "Mimica",
+      "title": "Marketing AI Specialist @ Amplify",
+      "company": "Amplify",
       "location": "N/A",
       "description": "",
-      "url": "https://jobs.ashbyhq.com/mimica/02ca67ea-b630-4bdb-8033-144a2e377e38",
+      "url": "https://jobs.ashbyhq.com/amplify/63f430e2-9406-45f7-bcf7-7694e4f1b863",
       "source": "ashby",
-      "posted_date": "2026-07-11T09:14:49.983777",
-      "scraped_at": "2026-07-11T09:14:49.983786",
-      "search_snippet": "Head/Director of Product (AI Insights & Automation). Location. UK; Canada ... Experience in building products powered by in-house developed ML/AI technology.",
-      "search_title": "Head/Director of Product (AI Insights & Automation)",
+      "posted_date": "2026-07-14T09:44:37.933144",
+      "scraped_at": "2026-07-14T09:44:37.933155",
+      "search_snippet": "You will act as a bridge between the rapidly evolving world of generative AI and our day-to-day marketing operations. You will report into the VP of Performance ...",
+      "search_title": "Marketing AI Specialist @ Amplify",
       "ai_analysis": {
         "fit_score": 0,
         "category": "Unknown",
@@ -309,20 +257,20 @@
         "justification": "Analysis failed",
         "positioning_advice": "Could not analyze this job"
       },
-      "job_id": "ec662a8a40575629",
+      "job_id": "e085af290ff25b87",
       "days_old": 0
     },
     {
-      "title": "Senior Product Manager, AI | Career Opportunities",
-      "company": "Brex",
+      "title": "AI and Technical Learning Manager",
+      "company": "Trustpilot",
       "location": "N/A",
-      "description": "",
-      "url": "https://boards.greenhouse.io/brex/jobs/8616327002",
+      "description": "Trust Centre Trust Centre Trust Centre How Trustpilot works Trust report 2025 Trustpilot’s use of AI Public affairs Public affairs Investors For investors Investor Relations Why invest in Trustpilot Results, reports and presentations IR Newsletter Regulatory news Analyst coverage Analyst consensus Sustainability Financial calendar IPO information Shareholder information Shareholder FAQs Shareholder meetings and documents Share price center Governance Board and executive teams Anti bribery policy Modern slavery policy Code of ethics Articles of association Terms of reference Schedule of matters reserved for the board PwC Statement of Reasons Legal Guidelines and policies Our guidelines and policies For reviewers For businesses For everyone Press Global announcements Press Brand hub Press contact Careers Working at Trustpilot Careers at Trustpilot Open jobs DEI at Trustpilot Company About Trustpilot Trustpilot for Consumers Trustpilot for Business Trustpilot Data Solutions Contact us Menu Close Trust Centre Investors Legal Press Careers Company Contact us AI and Technical Learning Manager London At Trustpilot, we're on an incredible journey. We're a profitable, high-growth FTSE-250 company with a big vision: to become the universal symbol of trust. We run the world's largest open customer review platform, and while we've come a long way, there's still so much exciting work to do. Come join us at the heart of trust! As our AI and Technical Learning Manager, you are the architect of Trustpilot’s AI-first culture. Your primary mission is to build the confidence, curiosity, and capability our people need to work with AI in meaningful and practical ways. You will design the strategy that embeds AI into how Trusties think and work, shifting our culture from one that talks about AI to one that uses it every day. Alongside this, you will ensure our people have the technical skills they need to do their jobs brilliantly, whether that is through Tech Academies, apprenticeship-funded programmes, or bespoke functional upskilling in our Technology teams. Your success is measured by your ability to move the dial on technical proficiency, AI confidence, and fostering a culture of continuous learning and innovation. What you'll be doing: Drive AI adoption across Trustpilot. This is the core of your role. You will design and run the initiatives, campaigns, and learning experiences that shift how Trusties think about and use AI in their day-to-day work. The goal is practical, confident, widespread adoption. Build an AI learning strategy that goes beyond awareness. You will create a structured approach to AI capability building that moves people from curiosity to fluency. That means understanding where Trusties are starting from, what good looks like, and how to get them there quickly and confidently. Consult with functional leaders on AI use cases. You will work alongside leaders across the business to identify where AI and new tools can genuinely change how their teams work. You will then design the learning and change support to make those shifts happen. Champion a culture of experimentation and continuous learning. You will create the conditions where Trusties feel safe to explore, try things out, and build their own efficiencies with technology. This is about mindset as much as skills. Design and oversee technical skills programmes. Supporting the AI agenda, you will also ensure Trusties have access to strong technical skills development, including through Tech Academies and other structured learning pathways that build deep functional capability in our technology teams. Make the most of Apprenticeship Levy funding. You will manage and deploy the Apprenticeship Levy strategically, ensuring eligible Trusties can access high-quality, formally accredited training in AI, technology, and data. Measure adoption, confidence, and impact. You will define the metrics that matter, track them consistently, and give leadership a clear picture of how AI capability is developing across the business. Data will inform every iteration of your strategy. Keep Trustpilot at the leading edge. You will benchmark our AI and technical learning maturity against industry standards, bring in emerging best practices, and make sure our strategy evolves as the landscape does. Who you are: Passionate about AI and how it changes the way people work. You have hands-on experience driving AI adoption and digital transformation. You understand the technology, but more importantly, you understand people and how to bring them on the journey. A strategic architect, not just a programme manager. You build systems and frameworks that create lasting change. You have a track record of designing and deploying learning and adoption strategies that result in real, measurable shifts in how people work. Technically fluent. You are deeply comfortable in the current AI landscape, including Generative AI and LLMs. You can hold a credible conversation with Product and Tech leaders and translate complex concepts into accessible learning. A skilled change manager. You understand that learning alone does not change behaviour. You know how to address resistance, build confidence, and design adoption journeys that account for the human side of change. Experienced in technical capability building. You have designed and delivered technical skills programmes, including managing Tech Academy-style frameworks, and you know how to build functional capability at scale. Savvy with Apprenticeship Levy funding. You understand how to use Levy funding strategically to accelerate skills development in technology and AI, and you can navigate the requirements to maximise its value. A confident stakeholder consultant. You can influence senior leaders, earn their trust quickly, and position AI and technical learning as a genuine business priority rather than a nice-to-have. Data-driven in how you work. You track adoption, expertise, and ROI. You use evidence to make decisions, tell the story of impact clearly, and continuously improve what you build. What's in it for you: A range of flexible working options to dedicate time to what matters to you Competitive compensation package + bonus 25 days holiday per year, increasing to 28 days after 2 years of employment Two (paid) volunteering days a year to spend your time giving back to the causes that matter to you and your community Rich learning and development opportunities are supported through the Trustpilot Academy and Blinkist Pension and life insurance Health cash plan, online GP, 24/7, Employee Assistance Plan Full access to Headspace, a popular mindfulness app to promote positive mental health Paid parental leave Season ticket loan and a cycle-to-work scheme Central office location complete with table tennis, a gaming corner, coffee bars and all the snacks and refreshments you can ask for Regular opportunities to connect and get to know your fellow Trusties, including company-wide celebrations and events, ERG activities, and team socials. Access to over 4,000 deals and discounts on things like travel, electronics, fashion, fitness, cinema discounts, and more. Independent financial advice and free standard professional mortgage broker advice Talent acceleration programs: Fast-track your career with our tailored development programs designed to support growth at whatever stage of your career Still not sure? We want to be a part of creating a more diverse, equitable, and inclusive world of work for all. We’re excited to hear about your experiences along with how you will contribute to our working culture. Even if you don’t feel you meet all the requirements, we'd still really like to hear from you! #LI-Hybrid #LI-RS1 About us Trustpilot began in 2007 with a simple yet powerful idea that is more relevant today than ever — to be the universal symbol of trust, bringing consumers and businesses together through reviews. Trustpilot is open, independent, and impartial — we help consumers make the right choices and businesses to build trust, grow and improve. Today, we have more than 350 million reviews and 60 million monthly active users across the globe, with 149 billion annual Trustpilot brand impressions, and the numbers keep growing. We have more than 1000 employees and we’re headquartered in Copenhagen, with operations in Amsterdam, Denver, Edinburgh, Hamburg, London, Melbourne, Milan and New York. We’re driven by connection. It’s at the heart of what we do. Our culture keeps things fresh –– it’s built on the relationships we create. We talk, we laugh, we collaborate and we respect each other. We work across borders and cultures to be the universal symbol of trust in an ever-changing world. With vibrant office locations worldwide and over 50 nationalities, we’re proud to be an equal opportunity workplace with diverse perspectives and ideas. Our purpose to help people and businesses help each other is a tall order, but we keep it real. We’re a great bunch of humans, doing awesome stuff, without fuss or pretense. A successful Trustpilot future is driven by you –– we give you the autonomy to shape a career you can be proud of. If you’re ready to grow, let’s go. Join us at the heart of trust. Trustpilot is committed to creating an inclusive environment where people from all backgrounds can thrive and where different viewpoints and experiences are valued and respected. Trustpilot will consider all applications for employment without regard to race, ethnicity, national origin, religious beliefs, gender identity or expression, sexual orientation, neurodiversity, disability, age, parental or veteran status. Together, we are the heart of trust. Trustpilot is a global company and our data practices are designed to ensure that your personally identifiable information is appropriately protected. Please note that your personal information will be transferred, accessed, and stored globally as necessary for the uses and disclosures stated in our Privacy Policy. If you have a disability and would like to discuss any adjustments you might need either in submitting your application, or to the recruitment process more generally, please let us know by contacting our Talent Acquisition Team (talent.acquisition@trustpilot.com) quoting the role you wish to apply for.",
+      "url": "https://boards.greenhouse.io/trustpilot/jobs/8027901",
       "source": "greenhouse",
-      "posted_date": "2026-07-11T09:14:52.636500",
-      "scraped_at": "2026-07-11T09:14:52.636510",
-      "search_snippet": "Requirements · You're an experienced product manager (5-7 years of relevant experience). · You've built AI products for other people. · You thrive in ambiguity.",
-      "search_title": "Senior Product Manager, AI | Career Opportunities",
+      "posted_date": "2026-07-14T09:44:40.657470",
+      "scraped_at": "2026-07-14T09:44:40.657921",
+      "search_snippet": "You are deeply comfortable in the current AI landscape, including Generative AI and LLMs. You can hold a credible conversation with Product and Tech leaders and ...",
+      "search_title": "AI and Technical Learning Manager",
       "ai_analysis": {
         "fit_score": 0,
         "category": "Unknown",
@@ -335,20 +283,20 @@
         "justification": "Analysis failed",
         "positioning_advice": "Could not analyze this job"
       },
-      "job_id": "f2bc2302305563ad",
+      "job_id": "4ac0cb322d410ab0",
       "days_old": 0
     },
     {
-      "title": "Senior Product Manager @ Alterion",
-      "company": "Alterion",
+      "title": "AI Deployment Analyst @ Silna Health",
+      "company": "Silnahealth.Com",
       "location": "N/A",
       "description": "",
-      "url": "https://jobs.ashbyhq.com/alterion/49abd3ca-06cd-4d97-af1b-1a0b6afaadbf",
+      "url": "https://jobs.ashbyhq.com/silnahealth.com/28ba5d0b-b862-4e04-995d-d5eff22d269e",
       "source": "ashby",
-      "posted_date": "2026-07-11T09:14:54.822843",
-      "scraped_at": "2026-07-11T09:14:54.822853",
-      "search_snippet": "As a Senior Product Manager here, you'll work directly with the founders to define how enterprises secure and govern AI agents, and own the product surface that ...",
-      "search_title": "Senior Product Manager @ Alterion",
+      "posted_date": "2026-07-14T09:44:42.687108",
+      "scraped_at": "2026-07-14T09:44:42.687119",
+      "search_snippet": "This is a great role for a recent graduate with a background in computer science, data science, or a non-technical field who wants to apply those skills in a ...",
+      "search_title": "AI Deployment Analyst @ Silna Health",
       "ai_analysis": {
         "fit_score": 0,
         "category": "Unknown",
@@ -361,20 +309,20 @@
         "justification": "Analysis failed",
         "positioning_advice": "Could not analyze this job"
       },
-      "job_id": "6d18fc80508bd185",
+      "job_id": "6191ec627525f631",
       "days_old": 0
     },
     {
-      "title": "Strategy & Operations Manager @ Coram AI",
-      "company": "Coram Ai",
+      "title": "Marketing AI Specialist @ Amplify",
+      "company": "Amplify",
       "location": "N/A",
       "description": "",
-      "url": "https://jobs.ashbyhq.com/coram-ai/43fc67eb-e769-4556-bc76-4efb885df7f8",
+      "url": "https://jobs.ashbyhq.com/amplify/63f430e2-9406-45f7-bcf7-7694e4f1b863",
       "source": "ashby",
-      "posted_date": "2026-07-11T09:14:57.141450",
-      "scraped_at": "2026-07-11T09:14:57.141460",
-      "search_snippet": "Compensation $135K – $180K. Our cloud-native platform uses computer vision and AI to help businesses stay safe, make smarter decisions, and move faster; ...",
-      "search_title": "Strategy & Operations Manager @ Coram AI",
+      "posted_date": "2026-07-14T09:44:44.714360",
+      "scraped_at": "2026-07-14T09:44:44.714369",
+      "search_snippet": "You will act as a bridge between the rapidly evolving world of generative AI and our day-to-day marketing operations. You will report into the VP of Performance ...",
+      "search_title": "Marketing AI Specialist @ Amplify",
       "ai_analysis": {
         "fit_score": 0,
         "category": "Unknown",
@@ -387,20 +335,20 @@
         "justification": "Analysis failed",
         "positioning_advice": "Could not analyze this job"
       },
-      "job_id": "1b8b4ab9cd4fd842",
+      "job_id": "e085af290ff25b87",
       "days_old": 0
     },
     {
-      "title": "Forward Deployed Product Manager, Agents @ Siena AI",
-      "company": "Siena",
-      "location": "N/A",
-      "description": "",
-      "url": "https://jobs.ashbyhq.com/siena/bece1b22-9932-4621-ba86-4c5352344cf2",
-      "source": "ashby",
-      "posted_date": "2026-07-11T09:14:59.317371",
-      "scraped_at": "2026-07-11T09:14:59.317380",
-      "search_snippet": "As a Forward Deployed Product Manager, Agents, you're embedded directly with strategic accounts, owning their deployment outcomes end-to-end while feeding the ...",
-      "search_title": "Forward Deployed Product Manager, Agents @ Siena AI",
+      "title": "AI Specialist",
+      "company": "Launchdarkly",
+      "location": "Remote - US",
+      "description": "About the Job: LaunchDarkly’s AI Specialist will be at the forefront of revolutionizing how AI engineers think about, release, monitor, and optimize their agents, scaling up our AgentControl from initial market validation and product relaunch to an industry-leading product. You will represent deep, specialized AgentControl product knowledge , sharing your expertise with prospects and customers, gathering critical feedback that shapes product development, and driving early-stage adoption. Your expertise will be instrumental in establishing the Solutions Engineering frameworks that will guide our future success. This is a role for builders and storytellers who thrive in undefined spaces. You will be expected to build – meaning the construction of integrations, technical content, whitepapers, and tutorials, all alongside attractive demos of our product customized to strategic engagements. You'll work with the innovation coming out of LaunchDarkly's Product team and make a significant impact on how companies build and deploy AI applications. Responsibilities: Expert-Level Solutions/Sales Engineering Bring serious, credible expertise in practical AI applications to customer conversations. Spearhead the early-stage evaluation, implementation, and adoption of AgentControl at scale, working closely with existing customers to ensure activation and churn prevention (alongside feedback). Partner with the AI SME team to develop and document Solutions Engineering playbooks and best practices that scale beyond our early customers. Partner closely with the AI Strategy Lead and AI SME team surfacing revenue-related insights as the product is deployed. Lead AgentControl POVs to validate technical win and secure revenue from our largest customers. Collect and Propagate Product Feedback Collaborate extensively with product and engineering teams to ensure product concepts are technically feasible and align with LaunchDarkly's strategic goals. Drive continuous improvement by monitoring product performance, user experience, and market response, iterating based on actionable data and insights. Ensure AgentControl's roadmap tracks market demand and delivers an exceptional experience for the AI developer persona. Scale the AgentControl Business Deliver integrations against common, quantified customer requests in the form of code contributions, architecture diagrams, and whitepapers Function as a key technical asset in technical partnerships with advantageous potential partners (like Anthropic, DataBricks, etc…) Publicly evangelize AgentControl at mainstream industry conferences, webinars, partner engagements, and strategic meetings Technical Leadership & Communication Partner with LaunchDarkly’s AI SE SME team to support broader organization enablement on AI and the AgentControl product. Support Field Team Enablement of AgentControl. Work with the AI Researcher, the PMM team, and the AI Strategy Lead to build and maintain competitor playbooks. Qualifications: AI & Technical Expertise Extensive experience with AI applications including building, implementing, or selling AI solutions at scale Experience building multi-agent systems using frameworks like LangGraph, AgentBuilder, or AgentCore Hands-on experience evaluating AI agent performance at scale using automated evaluation methods Deep understanding of LLM mechanics (you've read 'Attention is All You Need' and can explain transformer architecture in detail) Experience building or interfacing with MCP (Model Context Protocol) servers Strong Python skills with experience building in PyTorch or TensorFlow Strong foundation in software engineering principles and current market trends Typically requires a minimum of 12 years of related experience Mindset & Approach Strong but loosely-held opinions about AI—you have a point of view but update it based on evidence Ability to anticipate where the AI landscape is heading and position products accordingly Deep curiosity about how AI changes software development, with an obsession for staying current on new AI technology Natural storyteller who can take new technology and craft compelling narratives that resonate with technical audiences Thrive in ambiguity—you love figuring it out, building new processes, and working in undefined spaces How This Role Connects The AI Specialist operates within LaunchDarkly's broader AI organization: You report through the AgentControl Specialist POD organization while maintaining a dotted-line relationship to the SE team. You collaborate closely with the AI Researcher, translating their strategic insights into customer-facing conversations and surfacing field intelligence that informs research priorities You coordinate with other AI SMEs across the SE organization to build collective expertise How You'll Be Measured NNARR of AgentControl Activation - usage in terms of both volume (#AIC, #Evals) and breadth (#AI Experiments, #AI Guarded Releases) Quality of customer feedback integrated into product development Effectiveness of Solutions Engineering playbooks and documentation (# of enablement sessions / internal engagement (e.g. views), impact on conversion rate). Successful early-stage implementations and measurable customer impact Contribution to product-market fit through customer insights and technical validation Pay: Target pay ranges based on Geographic Zones* for Level 4: Zone 1: San Francisco/Bay Area or NYC Metropolitan Area, Boston, Seattle - $214,800 - $295,350* Zone 2: Irvine, LA, Monterey, Santa Barbara, Santa Rosa, Austin, Portland, Philadelphia, Chicago - $193,400 - $265,870 ** Zone 3: All other US locations - $182,600 - $251,0202 * LaunchDarkly operates from a place of high trust and transparency; we are happy to state the pay range for our open roles to best align with your needs. Exact compensation may vary based on skills, experience, and location. *Within the United States, our geographic pay zones are defined by counties surrounding major metropolitan areas. **Restricted Stock Units (RSUs), health, vision, and dental insurance, and mental health benefits in addition to salary. About LaunchDarkly: Modern software delivery was supposed to be the foundation for a thriving digital business but reality has proven otherwise. Slow, inefficient development cycles, costly outages, and fragmented customer experiences are preventing developers from building their best software. The LaunchDarkly platform helps developers innovate on new features faster while protecting them with a safety valve to instantly rewind when things go wrong. Developers can target product experiences to any customer segment and maximize the business impact of every feature. And by gradually rolling out new application components, they escape nightmare \"big-bang\" technology migrations. The LaunchDarkly platform was built to guide engineers to the next frontier of DevOps by: Improving the velocity and stability of software releases, without the fear of end customer outages Delivering targeted experiences by easily personalizing features to customer cohorts Maximizing the business impact of every feature through the ability to experiment and optimize Coordinating the release and optimization of software to provide consistent experiences across mobile platforms and device types Improving the effectiveness and productivity of engineering teams, by providing insights into engineering cadence and stability At LaunchDarkly, we believe in the power of teams. We're building a team that is humble, open, collaborative, respectful and kind. We are an equal opportunity employer and value diversity at our company. We do not discriminate on the basis of race, religion, color, national origin, gender, gender identity, sexual orientation, age, marital status, veteran status, or disability status. LD invites any applicant to review our written Affirmative Action Plan. To do so, contact People Ops at hr@launchdarkly.com . Do you need a disability accommodation? Fill out this accommodations request form and someone from our People Operations team will contact you for assistance.",
+      "url": "https://boards.greenhouse.io/launchdarkly/jobs/7800006003",
+      "source": "greenhouse",
+      "posted_date": "2026-07-14T09:44:46.995603",
+      "scraped_at": "2026-07-14T09:44:46.995926",
+      "search_snippet": "Work with the AI Researcher, the PMM team, and the AI Strategy Lead to build and maintain competitor playbooks. Qualifications: AI & Technical Expertise.",
+      "search_title": "Job Application for AI Specialist at LaunchDarkly",
       "ai_analysis": {
         "fit_score": 0,
         "category": "Unknown",
@@ -413,20 +361,20 @@
         "justification": "Analysis failed",
         "positioning_advice": "Could not analyze this job"
       },
-      "job_id": "6e7a066cf1b9745c",
+      "job_id": "2ecf2f892cbbfd96",
       "days_old": 0
     },
     {
-      "title": "Senior Technical Program Manager, AI @ brightwheel",
-      "company": "Brightwheel",
+      "title": "AI Analyst @ Ujwal Inc.",
+      "company": "Level Ai",
       "location": "N/A",
       "description": "",
-      "url": "https://jobs.ashbyhq.com/brightwheel/127635e3-551e-4575-83b6-85d36e9599e0",
+      "url": "https://jobs.ashbyhq.com/level-ai/44d877e7-2859-4cb5-9235-b31d764e0ac7",
       "source": "ashby",
-      "posted_date": "2026-07-11T09:15:01.588101",
-      "scraped_at": "2026-07-11T09:15:01.588112",
-      "search_snippet": "You are an AI-native Senior Technical Program Manager who combines deep ... Applied AI familiarity in production: You have driven programs involving AI, LLM ...",
-      "search_title": "Senior Technical Program Manager, AI @ brightwheel",
+      "posted_date": "2026-07-14T09:44:49.157401",
+      "scraped_at": "2026-07-14T09:44:49.157411",
+      "search_snippet": "Experience with Prompt Engineering is a plus. Familiarity with Classical ML Models (scikit-learn) and Deep Learning (Hugging Face, PyTorch) is a plus.",
+      "search_title": "AI Analyst @ Ujwal Inc.",
       "ai_analysis": {
         "fit_score": 0,
         "category": "Unknown",
@@ -439,20 +387,20 @@
         "justification": "Analysis failed",
         "positioning_advice": "Could not analyze this job"
       },
-      "job_id": "9fa382b0bffe3562",
+      "job_id": "cd2e5457152b35ce",
       "days_old": 0
     },
     {
-      "title": "Applied AI Transformation Manager - MENA @ Cognition",
-      "company": "Cognition",
+      "title": "Principal Technical Product Manager — AI, DSP & DSPM",
+      "company": "Datastealth",
       "location": "N/A",
       "description": "",
-      "url": "https://jobs.ashbyhq.com/cognition/416528a8-2067-4bec-ac70-73d4ffa52290",
+      "url": "https://jobs.ashbyhq.com/datastealth/7be14dd0-fdce-4ba6-a182-0cba925b4d87",
       "source": "ashby",
-      "posted_date": "2026-07-11T09:15:03.757478",
-      "scraped_at": "2026-07-11T09:15:03.757489",
-      "search_snippet": "Applied AI Transformation Managers are technically oriented strategic advisors and operators who ensure value alignment to our customer's most strategic ...",
-      "search_title": "Applied AI Transformation Manager - MENA @ Cognition",
+      "posted_date": "2026-07-14T09:44:51.400033",
+      "scraped_at": "2026-07-14T09:44:51.400045",
+      "search_snippet": "Firsthand experience shipping AI/ML or agentic features — you have shipped a product that uses ML or LLMs in production — ideally agentic systems that take ...",
+      "search_title": "Principal Technical Product Manager — AI, DSP & DSPM",
       "ai_analysis": {
         "fit_score": 0,
         "category": "Unknown",
@@ -465,33 +413,7 @@
         "justification": "Analysis failed",
         "positioning_advice": "Could not analyze this job"
       },
-      "job_id": "aabc2e60a28d6f4c",
-      "days_old": 0
-    },
-    {
-      "title": "Operations Specialist, AI Solutions @ Juniper Square",
-      "company": "Junipersquare",
-      "location": "N/A",
-      "description": "",
-      "url": "https://jobs.ashbyhq.com/junipersquare/87b5e6e2-0ce6-4196-b7ac-4499c68f2944",
-      "source": "ashby",
-      "posted_date": "2026-07-11T09:15:05.962367",
-      "scraped_at": "2026-07-11T09:15:05.962377",
-      "search_snippet": "We're the Operations Partner trusted by 2,300+ GPs, unifying technology, data, and fund administration services",
-      "search_title": "Operations Specialist, AI Solutions @ Juniper Square",
-      "ai_analysis": {
-        "fit_score": 0,
-        "category": "Unknown",
-        "justification": "Analysis failed",
-        "positioning_advice": "Could not analyze this job"
-      },
-      "sustainability_analysis": {
-        "fit_score": 0,
-        "category": "Unknown",
-        "justification": "Analysis failed",
-        "positioning_advice": "Could not analyze this job"
-      },
-      "job_id": "d0ef4cb9d27d1efa",
+      "job_id": "e58c060f18c91b86",
       "days_old": 0
     },
     {
@@ -501,8 +423,8 @@
       "description": "",
       "url": "https://jobs.ashbyhq.com/tenex/bbca1aa3-cdfe-495c-8739-3c3119bfdfd0",
       "source": "ashby",
-      "posted_date": "2026-07-11T09:15:08.115877",
-      "scraped_at": "2026-07-11T09:15:08.115886",
+      "posted_date": "2026-07-14T09:44:53.864913",
+      "scraped_at": "2026-07-14T09:44:53.864923",
       "search_snippet": "... Product Manager for AI Strategy at TENEX, you will be a visionary product leader responsible for defining and building the next generation of our AI-native ...",
       "search_title": "Principal Product Manager - AI @ TENEX.AI",
       "ai_analysis": {
@@ -521,16 +443,16 @@
       "days_old": 0
     },
     {
-      "title": "Senior Director, AI Transformation @ Amplify",
-      "company": "Amplify",
+      "title": "Forward Deployed AI Strategy Lead @ Prime Intellect",
+      "company": "Primeintellect",
       "location": "N/A",
       "description": "",
-      "url": "https://jobs.ashbyhq.com/amplify/d67deacd-784c-481f-b301-670d2dd7a226",
+      "url": "https://jobs.ashbyhq.com/PrimeIntellect/a259487d-9599-42e6-ad42-b97a9772f48b",
       "source": "ashby",
-      "posted_date": "2026-07-11T09:15:10.165613",
-      "scraped_at": "2026-07-11T09:15:10.165622",
-      "search_snippet": "Senior Director, AI Transformation. Location. Remote - United States. Employment Type. Full time. Location Type. Remote ...",
-      "search_title": "Senior Director, AI Transformation @ Amplify",
+      "posted_date": "2026-07-14T09:44:55.890677",
+      "scraped_at": "2026-07-14T09:44:55.890688",
+      "search_snippet": "As a Forward Deployed AI Strategy Lead, you will work directly with strategic customers to identify high-value AI workflows, translate them into evals and post- ...",
+      "search_title": "Forward Deployed AI Strategy Lead @ Prime Intellect",
       "ai_analysis": {
         "fit_score": 0,
         "category": "Unknown",
@@ -543,20 +465,20 @@
         "justification": "Analysis failed",
         "positioning_advice": "Could not analyze this job"
       },
-      "job_id": "9871d4d69db4ff3c",
+      "job_id": "55bc5fef0f17557f",
       "days_old": 0
     },
     {
-      "title": "Director, AI Strategy & Operations @ Talkiatry",
-      "company": "Talkiatry",
+      "title": "Strategy & Operations Manager @ Coram AI",
+      "company": "Coram Ai",
       "location": "N/A",
       "description": "",
-      "url": "https://jobs.ashbyhq.com/talkiatry/6dc58504-f2b6-42a9-896f-5749d7e44db4?embed=js&departmentId=a6aa2abc-5c17-4e7a-a2cf-4a844b3dee08",
+      "url": "https://jobs.ashbyhq.com/coram-ai/43fc67eb-e769-4556-bc76-4efb885df7f8",
       "source": "ashby",
-      "posted_date": "2026-07-11T09:15:12.249283",
-      "scraped_at": "2026-07-11T09:15:12.249293",
-      "search_snippet": "Director of AI Strategy & Operations | AI, Automation & Patient Experience | Lead AI strategy, agent operations, and workflow innovation to scale access ...",
-      "search_title": "Director, AI Strategy & Operations @ Talkiatry",
+      "posted_date": "2026-07-14T09:44:57.948802",
+      "scraped_at": "2026-07-14T09:44:57.948820",
+      "search_snippet": "Build lightweight AI agents and automations that reduce manual work across the revenue team. Own discrete projects and workstreams from framing through ...",
+      "search_title": "Strategy & Operations Manager @ Coram AI",
       "ai_analysis": {
         "fit_score": 0,
         "category": "Unknown",
@@ -569,20 +491,20 @@
         "justification": "Analysis failed",
         "positioning_advice": "Could not analyze this job"
       },
-      "job_id": "8a6c1f4f302c6b1e",
+      "job_id": "1b8b4ab9cd4fd842",
       "days_old": 0
     },
     {
-      "title": "Founding AI Transformation Strategist @ Scribe",
-      "company": "Scribe",
+      "title": "Applied AI Transformation Manager - MENA @ Cognition",
+      "company": "Cognition",
       "location": "N/A",
       "description": "",
-      "url": "https://jobs.ashbyhq.com/scribe/145eab73-2c0b-498f-8d7f-209b99ac959c?embed=js",
+      "url": "https://jobs.ashbyhq.com/cognition/416528a8-2067-4bec-ac70-73d4ffa52290",
       "source": "ashby",
-      "posted_date": "2026-07-11T09:15:14.470622",
-      "scraped_at": "2026-07-11T09:15:14.470631",
-      "search_snippet": "... AI Transformation Strategist, you'll help the world's largest companies turn these insights into action. You'll advise executives on AI strategy, guide ...",
-      "search_title": "Founding AI Transformation Strategist @ Scribe",
+      "posted_date": "2026-07-14T09:45:00.203628",
+      "scraped_at": "2026-07-14T09:45:00.203639",
+      "search_snippet": "Applied AI Transformation Managers are technically oriented strategic advisors and operators who ensure value alignment to our customer's most strategic ...",
+      "search_title": "Applied AI Transformation Manager - MENA @ Cognition",
       "ai_analysis": {
         "fit_score": 0,
         "category": "Unknown",
@@ -595,20 +517,20 @@
         "justification": "Analysis failed",
         "positioning_advice": "Could not analyze this job"
       },
-      "job_id": "7594beb47beb2e8f",
+      "job_id": "aabc2e60a28d6f4c",
       "days_old": 0
     },
     {
-      "title": "Principal Product Manager - AI Travel (100% Remote - USA)",
-      "company": "Hopper",
+      "title": "Senior Technical Program Manager (Engineering) - AI ...",
+      "company": "Deepgram",
       "location": "N/A",
       "description": "",
-      "url": "https://jobs.ashbyhq.com/hopper/8e8ef9a0-a7b0-4469-926d-a80a7f441038/application",
+      "url": "https://jobs.ashbyhq.com/deepgram/1c34f6ba-6998-447c-9485-d4cf56db42de",
       "source": "ashby",
-      "posted_date": "2026-07-11T09:15:16.716231",
-      "scraped_at": "2026-07-11T09:15:16.716241",
-      "search_snippet": "Principal Product Manager - AI Travel (100% Remote - USA). Location ... Which of the following best describes your experience managing AI/ML products in a ...",
-      "search_title": "Principal Product Manager - AI Travel (100% Remote - USA)",
+      "posted_date": "2026-07-14T09:45:02.394874",
+      "scraped_at": "2026-07-14T09:45:02.394885",
+      "search_snippet": "Deepgram is seeking a Senior Technical Program Manager (AI Tooling & Systems) to drive execution of large-scale ML infrastructure and AI tooling initiatives.",
+      "search_title": "Senior Technical Program Manager (Engineering) - AI ...",
       "ai_analysis": {
         "fit_score": 0,
         "category": "Unknown",
@@ -621,20 +543,20 @@
         "justification": "Analysis failed",
         "positioning_advice": "Could not analyze this job"
       },
-      "job_id": "db26d419dfce3d07",
+      "job_id": "1869d930933016ec",
       "days_old": 0
     },
     {
-      "title": "AI and Technical Learning Manager",
-      "company": "Trustpilot",
+      "title": "AI Product Manager @ Simular",
+      "company": "Simular",
       "location": "N/A",
-      "description": "Trust Centre Trust Centre Trust Centre How Trustpilot works Trust report 2025 Trustpilot’s use of AI Public affairs Public affairs Investors For investors Investor Relations Why invest in Trustpilot Results, reports and presentations IR Newsletter Regulatory news Analyst coverage Analyst consensus Sustainability Financial calendar IPO information Shareholder information Shareholder FAQs Shareholder meetings and documents Share price center Governance Board and executive teams Anti bribery policy Modern slavery policy Code of ethics Articles of association Terms of reference Schedule of matters reserved for the board PwC Statement of Reasons Legal Guidelines and policies Our guidelines and policies For reviewers For businesses For everyone Press Global announcements Press Brand hub Press contact Careers Working at Trustpilot Careers at Trustpilot Open jobs DEI at Trustpilot Company About Trustpilot Trustpilot for Consumers Trustpilot for Business Trustpilot Data Solutions Contact us Menu Close Trust Centre Investors Legal Press Careers Company Contact us AI and Technical Learning Manager London At Trustpilot, we're on an incredible journey. We're a profitable, high-growth FTSE-250 company with a big vision: to become the universal symbol of trust. We run the world's largest open customer review platform, and while we've come a long way, there's still so much exciting work to do. Come join us at the heart of trust! As our AI and Technical Learning Manager, you are the architect of Trustpilot’s AI-first culture. Your primary mission is to build the confidence, curiosity, and capability our people need to work with AI in meaningful and practical ways. You will design the strategy that embeds AI into how Trusties think and work, shifting our culture from one that talks about AI to one that uses it every day. Alongside this, you will ensure our people have the technical skills they need to do their jobs brilliantly, whether that is through Tech Academies, apprenticeship-funded programmes, or bespoke functional upskilling in our Technology teams. Your success is measured by your ability to move the dial on technical proficiency, AI confidence, and fostering a culture of continuous learning and innovation. What you'll be doing: Drive AI adoption across Trustpilot. This is the core of your role. You will design and run the initiatives, campaigns, and learning experiences that shift how Trusties think about and use AI in their day-to-day work. The goal is practical, confident, widespread adoption. Build an AI learning strategy that goes beyond awareness. You will create a structured approach to AI capability building that moves people from curiosity to fluency. That means understanding where Trusties are starting from, what good looks like, and how to get them there quickly and confidently. Consult with functional leaders on AI use cases. You will work alongside leaders across the business to identify where AI and new tools can genuinely change how their teams work. You will then design the learning and change support to make those shifts happen. Champion a culture of experimentation and continuous learning. You will create the conditions where Trusties feel safe to explore, try things out, and build their own efficiencies with technology. This is about mindset as much as skills. Design and oversee technical skills programmes. Supporting the AI agenda, you will also ensure Trusties have access to strong technical skills development, including through Tech Academies and other structured learning pathways that build deep functional capability in our technology teams. Make the most of Apprenticeship Levy funding. You will manage and deploy the Apprenticeship Levy strategically, ensuring eligible Trusties can access high-quality, formally accredited training in AI, technology, and data. Measure adoption, confidence, and impact. You will define the metrics that matter, track them consistently, and give leadership a clear picture of how AI capability is developing across the business. Data will inform every iteration of your strategy. Keep Trustpilot at the leading edge. You will benchmark our AI and technical learning maturity against industry standards, bring in emerging best practices, and make sure our strategy evolves as the landscape does. Who you are: Passionate about AI and how it changes the way people work. You have hands-on experience driving AI adoption and digital transformation. You understand the technology, but more importantly, you understand people and how to bring them on the journey. A strategic architect, not just a programme manager. You build systems and frameworks that create lasting change. You have a track record of designing and deploying learning and adoption strategies that result in real, measurable shifts in how people work. Technically fluent. You are deeply comfortable in the current AI landscape, including Generative AI and LLMs. You can hold a credible conversation with Product and Tech leaders and translate complex concepts into accessible learning. A skilled change manager. You understand that learning alone does not change behaviour. You know how to address resistance, build confidence, and design adoption journeys that account for the human side of change. Experienced in technical capability building. You have designed and delivered technical skills programmes, including managing Tech Academy-style frameworks, and you know how to build functional capability at scale. Savvy with Apprenticeship Levy funding. You understand how to use Levy funding strategically to accelerate skills development in technology and AI, and you can navigate the requirements to maximise its value. A confident stakeholder consultant. You can influence senior leaders, earn their trust quickly, and position AI and technical learning as a genuine business priority rather than a nice-to-have. Data-driven in how you work. You track adoption, expertise, and ROI. You use evidence to make decisions, tell the story of impact clearly, and continuously improve what you build. What's in it for you: A range of flexible working options to dedicate time to what matters to you Competitive compensation package + bonus 25 days holiday per year, increasing to 28 days after 2 years of employment Two (paid) volunteering days a year to spend your time giving back to the causes that matter to you and your community Rich learning and development opportunities are supported through the Trustpilot Academy and Blinkist Pension and life insurance Health cash plan, online GP, 24/7, Employee Assistance Plan Full access to Headspace, a popular mindfulness app to promote positive mental health Paid parental leave Season ticket loan and a cycle-to-work scheme Central office location complete with table tennis, a gaming corner, coffee bars and all the snacks and refreshments you can ask for Regular opportunities to connect and get to know your fellow Trusties, including company-wide celebrations and events, ERG activities, and team socials. Access to over 4,000 deals and discounts on things like travel, electronics, fashion, fitness, cinema discounts, and more. Independent financial advice and free standard professional mortgage broker advice Talent acceleration programs: Fast-track your career with our tailored development programs designed to support growth at whatever stage of your career Still not sure? We want to be a part of creating a more diverse, equitable, and inclusive world of work for all. We’re excited to hear about your experiences along with how you will contribute to our working culture. Even if you don’t feel you meet all the requirements, we'd still really like to hear from you! #LI-Hybrid #LI-RS1 About us Trustpilot began in 2007 with a simple yet powerful idea that is more relevant today than ever — to be the universal symbol of trust, bringing consumers and businesses together through reviews. Trustpilot is open, independent, and impartial — we help consumers make the right choices and businesses to build trust, grow and improve. Today, we have more than 350 million reviews and 60 million monthly active users across the globe, with 149 billion annual Trustpilot brand impressions, and the numbers keep growing. We have more than 1000 employees and we’re headquartered in Copenhagen, with operations in Amsterdam, Denver, Edinburgh, Hamburg, London, Melbourne, Milan and New York. We’re driven by connection. It’s at the heart of what we do. Our culture keeps things fresh –– it’s built on the relationships we create. We talk, we laugh, we collaborate and we respect each other. We work across borders and cultures to be the universal symbol of trust in an ever-changing world. With vibrant office locations worldwide and over 50 nationalities, we’re proud to be an equal opportunity workplace with diverse perspectives and ideas. Our purpose to help people and businesses help each other is a tall order, but we keep it real. We’re a great bunch of humans, doing awesome stuff, without fuss or pretense. A successful Trustpilot future is driven by you –– we give you the autonomy to shape a career you can be proud of. If you’re ready to grow, let’s go. Join us at the heart of trust. Trustpilot is committed to creating an inclusive environment where people from all backgrounds can thrive and where different viewpoints and experiences are valued and respected. Trustpilot will consider all applications for employment without regard to race, ethnicity, national origin, religious beliefs, gender identity or expression, sexual orientation, neurodiversity, disability, age, parental or veteran status. Together, we are the heart of trust. Trustpilot is a global company and our data practices are designed to ensure that your personally identifiable information is appropriately protected. Please note that your personal information will be transferred, accessed, and stored globally as necessary for the uses and disclosures stated in our Privacy Policy. If you have a disability and would like to discuss any adjustments you might need either in submitting your application, or to the recruitment process more generally, please let us know by contacting our Talent Acquisition Team (talent.acquisition@trustpilot.com) quoting the role you wish to apply for.",
-      "url": "https://boards.greenhouse.io/trustpilot/jobs/8027901",
-      "source": "greenhouse",
-      "posted_date": "2026-07-11T09:15:18.937340",
-      "scraped_at": "2026-07-11T09:15:18.937985",
-      "search_snippet": "You are deeply comfortable in the current AI landscape, including Generative AI and LLMs. You can hold a credible conversation with Product and Tech leaders and ...",
-      "search_title": "AI and Technical Learning Manager",
+      "description": "",
+      "url": "https://jobs.ashbyhq.com/simular/d8574780-1543-447d-af49-26c5cfeaac50?embed=js&locationId=ceb6d935-8b96-4f09-8671-840b6ec5cb18",
+      "source": "ashby",
+      "posted_date": "2026-07-14T09:45:04.545564",
+      "scraped_at": "2026-07-14T09:45:04.545574",
+      "search_snippet": "... Product Manager, you'll own the product roadmap end-to-end, choosing which workflows the agent ... AI/ML products, particularly in the agent or LLM space.",
+      "search_title": "AI Product Manager @ Simular",
       "ai_analysis": {
         "fit_score": 0,
         "category": "Unknown",
@@ -647,14 +569,92 @@
         "justification": "Analysis failed",
         "positioning_advice": "Could not analyze this job"
       },
-      "job_id": "4ac0cb322d410ab0",
+      "job_id": "a1ed001521c8e3e4",
+      "days_old": 0
+    },
+    {
+      "title": "Principal Product Manager - AI @ TENEX.AI",
+      "company": "Tenex",
+      "location": "N/A",
+      "description": "",
+      "url": "https://jobs.ashbyhq.com/tenex/bbca1aa3-cdfe-495c-8739-3c3119bfdfd0",
+      "source": "ashby",
+      "posted_date": "2026-07-14T09:45:06.569698",
+      "scraped_at": "2026-07-14T09:45:06.569708",
+      "search_snippet": "... Product Manager for AI Strategy at TENEX, you will be a visionary product leader responsible for defining and building the next generation of our AI-native ...",
+      "search_title": "Principal Product Manager - AI @ TENEX.AI",
+      "ai_analysis": {
+        "fit_score": 0,
+        "category": "Unknown",
+        "justification": "Analysis failed",
+        "positioning_advice": "Could not analyze this job"
+      },
+      "sustainability_analysis": {
+        "fit_score": 0,
+        "category": "Unknown",
+        "justification": "Analysis failed",
+        "positioning_advice": "Could not analyze this job"
+      },
+      "job_id": "1d95adb07a8aa6ce",
+      "days_old": 0
+    },
+    {
+      "title": "Fashion AI Specialist @ Raspberry AI",
+      "company": "Raspberry",
+      "location": "N/A",
+      "description": "",
+      "url": "https://jobs.ashbyhq.com/raspberry/434ecb36-0d9a-4fa5-86d1-da7350ecf146",
+      "source": "ashby",
+      "posted_date": "2026-07-14T09:45:08.684486",
+      "scraped_at": "2026-07-14T09:45:08.684498",
+      "search_snippet": "This role sits at the intersection of fashion, digital product creation, customer engagement, and generative AI. You'll partner closely with prospective ...",
+      "search_title": "Fashion AI Specialist @ Raspberry AI",
+      "ai_analysis": {
+        "fit_score": 0,
+        "category": "Unknown",
+        "justification": "Analysis failed",
+        "positioning_advice": "Could not analyze this job"
+      },
+      "sustainability_analysis": {
+        "fit_score": 0,
+        "category": "Unknown",
+        "justification": "Analysis failed",
+        "positioning_advice": "Could not analyze this job"
+      },
+      "job_id": "29e7c78cf83fbfda",
+      "days_old": 0
+    },
+    {
+      "title": "Staff Product Manager, Developer Workflows @ 1Password",
+      "company": "1Password",
+      "location": "N/A",
+      "description": "",
+      "url": "https://jobs.ashbyhq.com/1password/56ffab65-2953-42ee-ae84-04c3e9d9c38c",
+      "source": "ashby",
+      "posted_date": "2026-07-14T09:45:10.874839",
+      "scraped_at": "2026-07-14T09:45:10.874850",
+      "search_snippet": "We are looking for a Staff Product Manager to join our Developer & AI team ... 1Password uses artificial intelligence (AI) and machine learning (ML) ...",
+      "search_title": "Staff Product Manager, Developer Workflows @ 1Password",
+      "ai_analysis": {
+        "fit_score": 0,
+        "category": "Unknown",
+        "justification": "Analysis failed",
+        "positioning_advice": "Could not analyze this job"
+      },
+      "sustainability_analysis": {
+        "fit_score": 0,
+        "category": "Unknown",
+        "justification": "Analysis failed",
+        "positioning_advice": "Could not analyze this job"
+      },
+      "job_id": "454b8c480af1e36c",
       "days_old": 0
     }
   ],
   "metadata": {
     "profile": "kartikey",
     "profile_display_name": "Kartikey",
-    "run_timestamp": "2026-07-11T09:14:15.700525",
+    "run_timestamp": "2026-07-14T09:43:49.861932",
     "trigger_type": "schedule",
     "total_searched": 25,
     "new_jobs_found": 25,
