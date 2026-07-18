@@ -2,41 +2,6 @@
   "profile": "anvesha",
   "runs": [
     {
-      "timestamp": "2026-03-28T08:27:25.810270",
-      "trigger": "schedule",
-      "job_ids": [
-        "34081b910a8199af",
-        "c0608ae2884e0849",
-        "4b4fcbfbf74a4c1a",
-        "c986267aa2a356f1",
-        "ebc8db20b4df7ded",
-        "fe761ca3f30ddf57",
-        "707ba3a8107e938e",
-        "ff4e4f5efbaaa2e2",
-        "7276d46cc436323e",
-        "5a78907313ea2070",
-        "508a0d0df7e79c01",
-        "99e235e44b1f386d",
-        "f0f04b5d6a44e258",
-        "ff4e4f5efbaaa2e2",
-        "755dcc0f841602a5",
-        "fcae6257b2d343fe",
-        "e5b9b90656b32554",
-        "ea25f15c0179b50a",
-        "2d2d5904c8f73df5",
-        "ebc8db20b4df7ded",
-        "c24e4c82e23bdf5d",
-        "5a78907313ea2070",
-        "8e2e35510f5bd832",
-        "1367918f67c61f6b",
-        "0d757be261e3b93b"
-      ],
-      "jobs_in_results": 25,
-      "total_searched": 25,
-      "new_jobs_found": 25,
-      "jobs_analyzed": 25
-    },
-    {
       "timestamp": "2026-03-31T08:45:29.558630",
       "trigger": "schedule",
       "job_ids": [
@@ -1025,7 +990,36 @@
       "total_searched": 25,
       "new_jobs_found": 25,
       "jobs_analyzed": 25
+    },
+    {
+      "timestamp": "2026-07-18T09:15:05.279550",
+      "trigger": "schedule",
+      "job_ids": [
+        "fff20f1f748e92cd",
+        "7be091a4aad65cd3",
+        "0d6df9d845f4ab22",
+        "3b2b130e1a54a1ee",
+        "7a14ea098d5c3cfe",
+        "83fe631a14bed30b",
+        "487a1a7e9c0ace22",
+        "9b56743ebb52548c",
+        "e64c377e0787ec7a",
+        "dd4704da9dced025",
+        "83fe631a14bed30b",
+        "9b56743ebb52548c",
+        "afc34b1f4de31a27",
+        "d08585d8ac8b34db",
+        "dd4704da9dced025",
+        "4762f5bd7f74c892",
+        "0a9a9e55a0b2f0e1",
+        "10345ddc20e3319b",
+        "600c0cc07705646c"
+      ],
+      "jobs_in_results": 19,
+      "total_searched": 20,
+      "new_jobs_found": 20,
+      "jobs_analyzed": 19
     }
   ],
-  "last_updated": "2026-07-14T09:45:23.953348"
+  "last_updated": "2026-07-18T09:15:05.279550"
 }
