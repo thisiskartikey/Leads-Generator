@@ -2,39 +2,6 @@
   "profile": "anvesha",
   "runs": [
     {
-      "timestamp": "2026-04-14T09:08:40.704963",
-      "trigger": "schedule",
-      "job_ids": [
-        "06e2ade5a5c4f67e",
-        "3367476ec1fdd0ab",
-        "58af4d1f09e71e56",
-        "aad9f9c8e7fa7c37",
-        "5a182f62218b0813",
-        "f7e7143ad5698d96",
-        "ec3dbda0e9c2219a",
-        "d085b76ccd28617c",
-        "b5567ae0481d5b9a",
-        "ec3dbda0e9c2219a",
-        "cefbc6ab0fe0defe",
-        "eb88d1b175e718f5",
-        "20bd1e6563d60ce0",
-        "b5567ae0481d5b9a",
-        "1766522cc6fad024",
-        "6c4c74d088cc51f3",
-        "f9d8b5454e9efc4a",
-        "468f2f05a4f1910b",
-        "95ef8f71b3149504",
-        "6c4c74d088cc51f3",
-        "45aed83d09b7a241",
-        "1766522cc6fad024",
-        "7e01371bfb477820"
-      ],
-      "jobs_in_results": 23,
-      "total_searched": 25,
-      "new_jobs_found": 25,
-      "jobs_analyzed": 23
-    },
-    {
       "timestamp": "2026-04-18T08:37:12.213948",
       "trigger": "schedule",
       "job_ids": [
@@ -1018,7 +985,42 @@
       "total_searched": 25,
       "new_jobs_found": 25,
       "jobs_analyzed": 25
+    },
+    {
+      "timestamp": "2026-08-04T10:25:32.633814",
+      "trigger": "schedule",
+      "job_ids": [
+        "1427916c0230354b",
+        "e64c377e0787ec7a",
+        "c979fb0fc767c364",
+        "71bbc8c899320c08",
+        "4b53730186108beb",
+        "07cdebd909be7fb4",
+        "40061513f6d337fe",
+        "c657ce8a5628fc2a",
+        "f212343fb30f8f0c",
+        "1473a1c18329a6c8",
+        "1473a1c18329a6c8",
+        "4b53730186108beb",
+        "18558691dbafeece",
+        "0f804fb0d9ab89f4",
+        "7df871c001f10900",
+        "084620b761416e21",
+        "bbccd7488363a56f",
+        "149db499d95e15b1",
+        "4ab3d5a9f1351eeb",
+        "048ae6dacbddad98",
+        "a452c0fc76cf0cfb",
+        "9bb59d33d092d2aa",
+        "bbccd7488363a56f",
+        "eab3675d66441993",
+        "4171e94778770ff2"
+      ],
+      "jobs_in_results": 25,
+      "total_searched": 25,
+      "new_jobs_found": 25,
+      "jobs_analyzed": 25
     }
   ],
-  "last_updated": "2026-08-01T09:47:48.895877"
+  "last_updated": "2026-08-04T10:25:32.633814"
 }

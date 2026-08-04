@@ -1,34 +1,14 @@
 {
   "jobs": [
     {
-      "title": "Product Designer @ Usul",
-      "company": "Usul",
-      "location": "N/A",
-      "description": "",
-      "url": "https://jobs.ashbyhq.com/usul/3cd132a8-dc09-499f-9a33-a380cc58420e",
-      "source": "ashby",
-      "posted_date": "2026-08-01T09:48:06.999794",
-      "scraped_at": "2026-08-01T09:48:06.999807",
-      "search_snippet": "Experience with user research + prototyping ... Exhibit strong craft and interaction design, maintaining a high bar of quality for experiences and our design ...",
-      "search_title": "Product Designer @ Usul",
-      "anvesha_analysis": {
-        "fit_score": 0,
-        "category": "Unknown",
-        "justification": "Analysis failed",
-        "positioning_advice": "Could not analyze this job"
-      },
-      "job_id": "02d625516a039072",
-      "days_old": 0
-    },
-    {
       "title": "Senior Product Designer @ Hiive",
       "company": "Hiive",
       "location": "N/A",
       "description": "",
       "url": "https://jobs.ashbyhq.com/hiive/25bbd0fd-ff23-43cd-8a3c-1708654dccf6",
       "source": "ashby",
-      "posted_date": "2026-08-01T09:48:09.137299",
-      "scraped_at": "2026-08-01T09:48:09.137311",
+      "posted_date": "2026-08-04T10:25:54.171794",
+      "scraped_at": "2026-08-04T10:25:54.171807",
       "search_snippet": "Check out our careers page to see how you can grow with us! As a Senior Product Designer at Hiive, you'll join a fast-growing, high-impact product team. You ...",
       "search_title": "Senior Product Designer @ Hiive",
       "anvesha_analysis": {
@@ -47,8 +27,8 @@
       "description": "",
       "url": "https://jobs.ashbyhq.com/tavus/45fdebdf-c3e1-480f-bbfb-ab4deee35db7",
       "source": "ashby",
-      "posted_date": "2026-08-01T09:48:11.238429",
-      "scraped_at": "2026-08-01T09:48:11.238439",
+      "posted_date": "2026-08-04T10:25:56.309836",
+      "scraped_at": "2026-08-04T10:25:56.309849",
       "search_snippet": "Product Designer · Location · Employment Type · Location Type · Department · About Us · The Role · What You'll Do · Who You Are.",
       "search_title": "Product Designer @ Tavus",
       "anvesha_analysis": {
@@ -61,23 +41,23 @@
       "days_old": 0
     },
     {
-      "title": "Product Designer - UX/UI & Design Systems (Remote)",
-      "company": "N/A",
+      "title": "Principal UX Researcher @ BetterUp",
+      "company": "Betterup",
       "location": "N/A",
       "description": "",
-      "url": "https://jobs.workable.com/view/3HDAZyMRXG4gV5cRWECpmc/product-designer---ux%2Fui-%26-design-systems-(remote)-in-el-salvador-at-pavago",
-      "source": "workable",
-      "posted_date": "2026-08-01T09:48:13.369375",
-      "scraped_at": "2026-08-01T09:48:13.369382",
-      "search_snippet": "Product Designer ... You'll own the end-to-end product design process—from user research and interaction design to design systems and developer handoff.",
-      "search_title": "Product Designer - UX/UI & Design Systems (Remote)",
+      "url": "https://jobs.ashbyhq.com/betterup/b16b26a9-a282-46b2-8b8b-c92717a9d097",
+      "source": "ashby",
+      "posted_date": "2026-08-04T10:25:58.478800",
+      "scraped_at": "2026-08-04T10:25:58.478811",
+      "search_snippet": "We're looking for a Principal UX Researcher, to serve as the most senior researcher on the Product Design team, reporting directly to the VP of Design. This ...",
+      "search_title": "Principal UX Researcher @ BetterUp",
       "anvesha_analysis": {
         "fit_score": 0,
         "category": "Unknown",
         "justification": "Analysis failed",
         "positioning_advice": "Could not analyze this job"
       },
-      "job_id": "f2fae2c0777c99fa",
+      "job_id": "c979fb0fc767c364",
       "days_old": 0
     },
     {
@@ -87,8 +67,8 @@
       "description": "",
       "url": "https://apply.workable.com/humanintelligence/j/FCDED4553E/",
       "source": "workable",
-      "posted_date": "2026-08-01T09:48:15.530872",
-      "scraped_at": "2026-08-01T09:48:15.530883",
+      "posted_date": "2026-08-04T10:26:00.597477",
+      "scraped_at": "2026-08-04T10:26:00.597488",
       "search_snippet": "We expect every Principal Product Designer to actively leverage AI to improve: User research; Journey mapping; Wireframing; Information architecture; UX writing ...",
       "search_title": "UX/UI & AI Experience Design - Human Intelligence",
       "anvesha_analysis": {
@@ -101,43 +81,23 @@
       "days_old": 0
     },
     {
-      "title": "Digital Product Designer @ Away",
-      "company": "Away",
+      "title": "UX Researcher and Service Designer - Public Sector (Part- ...",
+      "company": "N/A",
       "location": "N/A",
       "description": "",
-      "url": "https://jobs.ashbyhq.com/away/4d854963-10ac-47b5-9f85-3a5cff8b723d",
-      "source": "ashby",
-      "posted_date": "2026-08-01T09:48:17.658663",
-      "scraped_at": "2026-08-01T09:48:17.658673",
-      "search_snippet": "We are hiring a Digital Product Designer to join our Digital team. This role reports to the Sr. Manager, Digital User Experience and takes Away further by ...",
-      "search_title": "Digital Product Designer @ Away",
+      "url": "https://jobs.workable.com/view/gosPoriG5qP1cxm3u67mJ6/ux-researcher-and-service-designer---public-sector-",
+      "source": "workable",
+      "posted_date": "2026-08-04T10:26:02.763877",
+      "scraped_at": "2026-08-04T10:26:02.763889",
+      "search_snippet": "UX Researcher and Service Designer - Public Sector (Part-Time) ... Proven experience as a UI/UX Designer, Product Designer, or Experience Designer delivering web ...",
+      "search_title": "UX Researcher and Service Designer - Public Sector (Part- ...",
       "anvesha_analysis": {
         "fit_score": 0,
         "category": "Unknown",
         "justification": "Analysis failed",
         "positioning_advice": "Could not analyze this job"
       },
-      "job_id": "edc338bbe2fa71ed",
-      "days_old": 0
-    },
-    {
-      "title": "Senior / Staff Product Designer @ Recraft",
-      "company": "Recraft",
-      "location": "N/A",
-      "description": "",
-      "url": "https://jobs.ashbyhq.com/recraft/f13e8d01-853d-4552-b8d8-5fdcee87e7ab",
-      "source": "ashby",
-      "posted_date": "2026-08-01T09:48:19.758002",
-      "scraped_at": "2026-08-01T09:48:19.758011",
-      "search_snippet": "We're looking for a Senior or Staff Product Designer to independently own key areas of the product, raise the bar on visual and interaction design, and work ...",
-      "search_title": "Senior / Staff Product Designer @ Recraft",
-      "anvesha_analysis": {
-        "fit_score": 0,
-        "category": "Unknown",
-        "justification": "Analysis failed",
-        "positioning_advice": "Could not analyze this job"
-      },
-      "job_id": "7be091a4aad65cd3",
+      "job_id": "4b53730186108beb",
       "days_old": 0
     },
     {
@@ -147,8 +107,8 @@
       "description": "",
       "url": "https://jobs.ashbyhq.com/skimmer/244312d6-7db4-4650-8f0f-a0c46ffb29eb",
       "source": "ashby",
-      "posted_date": "2026-08-01T09:48:21.851127",
-      "scraped_at": "2026-08-01T09:48:21.851137",
+      "posted_date": "2026-08-04T10:26:04.881815",
+      "scraped_at": "2026-08-04T10:26:04.881825",
       "search_snippet": "... us almost as much as we love them (check out our reviews https ... user research, usability testing, and data to inform design decisions ...",
       "search_title": "Product Designer @ Skimmer",
       "anvesha_analysis": {
@@ -167,8 +127,8 @@
       "description": "",
       "url": "https://jobs.ashbyhq.com/langchain/28aba38e-de19-4ae5-9316-08575a11ae4d",
       "source": "ashby",
-      "posted_date": "2026-08-01T09:48:23.982969",
-      "scraped_at": "2026-08-01T09:48:23.982978",
+      "posted_date": "2026-08-04T10:26:07.058716",
+      "scraped_at": "2026-08-04T10:26:07.058727",
       "search_snippet": "ABOUT US At LangChain, our mission is to make intelligent agents ubiquitous ... product design experience ideally working on developer tools, AI, or ...",
       "search_title": "Product Designer @ LangChain",
       "anvesha_analysis": {
@@ -187,8 +147,8 @@
       "description": "",
       "url": "https://jobs.ashbyhq.com/whatnot/878129db-339a-46db-8b99-6b6f05ed75f1",
       "source": "ashby",
-      "posted_date": "2026-08-01T09:48:26.097873",
-      "scraped_at": "2026-08-01T09:48:26.097883",
+      "posted_date": "2026-08-04T10:26:09.191858",
+      "scraped_at": "2026-08-04T10:26:09.191870",
       "search_snippet": "Deep understanding of user experience design principles and methodologies, including user research, wireframing, prototyping, and usability testing. Excellent ...",
       "search_title": "Product Designer, Trust & Risk @ Whatnot",
       "anvesha_analysis": {
@@ -207,8 +167,8 @@
       "description": "",
       "url": "https://jobs.ashbyhq.com/kin/ff6b1a90-1055-41e1-8748-3288d58f53c5",
       "source": "ashby",
-      "posted_date": "2026-08-01T09:48:28.244581",
-      "scraped_at": "2026-08-01T09:48:28.244591",
+      "posted_date": "2026-08-04T10:26:11.448855",
+      "scraped_at": "2026-08-04T10:26:11.448866",
       "search_snippet": "Principal Product Designer, Design Systems. Location. Remote (United States). Employment Type. Full time. Location Type.",
       "search_title": "Principal Product Designer, Design Systems @ Kin Insurance",
       "anvesha_analysis": {
@@ -221,134 +181,14 @@
       "days_old": 0
     },
     {
-      "title": "Product Designer - Yodeck",
-      "company": "Yodeck",
-      "location": "N/A",
-      "description": "",
-      "url": "https://apply.workable.com/yodeck/j/B088372730",
-      "source": "workable",
-      "posted_date": "2026-08-01T09:48:30.291364",
-      "scraped_at": "2026-08-01T09:48:30.291375",
-      "search_snippet": "... user experience. Collaborate closely with front ... Bachelor's degree in a relevant field such as product design, interaction design, or graphic design.",
-      "search_title": "Product Designer - Yodeck",
-      "anvesha_analysis": {
-        "fit_score": 0,
-        "category": "Unknown",
-        "justification": "Analysis failed",
-        "positioning_advice": "Could not analyze this job"
-      },
-      "job_id": "149db499d95e15b1",
-      "days_old": 0
-    },
-    {
-      "title": "Product Designer, Trust & Risk @ Whatnot",
-      "company": "Whatnot",
-      "location": "N/A",
-      "description": "",
-      "url": "https://jobs.ashbyhq.com/whatnot/878129db-339a-46db-8b99-6b6f05ed75f1",
-      "source": "ashby",
-      "posted_date": "2026-08-01T09:48:32.308133",
-      "scraped_at": "2026-08-01T09:48:32.308143",
-      "search_snippet": "Deep understanding of user experience design principles and methodologies, including user research, wireframing, prototyping, and usability testing. Excellent ...",
-      "search_title": "Product Designer, Trust & Risk @ Whatnot",
-      "anvesha_analysis": {
-        "fit_score": 0,
-        "category": "Unknown",
-        "justification": "Analysis failed",
-        "positioning_advice": "Could not analyze this job"
-      },
-      "job_id": "c657ce8a5628fc2a",
-      "days_old": 0
-    },
-    {
-      "title": "Product Designer @ LangChain",
-      "company": "Langchain",
-      "location": "N/A",
-      "description": "",
-      "url": "https://jobs.ashbyhq.com/langchain/28aba38e-de19-4ae5-9316-08575a11ae4d",
-      "source": "ashby",
-      "posted_date": "2026-08-01T09:48:34.322733",
-      "scraped_at": "2026-08-01T09:48:34.322743",
-      "search_snippet": "ABOUT US At LangChain, our mission is to make intelligent agents ubiquitous ... product design experience ideally working on developer tools, AI, or ...",
-      "search_title": "Product Designer @ LangChain",
-      "anvesha_analysis": {
-        "fit_score": 0,
-        "category": "Unknown",
-        "justification": "Analysis failed",
-        "positioning_advice": "Could not analyze this job"
-      },
-      "job_id": "40061513f6d337fe",
-      "days_old": 0
-    },
-    {
-      "title": "Digital Product Designer @ Away",
-      "company": "Away",
-      "location": "N/A",
-      "description": "",
-      "url": "https://jobs.ashbyhq.com/away/4d854963-10ac-47b5-9f85-3a5cff8b723d",
-      "source": "ashby",
-      "posted_date": "2026-08-01T09:48:36.338760",
-      "scraped_at": "2026-08-01T09:48:36.338768",
-      "search_snippet": "We are hiring a Digital Product Designer to join our Digital team. This role reports to the Sr. Manager, Digital User Experience and takes Away further by ...",
-      "search_title": "Digital Product Designer @ Away",
-      "anvesha_analysis": {
-        "fit_score": 0,
-        "category": "Unknown",
-        "justification": "Analysis failed",
-        "positioning_advice": "Could not analyze this job"
-      },
-      "job_id": "edc338bbe2fa71ed",
-      "days_old": 0
-    },
-    {
-      "title": "Senior Product Designer @ UpDoc",
-      "company": "Updoc",
-      "location": "N/A",
-      "description": "",
-      "url": "https://jobs.ashbyhq.com/updoc/dd600cb3-8497-4ee8-893e-d59287d84328?embed=js",
-      "source": "ashby",
-      "posted_date": "2026-08-01T09:48:38.430106",
-      "scraped_at": "2026-08-01T09:48:38.430117",
-      "search_snippet": "Senior Product Designer. Location. United States. Employment Type. Full time. Location Type. Remote. Department. Engineering. OverviewApplication. About UpDoc.",
-      "search_title": "Senior Product Designer @ UpDoc",
-      "anvesha_analysis": {
-        "fit_score": 0,
-        "category": "Unknown",
-        "justification": "Analysis failed",
-        "positioning_advice": "Could not analyze this job"
-      },
-      "job_id": "a24d0b886dc25280",
-      "days_old": 0
-    },
-    {
-      "title": "Senior Product Designer - Remote Europe @ Reedsy",
-      "company": "Reedsy",
-      "location": "N/A",
-      "description": "",
-      "url": "https://jobs.ashbyhq.com/reedsy/5b054faf-e032-44d2-90f4-60a6b1241937",
-      "source": "ashby",
-      "posted_date": "2026-08-01T09:48:40.523511",
-      "scraped_at": "2026-08-01T09:48:40.523521",
-      "search_snippet": "... user experience ... Strong knowledge of interaction design, information architecture, and visual design principles;.",
-      "search_title": "Senior Product Designer - Remote Europe @ Reedsy",
-      "anvesha_analysis": {
-        "fit_score": 0,
-        "category": "Unknown",
-        "justification": "Analysis failed",
-        "positioning_advice": "Could not analyze this job"
-      },
-      "job_id": "7a4298fdd7a01936",
-      "days_old": 0
-    },
-    {
       "title": "Senior Product Designer @ Tradeify",
       "company": "Tradeify",
       "location": "N/A",
       "description": "",
       "url": "https://jobs.ashbyhq.com/tradeify/8759d972-3815-4d7f-ad39-532ffacdb1ec",
       "source": "ashby",
-      "posted_date": "2026-08-01T09:48:42.625178",
-      "scraped_at": "2026-08-01T09:48:42.625187",
+      "posted_date": "2026-08-04T10:26:13.623880",
+      "scraped_at": "2026-08-04T10:26:13.623890",
       "search_snippet": "Senior Product Designer. Location. Remote; Remote - USA. Employment Type. Full time. Location Type.",
       "search_title": "Senior Product Designer @ Tradeify",
       "anvesha_analysis": {
@@ -361,23 +201,183 @@
       "days_old": 0
     },
     {
-      "title": "Product Designer, Discovery @ Whatnot",
-      "company": "Whatnot",
+      "title": "Senior Product Designer @ Tradeify",
+      "company": "Tradeify",
       "location": "N/A",
       "description": "",
-      "url": "https://jobs.ashbyhq.com/whatnot/fedf75c1-2cea-4ad2-bb24-9f492317234c",
+      "url": "https://jobs.ashbyhq.com/tradeify/8759d972-3815-4d7f-ad39-532ffacdb1ec",
       "source": "ashby",
-      "posted_date": "2026-08-01T09:48:44.756843",
-      "scraped_at": "2026-08-01T09:48:44.756853",
-      "search_snippet": "As our next Senior Product Designer, you likely have 5+ years of experience designing digital products, plus: Strong visual and interaction design fundamentals.",
-      "search_title": "Product Designer, Discovery @ Whatnot",
+      "posted_date": "2026-08-04T10:26:15.640860",
+      "scraped_at": "2026-08-04T10:26:15.640871",
+      "search_snippet": "Senior Product Designer. Location. Remote; Remote - USA. Employment Type. Full time. Location Type.",
+      "search_title": "Senior Product Designer @ Tradeify",
       "anvesha_analysis": {
         "fit_score": 0,
         "category": "Unknown",
         "justification": "Analysis failed",
         "positioning_advice": "Could not analyze this job"
       },
-      "job_id": "73840c4698de8260",
+      "job_id": "1473a1c18329a6c8",
+      "days_old": 0
+    },
+    {
+      "title": "UX Researcher and Service Designer - Public Sector (Part- ...",
+      "company": "N/A",
+      "location": "N/A",
+      "description": "",
+      "url": "https://jobs.workable.com/view/gosPoriG5qP1cxm3u67mJ6/ux-researcher-and-service-designer---public-sector-",
+      "source": "workable",
+      "posted_date": "2026-08-04T10:26:17.749660",
+      "scraped_at": "2026-08-04T10:26:17.749669",
+      "search_snippet": "UX Researcher and Service Designer - Public Sector (Part-Time) ... Proven experience as a UI/UX Designer, Product Designer, or Experience Designer delivering web ...",
+      "search_title": "UX Researcher and Service Designer - Public Sector (Part- ...",
+      "anvesha_analysis": {
+        "fit_score": 0,
+        "category": "Unknown",
+        "justification": "Analysis failed",
+        "positioning_advice": "Could not analyze this job"
+      },
+      "job_id": "4b53730186108beb",
+      "days_old": 0
+    },
+    {
+      "title": "Sr. UX Researcher (Remote) @ Rula",
+      "company": "Rula",
+      "location": "N/A",
+      "description": "",
+      "url": "https://jobs.ashbyhq.com/rula/92dbcf63-fbca-48ce-ace1-699bb1a42433",
+      "source": "ashby",
+      "posted_date": "2026-08-04T10:26:19.866985",
+      "scraped_at": "2026-08-04T10:26:19.866995",
+      "search_snippet": "... User Experience Researcher (Sr. UXR) to help us deeply understand the needs ... Product, Design, Engineering, and Data teams to ensure decisions are ...",
+      "search_title": "Sr. UX Researcher (Remote) @ Rula",
+      "anvesha_analysis": {
+        "fit_score": 0,
+        "category": "Unknown",
+        "justification": "Analysis failed",
+        "positioning_advice": "Could not analyze this job"
+      },
+      "job_id": "18558691dbafeece",
+      "days_old": 0
+    },
+    {
+      "title": "User Experience (UX) Designer - EnsoData - Application",
+      "company": "Ensodata",
+      "location": "N/A",
+      "description": "",
+      "url": "https://apply.workable.com/ensodata/j/9A338B5C7A/apply",
+      "source": "workable",
+      "posted_date": "2026-08-04T10:26:21.928830",
+      "scraped_at": "2026-08-04T10:26:21.928841",
+      "search_snippet": "User Experience (UX) Designer. HybridEngineeringFull time. Madison, Wisconsin, United States. OverviewApplication. Autofill application. Save time by importing ...",
+      "search_title": "User Experience (UX) Designer - EnsoData - Application",
+      "anvesha_analysis": {
+        "fit_score": 0,
+        "category": "Unknown",
+        "justification": "Analysis failed",
+        "positioning_advice": "Could not analyze this job"
+      },
+      "job_id": "0f804fb0d9ab89f4",
+      "days_old": 0
+    },
+    {
+      "title": "UX Researcher",
+      "company": "Netomi",
+      "location": "Toronto , Canada",
+      "description": "",
+      "url": "https://jobs.lever.co/netomi/17571499-2e18-4c7d-b526-fbdb0bb0f381",
+      "source": "lever",
+      "posted_date": "2026-08-04T10:26:24.178633",
+      "scraped_at": "2026-08-04T10:26:24.178650",
+      "search_snippet": "UX Researcher. Toronto , Canada. Product – Product Design /. Full ... If you would like more information about how your data is processed, please contact us.",
+      "search_title": "UX Researcher - Netomi",
+      "anvesha_analysis": {
+        "fit_score": 0,
+        "category": "Unknown",
+        "justification": "Analysis failed",
+        "positioning_advice": "Could not analyze this job"
+      },
+      "job_id": "7df871c001f10900",
+      "days_old": 0
+    },
+    {
+      "title": "Contract UX Designer | Mightier",
+      "company": "N/A",
+      "location": "N/A",
+      "description": "",
+      "url": "https://jobs.workable.com/view/ujUZwA45izTkbUG86Nw4gw/remote-contract-ux-designer-in-united-states-at-mightier",
+      "source": "workable",
+      "posted_date": "2026-08-04T10:26:26.238543",
+      "scraped_at": "2026-08-04T10:26:26.238551",
+      "search_snippet": "UX design: information architecture, user flows, and low-to-mid-fidelity ... Demonstrated experience across UX research, interaction design, and visual design ( ...",
+      "search_title": "Contract UX Designer | Mightier",
+      "anvesha_analysis": {
+        "fit_score": 0,
+        "category": "Unknown",
+        "justification": "Analysis failed",
+        "positioning_advice": "Could not analyze this job"
+      },
+      "job_id": "084620b761416e21",
+      "days_old": 0
+    },
+    {
+      "title": "Staff Product Designer, Spend @ Airwallex",
+      "company": "Airwallex",
+      "location": "N/A",
+      "description": "",
+      "url": "https://jobs.ashbyhq.com/airwallex/ec6557d1-5953-49a9-9855-90dec51002fb",
+      "source": "ashby",
+      "posted_date": "2026-08-04T10:26:28.433946",
+      "scraped_at": "2026-08-04T10:26:28.433957",
+      "search_snippet": "Staff Product Designer, Spend. Location. US - San Francisco. Employment Type. Full time. Location Type. Hybrid ...",
+      "search_title": "Staff Product Designer, Spend @ Airwallex",
+      "anvesha_analysis": {
+        "fit_score": 0,
+        "category": "Unknown",
+        "justification": "Analysis failed",
+        "positioning_advice": "Could not analyze this job"
+      },
+      "job_id": "bbccd7488363a56f",
+      "days_old": 0
+    },
+    {
+      "title": "Product Designer - Yodeck",
+      "company": "Yodeck",
+      "location": "N/A",
+      "description": "",
+      "url": "https://apply.workable.com/yodeck/j/B088372730",
+      "source": "workable",
+      "posted_date": "2026-08-04T10:26:30.487284",
+      "scraped_at": "2026-08-04T10:26:30.487295",
+      "search_snippet": "... user experience. Collaborate closely with front ... Bachelor's degree in a relevant field such as product design, interaction design, or graphic design.",
+      "search_title": "Product Designer - Yodeck",
+      "anvesha_analysis": {
+        "fit_score": 0,
+        "category": "Unknown",
+        "justification": "Analysis failed",
+        "positioning_advice": "Could not analyze this job"
+      },
+      "job_id": "149db499d95e15b1",
+      "days_old": 0
+    },
+    {
+      "title": "Sr. Staff Product Designer, Design Systems @ Kong",
+      "company": "Kong",
+      "location": "N/A",
+      "description": "",
+      "url": "https://jobs.ashbyhq.com/kong/9ef0f069-1d5e-4bcd-9c16-359e11456a12",
+      "source": "ashby",
+      "posted_date": "2026-08-04T10:26:32.724857",
+      "scraped_at": "2026-08-04T10:26:32.724868",
+      "search_snippet": "Staff Product Designer, Design Systems. Location. San Francisco, California, United States. Employment Type. Full time. Location Type.",
+      "search_title": "Sr. Staff Product Designer, Design Systems @ Kong",
+      "anvesha_analysis": {
+        "fit_score": 0,
+        "category": "Unknown",
+        "justification": "Analysis failed",
+        "positioning_advice": "Could not analyze this job"
+      },
+      "job_id": "4ab3d5a9f1351eeb",
       "days_old": 0
     },
     {
@@ -385,10 +385,10 @@
       "company": "N/A",
       "location": "N/A",
       "description": "",
-      "url": "https://jobs.workable.com/view/w1gkQqYGtCLBPR3Pskk77G/staff-ui%2Fux-product-designer-(usa%2Feurope---remote)-in-netherlands-at-hospitable",
+      "url": "https://jobs.workable.com/view/rLCBMoHk3U56TKqvVxS75q/staff-ui%2Fux-product-designer-(usa%2Feurope---remote)-in-remote-at-hospitable",
       "source": "workable",
-      "posted_date": "2026-08-01T09:48:46.811416",
-      "scraped_at": "2026-08-01T09:48:46.811423",
+      "posted_date": "2026-08-04T10:26:34.789191",
+      "scraped_at": "2026-08-04T10:26:34.789199",
       "search_snippet": "Staff UI/UX Product Designer (USA/Europe - Remote) ... Lead the design process from concept to execution, including user research, wireframing, prototyping, ...",
       "search_title": "Staff UI/UX Product Designer (USA/Europe - Remote)",
       "anvesha_analysis": {
@@ -397,47 +397,27 @@
         "justification": "Analysis failed",
         "positioning_advice": "Could not analyze this job"
       },
-      "job_id": "6c8672bc68b95641",
+      "job_id": "048ae6dacbddad98",
       "days_old": 0
     },
     {
-      "title": "Staff Product Designer, Modern Compute",
-      "company": "Datadog",
+      "title": "Sr./Staff Product Designer, Growth @ Runway",
+      "company": "Runway Ml",
       "location": "N/A",
       "description": "",
-      "url": "https://boards.greenhouse.io/datadog/jobs/8094854",
-      "source": "greenhouse",
-      "posted_date": "2026-08-01T09:48:49.379759",
-      "scraped_at": "2026-08-01T09:48:49.379769",
-      "search_snippet": "Lead end-to-end product design for Modern Compute, initially focused on our Autoscaling product. ... If you would like to contact us regarding the ...",
-      "search_title": "Staff Product Designer, Modern Compute",
+      "url": "https://jobs.ashbyhq.com/runway-ml/28e151ac-cb29-4695-9041-a9e352624111",
+      "source": "ashby",
+      "posted_date": "2026-08-04T10:26:37.073915",
+      "scraped_at": "2026-08-04T10:26:37.073926",
+      "search_snippet": "Sr./Staff Product Designer, Growth. Location. Remote. Employment Type. Full time. Location Type. Remote. Department. Product Design. Compensation. $220K – $290K.",
+      "search_title": "Sr./Staff Product Designer, Growth @ Runway",
       "anvesha_analysis": {
         "fit_score": 0,
         "category": "Unknown",
         "justification": "Analysis failed",
         "positioning_advice": "Could not analyze this job"
       },
-      "job_id": "89ef9abdf24d538e",
-      "days_old": 0
-    },
-    {
-      "title": "UX Designer - Zipdev",
-      "company": "Zipdev",
-      "location": "N/A",
-      "description": "",
-      "url": "https://apply.workable.com/zipdev/j/B7A6D75C4E/",
-      "source": "workable",
-      "posted_date": "2026-08-01T09:48:51.450575",
-      "scraped_at": "2026-08-01T09:48:51.450585",
-      "search_snippet": "Conduct user research, stakeholder interviews, workflow analysis, and usability testing to identify opportunities for improving user experience. Translate ...",
-      "search_title": "UX Designer - Zipdev",
-      "anvesha_analysis": {
-        "fit_score": 0,
-        "category": "Unknown",
-        "justification": "Analysis failed",
-        "positioning_advice": "Could not analyze this job"
-      },
-      "job_id": "c7b32ef6a8731b11",
+      "job_id": "a452c0fc76cf0cfb",
       "days_old": 0
     },
     {
@@ -447,8 +427,8 @@
       "description": "",
       "url": "https://jobs.ashbyhq.com/saris-ai/16c0da5d-971b-4f4e-87b7-9c9012a4568e",
       "source": "ashby",
-      "posted_date": "2026-08-01T09:48:53.538042",
-      "scraped_at": "2026-08-01T09:48:53.538053",
+      "posted_date": "2026-08-04T10:26:39.211206",
+      "scraped_at": "2026-08-04T10:26:39.211218",
       "search_snippet": "Senior Product Designer ; Location. Canada; United States ; Address. Canada ; Employment Type. Full time ; Location Type. Remote ; Department. Product Design.",
       "search_title": "Senior Product Designer @ Saris",
       "anvesha_analysis": {
@@ -461,14 +441,54 @@
       "days_old": 0
     },
     {
+      "title": "Staff Product Designer, Spend @ Airwallex",
+      "company": "Airwallex",
+      "location": "N/A",
+      "description": "",
+      "url": "https://jobs.ashbyhq.com/airwallex/ec6557d1-5953-49a9-9855-90dec51002fb",
+      "source": "ashby",
+      "posted_date": "2026-08-04T10:26:41.228893",
+      "scraped_at": "2026-08-04T10:26:41.228902",
+      "search_snippet": "Staff Product Designer, Spend. Location. US - San Francisco. Employment Type. Full time. Location Type. Hybrid ...",
+      "search_title": "Staff Product Designer, Spend @ Airwallex",
+      "anvesha_analysis": {
+        "fit_score": 0,
+        "category": "Unknown",
+        "justification": "Analysis failed",
+        "positioning_advice": "Could not analyze this job"
+      },
+      "job_id": "bbccd7488363a56f",
+      "days_old": 0
+    },
+    {
+      "title": "UX/UI & Design Systems (Remote) - Pavago",
+      "company": "Pavago",
+      "location": "N/A",
+      "description": "",
+      "url": "https://apply.workable.com/pavago/j/6D7B854658",
+      "source": "workable",
+      "posted_date": "2026-08-04T10:26:43.290071",
+      "scraped_at": "2026-08-04T10:26:43.290081",
+      "search_snippet": "At Pavago, one of our clients is hiring a Product Designer (UX/UI) to own the end-to-end user experience across modern web and mobile SaaS applications. This ...",
+      "search_title": "UX/UI & Design Systems (Remote) - Pavago",
+      "anvesha_analysis": {
+        "fit_score": 0,
+        "category": "Unknown",
+        "justification": "Analysis failed",
+        "positioning_advice": "Could not analyze this job"
+      },
+      "job_id": "eab3675d66441993",
+      "days_old": 0
+    },
+    {
       "title": "Product Designer - US EST Hours @ MultiplyMii",
       "company": "Multiplymii",
       "location": "N/A",
       "description": "",
       "url": "https://jobs.ashbyhq.com/multiplymii/79ea8868-a338-456e-9358-7a22c900aafe",
       "source": "ashby",
-      "posted_date": "2026-08-01T09:48:55.631950",
-      "scraped_at": "2026-08-01T09:48:55.631960",
+      "posted_date": "2026-08-04T10:26:45.405682",
+      "scraped_at": "2026-08-04T10:26:45.405693",
       "search_snippet": "This role combines industrial design, CAD modeling, mechanical product design, and manufacturing collaboration ... Product Designer - US EST Hours. Location.",
       "search_title": "Product Designer - US EST Hours @ MultiplyMii",
       "anvesha_analysis": {
@@ -479,32 +499,12 @@
       },
       "job_id": "4171e94778770ff2",
       "days_old": 0
-    },
-    {
-      "title": "UX Researcher",
-      "company": "Netomi",
-      "location": "Toronto , Canada",
-      "description": "",
-      "url": "https://jobs.lever.co/netomi/17571499-2e18-4c7d-b526-fbdb0bb0f381",
-      "source": "lever",
-      "posted_date": "2026-08-01T09:48:57.912716",
-      "scraped_at": "2026-08-01T09:48:57.912732",
-      "search_snippet": "UX Researcher. Toronto , Canada. Product – Product Design /. Full ... If you would like more information about how your data is processed, please contact us.",
-      "search_title": "UX Researcher - Netomi",
-      "anvesha_analysis": {
-        "fit_score": 0,
-        "category": "Unknown",
-        "justification": "Analysis failed",
-        "positioning_advice": "Could not analyze this job"
-      },
-      "job_id": "7df871c001f10900",
-      "days_old": 0
     }
   ],
   "metadata": {
     "profile": "anvesha",
     "profile_display_name": "Anvesha",
-    "run_timestamp": "2026-08-01T09:47:48.895877",
+    "run_timestamp": "2026-08-04T10:25:32.633814",
     "trigger_type": "schedule",
     "total_searched": 25,
     "new_jobs_found": 25,
