@@ -1,92 +1,14 @@
 {
   "jobs": [
     {
-      "title": "Product Manager, Agentic AI Platform @ Reflection",
-      "company": "Reflectionai",
-      "location": "N/A",
-      "description": "",
-      "url": "https://jobs.ashbyhq.com/reflectionai/40a6a128-76f2-47d9-99f8-8e1547c3371b",
-      "source": "ashby",
-      "posted_date": "2026-07-25T09:25:38.923176",
-      "scraped_at": "2026-07-25T09:25:38.923189",
-      "search_snippet": "The Agentic AI Platform is Reflection's commercial offering, built on top of our open-weight models. As the Product Manager, you'll own this product end-to-end ...",
-      "search_title": "Product Manager, Agentic AI Platform @ Reflection",
-      "ai_analysis": {
-        "fit_score": 0,
-        "category": "Unknown",
-        "justification": "Analysis failed",
-        "positioning_advice": "Could not analyze this job"
-      },
-      "sustainability_analysis": {
-        "fit_score": 0,
-        "category": "Unknown",
-        "justification": "Analysis failed",
-        "positioning_advice": "Could not analyze this job"
-      },
-      "job_id": "bcfbbb5361c38bc6",
-      "days_old": 0
-    },
-    {
-      "title": "Director, Applied Machine Learning @ Handshake",
-      "company": "Handshake",
-      "location": "N/A",
-      "description": "",
-      "url": "https://jobs.ashbyhq.com/handshake/4acb4e8d-7c1b-4949-9d1f-631730a3bafc",
-      "source": "ashby",
-      "posted_date": "2026-07-25T09:25:41.097280",
-      "scraped_at": "2026-07-25T09:25:41.097292",
-      "search_snippet": "Handshake AI supports all of the frontier AI labs, working on their most complex data at the largest scale. About the Role. As Director of Applied ML, you'll ...",
-      "search_title": "Director, Applied Machine Learning @ Handshake",
-      "ai_analysis": {
-        "fit_score": 0,
-        "category": "Unknown",
-        "justification": "Analysis failed",
-        "positioning_advice": "Could not analyze this job"
-      },
-      "sustainability_analysis": {
-        "fit_score": 0,
-        "category": "Unknown",
-        "justification": "Analysis failed",
-        "positioning_advice": "Could not analyze this job"
-      },
-      "job_id": "5b871d09716ed603",
-      "days_old": 0
-    },
-    {
-      "title": "Senior Product Manager - AI Enablement @ Tremendous",
-      "company": "Tremendous",
-      "location": "N/A",
-      "description": "",
-      "url": "https://jobs.ashbyhq.com/tremendous/5f077153-5512-4390-a6b9-b9857e63ee49",
-      "source": "ashby",
-      "posted_date": "2026-07-25T09:25:43.211751",
-      "scraped_at": "2026-07-25T09:25:43.211761",
-      "search_snippet": "Deep, hands-on AI experience. You've shipped LLM-powered systems and you build with AI tools daily. You understand agents, evals, and where models fail.",
-      "search_title": "Senior Product Manager - AI Enablement @ Tremendous",
-      "ai_analysis": {
-        "fit_score": 0,
-        "category": "Unknown",
-        "justification": "Analysis failed",
-        "positioning_advice": "Could not analyze this job"
-      },
-      "sustainability_analysis": {
-        "fit_score": 0,
-        "category": "Unknown",
-        "justification": "Analysis failed",
-        "positioning_advice": "Could not analyze this job"
-      },
-      "job_id": "8f52601730cfeea3",
-      "days_old": 0
-    },
-    {
       "title": "Senior Product Manager (AI Agents) @ Traba",
       "company": "Traba",
       "location": "N/A",
       "description": "",
-      "url": "https://jobs.ashbyhq.com/traba/77deeb75-bfe6-4682-8aa9-2d8276a53066",
+      "url": "https://jobs.ashbyhq.com/traba/d14c51fd-caf3-4c2f-87c6-344b7b36a9c2",
       "source": "ashby",
-      "posted_date": "2026-07-25T09:25:45.342481",
-      "scraped_at": "2026-07-25T09:25:45.342491",
+      "posted_date": "2026-08-08T08:26:25.229446",
+      "scraped_at": "2026-08-08T08:26:25.229456",
       "search_snippet": "What you'll bring · 5 – 7 years of experience as a Product Manager · Evidence of launching products from scratch and driving meaningful customer outcomes.",
       "search_title": "Senior Product Manager (AI Agents) @ Traba",
       "ai_analysis": {
@@ -101,20 +23,20 @@
         "justification": "Analysis failed",
         "positioning_advice": "Could not analyze this job"
       },
-      "job_id": "0681e2aba98c10e0",
+      "job_id": "2d482edb481c945f",
       "days_old": 0
     },
     {
-      "title": "AI Optimization Specialist, Support @ Vanta",
-      "company": "Vanta",
+      "title": "Group Product Manager @ C1",
+      "company": "C1",
       "location": "N/A",
       "description": "",
-      "url": "https://jobs.ashbyhq.com/vanta/f987d41a-d0e1-4260-9129-f64aee6122ae",
+      "url": "https://jobs.ashbyhq.com/c1/6e2aecbd-04fe-4f10-9002-dc89ec9f4f8b",
       "source": "ashby",
-      "posted_date": "2026-07-25T09:25:47.624662",
-      "scraped_at": "2026-07-25T09:25:47.624674",
-      "search_snippet": "This is a unique opportunity to shape the future of AI in support operations. You'll own the strategy, design, optimization, and performance tracking of our ...",
-      "search_title": "AI Optimization Specialist, Support @ Vanta",
+      "posted_date": "2026-08-08T08:26:27.377331",
+      "scraped_at": "2026-08-08T08:26:27.377341",
+      "search_snippet": "AI is fundamentally changing how software is built and how identity is managed. We're looking for a product manager who natively uses AI to improve product ...",
+      "search_title": "Group Product Manager @ C1",
       "ai_analysis": {
         "fit_score": 0,
         "category": "Unknown",
@@ -127,20 +49,20 @@
         "justification": "Analysis failed",
         "positioning_advice": "Could not analyze this job"
       },
-      "job_id": "4b29cbf0260137e2",
+      "job_id": "955fb3444eb15b33",
       "days_old": 0
     },
     {
-      "title": "Product Manager, ML Research - About Suno",
-      "company": "Suno",
+      "title": "Principal Product Manager, AI Platform @ Angi",
+      "company": "Angi",
       "location": "N/A",
       "description": "",
-      "url": "https://jobs.ashbyhq.com/suno/6d3fe0a1-6d85-4e72-abe9-09f782cb13c2",
+      "url": "https://jobs.ashbyhq.com/angi/59a468ef-aef4-41a1-8bf2-5c920524e5d0",
       "source": "ashby",
-      "posted_date": "2026-07-25T09:25:49.727543",
-      "scraped_at": "2026-07-25T09:25:49.727552",
-      "search_snippet": "Product Manager, ML Research. Location. Boston; San Francisco. Employment Type ... Experience partnering closely with machine learning researchers, model training ...",
-      "search_title": "Product Manager, ML Research - About Suno",
+      "posted_date": "2026-08-08T08:26:29.679286",
+      "scraped_at": "2026-08-08T08:26:29.679296",
+      "search_snippet": "Principal Product Manager, AI Platform. Location. Remote - United States ... LLM & ML Serving Infrastructure: Own the production path self-hosted LLM ...",
+      "search_title": "Principal Product Manager, AI Platform @ Angi",
       "ai_analysis": {
         "fit_score": 0,
         "category": "Unknown",
@@ -153,85 +75,7 @@
         "justification": "Analysis failed",
         "positioning_advice": "Could not analyze this job"
       },
-      "job_id": "1a898a8dfea5cd43",
-      "days_old": 0
-    },
-    {
-      "title": "Strategy Consultant - AI Trainer - Freelance - 8-20 hrs/week",
-      "company": "10Xteam",
-      "location": "N/A",
-      "description": "",
-      "url": "https://jobs.ashbyhq.com/10xteam/07e8767c-cb11-41e2-9e5c-10bc7dd9e5a8",
-      "source": "ashby",
-      "posted_date": "2026-07-25T09:25:52.455998",
-      "scraped_at": "2026-07-25T09:25:52.456008",
-      "search_snippet": "Are you an experienced Strategy Consultant passionate about the future of artificial intelligence? Join 10x Team as a Freelance Strategy Consultant – AI ...",
-      "search_title": "Strategy Consultant - AI Trainer - Freelance - 8-20 hrs/week",
-      "ai_analysis": {
-        "fit_score": 0,
-        "category": "Unknown",
-        "justification": "Analysis failed",
-        "positioning_advice": "Could not analyze this job"
-      },
-      "sustainability_analysis": {
-        "fit_score": 0,
-        "category": "Unknown",
-        "justification": "Analysis failed",
-        "positioning_advice": "Could not analyze this job"
-      },
-      "job_id": "9228f110c78e7e1b",
-      "days_old": 0
-    },
-    {
-      "title": "GTM Strategy Associate, AI Product @ Mangomint",
-      "company": "Mangomint",
-      "location": "N/A",
-      "description": "",
-      "url": "https://jobs.ashbyhq.com/mangomint/9414f8a1-0981-4ee9-8c81-b585523eb624",
-      "source": "ashby",
-      "posted_date": "2026-07-25T09:25:54.563277",
-      "scraped_at": "2026-07-25T09:25:54.563287",
-      "search_snippet": "You will shape the product's early go-to-market strategy—from customer discovery and positioning through onboarding, activation, adoption, and ongoing learning.",
-      "search_title": "GTM Strategy Associate, AI Product @ Mangomint",
-      "ai_analysis": {
-        "fit_score": 0,
-        "category": "Unknown",
-        "justification": "Analysis failed",
-        "positioning_advice": "Could not analyze this job"
-      },
-      "sustainability_analysis": {
-        "fit_score": 0,
-        "category": "Unknown",
-        "justification": "Analysis failed",
-        "positioning_advice": "Could not analyze this job"
-      },
-      "job_id": "cd23902679c09887",
-      "days_old": 0
-    },
-    {
-      "title": "Senior Product Manager, Voice Agent @ Maven AGI",
-      "company": "Maven Agi",
-      "location": "N/A",
-      "description": "",
-      "url": "https://jobs.ashbyhq.com/maven-agi/3b597c7a-9ffc-4a30-a7fb-69969fd9aa65",
-      "source": "ashby",
-      "posted_date": "2026-07-25T09:25:56.717568",
-      "scraped_at": "2026-07-25T09:25:56.717578",
-      "search_snippet": "We are building Maven to deliver better, cheaper support, for both end users and agents. With recent advancements in Generative AI, it is now possible to ...",
-      "search_title": "Senior Product Manager, Voice Agent @ Maven AGI",
-      "ai_analysis": {
-        "fit_score": 0,
-        "category": "Unknown",
-        "justification": "Analysis failed",
-        "positioning_advice": "Could not analyze this job"
-      },
-      "sustainability_analysis": {
-        "fit_score": 0,
-        "category": "Unknown",
-        "justification": "Analysis failed",
-        "positioning_advice": "Could not analyze this job"
-      },
-      "job_id": "498d038ab4c507de",
+      "job_id": "ce9b09ecd7993240",
       "days_old": 0
     },
     {
@@ -241,8 +85,8 @@
       "description": "",
       "url": "https://jobs.ashbyhq.com/hippocratic%20ai/d7e7b8ec-aa76-4818-823f-aea889930c84",
       "source": "ashby",
-      "posted_date": "2026-07-25T09:25:58.839955",
-      "scraped_at": "2026-07-25T09:25:58.839966",
+      "posted_date": "2026-08-08T08:26:31.854205",
+      "scraped_at": "2026-08-08T08:26:31.854214",
       "search_snippet": "Hippocratic AI is developing the first safety-focused Large Language Model (LLM) for healthcare. Our mission is to dramatically improve healthcare accessibility ...",
       "search_title": "Lead Business Data Analyst @ Hippocratic AI",
       "ai_analysis": {
@@ -261,16 +105,16 @@
       "days_old": 0
     },
     {
-      "title": "Applied AI Consultant @ Omnea",
-      "company": "Omnea",
+      "title": "Senior Principal Product Manager, AI & Agent Platform",
+      "company": "Docker",
       "location": "N/A",
       "description": "",
-      "url": "https://jobs.ashbyhq.com/omnea/aa8a4c0b-81b8-4728-8298-c31dda48190a",
+      "url": "https://jobs.ashbyhq.com/docker/ec1eeb85-73bd-4956-bb67-93e0c42958e2?embed=js",
       "source": "ashby",
-      "posted_date": "2026-07-25T09:26:01.000723",
-      "scraped_at": "2026-07-25T09:26:01.000733",
-      "search_snippet": "As an Applied AI Consultant, you'll work directly with our most strategic customers to understand their objectives and key challenges, identify high-impact AI ...",
-      "search_title": "Applied AI Consultant @ Omnea",
+      "posted_date": "2026-08-08T08:26:34.106851",
+      "scraped_at": "2026-08-08T08:26:34.106861",
+      "search_snippet": "Senior Principal Product Manager, AI & Agent Platform. Location. United States ... Experience with AI/ML developer tooling or the agentic AI ecosystem.",
+      "search_title": "Senior Principal Product Manager, AI & Agent Platform",
       "ai_analysis": {
         "fit_score": 0,
         "category": "Unknown",
@@ -283,20 +127,20 @@
         "justification": "Analysis failed",
         "positioning_advice": "Could not analyze this job"
       },
-      "job_id": "530c166a1581939c",
+      "job_id": "3e544d347e38b140",
       "days_old": 0
     },
     {
-      "title": "Senior AI Product Manager @ Saris",
-      "company": "Saris Ai",
+      "title": "Product Manager, AI Revenue Systems @ Ramp",
+      "company": "Ramp",
       "location": "N/A",
       "description": "",
-      "url": "https://jobs.ashbyhq.com/saris-ai/813d2494-73b7-4c78-a46a-8413bbfbcf4d",
+      "url": "https://jobs.ashbyhq.com/ramp/4e9886c1-134b-4cc7-9bcf-eb56bd0ca71f",
       "source": "ashby",
-      "posted_date": "2026-07-25T09:26:03.115807",
-      "scraped_at": "2026-07-25T09:26:03.115817",
-      "search_snippet": "We're looking for our next rockstar— AI Product Manager focused on Implementation and Onboarding to lead AI transformation in the back office of Banks/ Credit ...",
-      "search_title": "Senior AI Product Manager @ Saris",
+      "posted_date": "2026-08-08T08:26:36.121342",
+      "scraped_at": "2026-08-08T08:26:36.121350",
+      "search_snippet": "This role partners closely with Engineering, Data Science, Design, Finance, and Sales leadership. What You'll Do. Build for GTM Teams. Own the agentic tooling ...",
+      "search_title": "Product Manager, AI Revenue Systems @ Ramp",
       "ai_analysis": {
         "fit_score": 0,
         "category": "Unknown",
@@ -309,7 +153,163 @@
         "justification": "Analysis failed",
         "positioning_advice": "Could not analyze this job"
       },
-      "job_id": "e8e9ed966a9fea6a",
+      "job_id": "4f7a03f44571f952",
+      "days_old": 0
+    },
+    {
+      "title": "Staff Product Manager, Agentic Experiences (Former ...",
+      "company": "Deepgram",
+      "location": "N/A",
+      "description": "",
+      "url": "https://jobs.ashbyhq.com/deepgram/17f95148-fa1c-4c34-82c8-333589bef789",
+      "source": "ashby",
+      "posted_date": "2026-08-08T08:26:38.445121",
+      "scraped_at": "2026-08-08T08:26:38.445129",
+      "search_snippet": "Staff Product Manager, Agentic Experiences (Former Engineer). Location. USA | Remote. Employment Type. Full time. Location Type. Remote. Department. Product ...",
+      "search_title": "Staff Product Manager, Agentic Experiences (Former ...",
+      "ai_analysis": {
+        "fit_score": 0,
+        "category": "Unknown",
+        "justification": "Analysis failed",
+        "positioning_advice": "Could not analyze this job"
+      },
+      "sustainability_analysis": {
+        "fit_score": 0,
+        "category": "Unknown",
+        "justification": "Analysis failed",
+        "positioning_advice": "Could not analyze this job"
+      },
+      "job_id": "f349fdad9b2bebaf",
+      "days_old": 0
+    },
+    {
+      "title": "GTM Strategy Associate, AI Product @ Mangomint",
+      "company": "Mangomint",
+      "location": "N/A",
+      "description": "",
+      "url": "https://jobs.ashbyhq.com/mangomint/9414f8a1-0981-4ee9-8c81-b585523eb624",
+      "source": "ashby",
+      "posted_date": "2026-08-08T08:26:40.680141",
+      "scraped_at": "2026-08-08T08:26:40.680149",
+      "search_snippet": "You will shape the product's early go-to-market strategy—from customer discovery and positioning through onboarding, activation, adoption, and ongoing learning.",
+      "search_title": "GTM Strategy Associate, AI Product @ Mangomint",
+      "ai_analysis": {
+        "fit_score": 0,
+        "category": "Unknown",
+        "justification": "Analysis failed",
+        "positioning_advice": "Could not analyze this job"
+      },
+      "sustainability_analysis": {
+        "fit_score": 0,
+        "category": "Unknown",
+        "justification": "Analysis failed",
+        "positioning_advice": "Could not analyze this job"
+      },
+      "job_id": "cd23902679c09887",
+      "days_old": 0
+    },
+    {
+      "title": "Principal Product Manager (AI Team) @ splose",
+      "company": "Splose",
+      "location": "N/A",
+      "description": "",
+      "url": "https://jobs.ashbyhq.com/splose/99c6c61d-3f83-4f34-9d76-ce103ad3aa80",
+      "source": "ashby",
+      "posted_date": "2026-08-08T08:26:42.974796",
+      "scraped_at": "2026-08-08T08:26:42.974805",
+      "search_snippet": "At splose, you'll lead our AI strategy with a primary focus on our clinical notes and documentation product features. You'll define and drive the roadmap for AI ...",
+      "search_title": "Principal Product Manager (AI Team) @ splose",
+      "ai_analysis": {
+        "fit_score": 0,
+        "category": "Unknown",
+        "justification": "Analysis failed",
+        "positioning_advice": "Could not analyze this job"
+      },
+      "sustainability_analysis": {
+        "fit_score": 0,
+        "category": "Unknown",
+        "justification": "Analysis failed",
+        "positioning_advice": "Could not analyze this job"
+      },
+      "job_id": "022e787f8769a897",
+      "days_old": 0
+    },
+    {
+      "title": "Director, Product Management - AI Platform & Data",
+      "company": "Surveymonkey",
+      "location": "N/A",
+      "description": "",
+      "url": "https://jobs.ashbyhq.com/surveymonkey/46be4714-aed3-45a2-8c8f-5b1559d85d90",
+      "source": "ashby",
+      "posted_date": "2026-08-08T08:26:45.144605",
+      "scraped_at": "2026-08-08T08:26:45.144614",
+      "search_snippet": "Own the AI/ML platform layer, enabling AI capabilities across the product, in close partnership with LLM infrastructure and data science teams. Define and ...",
+      "search_title": "Director, Product Management - AI Platform & Data",
+      "ai_analysis": {
+        "fit_score": 0,
+        "category": "Unknown",
+        "justification": "Analysis failed",
+        "positioning_advice": "Could not analyze this job"
+      },
+      "sustainability_analysis": {
+        "fit_score": 0,
+        "category": "Unknown",
+        "justification": "Analysis failed",
+        "positioning_advice": "Could not analyze this job"
+      },
+      "job_id": "5dba78192183958b",
+      "days_old": 0
+    },
+    {
+      "title": "GTM Strategy Associate, AI Product @ Mangomint",
+      "company": "Mangomint",
+      "location": "N/A",
+      "description": "",
+      "url": "https://jobs.ashbyhq.com/mangomint/9414f8a1-0981-4ee9-8c81-b585523eb624",
+      "source": "ashby",
+      "posted_date": "2026-08-08T08:26:47.157423",
+      "scraped_at": "2026-08-08T08:26:47.157431",
+      "search_snippet": "You will shape the product's early go-to-market strategy—from customer discovery and positioning through onboarding, activation, adoption, and ongoing learning.",
+      "search_title": "GTM Strategy Associate, AI Product @ Mangomint",
+      "ai_analysis": {
+        "fit_score": 0,
+        "category": "Unknown",
+        "justification": "Analysis failed",
+        "positioning_advice": "Could not analyze this job"
+      },
+      "sustainability_analysis": {
+        "fit_score": 0,
+        "category": "Unknown",
+        "justification": "Analysis failed",
+        "positioning_advice": "Could not analyze this job"
+      },
+      "job_id": "cd23902679c09887",
+      "days_old": 0
+    },
+    {
+      "title": "Group Product Manager, AI & Clinical Intelligence",
+      "company": "Equip",
+      "location": "N/A",
+      "description": "",
+      "url": "https://jobs.ashbyhq.com/equip/b9c3d75f-73d7-4e86-af1f-fef4989e5084",
+      "source": "ashby",
+      "posted_date": "2026-08-08T08:26:49.413708",
+      "scraped_at": "2026-08-08T08:26:49.413718",
+      "search_snippet": "As Group Product Manager, AI & Clinical Intelligence, you will own the product strategy and roadmap for the AI-powered capabilities that support clinical care ...",
+      "search_title": "Group Product Manager, AI & Clinical Intelligence",
+      "ai_analysis": {
+        "fit_score": 0,
+        "category": "Unknown",
+        "justification": "Analysis failed",
+        "positioning_advice": "Could not analyze this job"
+      },
+      "sustainability_analysis": {
+        "fit_score": 0,
+        "category": "Unknown",
+        "justification": "Analysis failed",
+        "positioning_advice": "Could not analyze this job"
+      },
+      "job_id": "40e500b533e7932e",
       "days_old": 0
     },
     {
@@ -319,8 +319,8 @@
       "description": "",
       "url": "https://jobs.ashbyhq.com/surge-ai",
       "source": "ashby",
-      "posted_date": "2026-07-25T09:26:05.205578",
-      "scraped_at": "2026-07-25T09:26:05.205588",
+      "posted_date": "2026-08-08T08:26:51.608362",
+      "scraped_at": "2026-08-08T08:26:51.608371",
       "search_snippet": "Brand Strategist · Content Strategist · Corporate Communications Manager · Creative Director · Senior Growth & Lifecycle Marketing Lead · Senior Growth Lead.",
       "search_title": "Surge AI",
       "ai_analysis": {
@@ -339,16 +339,16 @@
       "days_old": 0
     },
     {
-      "title": "Lead Product Manager @ ExTrac AI",
-      "company": "Extrac.Ai",
+      "title": "Senior Product Manager, AI @ Whoop",
+      "company": "Whoop",
       "location": "N/A",
       "description": "",
-      "url": "https://jobs.ashbyhq.com/extrac.ai/31209c39-bcc2-4023-bf47-e67e12c30eb7",
+      "url": "https://jobs.ashbyhq.com/whoop/676afb9d-abad-43c6-b894-6dc72ec7bf92",
       "source": "ashby",
-      "posted_date": "2026-07-25T09:26:07.326338",
-      "scraped_at": "2026-07-25T09:26:07.326349",
-      "search_snippet": "4+ years in product management, ideally in AI/ML, data science, or intelligence-related fields, with a proven track record of shipping complex products from ...",
-      "search_title": "Lead Product Manager @ ExTrac AI",
+      "posted_date": "2026-08-08T08:26:53.777571",
+      "scraped_at": "2026-08-08T08:26:53.777580",
+      "search_snippet": "WHOOP is hiring a Senior Product Manager to work at that layer, alongside our AI engineers, research scientists, and data scientists. The work spans how AI ...",
+      "search_title": "Senior Product Manager, AI @ Whoop",
       "ai_analysis": {
         "fit_score": 0,
         "category": "Unknown",
@@ -361,20 +361,20 @@
         "justification": "Analysis failed",
         "positioning_advice": "Could not analyze this job"
       },
-      "job_id": "62d6178ab2892db8",
+      "job_id": "91a4f2549abda188",
       "days_old": 0
     },
     {
-      "title": "Applied AI Transformation Manager - MENA @ Cognition",
-      "company": "Cognition",
+      "title": "Director, Product Management - AI Platform & Data",
+      "company": "Surveymonkey",
       "location": "N/A",
       "description": "",
-      "url": "https://jobs.ashbyhq.com/cognition/416528a8-2067-4bec-ac70-73d4ffa52290",
+      "url": "https://jobs.ashbyhq.com/surveymonkey/46be4714-aed3-45a2-8c8f-5b1559d85d90",
       "source": "ashby",
-      "posted_date": "2026-07-25T09:26:09.460700",
-      "scraped_at": "2026-07-25T09:26:09.460711",
-      "search_snippet": "Applied AI Transformation Managers are technically oriented strategic advisors and operators who ensure value alignment to our customer's most strategic ...",
-      "search_title": "Applied AI Transformation Manager - MENA @ Cognition",
+      "posted_date": "2026-08-08T08:26:55.792532",
+      "scraped_at": "2026-08-08T08:26:55.792540",
+      "search_snippet": "Own the AI/ML platform layer, enabling AI capabilities across the product, in close partnership with LLM infrastructure and data science teams. Define and ...",
+      "search_title": "Director, Product Management - AI Platform & Data",
       "ai_analysis": {
         "fit_score": 0,
         "category": "Unknown",
@@ -387,20 +387,20 @@
         "justification": "Analysis failed",
         "positioning_advice": "Could not analyze this job"
       },
-      "job_id": "aabc2e60a28d6f4c",
+      "job_id": "5dba78192183958b",
       "days_old": 0
     },
     {
-      "title": "Product Manager @ Hypha",
-      "company": "Hypha",
+      "title": "Senior Product Manager, AI @ Teamworks",
+      "company": "Teamworks",
       "location": "N/A",
       "description": "",
-      "url": "https://jobs.ashbyhq.com/hypha/7a7f4dea-d080-4628-96b2-c54ff3172b5b",
+      "url": "https://jobs.ashbyhq.com/teamworks/a137182f-abe7-4a76-8dac-5dc13b9aaf69",
       "source": "ashby",
-      "posted_date": "2026-07-25T09:26:11.597011",
-      "scraped_at": "2026-07-25T09:26:11.597021",
-      "search_snippet": "We're seeking an exceptional Product Manager to help define and scale the future of AI-powered asset management. You will own product direction across our ...",
-      "search_title": "Product Manager @ Hypha",
+      "posted_date": "2026-08-08T08:26:58.328947",
+      "scraped_at": "2026-08-08T08:26:58.328956",
+      "search_snippet": "Senior Product Manager, AI. Location. United States. Employment Type. Full time ... You've built proprietary models alongside applied ML and data science teams ...",
+      "search_title": "Senior Product Manager, AI @ Teamworks",
       "ai_analysis": {
         "fit_score": 0,
         "category": "Unknown",
@@ -413,20 +413,20 @@
         "justification": "Analysis failed",
         "positioning_advice": "Could not analyze this job"
       },
-      "job_id": "6352478c2456a486",
+      "job_id": "2f2f45e8a06080dc",
       "days_old": 0
     },
     {
-      "title": "Senior Product Manager - AI @ Delinea",
-      "company": "Delinea",
+      "title": "Senior Product Manager - Field AI @ Homebound",
+      "company": "Homebound",
       "location": "N/A",
       "description": "",
-      "url": "https://jobs.ashbyhq.com/delinea/b565f518-fcd8-4742-9712-07ad2f118e08",
+      "url": "https://jobs.ashbyhq.com/homebound/5a86293f-1bd3-4125-b568-410bdf9e974c",
       "source": "ashby",
-      "posted_date": "2026-07-25T09:26:13.874819",
-      "scraped_at": "2026-07-25T09:26:13.874829",
-      "search_snippet": "Delinea is seeking a Senior AI Product Manager to lead both internal ... Experience: 5+ years in product management, preferably in AI/ML, cybersecurity, identity, ...",
-      "search_title": "Senior Product Manager - AI @ Delinea",
+      "posted_date": "2026-08-08T08:27:00.588865",
+      "scraped_at": "2026-08-08T08:27:00.588874",
+      "search_snippet": "A track record of shipping applied AI products - computer vision, multimodal, LLM/agent-based, or ML systems - that took meaningful action or made decisions in ...",
+      "search_title": "Senior Product Manager - Field AI @ Homebound",
       "ai_analysis": {
         "fit_score": 0,
         "category": "Unknown",
@@ -439,20 +439,20 @@
         "justification": "Analysis failed",
         "positioning_advice": "Could not analyze this job"
       },
-      "job_id": "27f0eedc978fe92f",
+      "job_id": "60de38b1ad2ea5a2",
       "days_old": 0
     },
     {
-      "title": "Strategy & Operations Manager @ Coram AI",
-      "company": "Coram Ai",
+      "title": "Director, AI Strategy & Transformation @ ButterflyMX",
+      "company": "Butterflymx",
       "location": "N/A",
       "description": "",
-      "url": "https://jobs.ashbyhq.com/coram-ai/43fc67eb-e769-4556-bc76-4efb885df7f8",
+      "url": "https://jobs.ashbyhq.com/butterflymx/3834c6df-0292-4c85-b035-c16fb1f22541?embed=js",
       "source": "ashby",
-      "posted_date": "2026-07-25T09:26:15.985460",
-      "scraped_at": "2026-07-25T09:26:15.985471",
-      "search_snippet": "At Coram AI, we're. Our cloud-native platform uses computer vision and AI to help businesses stay safe, make smarter decisions, and move faster;",
-      "search_title": "Strategy & Operations Manager @ Coram AI",
+      "posted_date": "2026-08-08T08:27:02.824947",
+      "scraped_at": "2026-08-08T08:27:02.824956",
+      "search_snippet": "We are seeking to hire a Director of AI Strategy & Transformation to lead our company's evolution into an AI-enabled organization. The role is responsible for ...",
+      "search_title": "Director, AI Strategy & Transformation @ ButterflyMX",
       "ai_analysis": {
         "fit_score": 0,
         "category": "Unknown",
@@ -465,20 +465,20 @@
         "justification": "Analysis failed",
         "positioning_advice": "Could not analyze this job"
       },
-      "job_id": "1b8b4ab9cd4fd842",
+      "job_id": "8397381c1e3a1eeb",
       "days_old": 0
     },
     {
-      "title": "Director of Analytics & Business Intelligence @ Horizon3 AI",
-      "company": "Horizon3Ai",
+      "title": "Product Manager, Agent Development (Spanish speaking)",
+      "company": "Sierra",
       "location": "N/A",
       "description": "",
-      "url": "https://jobs.ashbyhq.com/horizon3ai/5255f419-5375-49f9-878b-dd3d5aeca25a",
+      "url": "https://jobs.ashbyhq.com/Sierra/9b94e279-5869-4a33-b50f-9aa01ff61a22",
       "source": "ashby",
-      "posted_date": "2026-07-25T09:26:18.029102",
-      "scraped_at": "2026-07-25T09:26:18.029113",
-      "search_snippet": "Horizon3.ai is in search of a highly motivated and technically skilled Director of Analytics & Business Intelligence to lead a dynamic team of BI analysts and ...",
-      "search_title": "Director of Analytics & Business Intelligence @ Horizon3 AI",
+      "posted_date": "2026-08-08T08:27:05.163441",
+      "scraped_at": "2026-08-08T08:27:05.163450",
+      "search_snippet": "Product Manager, Agent Development (Spanish speaking) ; Location. San Francisco, CA; New York, NY ; Employment Type. Full time ; Location Type. On-site ; Department.",
+      "search_title": "Product Manager, Agent Development (Spanish speaking)",
       "ai_analysis": {
         "fit_score": 0,
         "category": "Unknown",
@@ -491,20 +491,20 @@
         "justification": "Analysis failed",
         "positioning_advice": "Could not analyze this job"
       },
-      "job_id": "aabf8ddf2d94f88e",
+      "job_id": "32231721ad780757",
       "days_old": 0
     },
     {
-      "title": "Staff Product Manager - AI (Data & Analytics) @ Pearly",
-      "company": "Pearlyplan",
+      "title": "Director, AI Transformation @ Qualified Health PBC",
+      "company": "Qualified Health Pbc",
       "location": "N/A",
       "description": "",
-      "url": "https://jobs.ashbyhq.com/pearlyplan/40df5264-603d-42ef-9326-7e7bfbbfab38?embed=js",
+      "url": "https://jobs.ashbyhq.com/qualified-health-pbc/9e2435b9-9cf0-4629-975c-077efa5755f0",
       "source": "ashby",
-      "posted_date": "2026-07-25T09:26:20.121049",
-      "scraped_at": "2026-07-25T09:26:20.121060",
-      "search_snippet": "We're hiring a Staff Product Manager to own AI at Pearly, built on the ... Agentic: AI that doesn't stop at the insight but takes action on the ...",
-      "search_title": "Staff Product Manager - AI (Data & Analytics) @ Pearly",
+      "posted_date": "2026-08-08T08:27:07.318655",
+      "scraped_at": "2026-08-08T08:27:07.318665",
+      "search_snippet": "The Director, AI Transformation will be the primary point of contact for 2-3 key clients, attending all meetings, and coordinating action items between clients ...",
+      "search_title": "Director, AI Transformation @ Qualified Health PBC",
       "ai_analysis": {
         "fit_score": 0,
         "category": "Unknown",
@@ -517,20 +517,20 @@
         "justification": "Analysis failed",
         "positioning_advice": "Could not analyze this job"
       },
-      "job_id": "cadc7fccb32c9cc0",
+      "job_id": "806273d9bbb903fc",
       "days_old": 0
     },
     {
-      "title": "Jerry.ai - Product Manager, Growth",
-      "company": "Jerry.Ai",
+      "title": "Product Manager, Agent Development (Spanish speaking)",
+      "company": "Sierra",
       "location": "N/A",
       "description": "",
-      "url": "https://jobs.ashbyhq.com/jerry.ai/963f58b8-fed0-4bb3-a753-c77c52d36acd",
+      "url": "https://jobs.ashbyhq.com/Sierra/9b94e279-5869-4a33-b50f-9aa01ff61a22",
       "source": "ashby",
-      "posted_date": "2026-07-25T09:26:22.231100",
-      "scraped_at": "2026-07-25T09:26:22.231111",
-      "search_snippet": "Phase 1: In your first few months, your job is to learn how to be a product manager and develop a deep, ground-level understanding of how our funnels perform.",
-      "search_title": "Jerry.ai - Product Manager, Growth",
+      "posted_date": "2026-08-08T08:27:09.332176",
+      "scraped_at": "2026-08-08T08:27:09.332183",
+      "search_snippet": "Product Manager, Agent Development (Spanish speaking) ; Location. San Francisco, CA; New York, NY ; Employment Type. Full time ; Location Type. On-site ; Department.",
+      "search_title": "Product Manager, Agent Development (Spanish speaking)",
       "ai_analysis": {
         "fit_score": 0,
         "category": "Unknown",
@@ -543,20 +543,20 @@
         "justification": "Analysis failed",
         "positioning_advice": "Could not analyze this job"
       },
-      "job_id": "b92b27c7f759da44",
+      "job_id": "32231721ad780757",
       "days_old": 0
     },
     {
-      "title": "Director of Marketing, Enterprise AI @ Handshake",
-      "company": "Handshake",
+      "title": "Director, AI Transformation @ Qualified Health PBC",
+      "company": "Qualified Health Pbc",
       "location": "N/A",
       "description": "",
-      "url": "https://jobs.ashbyhq.com/handshake/1241e731-fb60-433a-984a-76ad4ad752e0",
+      "url": "https://jobs.ashbyhq.com/qualified-health-pbc/9e2435b9-9cf0-4629-975c-077efa5755f0",
       "source": "ashby",
-      "posted_date": "2026-07-25T09:26:24.505302",
-      "scraped_at": "2026-07-25T09:26:24.505312",
-      "search_snippet": "Director of Marketing, Enterprise AI ; Location. San Francisco, CA ; Employment Type. Full time ; Location Type. On-site ; Department. Marketing ; Compensation. $196 ...",
-      "search_title": "Director of Marketing, Enterprise AI @ Handshake",
+      "posted_date": "2026-08-08T08:27:11.345425",
+      "scraped_at": "2026-08-08T08:27:11.345434",
+      "search_snippet": "The Director, AI Transformation will be the primary point of contact for 2-3 key clients, attending all meetings, and coordinating action items between clients ...",
+      "search_title": "Director, AI Transformation @ Qualified Health PBC",
       "ai_analysis": {
         "fit_score": 0,
         "category": "Unknown",
@@ -569,20 +569,20 @@
         "justification": "Analysis failed",
         "positioning_advice": "Could not analyze this job"
       },
-      "job_id": "3bb0d5075d519827",
+      "job_id": "806273d9bbb903fc",
       "days_old": 0
     },
     {
-      "title": "Strategic Product Manager @ Surge AI",
-      "company": "Surge Ai",
+      "title": "SOX AI Specialist (Contractor) @ Fieldguide",
+      "company": "Fieldguide",
       "location": "N/A",
       "description": "",
-      "url": "https://jobs.ashbyhq.com/surge-ai/7cb3f562-487a-4834-98a5-47affd444aa2",
+      "url": "https://jobs.ashbyhq.com/fieldguide/0b8a4c96-1123-43b6-813f-ef7b4b2e3cc0",
       "source": "ashby",
-      "posted_date": "2026-07-25T09:26:26.761608",
-      "scraped_at": "2026-07-25T09:26:26.761619",
-      "search_snippet": "... Product Manager at Surge, you'll lead initiatives that directly impact ... Deep interest in AI systems (direct AI/ML experience valued but not required) ...",
-      "search_title": "Strategic Product Manager @ Surge AI",
+      "posted_date": "2026-08-08T08:27:13.585526",
+      "scraped_at": "2026-08-08T08:27:13.585535",
+      "search_snippet": "A high degree of comfort and hands-on experience using AI tools, writing prompts, and working with agentic harnesses. Comfort operating in ambiguity, testing ...",
+      "search_title": "SOX AI Specialist (Contractor) @ Fieldguide",
       "ai_analysis": {
         "fit_score": 0,
         "category": "Unknown",
@@ -595,20 +595,20 @@
         "justification": "Analysis failed",
         "positioning_advice": "Could not analyze this job"
       },
-      "job_id": "4b36278b341d5311",
+      "job_id": "fbbbbe0436b70fb9",
       "days_old": 0
     },
     {
-      "title": "Applied AI - Product Manager @ Callosum",
-      "company": "Callosum",
+      "title": "Senior Product Manager @ Berry AI",
+      "company": "Berry Ai",
       "location": "N/A",
       "description": "",
-      "url": "https://jobs.ashbyhq.com/callosum/a4be8211-1018-46e8-93d3-c4d90f66b223?locationId=2684382c-79e0-4363-92fe-986053d32c91",
+      "url": "https://jobs.ashbyhq.com/berry-ai/6349e8cf-8dfa-4e57-a264-72ac2fa41330",
       "source": "ashby",
-      "posted_date": "2026-07-25T09:26:28.933542",
-      "scraped_at": "2026-07-25T09:26:28.933552",
-      "search_snippet": "You will work closely with the researchers designing new agentic workflows, with our Applied AI engineers and benchmarking engineers who validate them in ...",
-      "search_title": "Applied AI - Product Manager @ Callosum",
+      "posted_date": "2026-08-08T08:27:15.747678",
+      "scraped_at": "2026-08-08T08:27:15.747687",
+      "search_snippet": "5+ years of product management experience, ideally in AI/ML, data platform environments. Bachelor's degree or above in Computer Science, Software Engineering, ...",
+      "search_title": "Senior Product Manager @ Berry AI",
       "ai_analysis": {
         "fit_score": 0,
         "category": "Unknown",
@@ -621,20 +621,20 @@
         "justification": "Analysis failed",
         "positioning_advice": "Could not analyze this job"
       },
-      "job_id": "31e24fc213c68079",
+      "job_id": "e75706e06f4245eb",
       "days_old": 0
     },
     {
-      "title": "AI Transformation Partner @ Pragmatico",
-      "company": "Pragmatico",
+      "title": "Director of Product Design, AI & Agentic Workflows @ Mural",
+      "company": "Mural",
       "location": "N/A",
       "description": "",
-      "url": "https://jobs.ashbyhq.com/pragmatico/b65d6ee8-7209-4186-a9cf-e0a754ce420f?embed=js",
+      "url": "https://jobs.ashbyhq.com/mural/add2aee4-6f83-4c42-a38c-53b3090ada0e",
       "source": "ashby",
-      "posted_date": "2026-07-25T09:26:31.046537",
-      "scraped_at": "2026-07-25T09:26:31.046547",
-      "search_snippet": "As an AI Transformation Partner at Pragmatico, you own our client relationships and are accountable for what happens inside them: the strategy, the delivery, ...",
-      "search_title": "AI Transformation Partner @ Pragmatico",
+      "posted_date": "2026-08-08T08:27:17.915149",
+      "scraped_at": "2026-08-08T08:27:17.915158",
+      "search_snippet": "As the Director of Product Design, AI & Agentic Workflows you'll define what agent-native design means at Mural, then build the team and the pattern language to ...",
+      "search_title": "Director of Product Design, AI & Agentic Workflows @ Mural",
       "ai_analysis": {
         "fit_score": 0,
         "category": "Unknown",
@@ -647,14 +647,14 @@
         "justification": "Analysis failed",
         "positioning_advice": "Could not analyze this job"
       },
-      "job_id": "a1d684ad1080656d",
+      "job_id": "df4c20ca027084f8",
       "days_old": 0
     }
   ],
   "metadata": {
     "profile": "kartikey",
     "profile_display_name": "Kartikey",
-    "run_timestamp": "2026-07-25T09:24:56.894642",
+    "run_timestamp": "2026-08-08T08:25:34.505362",
     "trigger_type": "schedule",
     "total_searched": 25,
     "new_jobs_found": 25,
