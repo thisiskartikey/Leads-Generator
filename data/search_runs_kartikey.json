@@ -2,41 +2,6 @@
   "profile": "kartikey",
   "runs": [
     {
-      "timestamp": "2026-04-04T08:28:20.672583",
-      "trigger": "schedule",
-      "job_ids": [
-        "beb331cec128d514",
-        "12d551a82bf1ebd3",
-        "d736b2cfa9877b25",
-        "8ea29f94da6df549",
-        "73936f5ebb545d03",
-        "e0b493e703e8f59f",
-        "4cdf65643759915a",
-        "0532d56c6e74582e",
-        "d99d6397f0110a39",
-        "654705a2d1a866f4",
-        "73936f5ebb545d03",
-        "c6e94cdf0bf6c2c1",
-        "9dcf5661960890fd",
-        "064c31f2dc3c2785",
-        "586d8afa02fbccbf",
-        "4504d02b78202d44",
-        "98f8fd9e4e1045f3",
-        "7480b6a7c9bf2a7d",
-        "1ee6a6d5a62c8ac7",
-        "5fcb691183921baa",
-        "401fbb35429dec3b",
-        "9407b6cfb066aa7b",
-        "e1a6b7f1b9e0bd1e",
-        "77c220fa82807e07",
-        "d27fd7288f1a6791"
-      ],
-      "jobs_in_results": 25,
-      "total_searched": 25,
-      "new_jobs_found": 25,
-      "jobs_analyzed": 25
-    },
-    {
       "timestamp": "2026-04-07T08:50:44.598585",
       "trigger": "schedule",
       "job_ids": [
@@ -1039,7 +1004,42 @@
       "total_searched": 25,
       "new_jobs_found": 25,
       "jobs_analyzed": 25
+    },
+    {
+      "timestamp": "2026-08-18T08:20:51.385021",
+      "trigger": "schedule",
+      "job_ids": [
+        "c0bbf091016d4a9b",
+        "eea082194a19cd1c",
+        "955fb3444eb15b33",
+        "8397381c1e3a1eeb",
+        "a255e0b8519fb773",
+        "d2a689a4acff5feb",
+        "412a5792098d9df9",
+        "ce9b09ecd7993240",
+        "5dba78192183958b",
+        "f349fdad9b2bebaf",
+        "530c166a1581939c",
+        "fbbbbe0436b70fb9",
+        "25019468691267a0",
+        "caabae260c86ef3b",
+        "b74e88fd40b8fe7c",
+        "0b3fc4530f1aa688",
+        "e1e7c2e84680d4ee",
+        "37692285d3e9f8e0",
+        "7f0fc9eda7ed5109",
+        "af64ff9eaf833ebc",
+        "65d015437f335fa9",
+        "e133c164002be4ff",
+        "ece7e28d0dfdf8e0",
+        "9469083c522ea6e0",
+        "8c806e7415ee80fa"
+      ],
+      "jobs_in_results": 25,
+      "total_searched": 25,
+      "new_jobs_found": 25,
+      "jobs_analyzed": 25
     }
   ],
-  "last_updated": "2026-08-15T08:13:27.236866"
+  "last_updated": "2026-08-18T08:20:51.385021"
 }
