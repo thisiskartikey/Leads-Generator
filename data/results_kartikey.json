@@ -1,40 +1,14 @@
 {
   "jobs": [
     {
-      "title": "Senior Product Manager (AI Agents) @ Traba",
-      "company": "Traba",
-      "location": "N/A",
-      "description": "",
-      "url": "https://jobs.ashbyhq.com/traba/2d9194ef-b2dc-4662-8ebf-849b4b06aaff",
-      "source": "ashby",
-      "posted_date": "2026-08-18T08:21:16.892775",
-      "scraped_at": "2026-08-18T08:21:16.892789",
-      "search_snippet": "What you'll bring · 5 – 7 years of experience as a Product Manager · Evidence of launching products from scratch and driving meaningful customer outcomes.",
-      "search_title": "Senior Product Manager (AI Agents) @ Traba",
-      "ai_analysis": {
-        "fit_score": 0,
-        "category": "Unknown",
-        "justification": "Analysis failed",
-        "positioning_advice": "Could not analyze this job"
-      },
-      "sustainability_analysis": {
-        "fit_score": 0,
-        "category": "Unknown",
-        "justification": "Analysis failed",
-        "positioning_advice": "Could not analyze this job"
-      },
-      "job_id": "c0bbf091016d4a9b",
-      "days_old": 0
-    },
-    {
       "title": "AI Security Product Manager @ Arthur AI",
       "company": "Arthur Ai",
       "location": "N/A",
       "description": "",
       "url": "https://jobs.ashbyhq.com/arthur-ai/23bf3c81-fa8f-4b3e-bf73-b7be81d4074b",
       "source": "ashby",
-      "posted_date": "2026-08-18T08:21:18.949805",
-      "scraped_at": "2026-08-18T08:21:18.949817",
+      "posted_date": "2026-08-22T08:15:32.885724",
+      "scraped_at": "2026-08-22T08:15:32.885738",
       "search_snippet": "We're hiring a hands-on, experienced product manager to shape the future of the Arthur platform. This is a lead role reporting directly to executive leadership, ...",
       "search_title": "AI Security Product Manager @ Arthur AI",
       "ai_analysis": {
@@ -53,16 +27,16 @@
       "days_old": 0
     },
     {
-      "title": "Group Product Manager @ C1",
-      "company": "C1",
+      "title": "Senior Product Manager (AI Agents) @ Traba",
+      "company": "Traba",
       "location": "N/A",
       "description": "",
-      "url": "https://jobs.ashbyhq.com/c1/6e2aecbd-04fe-4f10-9002-dc89ec9f4f8b",
+      "url": "https://jobs.ashbyhq.com/traba/2fc7a885-69e6-4f2a-bc4c-767825983488",
       "source": "ashby",
-      "posted_date": "2026-08-18T08:21:21.111788",
-      "scraped_at": "2026-08-18T08:21:21.111800",
-      "search_snippet": "AI is fundamentally changing how software is built and how identity is managed. We're looking for a product manager who natively uses AI to improve product ...",
-      "search_title": "Group Product Manager @ C1",
+      "posted_date": "2026-08-22T08:15:35.064765",
+      "scraped_at": "2026-08-22T08:15:35.064776",
+      "search_snippet": "What you'll bring · 5 – 7 years of experience as a Product Manager · Evidence of launching products from scratch and driving meaningful customer outcomes.",
+      "search_title": "Senior Product Manager (AI Agents) @ Traba",
       "ai_analysis": {
         "fit_score": 0,
         "category": "Unknown",
@@ -75,59 +49,7 @@
         "justification": "Analysis failed",
         "positioning_advice": "Could not analyze this job"
       },
-      "job_id": "955fb3444eb15b33",
-      "days_old": 0
-    },
-    {
-      "title": "Director, AI Strategy & Transformation @ ButterflyMX",
-      "company": "Butterflymx",
-      "location": "N/A",
-      "description": "",
-      "url": "https://jobs.ashbyhq.com/butterflymx/3834c6df-0292-4c85-b035-c16fb1f22541?embed=js",
-      "source": "ashby",
-      "posted_date": "2026-08-18T08:21:23.285821",
-      "scraped_at": "2026-08-18T08:21:23.285832",
-      "search_snippet": "We are seeking to hire a Director of AI Strategy & Transformation to lead our company's evolution into an AI-enabled organization. The role is responsible for ...",
-      "search_title": "Director, AI Strategy & Transformation @ ButterflyMX",
-      "ai_analysis": {
-        "fit_score": 0,
-        "category": "Unknown",
-        "justification": "Analysis failed",
-        "positioning_advice": "Could not analyze this job"
-      },
-      "sustainability_analysis": {
-        "fit_score": 0,
-        "category": "Unknown",
-        "justification": "Analysis failed",
-        "positioning_advice": "Could not analyze this job"
-      },
-      "job_id": "8397381c1e3a1eeb",
-      "days_old": 0
-    },
-    {
-      "title": "AI Product Manager @ Freehand",
-      "company": "Freehand",
-      "location": "N/A",
-      "description": "",
-      "url": "https://jobs.ashbyhq.com/freehand/1f616b29-e36f-45be-ab6b-bc7a25bc8b6d",
-      "source": "ashby",
-      "posted_date": "2026-08-18T08:21:25.455459",
-      "scraped_at": "2026-08-18T08:21:25.455470",
-      "search_snippet": "... generative AI. What You'll Do - Own product vision, architecture, and ... As an AI Product Manager at Freehand- Teams for Business Spend Management ...",
-      "search_title": "AI Product Manager @ Freehand",
-      "ai_analysis": {
-        "fit_score": 0,
-        "category": "Unknown",
-        "justification": "Analysis failed",
-        "positioning_advice": "Could not analyze this job"
-      },
-      "sustainability_analysis": {
-        "fit_score": 0,
-        "category": "Unknown",
-        "justification": "Analysis failed",
-        "positioning_advice": "Could not analyze this job"
-      },
-      "job_id": "a255e0b8519fb773",
+      "job_id": "ff44f8889bdfb867",
       "days_old": 0
     },
     {
@@ -137,8 +59,8 @@
       "description": "",
       "url": "https://jobs.ashbyhq.com/prosper-ai/2dbe76ca-9c09-4879-9533-e1847bd31782",
       "source": "ashby",
-      "posted_date": "2026-08-18T08:21:27.644173",
-      "scraped_at": "2026-08-18T08:21:27.644185",
+      "posted_date": "2026-08-22T08:15:37.235682",
+      "scraped_at": "2026-08-22T08:15:37.235693",
       "search_snippet": "Join Prosper AI as an AI Product Manager to lead the creation and deployment of AI agents that automate core administrative workflows in US healthcare ...",
       "search_title": "AI Product Manager @ Prosper AI",
       "ai_analysis": {
@@ -163,8 +85,8 @@
       "description": "",
       "url": "https://jobs.ashbyhq.com/hopper/241f7145-06b9-4ae5-969e-3cccaff85d98",
       "source": "ashby",
-      "posted_date": "2026-08-18T08:21:29.823642",
-      "scraped_at": "2026-08-18T08:21:29.823653",
+      "posted_date": "2026-08-22T08:15:40.008781",
+      "scraped_at": "2026-08-22T08:15:40.008791",
       "search_snippet": "About the Role HTS Assist is Hopper's agentic AI assistant for travel, resolving real customer issues like flight changes ... Principal Product Manager- ...",
       "search_title": "Principal Product Manager- Conversational AI @ Hopper",
       "ai_analysis": {
@@ -183,66 +105,14 @@
       "days_old": 0
     },
     {
-      "title": "Principal Product Manager, AI Platform @ Angi",
-      "company": "Angi",
-      "location": "N/A",
-      "description": "",
-      "url": "https://jobs.ashbyhq.com/angi/59a468ef-aef4-41a1-8bf2-5c920524e5d0",
-      "source": "ashby",
-      "posted_date": "2026-08-18T08:21:32.056087",
-      "scraped_at": "2026-08-18T08:21:32.056098",
-      "search_snippet": "Principal Product Manager, AI Platform. Location. Remote - United States ... LLM & ML Serving Infrastructure: Own the production path self-hosted LLM ...",
-      "search_title": "Principal Product Manager, AI Platform @ Angi",
-      "ai_analysis": {
-        "fit_score": 0,
-        "category": "Unknown",
-        "justification": "Analysis failed",
-        "positioning_advice": "Could not analyze this job"
-      },
-      "sustainability_analysis": {
-        "fit_score": 0,
-        "category": "Unknown",
-        "justification": "Analysis failed",
-        "positioning_advice": "Could not analyze this job"
-      },
-      "job_id": "ce9b09ecd7993240",
-      "days_old": 0
-    },
-    {
-      "title": "Director, Product Management - AI Platform & Data",
-      "company": "Surveymonkey",
-      "location": "N/A",
-      "description": "",
-      "url": "https://jobs.ashbyhq.com/surveymonkey/46be4714-aed3-45a2-8c8f-5b1559d85d90",
-      "source": "ashby",
-      "posted_date": "2026-08-18T08:21:34.126747",
-      "scraped_at": "2026-08-18T08:21:34.126759",
-      "search_snippet": "Own the AI/ML platform layer, enabling AI capabilities across the product, in close partnership with LLM infrastructure and data science teams. Define and ...",
-      "search_title": "Director, Product Management - AI Platform & Data",
-      "ai_analysis": {
-        "fit_score": 0,
-        "category": "Unknown",
-        "justification": "Analysis failed",
-        "positioning_advice": "Could not analyze this job"
-      },
-      "sustainability_analysis": {
-        "fit_score": 0,
-        "category": "Unknown",
-        "justification": "Analysis failed",
-        "positioning_advice": "Could not analyze this job"
-      },
-      "job_id": "5dba78192183958b",
-      "days_old": 0
-    },
-    {
       "title": "Staff Product Manager, Agentic Experiences (Former ...",
       "company": "Deepgram",
       "location": "N/A",
       "description": "",
       "url": "https://jobs.ashbyhq.com/deepgram/17f95148-fa1c-4c34-82c8-333589bef789",
       "source": "ashby",
-      "posted_date": "2026-08-18T08:21:36.332268",
-      "scraped_at": "2026-08-18T08:21:36.332280",
+      "posted_date": "2026-08-22T08:15:42.197826",
+      "scraped_at": "2026-08-22T08:15:42.197835",
       "search_snippet": "Staff Product Manager, Agentic Experiences (Former Engineer). Location. USA | Remote. Employment Type. Full time. Location Type. Remote. Department. Product ...",
       "search_title": "Staff Product Manager, Agentic Experiences (Former ...",
       "ai_analysis": {
@@ -261,16 +131,16 @@
       "days_old": 0
     },
     {
-      "title": "Applied AI Consultant @ Omnea",
-      "company": "Omnea",
+      "title": "Director, Product Management - AI Platform & Data",
+      "company": "Surveymonkey",
       "location": "N/A",
       "description": "",
-      "url": "https://jobs.ashbyhq.com/omnea/aa8a4c0b-81b8-4728-8298-c31dda48190a",
+      "url": "https://jobs.ashbyhq.com/surveymonkey/46be4714-aed3-45a2-8c8f-5b1559d85d90",
       "source": "ashby",
-      "posted_date": "2026-08-18T08:21:38.551653",
-      "scraped_at": "2026-08-18T08:21:38.551664",
-      "search_snippet": "As an Applied AI Consultant, you'll work directly with our most strategic customers to understand their objectives and key challenges, identify high-impact AI ...",
-      "search_title": "Applied AI Consultant @ Omnea",
+      "posted_date": "2026-08-22T08:15:44.403804",
+      "scraped_at": "2026-08-22T08:15:44.403814",
+      "search_snippet": "Own the AI/ML platform layer, enabling AI capabilities across the product, in close partnership with LLM infrastructure and data science teams. Define and ...",
+      "search_title": "Director, Product Management - AI Platform & Data",
       "ai_analysis": {
         "fit_score": 0,
         "category": "Unknown",
@@ -283,7 +153,7 @@
         "justification": "Analysis failed",
         "positioning_advice": "Could not analyze this job"
       },
-      "job_id": "530c166a1581939c",
+      "job_id": "5dba78192183958b",
       "days_old": 0
     },
     {
@@ -293,8 +163,8 @@
       "description": "",
       "url": "https://jobs.ashbyhq.com/fieldguide/0b8a4c96-1123-43b6-813f-ef7b4b2e3cc0",
       "source": "ashby",
-      "posted_date": "2026-08-18T08:21:40.861943",
-      "scraped_at": "2026-08-18T08:21:40.861954",
+      "posted_date": "2026-08-22T08:15:46.713003",
+      "scraped_at": "2026-08-22T08:15:46.713013",
       "search_snippet": "A high degree of comfort and hands-on experience using AI tools, writing prompts, and working with agentic harnesses. Comfort operating in ambiguity, testing ...",
       "search_title": "SOX AI Specialist (Contractor) @ Fieldguide",
       "ai_analysis": {
@@ -313,16 +183,16 @@
       "days_old": 0
     },
     {
-      "title": "Strategic AI transformation lead (East) @ WRITER",
-      "company": "Writer",
+      "title": "AI Product Manager @ Freehand",
+      "company": "Freehand",
       "location": "N/A",
       "description": "",
-      "url": "https://jobs.ashbyhq.com/WRITER/ee584c39-d803-4536-8de7-a1b9872f46f6",
+      "url": "https://jobs.ashbyhq.com/freehand/1f616b29-e36f-45be-ab6b-bc7a25bc8b6d",
       "source": "ashby",
-      "posted_date": "2026-08-18T08:21:43.061672",
-      "scraped_at": "2026-08-18T08:21:43.061703",
-      "search_snippet": "You will report to the director of AI transformation and success. ‍♀️ What you'll do. Manage a portfolio of customers while leading ROI and value ...",
-      "search_title": "Strategic AI transformation lead (East) @ WRITER",
+      "posted_date": "2026-08-22T08:15:48.886807",
+      "scraped_at": "2026-08-22T08:15:48.886817",
+      "search_snippet": "... generative AI. What You'll Do - Own product vision, architecture, and ... As an AI Product Manager at Freehand- Teams for Business Spend Management ...",
+      "search_title": "AI Product Manager @ Freehand",
       "ai_analysis": {
         "fit_score": 0,
         "category": "Unknown",
@@ -335,20 +205,20 @@
         "justification": "Analysis failed",
         "positioning_advice": "Could not analyze this job"
       },
-      "job_id": "25019468691267a0",
+      "job_id": "a255e0b8519fb773",
       "days_old": 0
     },
     {
-      "title": "Director- Applied AI & Machine Learning (SME)",
-      "company": "3Cloud",
-      "location": "Remote - US",
-      "description": "Are you looking for a role that motivates and challenges you? Are you ready for an opportunity for growth? Do you want to work on teams where people roll up their sleeves to take on tough problems together, and regularly blow the doors off our clients with their outstanding teamwork? If you answered yes to those questions, 3Cloud might just be for you! At 3Cloud, we hire people who aren’t afraid to experiment or fail. We hire people who are willing to give direct and candid feedback to their managers, leaders, and team members. We hire people who jump at those opportunities because they care about our collective growth and success. We hire people who challenge and hold each other accountable for living 3Cloud’s core values because they know that it will result in amazing experiences and solutions for our clients and each other. Director, Applied AI & Machine Learning Responsibilities: Set direction as a technical evangelist and trusted advisor for clients, shaping early-stage AI and ML conversations into compelling solution visions built on the Microsoft platform. · Partner closely with sales and account teams to drive opportunity qualification, solution strategy, and deal closure for AI and ML engagements. · Take ownership of technical discoveries with clients to understand business priorities, decision criteria, and value drivers, translating them into winning Data & AI architectures. · Be accountable for the design and present AI and ML solutions that clearly articulate business outcomes, technical feasibility, and ROI. · Provide executive-level technical depth in Azure with depth in agentic architectures, machine learning, or AI to influence client stakeholders from practitioner to C-level. · Own end-to-end technical credibility throughout the sales cycle, including whiteboarding sessions, architecture reviews, proposals, and executive presentations. · Guide and mentor architects and data scientists to ensure solution consistency, technical excellence, and alignment with go-to-market strategy. · Identify and be accountable for opportunities to expand pipeline through innovation workshops, POVs, and targeted thought leadership aligned to Microsoft Data & AI offerings. · Ensure proposed solutions align with Microsoft best practices, security standards, and regulatory requirements. · Stay current on Microsoft Data & AI roadmaps and industry trends to continuously sharpen competitive positioning and client impact. · Lead the strategy and execution of relevant platform accelerators, reference architectures, and delivery playbooks. · Mentor, develop and motivate your team to lead pre-sales and subsequent delivery advisory efforts independently. Requirements: · 10+ years of experience in Data Science, AI, Data, or Analytics roles, with significant exposure to enterprise client environments. · Proven experience leading pre-sales or client-facing technical engagements, including discovery, solution design, and executive presentations. · Deep hands-on expertise with Microsoft Data & AI in at least one of Azure Data Services, Azure AI, Synapse/Fabric, Databricks on Azure. · Strong ability to translate complex technical capabilities into clear business value narratives that resonate with technical and non-technical stakeholders. · Demonstrated 1M$+ deal success partnering with sales and account teams to influence pipeline progression and close deals. · Executive presence with experience owning the C-suite engagement and lead the partnership with senior leaders as a trusted technical advisor. · Strong architectural mindset with the ability to design end-to-end Data & AI solutions aligned to client objectives, security, and governance needs. · Excellent communication skills, including whiteboarding, storytelling, and formal presentations. · Ability to work in a fast-paced environment. Don’t meet every single requirement? At 3Cloud we are dedicated to building a diverse, inclusive and authentic workplace, so if you’re excited about this role but your past experience doesn’t align perfectly with every qualification in the job description, we encourage you to apply anyway. At this time, we cannot sponsor applicants for work visas. 3Cloud Total Rewards Highlights Include: Flexible work location with a virtual first approach to work! 401(K) with match up to 50% of your 6% contributions of eligible pay Generous PTO providing a minimum of 15 days in addition to 9 paid company holidays and 2 floating personal days Two medical plan options to allow you the choice to elect what works best for you! Option for vision and dental coverage 100% employer paid coverage for life and disability insurance Paid leave for birth parents and non-birth parents Option for Healthcare FSA, HSA, and Dependent Care FSA $67.00 monthly tech and home office allowance Utilization and/or discretionary bonus eligibility based on role Employee Assistance Program to help with everyday challenges 3Cloud offers competitive compensation. In addition to base pay employees are eligible to receive an annual discretionary/utilization bonus. If you are hired at 3Cloud your final base salary is based on factors such as skills, education, experience and/or geographic location. Please keep in mind that the range mentioned above includes the full base salary range for the role. It is not typical for offers to be made at or near the top of the range. Base Salary Range $168,400 - $252,600 USD Don’t meet every single requirement? At 3Cloud we are dedicated to building a diverse, inclusive and authentic workplace, so if you’re excited about this role but your past experience doesn’t align perfectly with every qualification in the job description, we encourage you to apply anyway. At this time, we cannot sponsor applicants for work visas.",
-      "url": "https://boards.greenhouse.io/3cloud/jobs/8721891002",
-      "source": "greenhouse",
-      "posted_date": "2026-08-18T08:21:45.506725",
-      "scraped_at": "2026-08-18T08:21:45.507122",
-      "search_snippet": "Director, Applied AI & Machine Learning. Responsibilities: Set direction ... strategy, and deal closure for AI and ML engagements. · Take ownership of ...",
-      "search_title": "Director- Applied AI & Machine Learning (SME)",
+      "title": "Technical Program Manager, AI Delivery @ Cohere",
+      "company": "Cohere",
+      "location": "N/A",
+      "description": "",
+      "url": "https://jobs.ashbyhq.com/cohere/41cb2a12-e33a-4368-a9f8-0ae0d19c023e",
+      "source": "ashby",
+      "posted_date": "2026-08-22T08:15:50.981212",
+      "scraped_at": "2026-08-22T08:15:50.981223",
+      "search_snippet": "You have at least 5 years of experience as an Engineering or Technical Program Manager, with at least 2 years in customer-facing technical delivery and ...",
+      "search_title": "Technical Program Manager, AI Delivery @ Cohere",
       "ai_analysis": {
         "fit_score": 0,
         "category": "Unknown",
@@ -361,20 +231,20 @@
         "justification": "Analysis failed",
         "positioning_advice": "Could not analyze this job"
       },
-      "job_id": "caabae260c86ef3b",
+      "job_id": "2d0ea5ecb33c5530",
       "days_old": 0
     },
     {
-      "title": "Senior Product Manager, Integrations @ Maven AGI",
-      "company": "Maven Agi",
+      "title": "Revenue Strategy & Operations Manager (Insights & AI)",
+      "company": "Headway",
       "location": "N/A",
       "description": "",
-      "url": "https://jobs.ashbyhq.com/maven-agi/88bd1e0f-59ed-4894-a4af-3dbff0b579b7",
+      "url": "https://jobs.ashbyhq.com/headway/64998174-15cc-46e4-8a51-e67c131b94af",
       "source": "ashby",
-      "posted_date": "2026-08-18T08:21:47.565004",
-      "scraped_at": "2026-08-18T08:21:47.565016",
-      "search_snippet": "We are building Maven to deliver better, cheaper support, for both end users and agents. With recent advancements in Generative AI, it is now possible to ...",
-      "search_title": "Senior Product Manager, Integrations @ Maven AGI",
+      "posted_date": "2026-08-22T08:15:53.184168",
+      "scraped_at": "2026-08-22T08:15:53.184178",
+      "search_snippet": "We're hiring an Insights & AI Manager to be the analytical and AI backbone for CarePa and adjacent sales functions. partner strategy, and AI.",
+      "search_title": "Revenue Strategy & Operations Manager (Insights & AI)",
       "ai_analysis": {
         "fit_score": 0,
         "category": "Unknown",
@@ -387,20 +257,20 @@
         "justification": "Analysis failed",
         "positioning_advice": "Could not analyze this job"
       },
-      "job_id": "b74e88fd40b8fe7c",
+      "job_id": "3af1e0be748e9b30",
       "days_old": 0
     },
     {
-      "title": "Technical Product Manager @ Protex AI",
-      "company": "Protex%20Ai",
+      "title": "Jerry.ai - Product Manager, Growth",
+      "company": "Jerry.Ai",
       "location": "N/A",
       "description": "",
-      "url": "https://jobs.ashbyhq.com/Protex%20AI/0f4a61a8-020c-4a14-a6eb-49d29b17603c",
+      "url": "https://jobs.ashbyhq.com/jerry.ai/d2e0af1c-4647-4d15-a597-281dcd815f37",
       "source": "ashby",
-      "posted_date": "2026-08-18T08:21:49.913313",
-      "scraped_at": "2026-08-18T08:21:49.913325",
-      "search_snippet": "Technical Product Manager. ... AI technical depth: Deep understanding of the latest trends in B2B agentic ...",
-      "search_title": "Technical Product Manager @ Protex AI",
+      "posted_date": "2026-08-22T08:15:55.298962",
+      "scraped_at": "2026-08-22T08:15:55.298973",
+      "search_snippet": "Phase 1: In your first few months, your job is to learn how to be a product manager and develop a deep, ground-level understanding of how our funnels perform.",
+      "search_title": "Jerry.ai - Product Manager, Growth",
       "ai_analysis": {
         "fit_score": 0,
         "category": "Unknown",
@@ -413,20 +283,20 @@
         "justification": "Analysis failed",
         "positioning_advice": "Could not analyze this job"
       },
-      "job_id": "0b3fc4530f1aa688",
+      "job_id": "bf08ecd607713da5",
       "days_old": 0
     },
     {
-      "title": "Product Manager (AI Speech) @ Artificial Analysis, Inc.",
-      "company": "Artificialanalysis",
+      "title": "Product Manager, Agent Development (Spanish speaking)",
+      "company": "Sierra",
       "location": "N/A",
       "description": "",
-      "url": "https://jobs.ashbyhq.com/artificialanalysis/c5437ebc-ae37-43a8-9e8f-21e70249cbf5",
+      "url": "https://jobs.ashbyhq.com/Sierra/9b94e279-5869-4a33-b50f-9aa01ff61a22",
       "source": "ashby",
-      "posted_date": "2026-08-18T08:21:52.063391",
-      "scraped_at": "2026-08-18T08:21:52.063402",
-      "search_snippet": "Product Manager (AI Speech). Location. San Francisco (On-site). Employment Type. Full time. Location Type. On-site. Department. Technical Staff (incl. Product).",
-      "search_title": "Product Manager (AI Speech) @ Artificial Analysis, Inc.",
+      "posted_date": "2026-08-22T08:15:57.568621",
+      "scraped_at": "2026-08-22T08:15:57.568630",
+      "search_snippet": "Product Manager, Agent Development (Spanish speaking) ; Location. San Francisco, CA; New York, NY ; Employment Type. Full time ; Location Type. On-site ; Department.",
+      "search_title": "Product Manager, Agent Development (Spanish speaking)",
       "ai_analysis": {
         "fit_score": 0,
         "category": "Unknown",
@@ -439,59 +309,7 @@
         "justification": "Analysis failed",
         "positioning_advice": "Could not analyze this job"
       },
-      "job_id": "e1e7c2e84680d4ee",
-      "days_old": 0
-    },
-    {
-      "title": "Director, Data & AI (Hybrid) @ Homebase",
-      "company": "Homebase",
-      "location": "N/A",
-      "description": "",
-      "url": "https://jobs.ashbyhq.com/homebase/714f217d-297c-4a75-93f3-270df405b323",
-      "source": "ashby",
-      "posted_date": "2026-08-18T08:21:54.215828",
-      "scraped_at": "2026-08-18T08:21:54.215840",
-      "search_snippet": "We're looking for a Director, Data & AI to lead our Data Engineering, Data & ML Platform, Data Science, and Applied AI teams. You'll own the strategy, execution ...",
-      "search_title": "Director, Data & AI (Hybrid) @ Homebase",
-      "ai_analysis": {
-        "fit_score": 0,
-        "category": "Unknown",
-        "justification": "Analysis failed",
-        "positioning_advice": "Could not analyze this job"
-      },
-      "sustainability_analysis": {
-        "fit_score": 0,
-        "category": "Unknown",
-        "justification": "Analysis failed",
-        "positioning_advice": "Could not analyze this job"
-      },
-      "job_id": "37692285d3e9f8e0",
-      "days_old": 0
-    },
-    {
-      "title": "Technical Program Manager, Cloud AI Partnerships",
-      "company": "Openai",
-      "location": "N/A",
-      "description": "",
-      "url": "https://jobs.ashbyhq.com/openai/9a6a2f08-d4ef-400b-a765-48b7dab42cc9",
-      "source": "ashby",
-      "posted_date": "2026-08-18T08:21:56.300235",
-      "scraped_at": "2026-08-18T08:21:56.300246",
-      "search_snippet": "We are hiring a Technical Program Manager to support OpenAI's critical AI deployments across strategic cloud partners. ... Understand cloud architectures, AI/ML ...",
-      "search_title": "Technical Program Manager, Cloud AI Partnerships",
-      "ai_analysis": {
-        "fit_score": 0,
-        "category": "Unknown",
-        "justification": "Analysis failed",
-        "positioning_advice": "Could not analyze this job"
-      },
-      "sustainability_analysis": {
-        "fit_score": 0,
-        "category": "Unknown",
-        "justification": "Analysis failed",
-        "positioning_advice": "Could not analyze this job"
-      },
-      "job_id": "7f0fc9eda7ed5109",
+      "job_id": "32231721ad780757",
       "days_old": 0
     },
     {
@@ -501,8 +319,8 @@
       "description": "",
       "url": "https://jobs.ashbyhq.com/furtherai/ea2179a9-b034-4f68-bce9-45b13032e10e?embed=js",
       "source": "ashby",
-      "posted_date": "2026-08-18T08:21:58.510210",
-      "scraped_at": "2026-08-18T08:21:58.510222",
+      "posted_date": "2026-08-22T08:15:59.741729",
+      "scraped_at": "2026-08-22T08:15:59.741739",
       "search_snippet": "By combining frontier agentic AI with deep domain expertise, we're reshaping ... Product Manager to own product alongside the founders, define what we ...",
       "search_title": "Founding Technical Product Manager @ FurtherAI",
       "ai_analysis": {
@@ -521,16 +339,16 @@
       "days_old": 0
     },
     {
-      "title": "Director/Sr. Manager, AI Inference Model Scaling",
-      "company": "Cerebras",
+      "title": "Director, Data & AI (Hybrid) @ Homebase",
+      "company": "Homebase",
       "location": "N/A",
       "description": "",
-      "url": "https://jobs.ashbyhq.com/cerebras/3fb6d1f7-a45c-4827-87ac-e0f7944b6350",
+      "url": "https://jobs.ashbyhq.com/homebase/714f217d-297c-4a75-93f3-270df405b323",
       "source": "ashby",
-      "posted_date": "2026-08-18T08:22:00.689437",
-      "scraped_at": "2026-08-18T08:22:00.689448",
-      "search_snippet": "You will lead the engineering organization responsible for ML model compilation and optimization as well as development of high-performance kernels. This role ...",
-      "search_title": "Director/Sr. Manager, AI Inference Model Scaling",
+      "posted_date": "2026-08-22T08:16:01.943275",
+      "scraped_at": "2026-08-22T08:16:01.943285",
+      "search_snippet": "We're looking for a Director, Data & AI to lead our Data Engineering, Data & ML Platform, Data Science, and Applied AI teams. You'll own the strategy, execution ...",
+      "search_title": "Director, Data & AI (Hybrid) @ Homebase",
       "ai_analysis": {
         "fit_score": 0,
         "category": "Unknown",
@@ -543,20 +361,20 @@
         "justification": "Analysis failed",
         "positioning_advice": "Could not analyze this job"
       },
-      "job_id": "65d015437f335fa9",
+      "job_id": "37692285d3e9f8e0",
       "days_old": 0
     },
     {
-      "title": "Product Manager (AI Hardware) @ Artificial Analysis, Inc.",
-      "company": "Artificialanalysis",
+      "title": "Revenue Strategy & Operations Manager (Insights & AI)",
+      "company": "Headway",
       "location": "N/A",
       "description": "",
-      "url": "https://jobs.ashbyhq.com/artificialanalysis/98f5bce9-bb32-4c58-ab2e-a48de02cce30",
+      "url": "https://jobs.ashbyhq.com/headway/64998174-15cc-46e4-8a51-e67c131b94af",
       "source": "ashby",
-      "posted_date": "2026-08-18T08:22:02.812086",
-      "scraped_at": "2026-08-18T08:22:02.812099",
-      "search_snippet": "Product Manager (AI Hardware). Location. San Francisco (On-site). Employment Type. Full time. Location Type. On-site. Department. Technical Staff (incl. Product).",
-      "search_title": "Product Manager (AI Hardware) @ Artificial Analysis, Inc.",
+      "posted_date": "2026-08-22T08:16:03.959518",
+      "scraped_at": "2026-08-22T08:16:03.959528",
+      "search_snippet": "We're hiring an Insights & AI Manager to be the analytical and AI backbone for CarePa and adjacent sales functions. partner strategy, and AI.",
+      "search_title": "Revenue Strategy & Operations Manager (Insights & AI)",
       "ai_analysis": {
         "fit_score": 0,
         "category": "Unknown",
@@ -569,20 +387,20 @@
         "justification": "Analysis failed",
         "positioning_advice": "Could not analyze this job"
       },
-      "job_id": "e133c164002be4ff",
+      "job_id": "3af1e0be748e9b30",
       "days_old": 0
     },
     {
-      "title": "Agent Product Manager @ Variance",
-      "company": "Intrinsic Safety",
+      "title": "Senior Product Manager @ Omni",
+      "company": "Omni",
       "location": "N/A",
       "description": "",
-      "url": "https://jobs.ashbyhq.com/intrinsic-safety/4e043102-7857-421a-b933-ea39dd7b1a25",
+      "url": "https://jobs.ashbyhq.com/omni/fab27855-8dc6-4947-8a75-ec8fb1835717",
       "source": "ashby",
-      "posted_date": "2026-08-18T08:22:05.045634",
-      "scraped_at": "2026-08-18T08:22:05.045647",
-      "search_snippet": "Agent Product Manager. Location. San Francisco. Employment Type. Full time. Department. Business.",
-      "search_title": "Agent Product Manager @ Variance",
+      "posted_date": "2026-08-22T08:16:06.198994",
+      "scraped_at": "2026-08-22T08:16:06.199003",
+      "search_snippet": "Omni is looking for a Senior Product Manager to help define how organizations put their data to work in the age of AI. You'll partner closely with customers and ...",
+      "search_title": "Senior Product Manager @ Omni",
       "ai_analysis": {
         "fit_score": 0,
         "category": "Unknown",
@@ -595,20 +413,20 @@
         "justification": "Analysis failed",
         "positioning_advice": "Could not analyze this job"
       },
-      "job_id": "ece7e28d0dfdf8e0",
+      "job_id": "8ccbc18ab803dc0d",
       "days_old": 0
     },
     {
-      "title": "Analyst, Customer Trust @ Harvey",
-      "company": "Harvey",
+      "title": "Associate Product Manager @ Fireworks",
+      "company": "Fireworks",
       "location": "N/A",
       "description": "",
-      "url": "https://jobs.ashbyhq.com/harvey/284a0861-026b-45ff-a4ad-c2d187d7184d",
+      "url": "https://jobs.ashbyhq.com/fireworks/69375f41-258a-4c25-ad78-5985606c438a",
       "source": "ashby",
-      "posted_date": "2026-08-18T08:22:07.230772",
-      "scraped_at": "2026-08-18T08:22:07.230784",
-      "search_snippet": "At Harvey, we're transforming how legal and professional services operate. By combining frontier agentic AI, an enterprise-grade platform, and deep domain ...",
-      "search_title": "Analyst, Customer Trust @ Harvey",
+      "posted_date": "2026-08-22T08:16:08.378292",
+      "scraped_at": "2026-08-22T08:16:08.378303",
+      "search_snippet": "Act as a trusted technical advisor to customers, helping shape their GenAI strategy using Fireworks infrastructure. ... Hands-on experience with AI/ML ...",
+      "search_title": "Associate Product Manager @ Fireworks",
       "ai_analysis": {
         "fit_score": 0,
         "category": "Unknown",
@@ -621,7 +439,7 @@
         "justification": "Analysis failed",
         "positioning_advice": "Could not analyze this job"
       },
-      "job_id": "9469083c522ea6e0",
+      "job_id": "10c9edeff74fd2ca",
       "days_old": 0
     },
     {
@@ -631,9 +449,9 @@
       "description": "",
       "url": "https://jobs.ashbyhq.com/hippocratic%20ai/f5a15da1-726d-462c-97fa-07651e74ca46",
       "source": "ashby",
-      "posted_date": "2026-08-18T08:22:09.479139",
-      "scraped_at": "2026-08-18T08:22:09.479151",
-      "search_snippet": "Clinical AI Solutions Specialist-Provider. ... AI) and understanding of generative AI in healthcare. Excellent ability to explain complex ...",
+      "posted_date": "2026-08-22T08:16:10.539241",
+      "scraped_at": "2026-08-22T08:16:10.539252",
+      "search_snippet": "As an AI Clinical Solutions Specialist, you're the clinical expert and patient advocate for our AI agent deployments. You ensure our agents are clinically safe, ...",
       "search_title": "AI Clinical Solutions Specialist @ Hippocratic AI",
       "ai_analysis": {
         "fit_score": 0,
@@ -649,12 +467,194 @@
       },
       "job_id": "8c806e7415ee80fa",
       "days_old": 0
+    },
+    {
+      "title": "Director of Revenue Operations @ Resolve AI",
+      "company": "Resolve%20Ai",
+      "location": "N/A",
+      "description": "",
+      "url": "https://jobs.ashbyhq.com/Resolve%20AI/bc1257cd-2081-4859-be1c-54854a23d7c2",
+      "source": "ashby",
+      "posted_date": "2026-08-22T08:16:12.710369",
+      "scraped_at": "2026-08-22T08:16:12.710379",
+      "search_snippet": "We are looking for a highly analytical, technically curious, and hands-on Director of Revenue Operations to design and scale Resolve AI's go-to-market engine.",
+      "search_title": "Director of Revenue Operations @ Resolve AI",
+      "ai_analysis": {
+        "fit_score": 0,
+        "category": "Unknown",
+        "justification": "Analysis failed",
+        "positioning_advice": "Could not analyze this job"
+      },
+      "sustainability_analysis": {
+        "fit_score": 0,
+        "category": "Unknown",
+        "justification": "Analysis failed",
+        "positioning_advice": "Could not analyze this job"
+      },
+      "job_id": "ad4eb6fc01b15a47",
+      "days_old": 0
+    },
+    {
+      "title": "Applied AI Data Analyst @ Confido",
+      "company": "Confido",
+      "location": "N/A",
+      "description": "",
+      "url": "https://jobs.ashbyhq.com/confido/b92ca21b-c771-44d0-991b-e3dae7654dab",
+      "source": "ashby",
+      "posted_date": "2026-08-22T08:16:14.892922",
+      "scraped_at": "2026-08-22T08:16:14.892933",
+      "search_snippet": "This role is part of the Applied AI Research department, with options to advance to senior data science and AI/ML engineering roles. Location: New York, NY (In- ...",
+      "search_title": "Applied AI Data Analyst @ Confido",
+      "ai_analysis": {
+        "fit_score": 0,
+        "category": "Unknown",
+        "justification": "Analysis failed",
+        "positioning_advice": "Could not analyze this job"
+      },
+      "sustainability_analysis": {
+        "fit_score": 0,
+        "category": "Unknown",
+        "justification": "Analysis failed",
+        "positioning_advice": "Could not analyze this job"
+      },
+      "job_id": "c0019f4489f71b43",
+      "days_old": 0
+    },
+    {
+      "title": "Strategy & Operations Manager @ Broccoli AI",
+      "company": "Broccoli",
+      "location": "N/A",
+      "description": "",
+      "url": "https://jobs.ashbyhq.com/broccoli/27cd8083-da41-4680-a4ee-4b2379e91afd",
+      "source": "ashby",
+      "posted_date": "2026-08-22T08:16:17.226343",
+      "scraped_at": "2026-08-22T08:16:17.226352",
+      "search_snippet": "At Broccoli, we're building AI teammates. Our AI teammates answer phones, book appointments, follow up with customers, recover missed revenue, and help ...",
+      "search_title": "Strategy & Operations Manager @ Broccoli AI",
+      "ai_analysis": {
+        "fit_score": 0,
+        "category": "Unknown",
+        "justification": "Analysis failed",
+        "positioning_advice": "Could not analyze this job"
+      },
+      "sustainability_analysis": {
+        "fit_score": 0,
+        "category": "Unknown",
+        "justification": "Analysis failed",
+        "positioning_advice": "Could not analyze this job"
+      },
+      "job_id": "63b4e27a3248e181",
+      "days_old": 0
+    },
+    {
+      "title": "Staff Product Manager, AI Foundations @ Vanta",
+      "company": "Vanta",
+      "location": "N/A",
+      "description": "",
+      "url": "https://jobs.ashbyhq.com/vanta/f44a7511-dd74-4121-b409-964115fa3ee5",
+      "source": "ashby",
+      "posted_date": "2026-08-22T08:16:19.571400",
+      "scraped_at": "2026-08-22T08:16:19.571410",
+      "search_snippet": "As a Staff Product Manager, AI Foundations at Vanta, you will build the core AI capabilities that power Vanta's AI product experiences: the agent harness our ...",
+      "search_title": "Staff Product Manager, AI Foundations @ Vanta",
+      "ai_analysis": {
+        "fit_score": 0,
+        "category": "Unknown",
+        "justification": "Analysis failed",
+        "positioning_advice": "Could not analyze this job"
+      },
+      "sustainability_analysis": {
+        "fit_score": 0,
+        "category": "Unknown",
+        "justification": "Analysis failed",
+        "positioning_advice": "Could not analyze this job"
+      },
+      "job_id": "342c605bf6c28ef1",
+      "days_old": 0
+    },
+    {
+      "title": "AI Consultant (Vancouver) @ Glia",
+      "company": "Glia",
+      "location": "N/A",
+      "description": "",
+      "url": "https://jobs.ashbyhq.com/glia/b2e9db2c-643c-4642-abd7-f71f824fb0f4",
+      "source": "ashby",
+      "posted_date": "2026-08-22T08:16:21.767783",
+      "scraped_at": "2026-08-22T08:16:21.767793",
+      "search_snippet": "Provide assistance and best practices to clients on topics relating to prompt engineering and working with Generative AI. Serve as the primary technical advisor ...",
+      "search_title": "AI Consultant (Vancouver) @ Glia",
+      "ai_analysis": {
+        "fit_score": 0,
+        "category": "Unknown",
+        "justification": "Analysis failed",
+        "positioning_advice": "Could not analyze this job"
+      },
+      "sustainability_analysis": {
+        "fit_score": 0,
+        "category": "Unknown",
+        "justification": "Analysis failed",
+        "positioning_advice": "Could not analyze this job"
+      },
+      "job_id": "82d883917ef839ca",
+      "days_old": 0
+    },
+    {
+      "title": "Staff Product Manager (Product-Led Growth) @ Deepgram",
+      "company": "Deepgram",
+      "location": "N/A",
+      "description": "",
+      "url": "https://jobs.ashbyhq.com/Deepgram/d0660127-6c26-4053-943c-c006990b8edc?employmentType=FullTime",
+      "source": "ashby",
+      "posted_date": "2026-08-22T08:16:23.979209",
+      "scraped_at": "2026-08-22T08:16:23.979218",
+      "search_snippet": "We are hiring a Staff Product Manager focused on product-led growth. You will own the growth of the developer's journey from first touch to committed customer — ...",
+      "search_title": "Staff Product Manager (Product-Led Growth) @ Deepgram",
+      "ai_analysis": {
+        "fit_score": 0,
+        "category": "Unknown",
+        "justification": "Analysis failed",
+        "positioning_advice": "Could not analyze this job"
+      },
+      "sustainability_analysis": {
+        "fit_score": 0,
+        "category": "Unknown",
+        "justification": "Analysis failed",
+        "positioning_advice": "Could not analyze this job"
+      },
+      "job_id": "cc01d5935609394c",
+      "days_old": 0
+    },
+    {
+      "title": "Retell AI Jobs",
+      "company": "Retell Ai?Embed=True&Utm_Source=Simplify&Ref=Simplify",
+      "location": "N/A",
+      "description": "",
+      "url": "https://jobs.ashbyhq.com/retell-ai?embed=true&utm_source=Simplify&ref=Simplify",
+      "source": "ashby",
+      "posted_date": "2026-08-22T08:16:26.129461",
+      "scraped_at": "2026-08-22T08:16:26.129473",
+      "search_snippet": "Engineering · Research Scientist - Audio · Research Scientist - LLM · Senior Language Engineer · Senior Machine Learning Engineer · Senior Software Engineer, Backend.",
+      "search_title": "Retell AI Jobs",
+      "ai_analysis": {
+        "fit_score": 0,
+        "category": "Unknown",
+        "justification": "Analysis failed",
+        "positioning_advice": "Could not analyze this job"
+      },
+      "sustainability_analysis": {
+        "fit_score": 0,
+        "category": "Unknown",
+        "justification": "Analysis failed",
+        "positioning_advice": "Could not analyze this job"
+      },
+      "job_id": "373bdd6dbc65e814",
+      "days_old": 0
     }
   ],
   "metadata": {
     "profile": "kartikey",
     "profile_display_name": "Kartikey",
-    "run_timestamp": "2026-08-18T08:20:51.385021",
+    "run_timestamp": "2026-08-22T08:15:10.357001",
     "trigger_type": "schedule",
     "total_searched": 25,
     "new_jobs_found": 25,
