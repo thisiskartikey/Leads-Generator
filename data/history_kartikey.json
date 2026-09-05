@@ -5204,7 +5204,7 @@
       "url": "https://jobs.ashbyhq.com/prosper-ai/2dbe76ca-9c09-4879-9533-e1847bd31782",
       "title": "AI Product Manager @ Prosper AI",
       "company": "Prosper Ai",
-      "first_seen": "2026-09-01T12:52:34.461747",
+      "first_seen": "2026-09-05T11:28:27.346344",
       "ai_fit_score": 0,
       "sustainability_fit_score": 0
     },
@@ -5308,7 +5308,7 @@
       "url": "https://jobs.ashbyhq.com/hopper/241f7145-06b9-4ae5-969e-3cccaff85d98",
       "title": "Principal Product Manager- Conversational AI @ Hopper",
       "company": "Hopper",
-      "first_seen": "2026-08-25T08:29:14.069330",
+      "first_seen": "2026-09-05T11:28:27.347090",
       "ai_fit_score": 0,
       "sustainability_fit_score": 0
     },
@@ -5396,7 +5396,7 @@
       "url": "https://jobs.ashbyhq.com/cohere/41cb2a12-e33a-4368-a9f8-0ae0d19c023e",
       "title": "Technical Program Manager, AI Delivery @ Cohere",
       "company": "Cohere",
-      "first_seen": "2026-09-01T12:52:34.464021",
+      "first_seen": "2026-09-05T11:28:27.348676",
       "ai_fit_score": 0,
       "sustainability_fit_score": 0
     },
@@ -5444,7 +5444,7 @@
       "url": "https://jobs.ashbyhq.com/confido/b92ca21b-c771-44d0-991b-e3dae7654dab",
       "title": "Applied AI Data Analyst @ Confido",
       "company": "Confido",
-      "first_seen": "2026-09-01T12:52:34.464398",
+      "first_seen": "2026-09-05T11:28:27.349401",
       "ai_fit_score": 0,
       "sustainability_fit_score": 0
     },
@@ -5484,7 +5484,7 @@
       "url": "https://jobs.ashbyhq.com/retell-ai/7805847d-73bb-41ba-8bd0-74386adbe167",
       "title": "Deployments Consultant @ Retell AI",
       "company": "Retell Ai",
-      "first_seen": "2026-09-01T12:52:34.462269",
+      "first_seen": "2026-09-05T11:28:27.348068",
       "ai_fit_score": 0,
       "sustainability_fit_score": 0
     },
@@ -5524,7 +5524,7 @@
       "url": "https://jobs.ashbyhq.com/mundo-ai/72695fac-4969-46fc-b9ce-b2b4bcbba086",
       "title": "Product Manager @ Mundo AI",
       "company": "Mundo Ai",
-      "first_seen": "2026-08-25T08:29:14.073904",
+      "first_seen": "2026-09-05T11:28:27.349598",
       "ai_fit_score": 0,
       "sustainability_fit_score": 0
     },
@@ -5540,7 +5540,7 @@
       "url": "https://jobs.ashbyhq.com/owkin/63dfb713-0945-48b9-ad28-f05400fdc2e7",
       "title": "Director, Biopharma Data Science @ Owkin",
       "company": "Owkin",
-      "first_seen": "2026-09-01T12:52:34.469018",
+      "first_seen": "2026-09-05T11:28:27.351426",
       "ai_fit_score": 0,
       "sustainability_fit_score": 0
     },
@@ -5556,7 +5556,7 @@
       "url": "https://jobs.ashbyhq.com/HackerOne/c061590a-f169-4741-a0ae-a3f9b310cc09",
       "title": "Product Manager @ HackerOne",
       "company": "Hackerone",
-      "first_seen": "2026-09-01T12:52:34.465453",
+      "first_seen": "2026-09-05T11:28:27.350113",
       "ai_fit_score": 0,
       "sustainability_fit_score": 0
     },
@@ -5572,7 +5572,7 @@
       "url": "https://jobs.ashbyhq.com/adonis/08194239-346d-46e0-80ef-3a9ed9a01b2f",
       "title": "Senior Product Manager - AI Agents @ Adonis",
       "company": "Adonis",
-      "first_seen": "2026-09-01T12:52:34.463329",
+      "first_seen": "2026-09-05T11:28:27.348958",
       "ai_fit_score": 0,
       "sustainability_fit_score": 0
     },
@@ -5636,7 +5636,7 @@
       "url": "https://boards.greenhouse.io/litmos/jobs/4963581101",
       "title": "AI Program Manager",
       "company": "Litmos",
-      "first_seen": "2026-09-01T12:52:34.461992",
+      "first_seen": "2026-09-05T11:28:27.346703",
       "ai_fit_score": 0,
       "sustainability_fit_score": 0
     },
@@ -5687,9 +5687,105 @@
       "first_seen": "2026-09-01T12:52:34.467917",
       "ai_fit_score": 0,
       "sustainability_fit_score": 0
+    },
+    "7439874eb85647b4": {
+      "url": "https://boards.greenhouse.io/fanduel/jobs/8177066",
+      "title": "AI Product Senior Director",
+      "company": "Fanduel",
+      "first_seen": "2026-09-05T11:28:27.345672",
+      "ai_fit_score": 0,
+      "sustainability_fit_score": 0
+    },
+    "e4bf63577a6c45b7": {
+      "url": "https://jobs.ashbyhq.com/9fin/1d21a527-7d81-412c-9088-e8c358a301e6",
+      "title": "Senior AI Product Manager @ 9fin",
+      "company": "9Fin",
+      "first_seen": "2026-09-05T11:28:27.346021",
+      "ai_fit_score": 0,
+      "sustainability_fit_score": 0
+    },
+    "355777ee0226ded6": {
+      "url": "https://jobs.ashbyhq.com/traba/43becd9e-9321-48dc-8506-40c6111044be",
+      "title": "Traba - Staff Product Manager (AI Agents)",
+      "company": "Traba",
+      "first_seen": "2026-09-05T11:28:27.347416",
+      "ai_fit_score": 0,
+      "sustainability_fit_score": 0
+    },
+    "743b7b998a4f2492": {
+      "url": "https://jobs.ashbyhq.com/Perplexity/7f880194-7276-4b46-8a50-58b48da8882e",
+      "title": "Product Manager, AI Capabilities @ Perplexity",
+      "company": "Perplexity",
+      "first_seen": "2026-09-05T11:28:27.347739",
+      "ai_fit_score": 0,
+      "sustainability_fit_score": 0
+    },
+    "d113f55cfb8f12fb": {
+      "url": "https://jobs.ashbyhq.com/clipboard/80f1fd1c-7b09-4d6e-9a0b-e234fc9672b8?fbclid\\u003dIwVERDUAN-irxleHRuA2FlbQIxMABzcnRjBmFwcF9pZAwzNTA2ODU1MzE3MjgAAR5Xy4nFMRXoZatk2vNXGfuTb41fe9vSBsBCQ9bGHG5TsIO9kRhj8_HdJ3lEHA_aem_PHGqawvR98_SBIoE1CYY2g",
+      "title": "AI Tooling Program Manager @ Clipboard",
+      "company": "Clipboard",
+      "first_seen": "2026-09-05T11:28:27.348480",
+      "ai_fit_score": 0,
+      "sustainability_fit_score": 0
+    },
+    "6cae6c9fdb0b2291": {
+      "url": "https://jobs.ashbyhq.com/hims-and-hers/13500163-3fc2-41f0-9b63-08e778236850",
+      "title": "Staff Analyst, AI @ Hims & Hers",
+      "company": "Hims And Hers",
+      "first_seen": "2026-09-05T11:28:27.349182",
+      "ai_fit_score": 0,
+      "sustainability_fit_score": 0
+    },
+    "b4d459daa4684f12": {
+      "url": "https://jobs.ashbyhq.com/geniusai/67d8fc28-3265-480b-bba1-472949088c1f",
+      "title": "Senior Strategy & Operations Associate @ Genius AI",
+      "company": "Geniusai",
+      "first_seen": "2026-09-05T11:28:27.349874",
+      "ai_fit_score": 0,
+      "sustainability_fit_score": 0
+    },
+    "09167df20cf5e7fe": {
+      "url": "https://jobs.ashbyhq.com/jerry.ai/0305093e-d4e9-4961-bfb0-54e15b7752d9",
+      "title": "Jerry.ai - Product Manager, Growth (10-to-100)",
+      "company": "Jerry.Ai",
+      "first_seen": "2026-09-05T11:28:27.350322",
+      "ai_fit_score": 0,
+      "sustainability_fit_score": 0
+    },
+    "5b46506791a88f2e": {
+      "url": "https://jobs.ashbyhq.com/hims-and-hers/1d87da56-8a32-454b-a1ce-8c9656325573",
+      "title": "Product Manager, AI @ Hims & Hers",
+      "company": "Hims And Hers",
+      "first_seen": "2026-09-05T11:28:27.351075",
+      "ai_fit_score": 0,
+      "sustainability_fit_score": 0
+    },
+    "34351307db48150b": {
+      "url": "https://jobs.ashbyhq.com/cambio/54addd4d-253e-46ed-8b69-156f844405e2",
+      "title": "Analyst, Partner Strategy @ Cambio AI Inc.",
+      "company": "Cambio",
+      "first_seen": "2026-09-05T11:28:27.351728",
+      "ai_fit_score": 0,
+      "sustainability_fit_score": 0
+    },
+    "35c19a04565d6cfd": {
+      "url": "https://jobs.ashbyhq.com/Sierra/bc98b50a-d6ea-42b8-b1c6-f55099d1bb1c",
+      "title": "Product Manager, Agent Development - Financial Services",
+      "company": "Sierra",
+      "first_seen": "2026-09-05T11:28:27.351978",
+      "ai_fit_score": 0,
+      "sustainability_fit_score": 0
+    },
+    "f1cbb3479511c5f4": {
+      "url": "https://jobs.ashbyhq.com/Crusoe/9b5f4d44-a1da-4149-892c-0883de3bba54",
+      "title": "Principal Product Manager, AI Infrastructure (Networking)",
+      "company": "Crusoe",
+      "first_seen": "2026-09-05T11:28:27.352173",
+      "ai_fit_score": 0,
+      "sustainability_fit_score": 0
     }
   },
-  "last_updated": "2026-09-01T12:52:34.470925",
+  "last_updated": "2026-09-05T11:28:27.353907",
   "metadata": {
     "version": "1.0",
     "description": "Tracks jobs that have been analyzed to avoid duplicates"
