@@ -5484,7 +5484,7 @@
       "url": "https://jobs.ashbyhq.com/retell-ai/7805847d-73bb-41ba-8bd0-74386adbe167",
       "title": "Deployments Consultant @ Retell AI",
       "company": "Retell Ai",
-      "first_seen": "2026-09-05T11:28:27.348068",
+      "first_seen": "2026-09-15T12:59:03.136764",
       "ai_fit_score": 0,
       "sustainability_fit_score": 0
     },
@@ -5524,7 +5524,7 @@
       "url": "https://jobs.ashbyhq.com/mundo-ai/72695fac-4969-46fc-b9ce-b2b4bcbba086",
       "title": "Product Manager @ Mundo AI",
       "company": "Mundo Ai",
-      "first_seen": "2026-09-08T12:22:28.963206",
+      "first_seen": "2026-09-15T12:59:03.136991",
       "ai_fit_score": 0,
       "sustainability_fit_score": 0
     },
@@ -5700,7 +5700,7 @@
       "url": "https://jobs.ashbyhq.com/9fin/1d21a527-7d81-412c-9088-e8c358a301e6",
       "title": "Senior AI Product Manager @ 9fin",
       "company": "9Fin",
-      "first_seen": "2026-09-05T11:28:27.346021",
+      "first_seen": "2026-09-15T12:59:03.135080",
       "ai_fit_score": 0,
       "sustainability_fit_score": 0
     },
@@ -5716,7 +5716,7 @@
       "url": "https://jobs.ashbyhq.com/Perplexity/7f880194-7276-4b46-8a50-58b48da8882e",
       "title": "Product Manager, AI Capabilities @ Perplexity",
       "company": "Perplexity",
-      "first_seen": "2026-09-05T11:28:27.347739",
+      "first_seen": "2026-09-15T12:59:03.135431",
       "ai_fit_score": 0,
       "sustainability_fit_score": 0
     },
@@ -5892,7 +5892,7 @@
       "url": "https://jobs.ashbyhq.com/freehand/e30f0488-81bc-426d-a727-0f9419c94730",
       "title": "AI Product Manager (US) @ Freehand",
       "company": "Freehand",
-      "first_seen": "2026-09-08T12:22:28.963977",
+      "first_seen": "2026-09-15T12:59:03.134844",
       "ai_fit_score": 0,
       "sustainability_fit_score": 0
     },
@@ -5911,9 +5911,49 @@
       "first_seen": "2026-09-08T12:22:28.964940",
       "ai_fit_score": 0,
       "sustainability_fit_score": 0
+    },
+    "08dcd4377636d9ad": {
+      "url": "https://boards.greenhouse.io/samsara/jobs/8195249",
+      "title": "CX Strategy Manager, AI Transformation - Remote - US",
+      "company": "Samsara",
+      "first_seen": "2026-09-15T12:59:03.135770",
+      "ai_fit_score": 0,
+      "sustainability_fit_score": 0
+    },
+    "e6f3956f07bd30b8": {
+      "url": "https://jobs.ashbyhq.com/clickhouse/9758b742-f787-47ff-8f42-c0402c5cc64f",
+      "title": "Senior Product Manager - AI/ML @ ClickHouse",
+      "company": "Clickhouse",
+      "first_seen": "2026-09-15T12:59:03.136106",
+      "ai_fit_score": 0,
+      "sustainability_fit_score": 0
+    },
+    "e08ee5520f1377c4": {
+      "url": "https://jobs.ashbyhq.com/traba/ffb22326-61ae-4af1-a742-7c6880092e68",
+      "title": "Product Manager (AI Agents) @ Traba",
+      "company": "Traba",
+      "first_seen": "2026-09-15T12:59:03.136482",
+      "ai_fit_score": 0,
+      "sustainability_fit_score": 0
+    },
+    "60c296f993109ef5": {
+      "url": "https://jobs.ashbyhq.com/ironcladhq/50b0adf4-9d9b-42f6-a62b-587eb20ced74",
+      "title": "Staff Product Manager, AI Data Experience @ Ironclad",
+      "company": "Ironcladhq",
+      "first_seen": "2026-09-15T12:59:03.137193",
+      "ai_fit_score": 0,
+      "sustainability_fit_score": 0
+    },
+    "b8bc65607b775cc6": {
+      "url": "https://jobs.ashbyhq.com/openart/67881990-dd03-4c81-bd8f-0f0d6b42ae8c",
+      "title": "Senior Product Manager, Enterprise @ OpenArt AI",
+      "company": "Openart",
+      "first_seen": "2026-09-15T12:59:03.137495",
+      "ai_fit_score": 0,
+      "sustainability_fit_score": 0
     }
   },
-  "last_updated": "2026-09-08T12:22:28.966588",
+  "last_updated": "2026-09-15T12:59:03.138417",
   "metadata": {
     "version": "1.0",
     "description": "Tracks jobs that have been analyzed to avoid duplicates"
