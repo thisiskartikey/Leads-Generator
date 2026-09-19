@@ -2,41 +2,6 @@
   "profile": "anvesha",
   "runs": [
     {
-      "timestamp": "2026-06-06T09:53:08.807661",
-      "trigger": "schedule",
-      "job_ids": [
-        "8db98429214ff028",
-        "c1677d0ebe9462d6",
-        "3404b317a1061291",
-        "abfa91277a96769c",
-        "bddf848d281a7989",
-        "bf5e72848c75bf8b",
-        "b6ebae92740ad619",
-        "07461d4b8b70c75f",
-        "a9ac9cb3aaa10d3e",
-        "ec42436b6409aa72",
-        "aac1d51334b15f1a",
-        "7629348e57f7c2da",
-        "703a11bbee38a023",
-        "fb1433513e3cbb55",
-        "b408955d8135fedc",
-        "ed38790a29ef18b1",
-        "5f7a24e5d3a7cc91",
-        "94f3007172ff1f7e",
-        "21b86a770e66e0fc",
-        "90585a817969354e",
-        "13a3cf1a7114af3f",
-        "801e2f05c1941171",
-        "3cd0e1833a80f946",
-        "905904a67fa3b33c",
-        "5c4e5dc0677314da"
-      ],
-      "jobs_in_results": 25,
-      "total_searched": 25,
-      "new_jobs_found": 25,
-      "jobs_analyzed": 25
-    },
-    {
       "timestamp": "2026-06-09T10:51:29.878332",
       "trigger": "schedule",
       "job_ids": [
@@ -1003,7 +968,27 @@
       "total_searched": 10,
       "new_jobs_found": 10,
       "jobs_analyzed": 10
+    },
+    {
+      "timestamp": "2026-09-19T12:08:56.471556",
+      "trigger": "schedule",
+      "job_ids": [
+        "6ddd8e58592a0019",
+        "3e4b029567cdd7c9",
+        "3e9e0fb3894422ae",
+        "4a37a77d63cb360c",
+        "51a6f5e470db6d2e",
+        "757fe3ae407920f9",
+        "8d2fbca2fb9f9259",
+        "c61e4173aadea6ed",
+        "bae6c7b0e8e297ff",
+        "1e8f8f34d67fcc3a"
+      ],
+      "jobs_in_results": 10,
+      "total_searched": 10,
+      "new_jobs_found": 10,
+      "jobs_analyzed": 10
     }
   ],
-  "last_updated": "2026-09-15T12:59:03.165700"
+  "last_updated": "2026-09-19T12:08:56.471556"
 }
