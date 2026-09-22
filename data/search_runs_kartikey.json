@@ -2,41 +2,6 @@
   "profile": "kartikey",
   "runs": [
     {
-      "timestamp": "2026-05-16T09:19:11.716842",
-      "trigger": "schedule",
-      "job_ids": [
-        "12d551a82bf1ebd3",
-        "b14bf9f2cd5a7961",
-        "baac949cdd058319",
-        "8abf988b4a869548",
-        "35ba78f177d8822a",
-        "82f42092fc1da57d",
-        "6e7a066cf1b9745c",
-        "db009677298740a2",
-        "13b521bda09bcf5e",
-        "32081d2ba4690201",
-        "2c5910a4866dc491",
-        "82789af5a0db59c0",
-        "205914ee3d3be945",
-        "c7c045d448538dcf",
-        "bbc38292d716d4f8",
-        "4a017f9b9cb7549b",
-        "53e25d76c2a0a6b4",
-        "64e4ae5125b670a7",
-        "769e33adc78ec032",
-        "39b4ad505ac2a921",
-        "53e25d76c2a0a6b4",
-        "b1237ea8fc79de7b",
-        "f98c6818b667712a",
-        "eb51c1841176bfc5",
-        "6244ea186c924efa"
-      ],
-      "jobs_in_results": 25,
-      "total_searched": 25,
-      "new_jobs_found": 25,
-      "jobs_analyzed": 25
-    },
-    {
       "timestamp": "2026-05-19T10:51:55.767641",
       "trigger": "schedule",
       "job_ids": [
@@ -1019,7 +984,37 @@
       "total_searched": 20,
       "new_jobs_found": 20,
       "jobs_analyzed": 20
+    },
+    {
+      "timestamp": "2026-09-22T12:53:53.708995",
+      "trigger": "schedule",
+      "job_ids": [
+        "61914167b7853975",
+        "e4bf63577a6c45b7",
+        "1f7e30977d4c3dc4",
+        "e6f3956f07bd30b8",
+        "60c296f993109ef5",
+        "bde37ef27cdc2a54",
+        "023cdb69107c0563",
+        "9448eb361baeadb8",
+        "d539a0b4480e21e5",
+        "f8cf776243eaba1e",
+        "59ac0865a6beca50",
+        "d39e3b4226695a6b",
+        "05f81e23a1f4d8bd",
+        "b6ec7203c3b68ffc",
+        "816484beccc9afb3",
+        "328a8ed119fa6149",
+        "7c9a69ec7f8ba053",
+        "abee081f09e5a0c3",
+        "5e31021bf66e38c6",
+        "370520d23f3ab358"
+      ],
+      "jobs_in_results": 20,
+      "total_searched": 20,
+      "new_jobs_found": 20,
+      "jobs_analyzed": 20
     }
   ],
-  "last_updated": "2026-09-19T12:07:29.999753"
+  "last_updated": "2026-09-22T12:53:53.708995"
 }

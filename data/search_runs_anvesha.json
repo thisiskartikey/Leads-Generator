@@ -2,41 +2,6 @@
   "profile": "anvesha",
   "runs": [
     {
-      "timestamp": "2026-06-09T10:51:29.878332",
-      "trigger": "schedule",
-      "job_ids": [
-        "3404b317a1061291",
-        "8db98429214ff028",
-        "c1677d0ebe9462d6",
-        "bddf848d281a7989",
-        "abfa91277a96769c",
-        "bf5e72848c75bf8b",
-        "b6ebae92740ad619",
-        "07461d4b8b70c75f",
-        "aac1d51334b15f1a",
-        "9fab0dc584c216f0",
-        "aac1d51334b15f1a",
-        "801e2f05c1941171",
-        "fb1433513e3cbb55",
-        "703a11bbee38a023",
-        "5f7a24e5d3a7cc91",
-        "775e1d9bada2cbfa",
-        "94f3007172ff1f7e",
-        "cccd483798207c86",
-        "b408955d8135fedc",
-        "1ce540c63f05af4a",
-        "4f4970483670375c",
-        "4f479544c12fe11f",
-        "3cd0e1833a80f946",
-        "9ab3269cdda3faa1",
-        "21b86a770e66e0fc"
-      ],
-      "jobs_in_results": 25,
-      "total_searched": 25,
-      "new_jobs_found": 25,
-      "jobs_analyzed": 25
-    },
-    {
       "timestamp": "2026-06-13T10:20:39.473634",
       "trigger": "schedule",
       "job_ids": [
@@ -988,7 +953,36 @@
       "total_searched": 10,
       "new_jobs_found": 10,
       "jobs_analyzed": 10
+    },
+    {
+      "timestamp": "2026-09-22T12:55:28.580185",
+      "trigger": "schedule",
+      "job_ids": [
+        "6ddd8e58592a0019",
+        "11fb002cfc378f08",
+        "f63ab725d30484d4",
+        "4a37a77d63cb360c",
+        "51a6f5e470db6d2e",
+        "8d2fbca2fb9f9259",
+        "8e7aee8bac82d2ac",
+        "b0215f2f751f8d6f",
+        "bae6c7b0e8e297ff",
+        "055bd6af2aebbc35",
+        "0f8a81d945041d51",
+        "d4cd3b057756db09",
+        "eb5002d8eb7a198d",
+        "dbfb5e698f11ddfc",
+        "d9d4dbbeeb1f6940",
+        "75ed44050d1540e0",
+        "bab44890e346195e",
+        "71fba83e869d999d",
+        "e47a2e16ad2f0cb8"
+      ],
+      "jobs_in_results": 19,
+      "total_searched": 20,
+      "new_jobs_found": 20,
+      "jobs_analyzed": 19
     }
   ],
-  "last_updated": "2026-09-19T12:08:56.471556"
+  "last_updated": "2026-09-22T12:55:28.580185"
 }
