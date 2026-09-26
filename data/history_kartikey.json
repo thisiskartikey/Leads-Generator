@@ -6111,9 +6111,65 @@
       "first_seen": "2026-09-22T12:55:28.548553",
       "ai_fit_score": 0,
       "sustainability_fit_score": 0
+    },
+    "d23ab5d1f5b932cd": {
+      "url": "https://jobs.ashbyhq.com/cohere?departmentId=6bab4a39-7d1e-4eb5-915d-940924e7144f",
+      "title": "Cohere",
+      "company": "Cohere?Departmentid=6Bab4A39 7D1E 4Eb5 915D 940924E7144F",
+      "first_seen": "2026-09-26T12:34:07.482636",
+      "ai_fit_score": 0,
+      "sustainability_fit_score": 0
+    },
+    "db0f6aa48aa408bd": {
+      "url": "https://jobs.ashbyhq.com/Clera?departmentId=9712945b-6dbe-4be0-b728-90787bb33215&utm_source=aijobs-dot-com",
+      "title": "Clera",
+      "company": "Clera?Departmentid=9712945B 6Dbe 4Be0 B728 90787Bb33215&Utm_Source=Aijobs Dot Com",
+      "first_seen": "2026-09-26T12:34:07.482971",
+      "ai_fit_score": 0,
+      "sustainability_fit_score": 0
+    },
+    "ec9c89298e0ffbb0": {
+      "url": "https://jobs.ashbyhq.com/mast",
+      "title": "Mast",
+      "company": "Mast",
+      "first_seen": "2026-09-26T12:34:07.483324",
+      "ai_fit_score": 0,
+      "sustainability_fit_score": 0
+    },
+    "d8d9cb7fc778e8ba": {
+      "url": "https://jobs.ashbyhq.com/sensor-tower?workplaceType=Remote",
+      "title": "Sensor Tower",
+      "company": "Sensor Tower?Workplacetype=Remote",
+      "first_seen": "2026-09-26T12:34:07.483651",
+      "ai_fit_score": 0,
+      "sustainability_fit_score": 0
+    },
+    "fe062004b202182a": {
+      "url": "https://boards.greenhouse.io/gatikaiinc/jobs/4715201006?gh_jid=4715201006",
+      "title": "Sr. Manager, Network Design & Optimization",
+      "company": "Gatikaiinc",
+      "first_seen": "2026-09-26T12:34:07.483988",
+      "ai_fit_score": 0,
+      "sustainability_fit_score": 0
+    },
+    "c23b3f66628ee960": {
+      "url": "https://boards.greenhouse.io/googlefiber/jobs/6186930004",
+      "title": "Find Available Network Operations & Sales Jobs at gFiber",
+      "company": "Googlefiber",
+      "first_seen": "2026-09-26T12:34:07.484339",
+      "ai_fit_score": 0,
+      "sustainability_fit_score": 0
+    },
+    "605a48357cebed7d": {
+      "url": "https://boards.greenhouse.io/spacex/jobs/8820982002?gh_jid=8820982002&gh_src=7904e6c92us",
+      "title": "Manager, Starlink Engineering (Starlink PCBA SMT)",
+      "company": "Spacex",
+      "first_seen": "2026-09-26T12:34:07.484678",
+      "ai_fit_score": 0,
+      "sustainability_fit_score": 0
     }
   },
-  "last_updated": "2026-09-22T12:55:28.550668",
+  "last_updated": "2026-09-26T12:34:07.486203",
   "metadata": {
     "version": "1.0",
     "description": "Tracks jobs that have been analyzed to avoid duplicates"
