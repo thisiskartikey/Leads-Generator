@@ -6132,7 +6132,7 @@
       "url": "https://jobs.ashbyhq.com/mast",
       "title": "Mast",
       "company": "Mast",
-      "first_seen": "2026-09-26T12:34:07.483324",
+      "first_seen": "2026-09-29T14:26:29.481229",
       "ai_fit_score": 0,
       "sustainability_fit_score": 0
     },
@@ -6140,7 +6140,7 @@
       "url": "https://jobs.ashbyhq.com/sensor-tower?workplaceType=Remote",
       "title": "Sensor Tower",
       "company": "Sensor Tower?Workplacetype=Remote",
-      "first_seen": "2026-09-26T12:34:07.483651",
+      "first_seen": "2026-09-29T14:26:29.482551",
       "ai_fit_score": 0,
       "sustainability_fit_score": 0
     },
@@ -6148,7 +6148,7 @@
       "url": "https://boards.greenhouse.io/gatikaiinc/jobs/4715201006?gh_jid=4715201006",
       "title": "Sr. Manager, Network Design & Optimization",
       "company": "Gatikaiinc",
-      "first_seen": "2026-09-26T12:34:07.483988",
+      "first_seen": "2026-09-29T14:26:29.483239",
       "ai_fit_score": 0,
       "sustainability_fit_score": 0
     },
@@ -6156,7 +6156,7 @@
       "url": "https://boards.greenhouse.io/googlefiber/jobs/6186930004",
       "title": "Find Available Network Operations & Sales Jobs at gFiber",
       "company": "Googlefiber",
-      "first_seen": "2026-09-26T12:34:07.484339",
+      "first_seen": "2026-09-29T14:26:29.483547",
       "ai_fit_score": 0,
       "sustainability_fit_score": 0
     },
@@ -6167,9 +6167,57 @@
       "first_seen": "2026-09-26T12:34:07.484678",
       "ai_fit_score": 0,
       "sustainability_fit_score": 0
+    },
+    "1b6ede643e783c8d": {
+      "url": "https://boards.greenhouse.io/apptronik/jobs/6207439004?gh_jid=6207439004",
+      "title": "Staff People Technology Specialist",
+      "company": "Apptronik",
+      "first_seen": "2026-09-29T14:26:29.480538",
+      "ai_fit_score": 0,
+      "sustainability_fit_score": 0
+    },
+    "91d108ebf8a627ae": {
+      "url": "https://jobs.ashbyhq.com/thatgamecompany?locationId=09346153-be22-40eb-b3dd-8284f5c223be",
+      "title": "thatgamecompany",
+      "company": "Thatgamecompany?Locationid=09346153 Be22 40Eb B3Dd 8284F5C223Be",
+      "first_seen": "2026-09-29T14:26:29.480875",
+      "ai_fit_score": 0,
+      "sustainability_fit_score": 0
+    },
+    "0f7514636e68b945": {
+      "url": "https://jobs.ashbyhq.com/allocate?departmentId=fd49a253-980f-404f-95e6-5be86eceb4af&utm_source=aijobs-dot-com",
+      "title": "Allocate",
+      "company": "Allocate?Departmentid=Fd49A253 980F 404F 95E6 5Be86Eceb4Af&Utm_Source=Aijobs Dot Com",
+      "first_seen": "2026-09-29T14:26:29.481517",
+      "ai_fit_score": 0,
+      "sustainability_fit_score": 0
+    },
+    "fd34a7a882525edd": {
+      "url": "https://boards.greenhouse.io/goop/jobs/6201445004",
+      "title": "Director, Wholesale Beauty",
+      "company": "Goop",
+      "first_seen": "2026-09-29T14:26:29.481809",
+      "ai_fit_score": 0,
+      "sustainability_fit_score": 0
+    },
+    "67e6948659df2bbe": {
+      "url": "https://boards.greenhouse.io/chime/jobs/8838389002?gh_jid=8838389002",
+      "title": "Sr. MarTech Manager, Communications",
+      "company": "Chime",
+      "first_seen": "2026-09-29T14:26:29.482223",
+      "ai_fit_score": 0,
+      "sustainability_fit_score": 0
+    },
+    "d39877ed0aa0cd55": {
+      "url": "https://boards.greenhouse.io/assuredguaranty/jobs/8827458002",
+      "title": "Product Software Developer – Back-End - Summer 2027",
+      "company": "Assuredguaranty",
+      "first_seen": "2026-09-29T14:26:29.482889",
+      "ai_fit_score": 0,
+      "sustainability_fit_score": 0
     }
   },
-  "last_updated": "2026-09-26T12:34:07.486203",
+  "last_updated": "2026-09-29T14:26:29.485714",
   "metadata": {
     "version": "1.0",
     "description": "Tracks jobs that have been analyzed to avoid duplicates"
