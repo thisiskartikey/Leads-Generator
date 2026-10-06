@@ -6180,7 +6180,7 @@
       "url": "https://jobs.ashbyhq.com/thatgamecompany?locationId=09346153-be22-40eb-b3dd-8284f5c223be",
       "title": "thatgamecompany",
       "company": "Thatgamecompany?Locationid=09346153 Be22 40Eb B3Dd 8284F5C223Be",
-      "first_seen": "2026-09-29T14:26:29.480875",
+      "first_seen": "2026-10-06T14:34:01.487523",
       "ai_fit_score": 0,
       "sustainability_fit_score": 0
     },
@@ -6215,9 +6215,49 @@
       "first_seen": "2026-09-29T14:26:29.482889",
       "ai_fit_score": 0,
       "sustainability_fit_score": 0
+    },
+    "c795917b1ba817ee": {
+      "url": "https://jobs.ashbyhq.com/owner?workplaceType=Remote",
+      "title": "Owner.com Jobs",
+      "company": "Owner?Workplacetype=Remote",
+      "first_seen": "2026-10-06T14:34:01.486089",
+      "ai_fit_score": 0,
+      "sustainability_fit_score": 0
+    },
+    "332507e2c6be070a": {
+      "url": "https://jobs.ashbyhq.com/neko-health?promotion=772809-arbetsformedlingen",
+      "title": "Neko Health",
+      "company": "Neko Health?Promotion=772809 Arbetsformedlingen",
+      "first_seen": "2026-10-06T14:34:01.486456",
+      "ai_fit_score": 0,
+      "sustainability_fit_score": 0
+    },
+    "a9f32f733b8a3f5f": {
+      "url": "https://jobs.ashbyhq.com/acentecom",
+      "title": "Acentecom",
+      "company": "Acentecom",
+      "first_seen": "2026-10-06T14:34:01.486779",
+      "ai_fit_score": 0,
+      "sustainability_fit_score": 0
+    },
+    "d3aececc0ea7220c": {
+      "url": "https://jobs.ashbyhq.com/ashby/188cc71b-a625-4022-94dc-7c43fa1a8b06/?utm_source=ProductJobsAnywhere",
+      "title": "Design Engineer - EU - Jobs - Ashby",
+      "company": "Ashby",
+      "first_seen": "2026-10-06T14:34:01.487056",
+      "ai_fit_score": 0,
+      "sustainability_fit_score": 0
+    },
+    "f41019729de57f61": {
+      "url": "https://jobs.ashbyhq.com/sierra-jp",
+      "title": "Sierra Japan",
+      "company": "Sierra Jp",
+      "first_seen": "2026-10-06T14:34:01.487263",
+      "ai_fit_score": 0,
+      "sustainability_fit_score": 0
     }
   },
-  "last_updated": "2026-09-29T14:26:29.485714",
+  "last_updated": "2026-10-06T14:34:01.488452",
   "metadata": {
     "version": "1.0",
     "description": "Tracks jobs that have been analyzed to avoid duplicates"
