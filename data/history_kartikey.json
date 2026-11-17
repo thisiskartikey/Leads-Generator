@@ -6551,9 +6551,89 @@
       "first_seen": "2026-10-24T12:18:49.424961",
       "ai_fit_score": 0,
       "sustainability_fit_score": 0
+    },
+    "663f079b12d74ffa": {
+      "url": "https://jobs.ashbyhq.com/hims-and-hers/73f8eacf-6dca-4f26-a5a7-2140a50b3fba",
+      "title": "Sr Analyst, AI Analytics @ Hims & Hers",
+      "company": "Hims And Hers",
+      "first_seen": "2026-11-17T17:10:54.850398",
+      "ai_fit_score": 0,
+      "sustainability_fit_score": 0
+    },
+    "d10505edd45bd5ab": {
+      "url": "https://jobs.ashbyhq.com/socure/fed81553-3054-4e81-8d9a-d5e5b3d2702c",
+      "title": "Lead Program Manager, AI & Work Transformation @ Socure",
+      "company": "Socure",
+      "first_seen": "2026-11-17T17:10:54.850575",
+      "ai_fit_score": 0,
+      "sustainability_fit_score": 0
+    },
+    "237f72209983227d": {
+      "url": "https://jobs.ashbyhq.com/simile/07973a24-ee38-43f1-bf12-6dd79ffd87fc",
+      "title": "Analyst, Applied Validations @ Simile",
+      "company": "Simile",
+      "first_seen": "2026-11-17T17:10:54.850689",
+      "ai_fit_score": 0,
+      "sustainability_fit_score": 0
+    },
+    "6d53280b02a2b171": {
+      "url": "https://jobs.ashbyhq.com/deaa6ad2-d184-436b-b69e-17f761da1d94/aa8cc286-bd1e-4786-8ceb-63e21bbf6a97",
+      "title": "AI Transformation Director, Finance @ Spring Health",
+      "company": "Deaa6Ad2 D184 436B B69E 17F761Da1D94",
+      "first_seen": "2026-11-17T17:10:54.850795",
+      "ai_fit_score": 0,
+      "sustainability_fit_score": 0
+    },
+    "768345d245f0c3a5": {
+      "url": "https://jobs.ashbyhq.com/databook/c813375a-de86-40d6-bb63-f7602f38060e",
+      "title": "Director, AI Product Development @ Databook Labs, Inc.",
+      "company": "Databook",
+      "first_seen": "2026-11-17T17:10:54.850880",
+      "ai_fit_score": 0,
+      "sustainability_fit_score": 0
+    },
+    "acf4f424d496a5dd": {
+      "url": "https://jobs.ashbyhq.com/1mind/74f0b798-c99b-421e-866f-8c616d0f40d3",
+      "title": "AI Product Manager, Superhumans & Console @ 1mind",
+      "company": "1Mind",
+      "first_seen": "2026-11-17T17:10:54.851010",
+      "ai_fit_score": 0,
+      "sustainability_fit_score": 0
+    },
+    "fe822bef6cc94dbb": {
+      "url": "https://jobs.ashbyhq.com/craft.co/63ed81a1-eda8-41ae-ae88-b3d2f2ad2c4d",
+      "title": "Senior Product Manager, AI Products @ Craft Machine Inc",
+      "company": "Craft.Co",
+      "first_seen": "2026-11-17T17:10:54.851126",
+      "ai_fit_score": 0,
+      "sustainability_fit_score": 0
+    },
+    "258d8d41ce26eff7": {
+      "url": "https://jobs.ashbyhq.com/deaa6ad2-d184-436b-b69e-17f761da1d94/93aa276b-bbec-486b-afd6-396a1a856a18",
+      "title": "Spring Health - AI Transformation Director, Revenue",
+      "company": "Deaa6Ad2 D184 436B B69E 17F761Da1D94",
+      "first_seen": "2026-11-17T17:10:54.851235",
+      "ai_fit_score": 0,
+      "sustainability_fit_score": 0
+    },
+    "6073395a4a8cad5c": {
+      "url": "https://jobs.ashbyhq.com/mimica/ea843bd2-9fc2-4693-97f5-16a26793979b",
+      "title": "Lead/Staff Product Manager (AI Automation) | Remote",
+      "company": "Mimica",
+      "first_seen": "2026-11-17T17:10:54.851321",
+      "ai_fit_score": 0,
+      "sustainability_fit_score": 0
+    },
+    "c12d7961447cfe9f": {
+      "url": "https://jobs.ashbyhq.com/odewithanthropic/0bdc333d-4ea9-4c6c-9fb4-70647021bac1",
+      "title": "Forward Deployed Product Manager (SF/NY) @ Ode with ...",
+      "company": "Odewithanthropic",
+      "first_seen": "2026-11-17T17:10:54.851409",
+      "ai_fit_score": 0,
+      "sustainability_fit_score": 0
     }
   },
-  "last_updated": "2026-10-24T12:18:49.426075",
+  "last_updated": "2026-11-17T17:10:54.852052",
   "metadata": {
     "version": "1.0",
     "description": "Tracks jobs that have been analyzed to avoid duplicates"
