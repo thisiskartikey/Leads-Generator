@@ -1,118 +1,14 @@
 {
   "jobs": [
     {
-      "title": "Sr Analyst, AI Analytics @ Hims & Hers",
-      "company": "Hims And Hers",
-      "location": "N/A",
-      "description": "",
-      "url": "https://jobs.ashbyhq.com/hims-and-hers/73f8eacf-6dca-4f26-a5a7-2140a50b3fba",
-      "source": "ashby",
-      "posted_date": "2026-11-17T17:10:33.422779",
-      "scraped_at": "2026-11-17T17:10:33.422794",
-      "search_snippet": "Sr Analyst, AI Analytics ; Location. US - Remote ; Employment Type. Full time ; Location Type. Remote ; Department. ANALYTICS & DATA SCIENCE ; Compensation. $120K – ...",
-      "search_title": "Sr Analyst, AI Analytics @ Hims & Hers",
-      "ai_analysis": {
-        "fit_score": 0,
-        "category": "Unknown",
-        "justification": "Analysis failed",
-        "positioning_advice": "Could not analyze this job"
-      },
-      "sustainability_analysis": {
-        "fit_score": 0,
-        "category": "Unknown",
-        "justification": "Analysis failed",
-        "positioning_advice": "Could not analyze this job"
-      },
-      "job_id": "663f079b12d74ffa",
-      "days_old": 0
-    },
-    {
-      "title": "Lead Program Manager, AI & Work Transformation @ Socure",
-      "company": "Socure",
-      "location": "N/A",
-      "description": "",
-      "url": "https://jobs.ashbyhq.com/socure/fed81553-3054-4e81-8d9a-d5e5b3d2702c",
-      "source": "ashby",
-      "posted_date": "2026-11-17T17:10:35.544481",
-      "scraped_at": "2026-11-17T17:10:35.544497",
-      "search_snippet": "Familiarity with AI and agentic capabilities and how they affect business, software and data-science workflows. Able to ask useful questions, translate ...",
-      "search_title": "Lead Program Manager, AI & Work Transformation @ Socure",
-      "ai_analysis": {
-        "fit_score": 0,
-        "category": "Unknown",
-        "justification": "Analysis failed",
-        "positioning_advice": "Could not analyze this job"
-      },
-      "sustainability_analysis": {
-        "fit_score": 0,
-        "category": "Unknown",
-        "justification": "Analysis failed",
-        "positioning_advice": "Could not analyze this job"
-      },
-      "job_id": "d10505edd45bd5ab",
-      "days_old": 0
-    },
-    {
-      "title": "Analyst, Applied Validations @ Simile",
-      "company": "Simile",
-      "location": "N/A",
-      "description": "",
-      "url": "https://jobs.ashbyhq.com/simile/07973a24-ee38-43f1-bf12-6dd79ffd87fc",
-      "source": "ashby",
-      "posted_date": "2026-11-17T17:10:37.773147",
-      "scraped_at": "2026-11-17T17:10:37.773157",
-      "search_snippet": "Customer-Facing Technical Work: Experience in applied data science, technical consulting, or presenting analytical findings to customers. Compensation & ...",
-      "search_title": "Analyst, Applied Validations @ Simile",
-      "ai_analysis": {
-        "fit_score": 0,
-        "category": "Unknown",
-        "justification": "Analysis failed",
-        "positioning_advice": "Could not analyze this job"
-      },
-      "sustainability_analysis": {
-        "fit_score": 0,
-        "category": "Unknown",
-        "justification": "Analysis failed",
-        "positioning_advice": "Could not analyze this job"
-      },
-      "job_id": "237f72209983227d",
-      "days_old": 0
-    },
-    {
-      "title": "AI Transformation Director, Finance @ Spring Health",
-      "company": "Deaa6Ad2 D184 436B B69E 17F761Da1D94",
-      "location": "N/A",
-      "description": "",
-      "url": "https://jobs.ashbyhq.com/deaa6ad2-d184-436b-b69e-17f761da1d94/aa8cc286-bd1e-4786-8ceb-63e21bbf6a97",
-      "source": "ashby",
-      "posted_date": "2026-11-17T17:10:40.559041",
-      "scraped_at": "2026-11-17T17:10:40.559052",
-      "search_snippet": "The AI Transformation Director owns AI transformation for Finance. Sitting within the AI Transformation Office and partnering directly with the department's ...",
-      "search_title": "AI Transformation Director, Finance @ Spring Health",
-      "ai_analysis": {
-        "fit_score": 0,
-        "category": "Unknown",
-        "justification": "Analysis failed",
-        "positioning_advice": "Could not analyze this job"
-      },
-      "sustainability_analysis": {
-        "fit_score": 0,
-        "category": "Unknown",
-        "justification": "Analysis failed",
-        "positioning_advice": "Could not analyze this job"
-      },
-      "job_id": "6d53280b02a2b171",
-      "days_old": 0
-    },
-    {
       "title": "Director, AI Product Development @ Databook Labs, Inc.",
       "company": "Databook",
       "location": "N/A",
       "description": "",
       "url": "https://jobs.ashbyhq.com/databook/c813375a-de86-40d6-bb63-f7602f38060e",
       "source": "ashby",
-      "posted_date": "2026-11-17T17:10:42.960430",
-      "scraped_at": "2026-11-17T17:10:42.960440",
+      "posted_date": "2026-11-21T15:43:41.043952",
+      "scraped_at": "2026-11-21T15:43:41.043968",
       "search_snippet": "... AI engineering, Data & Insights and GTM AI Strategy & Deployment teams, and lead a team of Agent Builders who configure our agentic workflows and build ...",
       "search_title": "Director, AI Product Development @ Databook Labs, Inc.",
       "ai_analysis": {
@@ -131,16 +27,16 @@
       "days_old": 0
     },
     {
-      "title": "AI Product Manager, Superhumans & Console @ 1mind",
-      "company": "1Mind",
+      "title": "AI Transformation Director @ Riplo",
+      "company": "Riplo",
       "location": "N/A",
       "description": "",
-      "url": "https://jobs.ashbyhq.com/1mind/74f0b798-c99b-421e-866f-8c616d0f40d3",
+      "url": "https://jobs.ashbyhq.com/riplo/4774e7de-0116-4220-9fb5-2b676f9c8ae6",
       "source": "ashby",
-      "posted_date": "2026-11-17T17:10:45.063474",
-      "scraped_at": "2026-11-17T17:10:45.063484",
-      "search_snippet": "AI Product Manager, Superhumans & Console. This is a fully remote opportunity and can be worked from any location in the United States.",
-      "search_title": "AI Product Manager, Superhumans & Console @ 1mind",
+      "posted_date": "2026-11-21T15:43:43.200083",
+      "scraped_at": "2026-11-21T15:43:43.200094",
+      "search_snippet": "AI Transformation Director, Solutions · London (in office 4–5 days a week) · Full-time. This is not a typical transformation role. You will be a key hire ...",
+      "search_title": "AI Transformation Director @ Riplo",
       "ai_analysis": {
         "fit_score": 0,
         "category": "Unknown",
@@ -153,122 +49,18 @@
         "justification": "Analysis failed",
         "positioning_advice": "Could not analyze this job"
       },
-      "job_id": "acf4f424d496a5dd",
-      "days_old": 0
-    },
-    {
-      "title": "Senior Product Manager, AI Products @ Craft Machine Inc",
-      "company": "Craft.Co",
-      "location": "N/A",
-      "description": "",
-      "url": "https://jobs.ashbyhq.com/craft.co/63ed81a1-eda8-41ae-ae88-b3d2f2ad2c4d",
-      "source": "ashby",
-      "posted_date": "2026-11-17T17:10:47.591145",
-      "scraped_at": "2026-11-17T17:10:47.591154",
-      "search_snippet": "Who You Are: · 6+ years in product, and you've shipped at least one LLM-backed product and run evals on it. · You have taste. · You write crisp, structured ...",
-      "search_title": "Senior Product Manager, AI Products @ Craft Machine Inc",
-      "ai_analysis": {
-        "fit_score": 0,
-        "category": "Unknown",
-        "justification": "Analysis failed",
-        "positioning_advice": "Could not analyze this job"
-      },
-      "sustainability_analysis": {
-        "fit_score": 0,
-        "category": "Unknown",
-        "justification": "Analysis failed",
-        "positioning_advice": "Could not analyze this job"
-      },
-      "job_id": "fe822bef6cc94dbb",
-      "days_old": 0
-    },
-    {
-      "title": "Spring Health - AI Transformation Director, Revenue",
-      "company": "Deaa6Ad2 D184 436B B69E 17F761Da1D94",
-      "location": "N/A",
-      "description": "",
-      "url": "https://jobs.ashbyhq.com/deaa6ad2-d184-436b-b69e-17f761da1d94/93aa276b-bbec-486b-afd6-396a1a856a18",
-      "source": "ashby",
-      "posted_date": "2026-11-17T17:10:49.892183",
-      "scraped_at": "2026-11-17T17:10:49.892195",
-      "search_snippet": "The AI Transformation Director also helps shape company-wide standards for how AI is applied and governed, informed by what works across revenue teams. This is ...",
-      "search_title": "Spring Health - AI Transformation Director, Revenue",
-      "ai_analysis": {
-        "fit_score": 0,
-        "category": "Unknown",
-        "justification": "Analysis failed",
-        "positioning_advice": "Could not analyze this job"
-      },
-      "sustainability_analysis": {
-        "fit_score": 0,
-        "category": "Unknown",
-        "justification": "Analysis failed",
-        "positioning_advice": "Could not analyze this job"
-      },
-      "job_id": "258d8d41ce26eff7",
-      "days_old": 0
-    },
-    {
-      "title": "Lead/Staff Product Manager (AI Automation) | Remote",
-      "company": "Mimica",
-      "location": "N/A",
-      "description": "",
-      "url": "https://jobs.ashbyhq.com/mimica/ea843bd2-9fc2-4693-97f5-16a26793979b",
-      "source": "ashby",
-      "posted_date": "2026-11-17T17:10:52.019226",
-      "scraped_at": "2026-11-17T17:10:52.019235",
-      "search_snippet": "Strategically incorporate state-of-the-art ML into the product. Deeply understand deterministic and agentic automation use cases, customer pain points, and ...",
-      "search_title": "Lead/Staff Product Manager (AI Automation) | Remote",
-      "ai_analysis": {
-        "fit_score": 0,
-        "category": "Unknown",
-        "justification": "Analysis failed",
-        "positioning_advice": "Could not analyze this job"
-      },
-      "sustainability_analysis": {
-        "fit_score": 0,
-        "category": "Unknown",
-        "justification": "Analysis failed",
-        "positioning_advice": "Could not analyze this job"
-      },
-      "job_id": "6073395a4a8cad5c",
-      "days_old": 0
-    },
-    {
-      "title": "Forward Deployed Product Manager (SF/NY) @ Ode with ...",
-      "company": "Odewithanthropic",
-      "location": "N/A",
-      "description": "",
-      "url": "https://jobs.ashbyhq.com/odewithanthropic/0bdc333d-4ea9-4c6c-9fb4-70647021bac1",
-      "source": "ashby",
-      "posted_date": "2026-11-17T17:10:54.849905",
-      "scraped_at": "2026-11-17T17:10:54.849916",
-      "search_snippet": "Part product manager: you decide what we build and why. Part builder: you prototype fast and get hands-on in the AI systems alongside our engineering team. Part ...",
-      "search_title": "Forward Deployed Product Manager (SF/NY) @ Ode with ...",
-      "ai_analysis": {
-        "fit_score": 0,
-        "category": "Unknown",
-        "justification": "Analysis failed",
-        "positioning_advice": "Could not analyze this job"
-      },
-      "sustainability_analysis": {
-        "fit_score": 0,
-        "category": "Unknown",
-        "justification": "Analysis failed",
-        "positioning_advice": "Could not analyze this job"
-      },
-      "job_id": "c12d7961447cfe9f",
+      "job_id": "a14f8d0a2ce0ad62",
       "days_old": 0
     }
   ],
   "metadata": {
     "profile": "kartikey",
     "profile_display_name": "Kartikey",
-    "run_timestamp": "2026-11-17T17:10:00.286817",
+    "run_timestamp": "2026-11-21T15:42:57.510800",
     "trigger_type": "schedule",
-    "total_searched": 10,
-    "new_jobs_found": 10,
-    "jobs_analyzed": 10,
+    "total_searched": 2,
+    "new_jobs_found": 2,
+    "jobs_analyzed": 2,
     "jobs_skipped": 0,
     "jobs_location_filtered": 0
   }

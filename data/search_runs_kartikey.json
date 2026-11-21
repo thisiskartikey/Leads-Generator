@@ -2,41 +2,6 @@
   "profile": "kartikey",
   "runs": [
     {
-      "timestamp": "2026-06-20T10:24:18.249142",
-      "trigger": "schedule",
-      "job_ids": [
-        "2c25112b6a1adee4",
-        "f9e4deace3db6498",
-        "40285d2584ba0ccf",
-        "85aca4e919d13944",
-        "bb2e4665d58f33d8",
-        "183dffcbefb5777f",
-        "9228f110c78e7e1b",
-        "b02f947e564b1101",
-        "9fa382b0bffe3562",
-        "cdb17f054ce497bb",
-        "070804a925ce86f4",
-        "1afaf3a775ccfe7a",
-        "668b7a4adf8587b6",
-        "2136fd7f2c9931c3",
-        "8a6c1f4f302c6b1e",
-        "e87fadbb17b8a284",
-        "9a2f2eeb761002fe",
-        "299c35fa747a3962",
-        "1f028ad68b189e93",
-        "15d5fa9945f49fcb",
-        "a43005955cdeefea",
-        "ab65dd8c906a4f72",
-        "1d84cb1c3fd6800e",
-        "5da31e8d5e5c0d5e",
-        "96e0d7150dcf5853"
-      ],
-      "jobs_in_results": 25,
-      "total_searched": 25,
-      "new_jobs_found": 25,
-      "jobs_analyzed": 25
-    },
-    {
       "timestamp": "2026-06-23T10:51:58.338124",
       "trigger": "schedule",
       "job_ids": [
@@ -937,7 +902,19 @@
       "total_searched": 10,
       "new_jobs_found": 10,
       "jobs_analyzed": 10
+    },
+    {
+      "timestamp": "2026-11-21T15:42:57.510800",
+      "trigger": "schedule",
+      "job_ids": [
+        "768345d245f0c3a5",
+        "a14f8d0a2ce0ad62"
+      ],
+      "jobs_in_results": 2,
+      "total_searched": 2,
+      "new_jobs_found": 2,
+      "jobs_analyzed": 2
     }
   ],
-  "last_updated": "2026-11-17T17:10:00.286817"
+  "last_updated": "2026-11-21T15:42:57.510800"
 }

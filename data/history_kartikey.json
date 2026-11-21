@@ -6588,7 +6588,7 @@
       "url": "https://jobs.ashbyhq.com/databook/c813375a-de86-40d6-bb63-f7602f38060e",
       "title": "Director, AI Product Development @ Databook Labs, Inc.",
       "company": "Databook",
-      "first_seen": "2026-11-17T17:10:54.850880",
+      "first_seen": "2026-11-21T15:43:43.200780",
       "ai_fit_score": 0,
       "sustainability_fit_score": 0
     },
@@ -6631,9 +6631,17 @@
       "first_seen": "2026-11-17T17:10:54.851409",
       "ai_fit_score": 0,
       "sustainability_fit_score": 0
+    },
+    "a14f8d0a2ce0ad62": {
+      "url": "https://jobs.ashbyhq.com/riplo/4774e7de-0116-4220-9fb5-2b676f9c8ae6",
+      "title": "AI Transformation Director @ Riplo",
+      "company": "Riplo",
+      "first_seen": "2026-11-21T15:43:43.201113",
+      "ai_fit_score": 0,
+      "sustainability_fit_score": 0
     }
   },
-  "last_updated": "2026-11-17T17:10:54.852052",
+  "last_updated": "2026-11-21T15:43:43.201874",
   "metadata": {
     "version": "1.0",
     "description": "Tracks jobs that have been analyzed to avoid duplicates"
