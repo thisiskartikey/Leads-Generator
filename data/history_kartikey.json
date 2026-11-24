@@ -6556,7 +6556,7 @@
       "url": "https://jobs.ashbyhq.com/hims-and-hers/73f8eacf-6dca-4f26-a5a7-2140a50b3fba",
       "title": "Sr Analyst, AI Analytics @ Hims & Hers",
       "company": "Hims And Hers",
-      "first_seen": "2026-11-17T17:10:54.850398",
+      "first_seen": "2026-11-24T19:10:33.189692",
       "ai_fit_score": 0,
       "sustainability_fit_score": 0
     },
@@ -6564,7 +6564,7 @@
       "url": "https://jobs.ashbyhq.com/socure/fed81553-3054-4e81-8d9a-d5e5b3d2702c",
       "title": "Lead Program Manager, AI & Work Transformation @ Socure",
       "company": "Socure",
-      "first_seen": "2026-11-17T17:10:54.850575",
+      "first_seen": "2026-11-24T19:10:33.188359",
       "ai_fit_score": 0,
       "sustainability_fit_score": 0
     },
@@ -6572,7 +6572,7 @@
       "url": "https://jobs.ashbyhq.com/simile/07973a24-ee38-43f1-bf12-6dd79ffd87fc",
       "title": "Analyst, Applied Validations @ Simile",
       "company": "Simile",
-      "first_seen": "2026-11-17T17:10:54.850689",
+      "first_seen": "2026-11-24T19:10:33.190271",
       "ai_fit_score": 0,
       "sustainability_fit_score": 0
     },
@@ -6580,7 +6580,7 @@
       "url": "https://jobs.ashbyhq.com/deaa6ad2-d184-436b-b69e-17f761da1d94/aa8cc286-bd1e-4786-8ceb-63e21bbf6a97",
       "title": "AI Transformation Director, Finance @ Spring Health",
       "company": "Deaa6Ad2 D184 436B B69E 17F761Da1D94",
-      "first_seen": "2026-11-17T17:10:54.850795",
+      "first_seen": "2026-11-24T19:10:33.189064",
       "ai_fit_score": 0,
       "sustainability_fit_score": 0
     },
@@ -6588,7 +6588,7 @@
       "url": "https://jobs.ashbyhq.com/databook/c813375a-de86-40d6-bb63-f7602f38060e",
       "title": "Director, AI Product Development @ Databook Labs, Inc.",
       "company": "Databook",
-      "first_seen": "2026-11-21T15:43:43.200780",
+      "first_seen": "2026-11-24T19:10:33.188727",
       "ai_fit_score": 0,
       "sustainability_fit_score": 0
     },
@@ -6639,9 +6639,49 @@
       "first_seen": "2026-11-21T15:43:43.201113",
       "ai_fit_score": 0,
       "sustainability_fit_score": 0
+    },
+    "982ceea050f79426": {
+      "url": "https://jobs.ashbyhq.com/exa/fd65f37b-2111-4512-bb4b-3a211d487321",
+      "title": "Product Manager, Agentic Search @ Exa",
+      "company": "Exa",
+      "first_seen": "2026-11-24T19:10:33.187993",
+      "ai_fit_score": 0,
+      "sustainability_fit_score": 0
+    },
+    "bf6efa40f90f60ec": {
+      "url": "https://jobs.ashbyhq.com/benchling/89a58a83-82ee-4d9f-8d9d-a8056af04531",
+      "title": "AI GTM Specialist, Model Hub @ Benchling",
+      "company": "Benchling",
+      "first_seen": "2026-11-24T19:10:33.189270",
+      "ai_fit_score": 0,
+      "sustainability_fit_score": 0
+    },
+    "60eb99604e321a00": {
+      "url": "https://jobs.ashbyhq.com/applausejobs/fd7fb668-6058-4f1e-83f3-e9ea9d23a189",
+      "title": "AI Technical Program Manager @ Applause",
+      "company": "Applausejobs",
+      "first_seen": "2026-11-24T19:10:33.189496",
+      "ai_fit_score": 0,
+      "sustainability_fit_score": 0
+    },
+    "df2e46e4a3043bdb": {
+      "url": "https://jobs.ashbyhq.com/geniusai/dae6b575-4b03-4e1d-834c-068fe5556e54",
+      "title": "Senior Strategy & Operations Manager @ Genius AI",
+      "company": "Geniusai",
+      "first_seen": "2026-11-24T19:10:33.189895",
+      "ai_fit_score": 0,
+      "sustainability_fit_score": 0
+    },
+    "218eacc877a54d4c": {
+      "url": "https://jobs.ashbyhq.com/cogent-security/186881f5-4048-4302-90b5-61422b51e9ac",
+      "title": "Senior Product Manager, AI Platform @ Cogent Security",
+      "company": "Cogent Security",
+      "first_seen": "2026-11-24T19:10:33.190085",
+      "ai_fit_score": 0,
+      "sustainability_fit_score": 0
     }
   },
-  "last_updated": "2026-11-21T15:43:43.201874",
+  "last_updated": "2026-11-24T19:10:33.191602",
   "metadata": {
     "version": "1.0",
     "description": "Tracks jobs that have been analyzed to avoid duplicates"

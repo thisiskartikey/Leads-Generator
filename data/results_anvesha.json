@@ -1,34 +1,14 @@
 {
   "jobs": [
     {
-      "title": "Product Designer",
-      "company": "Skywarditsolutions",
-      "location": "Rockville, MD",
-      "description": "",
-      "url": "https://jobs.lever.co/skywarditsolutions/18945759-48b9-4335-b1d2-7cce8b4d88dc",
-      "source": "lever",
-      "posted_date": "2026-11-21T15:44:13.191736",
-      "scraped_at": "2026-11-21T15:44:13.191753",
-      "search_snippet": "A bachelor's degree and 5+ years in UX/product design (with hands-on research exposure) or a closely related field. A standout portfolio that shows strong ...",
-      "search_title": "Skyward IT Solutions, LLC - Product Designer",
-      "anvesha_analysis": {
-        "fit_score": 0,
-        "category": "Unknown",
-        "justification": "Analysis failed",
-        "positioning_advice": "Could not analyze this job"
-      },
-      "job_id": "82f17f2d99594a6a",
-      "days_old": 0
-    },
-    {
       "title": "Sr. UX Researcher (UXR-2-112026) - Koru UX Design LLP",
       "company": "Koru",
       "location": "N/A",
       "description": "",
       "url": "https://apply.workable.com/koru/j/F87168B90C/",
       "source": "workable",
-      "posted_date": "2026-11-21T15:44:15.295884",
-      "scraped_at": "2026-11-21T15:44:15.295894",
+      "posted_date": "2026-11-24T19:11:13.519654",
+      "scraped_at": "2026-11-24T19:11:13.519663",
       "search_snippet": "You'll plan and execute end-to-end research studies, work closely with product owners, and help define experiences used by thousands of professionals in the US.",
       "search_title": "Sr. UX Researcher (UXR-2-112026) - Koru UX Design LLP",
       "anvesha_analysis": {
@@ -39,16 +19,196 @@
       },
       "job_id": "6c36c095b3385eaa",
       "days_old": 0
+    },
+    {
+      "title": "UX Researcher and Service Designer - A26447",
+      "company": "N/A",
+      "location": "N/A",
+      "description": "",
+      "url": "https://jobs.workable.com/view/s2cWS9gxe39KtaHKjZtgvw/ux-researcher-and-service-designer---a26447-in-singapore-at-activate-interactive-pte-ltd?utm_source=twine.net",
+      "source": "workable",
+      "posted_date": "2026-11-24T19:11:15.630852",
+      "scraped_at": "2026-11-24T19:11:15.630859",
+      "search_snippet": "UX Researcher and Service Designer - A26447. at Activate Interactive Pte Ltd ... We believe in positively impacting the lives of people around us and the ...",
+      "search_title": "UX Researcher and Service Designer - A26447",
+      "anvesha_analysis": {
+        "fit_score": 0,
+        "category": "Unknown",
+        "justification": "Analysis failed",
+        "positioning_advice": "Could not analyze this job"
+      },
+      "job_id": "d89d8aca2f9d3665",
+      "days_old": 0
+    },
+    {
+      "title": "Junior UX Designer | Bask Health",
+      "company": "N/A",
+      "location": "N/A",
+      "description": "",
+      "url": "https://jobs.workable.com/view/gotjYdSBGqeuNwRYQSSkKw/remote-junior-ux-designer-in-united-states-at-bask-health",
+      "source": "workable",
+      "posted_date": "2026-11-24T19:11:17.684643",
+      "scraped_at": "2026-11-24T19:11:17.684649",
+      "search_snippet": "Junior UX Designer · 1+ years of relevant UX design, interaction design, or product design experience preferred; internships, freelance projects, and substantial ...",
+      "search_title": "Junior UX Designer | Bask Health",
+      "anvesha_analysis": {
+        "fit_score": 0,
+        "category": "Unknown",
+        "justification": "Analysis failed",
+        "positioning_advice": "Could not analyze this job"
+      },
+      "job_id": "fa10bb24de8b77a4",
+      "days_old": 0
+    },
+    {
+      "title": "UI/UX Designer - Active TS/SCI with CI Poly",
+      "company": "Ens Solutions",
+      "location": "N/A",
+      "description": "",
+      "url": "https://apply.workable.com/ens-solutions/j/2114C79BE5/",
+      "source": "workable",
+      "posted_date": "2026-11-24T19:11:19.742950",
+      "scraped_at": "2026-11-24T19:11:19.742959",
+      "search_snippet": "Perform as a UI/UX Designer with expertise in human-centered design, interaction design, information architecture, and usability best practices.",
+      "search_title": "UI/UX Designer - Active TS/SCI with CI Poly",
+      "anvesha_analysis": {
+        "fit_score": 0,
+        "category": "Unknown",
+        "justification": "Analysis failed",
+        "positioning_advice": "Could not analyze this job"
+      },
+      "job_id": "e88a892dff624ffb",
+      "days_old": 0
+    },
+    {
+      "title": "Staff Product Designer - AI Products @ Kraken",
+      "company": "Kraken.Com",
+      "location": "N/A",
+      "description": "",
+      "url": "https://jobs.ashbyhq.com/kraken.com/c41dff23-f502-42a7-a17e-5c8f759e7905",
+      "source": "ashby",
+      "posted_date": "2026-11-24T19:11:21.928930",
+      "scraped_at": "2026-11-24T19:11:21.928939",
+      "search_snippet": "... us to lead Product Design for the building of elite AI products, end ... user research and use customer insights, data and experimentation to ...",
+      "search_title": "Staff Product Designer - AI Products @ Kraken",
+      "anvesha_analysis": {
+        "fit_score": 0,
+        "category": "Unknown",
+        "justification": "Analysis failed",
+        "positioning_advice": "Could not analyze this job"
+      },
+      "job_id": "ef4f4d34a0f5ac83",
+      "days_old": 0
+    },
+    {
+      "title": "Senior Product Designer",
+      "company": "Mark43",
+      "location": "N/A",
+      "description": "",
+      "url": "https://boards.greenhouse.io/mark43/jobs/8383879",
+      "source": "greenhouse",
+      "posted_date": "2026-11-24T19:11:24.349744",
+      "scraped_at": "2026-11-24T19:11:24.349760",
+      "search_snippet": "Experience across the product design process, including discovery, user research, interaction design, prototyping, and high-fidelity UI design. Confidence ...",
+      "search_title": "Senior Product Designer",
+      "anvesha_analysis": {
+        "fit_score": 0,
+        "category": "Unknown",
+        "justification": "Analysis failed",
+        "positioning_advice": "Could not analyze this job"
+      },
+      "job_id": "1ec28a515d80fd48",
+      "days_old": 0
+    },
+    {
+      "title": "Product Designer II @ Cherry Technologies, Inc.",
+      "company": "Withcherry",
+      "location": "N/A",
+      "description": "",
+      "url": "https://jobs.ashbyhq.com/withcherry/77801017-9df2-4482-9370-890b46f6f4a5",
+      "source": "ashby",
+      "posted_date": "2026-11-24T19:11:26.490611",
+      "scraped_at": "2026-11-24T19:11:26.490622",
+      "search_snippet": "... Product Design & Execution - Own design for well-scoped features and ... Product Designer II. Location. Remote (US). Employment Type. Full time. Location ...",
+      "search_title": "Product Designer II @ Cherry Technologies, Inc.",
+      "anvesha_analysis": {
+        "fit_score": 0,
+        "category": "Unknown",
+        "justification": "Analysis failed",
+        "positioning_advice": "Could not analyze this job"
+      },
+      "job_id": "175bac452f3b0705",
+      "days_old": 0
+    },
+    {
+      "title": "Quo - Senior Product Designer, Mobile",
+      "company": "Quo",
+      "location": "N/A",
+      "description": "",
+      "url": "https://jobs.ashbyhq.com/quo/e4e88ab4-da1b-4c78-88d4-66f9f69bd44f",
+      "source": "ashby",
+      "posted_date": "2026-11-24T19:11:28.634287",
+      "scraped_at": "2026-11-24T19:11:28.634296",
+      "search_snippet": "Senior Product Designer, Mobile. Location. Remote - United States & Canada. Employment Type. Full time. Location Type.",
+      "search_title": "Quo - Senior Product Designer, Mobile",
+      "anvesha_analysis": {
+        "fit_score": 0,
+        "category": "Unknown",
+        "justification": "Analysis failed",
+        "positioning_advice": "Could not analyze this job"
+      },
+      "job_id": "79f5baf908b35307",
+      "days_old": 0
+    },
+    {
+      "title": "Principal Product Designer, Cross-Activation @ Superhuman",
+      "company": "Superhuman%20Platform%20Inc",
+      "location": "N/A",
+      "description": "",
+      "url": "https://jobs.ashbyhq.com/superhuman%20platform%20inc/190e19a5-6b8b-4830-a183-57fd2ff2b275",
+      "source": "ashby",
+      "posted_date": "2026-11-24T19:11:31.066842",
+      "scraped_at": "2026-11-24T19:11:31.066853",
+      "search_snippet": "Partner and guide the service design lens. You'll have the support of a service designer to think about design across the full system of touchpoints, lifecycle ...",
+      "search_title": "Principal Product Designer, Cross-Activation @ Superhuman",
+      "anvesha_analysis": {
+        "fit_score": 0,
+        "category": "Unknown",
+        "justification": "Analysis failed",
+        "positioning_advice": "Could not analyze this job"
+      },
+      "job_id": "2a2c0c84a0d962a6",
+      "days_old": 0
+    },
+    {
+      "title": "UX Design @ MeridianLink",
+      "company": "Meridianlink",
+      "location": "N/A",
+      "description": "",
+      "url": "https://jobs.ashbyhq.com/meridianlink/25dcf2ca-aa47-404e-8f68-b6755c86f4bf",
+      "source": "ashby",
+      "posted_date": "2026-11-24T19:11:33.084058",
+      "scraped_at": "2026-11-24T19:11:33.084067",
+      "search_snippet": "... interaction design. This role requires ... MeridianLink is seeking a talented UX Designer to join our UX Design team within the Product organization.",
+      "search_title": "UX Design @ MeridianLink",
+      "anvesha_analysis": {
+        "fit_score": 0,
+        "category": "Unknown",
+        "justification": "Analysis failed",
+        "positioning_advice": "Could not analyze this job"
+      },
+      "job_id": "6ca2a1271f4a4940",
+      "days_old": 0
     }
   ],
   "metadata": {
     "profile": "anvesha",
     "profile_display_name": "Anvesha",
-    "run_timestamp": "2026-11-21T15:43:43.232878",
+    "run_timestamp": "2026-11-24T19:10:33.225260",
     "trigger_type": "schedule",
-    "total_searched": 2,
-    "new_jobs_found": 2,
-    "jobs_analyzed": 2,
+    "total_searched": 10,
+    "new_jobs_found": 10,
+    "jobs_analyzed": 10,
     "jobs_skipped": 0,
     "jobs_location_filtered": 0
   }

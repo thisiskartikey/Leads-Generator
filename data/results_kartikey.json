@@ -1,14 +1,66 @@
 {
   "jobs": [
     {
+      "title": "Product Manager, Agentic Search @ Exa",
+      "company": "Exa",
+      "location": "N/A",
+      "description": "",
+      "url": "https://jobs.ashbyhq.com/exa/fd65f37b-2111-4512-bb4b-3a211d487321",
+      "source": "ashby",
+      "posted_date": "2026-11-24T19:10:12.719562",
+      "scraped_at": "2026-11-24T19:10:12.719575",
+      "search_snippet": "Product Manager, Agentic Search. Location. San Francisco, California. Employment Type. Full time. Location Type. On ...",
+      "search_title": "Product Manager, Agentic Search @ Exa",
+      "ai_analysis": {
+        "fit_score": 0,
+        "category": "Unknown",
+        "justification": "Analysis failed",
+        "positioning_advice": "Could not analyze this job"
+      },
+      "sustainability_analysis": {
+        "fit_score": 0,
+        "category": "Unknown",
+        "justification": "Analysis failed",
+        "positioning_advice": "Could not analyze this job"
+      },
+      "job_id": "982ceea050f79426",
+      "days_old": 0
+    },
+    {
+      "title": "Lead Program Manager, AI & Work Transformation @ Socure",
+      "company": "Socure",
+      "location": "N/A",
+      "description": "",
+      "url": "https://jobs.ashbyhq.com/socure/fed81553-3054-4e81-8d9a-d5e5b3d2702c",
+      "source": "ashby",
+      "posted_date": "2026-11-24T19:10:15.076556",
+      "scraped_at": "2026-11-24T19:10:15.076568",
+      "search_snippet": "Familiarity with AI and agentic capabilities and how they affect business, software and data-science workflows. Able to ask useful questions, translate ...",
+      "search_title": "Lead Program Manager, AI & Work Transformation @ Socure",
+      "ai_analysis": {
+        "fit_score": 0,
+        "category": "Unknown",
+        "justification": "Analysis failed",
+        "positioning_advice": "Could not analyze this job"
+      },
+      "sustainability_analysis": {
+        "fit_score": 0,
+        "category": "Unknown",
+        "justification": "Analysis failed",
+        "positioning_advice": "Could not analyze this job"
+      },
+      "job_id": "d10505edd45bd5ab",
+      "days_old": 0
+    },
+    {
       "title": "Director, AI Product Development @ Databook Labs, Inc.",
       "company": "Databook",
       "location": "N/A",
       "description": "",
       "url": "https://jobs.ashbyhq.com/databook/c813375a-de86-40d6-bb63-f7602f38060e",
       "source": "ashby",
-      "posted_date": "2026-11-21T15:43:41.043952",
-      "scraped_at": "2026-11-21T15:43:41.043968",
+      "posted_date": "2026-11-24T19:10:17.366256",
+      "scraped_at": "2026-11-24T19:10:17.366266",
       "search_snippet": "... AI engineering, Data & Insights and GTM AI Strategy & Deployment teams, and lead a team of Agent Builders who configure our agentic workflows and build ...",
       "search_title": "Director, AI Product Development @ Databook Labs, Inc.",
       "ai_analysis": {
@@ -27,16 +79,16 @@
       "days_old": 0
     },
     {
-      "title": "AI Transformation Director @ Riplo",
-      "company": "Riplo",
+      "title": "AI Transformation Director, Finance @ Spring Health",
+      "company": "Deaa6Ad2 D184 436B B69E 17F761Da1D94",
       "location": "N/A",
       "description": "",
-      "url": "https://jobs.ashbyhq.com/riplo/4774e7de-0116-4220-9fb5-2b676f9c8ae6",
+      "url": "https://jobs.ashbyhq.com/deaa6ad2-d184-436b-b69e-17f761da1d94/aa8cc286-bd1e-4786-8ceb-63e21bbf6a97",
       "source": "ashby",
-      "posted_date": "2026-11-21T15:43:43.200083",
-      "scraped_at": "2026-11-21T15:43:43.200094",
-      "search_snippet": "AI Transformation Director, Solutions · London (in office 4–5 days a week) · Full-time. This is not a typical transformation role. You will be a key hire ...",
-      "search_title": "AI Transformation Director @ Riplo",
+      "posted_date": "2026-11-24T19:10:19.579488",
+      "scraped_at": "2026-11-24T19:10:19.579508",
+      "search_snippet": "The AI Transformation Director owns AI transformation for Finance. Sitting within the AI Transformation Office and partnering directly with the department's ...",
+      "search_title": "AI Transformation Director, Finance @ Spring Health",
       "ai_analysis": {
         "fit_score": 0,
         "category": "Unknown",
@@ -49,18 +101,174 @@
         "justification": "Analysis failed",
         "positioning_advice": "Could not analyze this job"
       },
-      "job_id": "a14f8d0a2ce0ad62",
+      "job_id": "6d53280b02a2b171",
+      "days_old": 0
+    },
+    {
+      "title": "AI GTM Specialist, Model Hub @ Benchling",
+      "company": "Benchling",
+      "location": "N/A",
+      "description": "",
+      "url": "https://jobs.ashbyhq.com/benchling/89a58a83-82ee-4d9f-8d9d-a8056af04531",
+      "source": "ashby",
+      "posted_date": "2026-11-24T19:10:22.079517",
+      "scraped_at": "2026-11-24T19:10:22.079527",
+      "search_snippet": "AI GTM Specialist, Model Hub · Reach out and engage computational biology, data science, and other dry lab leaders at customers · 2-4 years in a technical ...",
+      "search_title": "AI GTM Specialist, Model Hub @ Benchling",
+      "ai_analysis": {
+        "fit_score": 0,
+        "category": "Unknown",
+        "justification": "Analysis failed",
+        "positioning_advice": "Could not analyze this job"
+      },
+      "sustainability_analysis": {
+        "fit_score": 0,
+        "category": "Unknown",
+        "justification": "Analysis failed",
+        "positioning_advice": "Could not analyze this job"
+      },
+      "job_id": "bf6efa40f90f60ec",
+      "days_old": 0
+    },
+    {
+      "title": "AI Technical Program Manager @ Applause",
+      "company": "Applausejobs",
+      "location": "N/A",
+      "description": "",
+      "url": "https://jobs.ashbyhq.com/applausejobs/fd7fb668-6058-4f1e-83f3-e9ea9d23a189",
+      "source": "ashby",
+      "posted_date": "2026-11-24T19:10:24.328054",
+      "scraped_at": "2026-11-24T19:10:24.328065",
+      "search_snippet": "Experience on issues pertaining to AI, machine learning, or responsible AI, such as AI/ML engineering, AI-related technical program management, AI product ...",
+      "search_title": "AI Technical Program Manager @ Applause",
+      "ai_analysis": {
+        "fit_score": 0,
+        "category": "Unknown",
+        "justification": "Analysis failed",
+        "positioning_advice": "Could not analyze this job"
+      },
+      "sustainability_analysis": {
+        "fit_score": 0,
+        "category": "Unknown",
+        "justification": "Analysis failed",
+        "positioning_advice": "Could not analyze this job"
+      },
+      "job_id": "60eb99604e321a00",
+      "days_old": 0
+    },
+    {
+      "title": "Sr Analyst, AI Analytics @ Hims & Hers",
+      "company": "Hims And Hers",
+      "location": "N/A",
+      "description": "",
+      "url": "https://jobs.ashbyhq.com/hims-and-hers/73f8eacf-6dca-4f26-a5a7-2140a50b3fba",
+      "source": "ashby",
+      "posted_date": "2026-11-24T19:10:26.619263",
+      "scraped_at": "2026-11-24T19:10:26.619274",
+      "search_snippet": "Experimentation: 3+ years of experience designing, executing, and analyzing A/B tests, ideally including tests on AI/ML-driven product experiences. Data ...",
+      "search_title": "Sr Analyst, AI Analytics @ Hims & Hers",
+      "ai_analysis": {
+        "fit_score": 0,
+        "category": "Unknown",
+        "justification": "Analysis failed",
+        "positioning_advice": "Could not analyze this job"
+      },
+      "sustainability_analysis": {
+        "fit_score": 0,
+        "category": "Unknown",
+        "justification": "Analysis failed",
+        "positioning_advice": "Could not analyze this job"
+      },
+      "job_id": "663f079b12d74ffa",
+      "days_old": 0
+    },
+    {
+      "title": "Senior Strategy & Operations Manager @ Genius AI",
+      "company": "Geniusai",
+      "location": "N/A",
+      "description": "",
+      "url": "https://jobs.ashbyhq.com/geniusai/dae6b575-4b03-4e1d-834c-068fe5556e54",
+      "source": "ashby",
+      "posted_date": "2026-11-24T19:10:28.886081",
+      "scraped_at": "2026-11-24T19:10:28.886089",
+      "search_snippet": "Genius AI may use automated tools, including artificial intelligence and machine learning systems (AI Tools), to assist in evaluating applicants' qualifications ...",
+      "search_title": "Senior Strategy & Operations Manager @ Genius AI",
+      "ai_analysis": {
+        "fit_score": 0,
+        "category": "Unknown",
+        "justification": "Analysis failed",
+        "positioning_advice": "Could not analyze this job"
+      },
+      "sustainability_analysis": {
+        "fit_score": 0,
+        "category": "Unknown",
+        "justification": "Analysis failed",
+        "positioning_advice": "Could not analyze this job"
+      },
+      "job_id": "df2e46e4a3043bdb",
+      "days_old": 0
+    },
+    {
+      "title": "Senior Product Manager, AI Platform @ Cogent Security",
+      "company": "Cogent Security",
+      "location": "N/A",
+      "description": "",
+      "url": "https://jobs.ashbyhq.com/cogent-security/186881f5-4048-4302-90b5-61422b51e9ac",
+      "source": "ashby",
+      "posted_date": "2026-11-24T19:10:31.033138",
+      "scraped_at": "2026-11-24T19:10:31.033148",
+      "search_snippet": "We're hiring a Senior Product Manager, AI Platform to own the platform our AI workforce runs on: the data, context, and tooling our agents use to reason ...",
+      "search_title": "Senior Product Manager, AI Platform @ Cogent Security",
+      "ai_analysis": {
+        "fit_score": 0,
+        "category": "Unknown",
+        "justification": "Analysis failed",
+        "positioning_advice": "Could not analyze this job"
+      },
+      "sustainability_analysis": {
+        "fit_score": 0,
+        "category": "Unknown",
+        "justification": "Analysis failed",
+        "positioning_advice": "Could not analyze this job"
+      },
+      "job_id": "218eacc877a54d4c",
+      "days_old": 0
+    },
+    {
+      "title": "Analyst, Applied Validations @ Simile",
+      "company": "Simile",
+      "location": "N/A",
+      "description": "",
+      "url": "https://jobs.ashbyhq.com/simile/07973a24-ee38-43f1-bf12-6dd79ffd87fc",
+      "source": "ashby",
+      "posted_date": "2026-11-24T19:10:33.186992",
+      "scraped_at": "2026-11-24T19:10:33.187000",
+      "search_snippet": "Customer-Facing Technical Work: Experience in applied data science, technical consulting, or presenting analytical findings to customers. Compensation & ...",
+      "search_title": "Analyst, Applied Validations @ Simile",
+      "ai_analysis": {
+        "fit_score": 0,
+        "category": "Unknown",
+        "justification": "Analysis failed",
+        "positioning_advice": "Could not analyze this job"
+      },
+      "sustainability_analysis": {
+        "fit_score": 0,
+        "category": "Unknown",
+        "justification": "Analysis failed",
+        "positioning_advice": "Could not analyze this job"
+      },
+      "job_id": "237f72209983227d",
       "days_old": 0
     }
   ],
   "metadata": {
     "profile": "kartikey",
     "profile_display_name": "Kartikey",
-    "run_timestamp": "2026-11-21T15:42:57.510800",
+    "run_timestamp": "2026-11-24T19:09:43.410476",
     "trigger_type": "schedule",
-    "total_searched": 2,
-    "new_jobs_found": 2,
-    "jobs_analyzed": 2,
+    "total_searched": 10,
+    "new_jobs_found": 10,
+    "jobs_analyzed": 10,
     "jobs_skipped": 0,
     "jobs_location_filtered": 0
   }
