@@ -6564,7 +6564,7 @@
       "url": "https://jobs.ashbyhq.com/socure/fed81553-3054-4e81-8d9a-d5e5b3d2702c",
       "title": "Lead Program Manager, AI & Work Transformation @ Socure",
       "company": "Socure",
-      "first_seen": "2026-11-24T19:10:33.188359",
+      "first_seen": "2026-11-28T16:28:46.092539",
       "ai_fit_score": 0,
       "sustainability_fit_score": 0
     },
@@ -6588,7 +6588,7 @@
       "url": "https://jobs.ashbyhq.com/databook/c813375a-de86-40d6-bb63-f7602f38060e",
       "title": "Director, AI Product Development @ Databook Labs, Inc.",
       "company": "Databook",
-      "first_seen": "2026-11-24T19:10:33.188727",
+      "first_seen": "2026-11-28T16:28:46.091756",
       "ai_fit_score": 0,
       "sustainability_fit_score": 0
     },
@@ -6644,7 +6644,7 @@
       "url": "https://jobs.ashbyhq.com/exa/fd65f37b-2111-4512-bb4b-3a211d487321",
       "title": "Product Manager, Agentic Search @ Exa",
       "company": "Exa",
-      "first_seen": "2026-11-24T19:10:33.187993",
+      "first_seen": "2026-11-28T16:28:46.091541",
       "ai_fit_score": 0,
       "sustainability_fit_score": 0
     },
@@ -6652,7 +6652,7 @@
       "url": "https://jobs.ashbyhq.com/benchling/89a58a83-82ee-4d9f-8d9d-a8056af04531",
       "title": "AI GTM Specialist, Model Hub @ Benchling",
       "company": "Benchling",
-      "first_seen": "2026-11-24T19:10:33.189270",
+      "first_seen": "2026-11-28T16:28:46.091966",
       "ai_fit_score": 0,
       "sustainability_fit_score": 0
     },
@@ -6668,7 +6668,7 @@
       "url": "https://jobs.ashbyhq.com/geniusai/dae6b575-4b03-4e1d-834c-068fe5556e54",
       "title": "Senior Strategy & Operations Manager @ Genius AI",
       "company": "Geniusai",
-      "first_seen": "2026-11-24T19:10:33.189895",
+      "first_seen": "2026-11-28T16:28:46.093098",
       "ai_fit_score": 0,
       "sustainability_fit_score": 0
     },
@@ -6679,9 +6679,49 @@
       "first_seen": "2026-11-24T19:10:33.190085",
       "ai_fit_score": 0,
       "sustainability_fit_score": 0
+    },
+    "d1a3d58cb35c5070": {
+      "url": "https://boards.greenhouse.io/samsara/jobs/8300773",
+      "title": "Director, AI Product Management (GTM) - Remote - US",
+      "company": "Samsara",
+      "first_seen": "2026-11-28T16:28:46.091287",
+      "ai_fit_score": 0,
+      "sustainability_fit_score": 0
+    },
+    "9c91def620400d42": {
+      "url": "https://jobs.ashbyhq.com/n8n/e59937c7-8c6b-4023-83df-7f755accf6f7",
+      "title": "Group Product Manager - AI Experience @ n8n",
+      "company": "N8N",
+      "first_seen": "2026-11-28T16:28:46.092155",
+      "ai_fit_score": 0,
+      "sustainability_fit_score": 0
+    },
+    "a4c72d000620ff71": {
+      "url": "https://jobs.ashbyhq.com/hippocratic%20ai/d7077817-c661-4b08-a78a-a8fa602265a5",
+      "title": "Technical Program Manager - Frontier AI Data Labeling",
+      "company": "Hippocratic%20Ai",
+      "first_seen": "2026-11-28T16:28:46.092337",
+      "ai_fit_score": 0,
+      "sustainability_fit_score": 0
+    },
+    "70e178768c852cf4": {
+      "url": "https://jobs.ashbyhq.com/baseten/9120b805-9b3a-45eb-ba05-9b6890877472",
+      "title": "Revenue Strategy & Operations (AI Natives, AI Strategics ...",
+      "company": "Baseten",
+      "first_seen": "2026-11-28T16:28:46.092736",
+      "ai_fit_score": 0,
+      "sustainability_fit_score": 0
+    },
+    "158c85a051f21576": {
+      "url": "https://jobs.ashbyhq.com/silnahealth.com/61222b3c-70fd-4e80-8903-468d96070833",
+      "title": "AI Deployment Analyst @ Silna Health",
+      "company": "Silnahealth.Com",
+      "first_seen": "2026-11-28T16:28:46.092919",
+      "ai_fit_score": 0,
+      "sustainability_fit_score": 0
     }
   },
-  "last_updated": "2026-11-24T19:10:33.191602",
+  "last_updated": "2026-11-28T16:28:46.094266",
   "metadata": {
     "version": "1.0",
     "description": "Tracks jobs that have been analyzed to avoid duplicates"
